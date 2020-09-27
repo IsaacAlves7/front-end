@@ -6,14 +6,24 @@
 	<title>Mídia no HTML</title>
 </head>
 <body>
-	<img src="/assets/HTML5 and CSS3 programming with bonus = JS + PHP + MySQL/assets/public/images/jpg.jpg" alt="jpg" type="image/jpeg" title="jpg-image" height="300">
-	<img src="/assets/HTML5 and CSS3 programming with bonus = JS + PHP + MySQL/assets/public/images/png.png" alt="png" type="image/png" title="png-image" height="300">
+	<!-- O elemento <img> exibe a imagem; O atributo src="" indica o endereço e o tipo da imagem; O atributo alt="" é mostrado caso a imagem não possa ser exibida; 
+		 O atributo type="" serve para identificar o tipo do arquivo; O atributo title="" serve para definir o título do elemento na página; 
+		 E os atributos width e height para definir a altura e largura do elemento. -->
+	<img src="/assets/HTML5 and CSS3 programming with bonus = JS + PHP + MySQL/assets/public/images/jpg.jpg" alt=".html .css .js" type="image/jpeg" title="jpg-image" height="300">
+	<img src="/assets/HTML5 and CSS3 programming with bonus = JS + PHP + MySQL/assets/public/images/png.png" alt="image-png" type="image/png" title="png-image" height="300">
 	<img src="/assets/HTML5 and CSS3 programming with bonus = JS + PHP + MySQL/assets/public/images/svg.svg" alt="svg" type="image/svg" title="svg-image" height="300">
+	<!-- O elemento <audio> -->
 	<audio controls>
 		<source src="/assets/HTML5 and CSS3 programming with bonus = JS + PHP + MySQL/assets/public/audios/audio.mp3" type="audio/mp3">
 	</audio>
 	<video width="320" height="240" controls>
 		<source src="/assets/HTML5 and CSS3 programming with bonus = JS + PHP + MySQL/assets/public/videos/video.mp4" type="video/mp4">
 	</video>
+
+	<figure> <!--Este elemento permite definir logicamente as informações de uma imagem. Trabalha com <figcaption> e <img>-->
+		<!-- O elemento <figcaption> permite dar um título a uma imagem -->
+		<figcaption>Foto de HTML Semântico</figcaption>
+		<img src="/assets/HTML5 and CSS3 programming with bonus = JS + PHP + MySQL/assets/public/images/image.jpg" alt="">
+	</figure>
 </body>
 </html>
