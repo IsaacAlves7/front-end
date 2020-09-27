@@ -1,37 +1,33 @@
-/* -------- O que é CSS? ----------
+/* >>>>>>>>> O que é CSS? <<<<<<<<<<<<
 
 Folhas de Estilo em Cascata , em inglês Cascading Style Sheets(CSS), é uma "folha de estilo" composta por "camadas" e utilizada para definir a apresentação (aparência) 
 em páginas da internet que adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML). O CSS define como serão exibidos os elementos contidos no código 
-de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
+de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.*//* 
 
-*/
-
-/* ------- O que são Seletores? ----------
+--------- O que são Seletores? ----------
 
 a, p, h1, h3{ -----> Seletores
     color: blue; ------> Declaração
     font-size: 14px; ------> Declaração
 }    
 
-Obs: Quando os seletores estão entre vírgulas é porque eles estão sendo editados na mesma regra. Já no caso se conter espaço é para editar um seletor de frente até o último.
+Obs: Quando os seletores estão entre vírgulas é porque eles estão sendo editados na mesma regra. Já no caso se conter espaço é para editar um seletor de frente até o último.*//* 
 
-*/
-
-
-
-/* ID vs CLASS no CSS
+######### ID vs CLASS no CSS ...........
 
 id="id" ----> #id{}
 class="class" ----> .class{}
 
-Obs: Os id's são definidos com o hashtag (#) e as classes definidas com ponto (.). O id só pode ser usado uma vez na página.
+Obs: Os id's são definidos com o hashtag (#) e as classes definidas com ponto (.). O id só pode ser usado uma vez na página.*//* 
 
-*/
+------------[ Box model ]------------- 
 
+1. margin - São os espaçamentos entre elementos.
+2. border - Circulam o padding e o conteúdo, dá para alterar a largura e cor.
+3. padding - Espaçamento entre a borda e o conteúdo.
+4. content - O elemento HTML. *//*
 
-
-
-/* Padrão de WebDesign */
+------- Padrão de WebDesign -------- */
 
 *{
     margin: 0;
@@ -39,7 +35,7 @@ Obs: Os id's são definidos com o hashtag (#) e as classes definidas com ponto (
     box-sizing: border-box;
 }
 
-/* Definindo cores no h1 */
+/* ----- Definindo cores no h1 ----- */
 
 h1{
     color: black; /*Color name*/
