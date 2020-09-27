@@ -27,7 +27,7 @@ Obs: Os id's são definidos com o hashtag (#) e as classes definidas com ponto (
 3. padding - Espaçamento entre a borda e o conteúdo.
 4. content - O elemento HTML. *//*
 
-------- Padrão de WebDesign -------- */
+--------- Padrão de WebDesign -------- */
 
 *{
     margin: 0;
@@ -41,4 +41,5 @@ h1{
     color: black; /*Color name*/
     color: #000; /*Hexadecimal*/
     color: rgb(0, 0, 0); /*RGB*/
+    border: ;
 }
