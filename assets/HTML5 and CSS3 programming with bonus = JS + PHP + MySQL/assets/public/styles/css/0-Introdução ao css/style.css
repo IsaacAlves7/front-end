@@ -6,11 +6,30 @@ de uma página da internet e sua maior vantagem é efetuar a separação entre o
 
 */
 
-/*--------- O que são Seletores? ----------
+/* ------- O que são Seletores? ----------
 
+a, p, h1, h3{ -----> Seletores
+    color: blue; ------> Declaração
+    font-size: 14px; ------> Declaração
+}    
 
+Obs: Quando os seletores estão entre vírgulas é porque eles estão sendo editados na mesma regra. Já no caso se conter espaço é para editar um seletor de frente até o último.
 
 */
+
+
+
+/* ID vs CLASS no CSS
+
+id="id" ----> #id{}
+class="class" ----> .class{}
+
+Obs: Os id's são definidos com o hashtag (#) e as classes definidas com ponto (.). O id só pode ser usado uma vez na página.
+
+*/
+
+
+
 
 /* Padrão de WebDesign */
 
