@@ -38,7 +38,7 @@
 <p>In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee.</p>
 
 ### HTML Chronology
-<p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) ficou estacionado na versão 4. De lá pra cá, a W3C esteve focada em linguagens como
+<p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) ficou estacionado na versão 4. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como
 <b>XML</b> (Extensible Markup Language) e  <b>SVG</b> (Scalable Vector Graphics o uso de gráficos vetoriais em navegadores). Enquanto isso, desenvolvedores de navegadores estiveram preocupados 
 em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se
 uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
