@@ -9,7 +9,9 @@
   <li>HTML5 - HyperText Markup Language 5.</li>
   <li>CSS3 - Cascading Style Sheet 3.</li>
   <li>Semantic HTML.</li>
-  <li></li>
+  <li>TAGs HTML.</li>
+  <li>CDN.</li>
+  <li>Google Fonts.</li>
   <li>Selectors and Declarations CSS3.</li>
   <li>HTML5 + CSS3.</li>
   <li>Tables.</li>
