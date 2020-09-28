@@ -46,7 +46,7 @@ uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 <div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
 <p></p>
 
-### 7. Box Model
+### Box Model
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png"/></div><p>The <b>Box Model</b> is a </p><br><div align="center"><img src="https://www.csssolid.com/images/box-model/css-box-model.png"/></div>
 
 ## 6. Semantic HTML5 
