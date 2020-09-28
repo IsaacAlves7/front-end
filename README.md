@@ -3,7 +3,7 @@
 <p>📝🌐 It's a repository of HTML5 and CSS3 programming, with static web pages.</p>
 
 ## HTML5 Semântico
-<img src="https://danieldigital.com.br/wp-content/uploads/2019/06/html5-tags-semanticas-estrutura-site-seo.jpg" width="1000"/>
+<img src="https://danieldigital.com.br/wp-content/uploads/2019/06/html5-tags-semanticas-estrutura-site-seo.jpg"/>
 <p>📝🌐 It's a repository of HTML5 and CSS3 programming, with static web pages.</p>
 
 ## CSS3
