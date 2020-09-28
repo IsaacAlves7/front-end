@@ -54,10 +54,6 @@ uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 ## 4. TAGs HTML
 <p></p>
 
-## 5. CSS3 - Cascading Style Sheet 3
-<div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
-<p></p>
-
 ### Box Model
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png"/></div><p>The <b>Box Model</b> is a </p><br><div align="center"><img src="https://www.csssolid.com/images/box-model/css-box-model.png"/></div>
 
@@ -66,10 +62,10 @@ uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 <p></p>
 <div align="center"><img src="https://almosthumor.files.wordpress.com/2011/09/html5demo1.jpg"/></div>
 
-## Flexbox Layout
-<div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/><img src="https://www.chiefofdesign.com.br/wp-content/uploads/2017/11/flexbox-css.png"></div><br>
-<p>The</p>
-
 ## Responsive Layout
 <img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/>
+<p>The</p>
+
+## Flexbox Layout
+<div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/><img src="https://boluda.com/files/curso-flexbox.jpg"></div><br>
 <p>The</p>
