@@ -15,37 +15,24 @@
 </ol>
 
 ## 1. The History of Internet
-
+<p></p>
 
 ## 2. Client and Server
+<p></p>
 
 ## 3. HTML5 - Hypertext Makup Language 5
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/></div><br>
 <p>In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee.</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Cronologia HTML
 
 
 ## 4. TAGs HTML
+<p></p>
 
 ## 5. CSS3 - Cascading Style Sheet 3
 <div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
-<p>📝🌐 It's a repository of HTML5 and CSS3 programming, with static web pages.</p>
+<p></p>
 
 ## 6. Semantic HTML5 
 <img src="https://danieldigital.com.br/wp-content/uploads/2019/06/html5-tags-semanticas-estrutura-site-seo.jpg"/>
