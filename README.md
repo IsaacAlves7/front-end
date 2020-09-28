@@ -67,7 +67,7 @@ uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 <div align="center"><img src="https://almosthumor.files.wordpress.com/2011/09/html5demo1.jpg"/></div>
 
 ## Flexbox Layout
-<img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/><br>
+<div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/><img src="https://www.chiefofdesign.com.br/wp-content/uploads/2017/11/flexbox-css.png"></div><br>
 <p>The</p>
 
 ## Responsive Layout
