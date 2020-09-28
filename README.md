@@ -65,3 +65,7 @@ uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/><img src="https://www.w3schools.com/html/img_sem_elements.gif"/></div>
 <p></p>
 <div align="center"><img src="https://almosthumor.files.wordpress.com/2011/09/html5demo1.jpg"/></div>
+
+## Flexbox Layout
+<div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png"/></div>
+<p>The</p>
