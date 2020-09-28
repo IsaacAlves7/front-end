@@ -43,7 +43,7 @@ uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 <p></p>
 
 ## 6. Semantic HTML5 
-<img src="https://www.w3schools.com/html/img_sem_elements.gif"/>
+<div align="center"><img src="https://www.w3schools.com/html/img_sem_elements.gif"/></div>
 <p></p>
 <img src="https://almosthumor.files.wordpress.com/2011/09/html5demo1.jpg"/>
 
