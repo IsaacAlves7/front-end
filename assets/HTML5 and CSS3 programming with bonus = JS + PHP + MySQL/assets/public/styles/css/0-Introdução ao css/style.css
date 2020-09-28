@@ -41,6 +41,12 @@ h1{
     color: black; /*Color name*/
     color: #000; /*Hexadecimal*/
     color: rgb(0, 0, 0); /*RGB*/
+
+/* ------- ([{ Borders }]) -------
+    *  
+    * 
+    * 
+*/
     border: ;
 }
 
