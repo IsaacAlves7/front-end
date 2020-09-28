@@ -52,7 +52,7 @@ uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 <p>The <b>Document Object Model</b> is a convenção multiplataforma e independente de linguagem para representação e interação com
   objetos em documentos <b>HTML</b>, <b>XHTML</b> e <b>XML</b>.
 
-Os nós de cada documento são organizados em uma estrutura de árvore, chamada de árvore <b>DOM</b>.</p>
+The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
 
 ## 4. TAGs HTML
 <p></p>
