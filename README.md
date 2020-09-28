@@ -69,3 +69,7 @@ uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 ## Flexbox Layout
 <div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png"/></div>
 <p>The</p>
+
+## Responsive Layout
+<div align="center"><img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/></div>
+<p>The</p>
