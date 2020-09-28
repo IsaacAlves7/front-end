@@ -6,12 +6,12 @@
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/></div>
 <p>📝🌐 It's a repository of HTML5 and CSS3 programming, with static web pages.</p>
 
-## HTML5 Semântico
-<img src="https://danieldigital.com.br/wp-content/uploads/2019/06/html5-tags-semanticas-estrutura-site-seo.jpg"/>
+## CSS3 - Cascading Style Sheet 3
+<div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
 <p>📝🌐 It's a repository of HTML5 and CSS3 programming, with static web pages.</p>
 
-## CSS3
-<img src="https://www.isbrasil.info/blog/_images/blog/destaques/2018/05/28/html-x-css-afinal-quais-sao-as-diferencas_1b35feb55a5e269746bc6bc148337033.jpg"/>
+## HTML5 Semântico
+<img src="https://danieldigital.com.br/wp-content/uploads/2019/06/html5-tags-semanticas-estrutura-site-seo.jpg"/>
 <p>📝🌐 It's a repository of HTML5 and CSS3 programming, with static web pages.</p>
 
 ### Box Model
