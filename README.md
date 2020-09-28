@@ -49,8 +49,7 @@ uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 
 ## DOM - Document Object Model
 <div align="center"><img src="https://www.kirupa.com/html5/images/DOM_js_72.png"/></div>
-<p>The <b>Document Object Model</b> is a convenção multiplataforma e independente de linguagem para representação e interação com
-  objetos em documentos <b>HTML</b>, <b>XHTML</b> e <b>XML</b>.
+<p>The <b>Document Object Model</b> is a multiplataform convenction and independent of linguage for representation and interation with objects in documents <b>HTML</b>, <b>XHTML</b> e <b>XML</b>.
 
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
 
