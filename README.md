@@ -67,5 +67,5 @@ uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 <p>The</p>
 
 ## Flexbox Layout
-<div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/><img src="https://boluda.com/files/curso-flexbox.jpg"></div><br>
+<div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/><img src="https://boluda.com/files/curso-flexbox.jpg" width="200"></div><br>
 <p>The</p>
