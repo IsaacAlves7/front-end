@@ -35,8 +35,9 @@
 <p></p>
 
 ## 6. Semantic HTML5 
-<img src="https://www.w3schools.com/html/img_sem_elements.gif"/><img src="https://almosthumor.files.wordpress.com/2011/09/html5demo1.jpg"/>
+<img src="https://www.w3schools.com/html/img_sem_elements.gif"/>
 <p></p>
+<img src="https://almosthumor.files.wordpress.com/2011/09/html5demo1.jpg"/>
 
 ## 7. Box Model
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png"/></div><p>📝🌐 It's a repository of HTML5 and CSS3 programming, with static web pages.</p><img src="https://www.csssolid.com/images/box-model/css-box-model.png"/>
