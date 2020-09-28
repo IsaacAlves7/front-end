@@ -6,13 +6,11 @@
   <li>The History of Internet.</li>
   <li>Client and Server.</li>
   <li>What's the HTML5?</li>
-  <li>TAGs HTML.</li>
+  <li>All TAGs HTML.</li>
   <li>Semantic HTML.</li>
   <li>What's the CSS3?</li>
-  <li>Selectors and Declarations CSS3.</li>
-  <li>Box Model.</li>
+  <li>All Selectors and Declarations CSS3.</li>
   <li>HTML5 + CSS3.</li>
-  <li>Divs - HTML3 + CSS3.</li>
   <li>What's the DOM?</li>
 </ol>
 
