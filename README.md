@@ -17,7 +17,7 @@
 <div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
 <p>📝🌐 It's a repository of HTML5 and CSS3 programming, with static web pages.</p>
 
-## HTML5 Semântico
+## Semantic HTML5 
 <img src="https://danieldigital.com.br/wp-content/uploads/2019/06/html5-tags-semanticas-estrutura-site-seo.jpg"/>
 <p>📝🌐 It's a repository of HTML5 and CSS3 programming, with static web pages.</p>
 
