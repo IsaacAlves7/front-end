@@ -5,12 +5,14 @@
   <li>The History of the Internet.</li>
   <li>Client and Server.</li>
   <li>What's the HTML5?</li>
+  <li>TAGs HTML.</li>
   <li>What's the CSS3?</li>
+  <li>Selectors and Declarations.</li>
   <li>What's the DOM?</li>
   <li>HTML5 + CSS3.</li>
   <li>Semantic HTML.</li>
   <li>Box Model.</li>
-  <li>Divs.</li>
+  <li>Divs - HTML3 + CSS3.</li>
 </ol>
 
 ## HTML5 - Hypertext Makup Language 5
