@@ -71,5 +71,5 @@ uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 <p>The</p>
 
 ## Responsive Layout
-<div align="center"><img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/></div>
+<img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/>
 <p>The</p>
