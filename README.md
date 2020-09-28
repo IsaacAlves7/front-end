@@ -1,4 +1,4 @@
-## It's a repository of web development with HTML5 and CSS3 with responsive layout
+# It's a repository of web development with HTML5 and CSS3
 <img src="https://www.isbrasil.info/blog/_images/blog/destaques/2018/05/28/html-x-css-afinal-quais-sao-as-diferencas_1b35feb55a5e269746bc6bc148337033.jpg" width="1000"/><br>
 <b>Topics:</b>
 <ul>
