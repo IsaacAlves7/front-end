@@ -17,6 +17,7 @@
 </ol>
 
 ## The History of Internet
+<p>Em 1990, o HTML (Linguagem de Marcação de Hipertexto/ HyperText Markup Language) foi fundado por Tim Bernes-Lee.</p>
 
 ## Client and Server
 
