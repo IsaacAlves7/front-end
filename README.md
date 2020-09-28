@@ -11,10 +11,12 @@
   <li>CSS3 - Cascading Style Sheet 3.</li>
   <li>Selectors and Declarations CSS3.</li>
   <li>HTML5 + CSS3.</li>
-  <li>Iframe</li>
-  <li>Map</li>
-  <li>SVG</li>
-  <li>HTML Canvas</li>
+  <li>Tables.</li>
+  <li>HTML5 Forms.</li>
+  <li>Iframe.</li>
+  <li>Map.</li>
+  <li>SVG.</li>
+  <li>HTML Canvas.</li>
 </ol>
 
 ## 1. The History of Internet
