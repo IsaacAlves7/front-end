@@ -5,10 +5,10 @@
 <ol>
   <li>The History of Internet.</li>
   <li>Client and Server.</li>
-  <li>What's the HTML5?</li>
+  <li>HTML5 - HyperText Markup Language.</li>
   <li>All TAGs HTML.</li>
   <li>Semantic HTML.</li>
-  <li>What's the CSS3?</li>
+  <li>CSS3 - Cascading Style Sheet.</li>
   <li>All Selectors and Declarations CSS3.</li>
   <li>HTML5 + CSS3.</li>
   <li>What's the DOM?</li>
