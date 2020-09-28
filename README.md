@@ -71,3 +71,8 @@ The nós de cada documento são organizados em in tree structure, is called of <
 ## Flexbox Layout
 <div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/><img src="https://boluda.com/files/curso-flexbox.jpg" width="400"></div><br>
 <p>The</p>
+
+## Grid Layout
+<div align="center"><img src="https://www.w3schools.com/css/grid_lines.png" height="200"/><img src="" width="400"></div><br>
+<p>The</p>
+
