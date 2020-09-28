@@ -8,7 +8,7 @@
   <li>TAGs HTML.</li>
   <li>Semantic HTML.</li>
   <li>What's the CSS3?</li>
-  <li>Selectors and Declarations.</li>
+  <li>Selectors and Declarations CSS3.</li>
   <li>Box Model.</li>
   <li>HTML5 + CSS3.</li>
   <li>Divs - HTML3 + CSS3.</li>
