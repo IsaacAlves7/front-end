@@ -6,6 +6,8 @@
   <li>Client and Server.</li>
   <li>What's the HTML5?</li>
   <li>What's the CSS3?</li>
+  <li>What's the DOM?</li>
+  <li>HTML5 + CSS3.</li>
   <li>Semantic HTML.</li>
 </ul>
 
