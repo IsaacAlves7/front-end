@@ -1,6 +1,6 @@
 # It's a repository of web development with HTML5 and CSS3
 <p>I created this repository for my Web Development learning using HTML5 and CSS3.</p>
-<img src="https://www.isbrasil.info/blog/_images/blog/destaques/2018/05/28/html-x-css-afinal-quais-sao-as-diferencas_1b35feb55a5e269746bc6bc148337033.jpg" width="1000"/>
+<img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
 <b>Topics:</b>
 <ol>
   <li>The History of Internet.</li>
