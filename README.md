@@ -49,7 +49,7 @@ uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 
 ## DOM - Document Object Model
 <div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
-<p>The Document Object Model is a convenção multiplataforma e independente de linguagem para representação e interação com
+<p>The <b>Document Object Model</b> is a convenção multiplataforma e independente de linguagem para representação e interação com
   objetos em documentos <b>HTML</b>, <b>XHTML</b> e <b>XML</b>.
 
 Os nós de cada documento são organizados em uma estrutura de árvore, chamada de árvore <b>DOM</b>.</p>
