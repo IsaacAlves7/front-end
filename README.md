@@ -48,7 +48,7 @@ uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 <img src="https://almosthumor.files.wordpress.com/2011/09/html5demo1.jpg"/>
 
 ## 7. Box Model
-<div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png"/></div><p>The <b>Box Model</b> is a </p> <div align="center"><img src="https://www.csssolid.com/images/box-model/css-box-model.png"/></div>
+<div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png"/></div><p>The <b>Box Model</b> is a </p><br><div align="center"><img src="https://www.csssolid.com/images/box-model/css-box-model.png"/></div>
 
 ## 8. DOM
 <img src="https://www.isbrasil.info/blog/_images/blog/destaques/2018/05/28/html-x-css-afinal-quais-sao-as-diferencas_1b35feb55a5e269746bc6bc148337033.jpg"/>
