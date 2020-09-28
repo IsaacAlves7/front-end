@@ -9,6 +9,8 @@
   <li>What's the DOM?</li>
   <li>HTML5 + CSS3.</li>
   <li>Semantic HTML.</li>
+  <li>Box Model.</li>
+  <li>Divs.</li>
 </ol>
 
 ## HTML5 - Hypertext Makup Language 5
