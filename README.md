@@ -1,7 +1,7 @@
 # It's a repository of web development with HTML5 and CSS3
 <p>I created this repository for my Web Development learning using HTML5 and CSS3.</p>
 <img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
-<b>Topics:</b>
+<b>All Topics:</b>
 <ol>
   <li>The History of Internet.</li>
   <li>Client and Server.</li>
