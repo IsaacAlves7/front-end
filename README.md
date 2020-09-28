@@ -17,13 +17,13 @@
 </ol>
 
 ## The History of Internet
-<p>Em 1990, o HTML (Linguagem de Marcação de Hipertexto/ HyperText Markup Language) foi fundado por Tim Bernes-Lee.</p>
+
 
 ## Client and Server
 
 ## HTML5 - Hypertext Makup Language 5
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/></div>
-<p></p>
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/></div><br>
+<p>Em 1990, o HTML (Linguagem de Marcação de Hipertexto/ HyperText Markup Language) foi fundado por Tim Bernes-Lee.</p>
 
 ## TAGs HTML
 
