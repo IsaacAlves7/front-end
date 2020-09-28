@@ -35,7 +35,7 @@
 <p></p>
 
 ## 6. Semantic HTML5 
-<img src="https://danieldigital.com.br/wp-content/uploads/2019/06/html5-tags-semanticas-estrutura-site-seo.jpg"/>
+<img src="https://www.w3schools.com/html/img_sem_elements.gif"/>
 <p>📝🌐 It's a repository of HTML5 and CSS3 programming, with static web pages.</p>
 
 ## 7. Box Model
