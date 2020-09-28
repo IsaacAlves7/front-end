@@ -1,4 +1,5 @@
 # It's a repository of web development with HTML5 and CSS3
+<p>I created this repository for my web develpment using HTML5 and CSS3 for Scratch.</p>
 <img src="https://www.isbrasil.info/blog/_images/blog/destaques/2018/05/28/html-x-css-afinal-quais-sao-as-diferencas_1b35feb55a5e269746bc6bc148337033.jpg" width="1000"/><br>
 <b>Topics:</b>
 <ol>
