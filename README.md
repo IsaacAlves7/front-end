@@ -96,7 +96,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
 
 ## Box Model
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><br>
-<p>The <b>Box Model</b> is a elemento HTML que o navegador define para cada elemento da página.</p>
+<p>The <b>Box Model</b> is a model that the browser define for each element of page.</p>
 <ol>
 <li><b>position</b> - São as posições dos elementos.</li>
 <li><b>margin</b> - São os espaçamentos entre elementos.</li>
