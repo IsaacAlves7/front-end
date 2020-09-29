@@ -26,11 +26,10 @@
   <li>HTML Canvas.</li>
 </ol>
 
-## 1. The History of Internet
-<p></p>
 
-## 2. Client and Server
-<p></p>
+<div align="center"><h1>1. The History of Internet</h1></div>
+
+<div align="center"><h1>2. Client and Server</h1></div>
 
 <div align="center"><h1>3. HTML5 and CSS3</h1></div>
 
