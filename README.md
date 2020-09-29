@@ -36,7 +36,7 @@
 <div align="center"><h1>2. Client-side and Server-side</h1></div>
 <div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div>
 
-<div align="center"><h1>3. HTML5 and CSS3</h1></div>
+<div align="center"><h1>3. HTML5 and CSS3</h1></div><br>
 <div align="center"><img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" height="200"/></div>
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (Extensible Markup Language) and  <b>SVG</b> (Scalable Vector Graphics, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 
