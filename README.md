@@ -94,10 +94,10 @@ The nós de cada documento são organizados em in tree structure, is called of <
 
 ## Box Model
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><p>The <b>Box Model</b> is a elemento HTML que o navegador define para cada elemento da página.</p>
-<li>margin - São os espaçamentos entre elementos.</li>
-  <li>border - Circulam o padding e o conteúdo, dá para alterar a largura e cor.</li>
-  <li>padding - Espaçamento entre a borda e o conteúdo.</li>
- <li>content - O elemento HTML.</li>
+<li><b>margin</b> - São os espaçamentos entre elementos.</li>
+  <li><b>border</b> - Circulam o padding e o conteúdo, dá para alterar a largura e cor.</li>
+  <li><b>padding</b> - Espaçamento entre a borda e o conteúdo.</li>
+ <li><b>content</b> - O elemento HTML.</li>
 
 <div align="center"><h1>6. Semantic HTML5</h1></div>
 
