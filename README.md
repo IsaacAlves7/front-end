@@ -108,7 +108,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
   <li><b>top</b>: Up position</li>
   <li><b>left</b>: Left position</li>
   <li><b>right</b>: Right position</li>
-  <li><b>bottom</b>: Bottom position</li>
+  <li><b>bottom</b>: Down position</li>
 </ul>
 
 <div align="center"><h1>6. Semantic HTML5</h1></div>
