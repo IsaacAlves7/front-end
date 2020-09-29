@@ -32,7 +32,7 @@
 ## 2. Client and Server
 <p></p>
 
-# 3. HTML5 and CSS3
+<div align="center"><h1>3. HTML5 and CSS3</h1></div>
 
 ## HTML5 - Hypertext Makup Language 5
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/></div><br>
