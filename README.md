@@ -32,7 +32,7 @@
 <p>The <b>Internet</b> surgiu na Guerra Fria e com o acúmulo de conhecimentos adquiridos em funções estratégicas.</p>
 
 <div align="center"><h1>2. Client-side and Server-side</h1></div>
-<img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/>
+<div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div>
 
 <div align="center"><h1>3. HTML5 and CSS3</h1></div>
 
