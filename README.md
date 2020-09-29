@@ -37,7 +37,7 @@
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/></div><br>
 <p>In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee.</p>
 
-### HTML Chronology
+### HTML Timeline
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) ficou estacionado na versão 4. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como
 <b>XML</b> (Extensible Markup Language) e  <b>SVG</b> (Scalable Vector Graphics o uso de gráficos vetoriais em navegadores). Enquanto isso, desenvolvedores de navegadores estiveram preocupados 
 em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se
