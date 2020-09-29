@@ -59,7 +59,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="250"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><p>The <b>Box Model</b> is a </p><br>
 
 ## 6. Semantic HTML5 
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="250"/><img src="https://www.w3schools.com/html/img_sem_elements.gif"/></div>
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="260"/><img src="https://www.w3schools.com/html/img_sem_elements.gif"/></div>
 <p></p>
 
 ## Responsive Layout
