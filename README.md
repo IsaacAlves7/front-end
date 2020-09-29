@@ -28,7 +28,6 @@
   <li>HTML Canvas.</li>
 </ol>
 
-
 <div align="center"><h1>1. The History of Internet</h1></div>
 <img src="https://img.ibxk.com.br/2020/06/29/29100837408091.jpg?w=1120&h=420&mode=crop&scale=both"/>
 <p>The <b>Internet</b> started on Cold War and with the accumulation of knowledge adquiridos in strategy functions.</p>
@@ -77,8 +76,13 @@ de uma página da internet e sua maior vantagem é efetuar a separação entre o
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
 
 <div align="center"><h1>4. TAGs HTML</h1></div>
+<p></p>
+<pre>
+ <code>&lt;h1&gt;&lt;/h1&gt;</code>
+</pre>
 
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
+
 
 ## Box Model
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><p>The <b>Box Model</b> is a elemento HTML que o navegador define para cada elemento da página.</p>
