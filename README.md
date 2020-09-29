@@ -6,8 +6,7 @@
 <ol>
   <li>The History of Internet.</li>
   <li>The Client and Server.</li>
-  <li>HTML5 - HyperText Markup Language 5.</li>
-  <li>CSS3 - Cascading Style Sheets 3.</li>
+  <li>HTML5 - HyperText Markup Language 5/ CSS3 - Cascading Style Sheets 3.</li>
   <li>Semantic HTML.</li>
   <li>TAGs HTML.</li>
   <li>CDN.</li>
