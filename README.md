@@ -1,4 +1,4 @@
-# It's a repository of Web Development with HTML5 & CSS3 for Learning
+# It's a repository of HTML5 & CSS3 for Web-Dev learning
 <p>I created this repository for my Web Development learning using HTML5 and CSS3.</p>
 <img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
 <b>All Topics:</b>
