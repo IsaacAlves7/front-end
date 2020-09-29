@@ -43,7 +43,7 @@
 
 ## CSS3 - Cascading Style Sheets 3
 <div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
-<p>CSS (<i>Cascading Style Sheets</i>), is a "Style sheets" composta for "camadas" and used to define the presentation (aparence) in internet pages that adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML). O CSS define como serão exibidos os elementos contidos no código 
+<p><b>CSS</b> (<i>Cascading Style Sheets</i>), is a "Style sheets" composta for "camadas" and used to define the presentation (aparence) in internet pages that adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML). O CSS define como serão exibidos os elementos contidos no código 
 de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.</p>
 
 ## DOM - Document Object Model
