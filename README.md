@@ -7,7 +7,7 @@
   <li>The History of Internet.</li>
   <li>The Client and Server.</li>
   <li>HTML5 - HyperText Markup Language 5.</li>
-  <li>CSS3 - Cascading Style Sheet 3.</li>
+  <li>CSS3 - Cascading Style Sheets 3.</li>
   <li>Semantic HTML.</li>
   <li>TAGs HTML.</li>
   <li>CDN.</li>
@@ -41,9 +41,11 @@
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) ficou estacionado na versão 4. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como
 <b>XML</b> (Extensible Markup Language) and  <b>SVG</b> (Scalable Vector Graphics, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 
-## CSS3 - Cascading Style Sheet 3
+## CSS3 - Cascading Style Sheets 3
 <div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
-<p></p>
+<p>CSS (Cascading Style Sheets), é uma "folha de estilo" composta por "camadas" e utilizada para definir a apresentação (aparência) 
+em páginas da internet que adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML). O CSS define como serão exibidos os elementos contidos no código 
+de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.</p>
 
 ## DOM - Document Object Model
 <div align="center"><img src="https://www.kirupa.com/html5/images/DOM_js_72.png"/></div><br>
