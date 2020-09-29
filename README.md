@@ -78,6 +78,8 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <div align="center"><h1>4. TAGs HTML</h1></div>
 
 ## Text TAGs
+
+### TAGs de Título
 <p></p>
 <pre>
  <code>&lt;h1&gt;&lt;/h1&gt;</code>
