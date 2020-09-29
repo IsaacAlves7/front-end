@@ -30,7 +30,8 @@
 <div align="center"><h1>1. The History of Internet</h1></div>
 <p>The <b>Internet</b> surgiu na Guerra Fria e com o acúmulo de conhecimentos adquiridos em funções estratégicas.</p>
 
-<div align="center"><h1>2. Client and Server</h1></div>
+<div align="center"><h1>2. Client-side and Server-side</h1></div>
+<img src="https://mctechadda.files.wordpress.com/2019/12/server-side-vs-client-side-programming-795x385.png?w=795"/>
 
 <div align="center"><h1>3. HTML5 and CSS3</h1></div>
 
