@@ -55,7 +55,8 @@ de uma página da internet e sua maior vantagem é efetuar a separação entre o
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
 
 <div align="center"><h1>4. TAGs HTML</h1></div>
-<p></p>
+
+<div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
 
 ### Box Model
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><p>The <b>Box Model</b> is a </p><br>
