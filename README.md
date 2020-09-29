@@ -6,7 +6,7 @@
 <ol>
   <li>The History of Internet.</li>
   <li>The Client and Server.</li>
-  <li>HTML5 e CSS3</li>
+  <li>HTML5 and CSS3</li>
   <li>Semantic HTML.</li>
   <li>TAGs HTML.</li>
   <li>CDN.</li>
@@ -32,7 +32,9 @@
 ## 2. Client and Server
 <p></p>
 
-## 3. HTML5 - Hypertext Makup Language 5
+# 3. HTML5 and CSS3
+
+## HTML5 - Hypertext Makup Language 5
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/></div><br>
 <p>In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee.</p>
 
