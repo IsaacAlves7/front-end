@@ -48,7 +48,7 @@ de uma página da internet e sua maior vantagem é efetuar a separação entre o
 
 ## DOM - Document Object Model
 <div align="center"><img src="https://www.kirupa.com/html5/images/DOM_js_72.png"/></div><br>
-<p>The <b>DOM</b> (<i>Document Object Model</i>) is a multiplataform convention and independent of linguage for representing and interacting with objects in <b>HTML</b>, <b>XHTML</b> e <b>XML</b> documents.
+<p>The <b>DOM</b> (<i>Document Object Model</i>) is a multiplataform convention and independent of language for representing and interacting with objects in <b>HTML</b>, <b>XHTML</b> e <b>XML</b> documents.
 
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
 
