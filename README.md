@@ -47,6 +47,15 @@
   <li>Primeira especificação - 1992</li>
   <li>HTML 2.0 é publicado e é criado o JavaScript (JS)- 1995</li>
   <li>Inclusão de novos elementos e a apresentação do CSS 1 - 1996</li>
+  <li>HTML 3.2 - 1997</li>
+  <li>HTML 4 é publicado - 1998</li>
+  <li>HTML 4.01	- 1999</li>
+  <li>Norma ISO para o HTML e o XHTML 1 - 2000</li>
+  <li>HTML5 é publicado - 2008</li>
+  <li>W3C parou de trabalhar no XHTML e a desviou recursos para HTML5 - 2009</li>
+  <li>HTML5	- 2014</li>
+  <li>HTML5.1	- 2016 e 2017 (2nd ed.)</li>
+  <li>HTML5.2	- 2017/(Atualmente)</li>
 </ol>
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (Extensible Markup Language) and  <b>SVG</b> (Scalable Vector Graphics, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 
