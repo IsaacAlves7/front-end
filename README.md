@@ -52,7 +52,7 @@ de uma página da internet e sua maior vantagem é efetuar a separação entre o
 
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
 
-## 4. TAGs HTML
+<div align="center"><h1>4. TAGs HTML</h1></div>
 <p></p>
 
 ### Box Model
