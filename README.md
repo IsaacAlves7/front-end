@@ -39,9 +39,7 @@
 
 ### HTML Timeline
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) ficou estacionado na versão 4. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como
-<b>XML</b> (Extensible Markup Language) e  <b>SVG</b> (Scalable Vector Graphics o uso de gráficos vetoriais em navegadores). Enquanto isso, desenvolvedores de navegadores estiveram preocupados 
-em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se
-uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
+<b>XML</b> (Extensible Markup Language) and  <b>SVG</b> (Scalable Vector Graphics, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 
 ## CSS3 - Cascading Style Sheet 3
 <div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
