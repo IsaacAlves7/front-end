@@ -63,6 +63,7 @@
 </ol>
 <p>Em 1998, a W3C decidiu que não continuaria a evoluir o HTML. O futuro da programação para páginas de internet era o XML. Então o HTML foi congelado na versão 4.01 e uma especificação foi lançada com nome de XHTML, que era uma versão do HTML baseada no XML, exigindo regras de sintaxe como atributos com aspas, algumas tags com fechamento, enquanto outras eram autocontidas.</p>
 <p>Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava convencido que o XML era o futuro para todos os autores web. Este grupo começou a desenvolver um trabalho separado, para criar uma nova forma de utilização dos antigos códigos HTML, principalmente ligado ao uso de formulários, sem deixar de atender às determinações básicas do XML. Aquela especificação eventualmente se tornou Web Forms 2.0 e, subsequentemente, foi incorporado na especificação HTML5.</p>
+<p>Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.</p>
 
 ## CSS3 - Cascading Style Sheets 3
 <div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
