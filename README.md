@@ -44,6 +44,9 @@
 <ol>
   <li>HTML é tornado público - 1989</li>
   <li>HTML - 1991</li>
+  <li>Primeira especificação - 1992</li>
+  <li>HTML 2.0 é publicado e é criado o JavaScript (JS)- 1995</li>
+  <li>Inclusão de novos elementos e a apresentação do CSS 1 - 1996</li>
 </ol>
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (Extensible Markup Language) and  <b>SVG</b> (Scalable Vector Graphics, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 
