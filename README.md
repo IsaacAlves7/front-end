@@ -37,6 +37,7 @@
 <div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div>
 
 <div align="center"><h1>3. HTML5 and CSS3</h1></div>
+<p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (Extensible Markup Language) and  <b>SVG</b> (Scalable Vector Graphics, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 
 ## HTML5 - Hypertext Makup Language 5
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/></div><br>
@@ -59,7 +60,7 @@
   <li>HTML5.1	- 2016 e 2017 (2nd ed.)</li>
   <li>HTML5.2	- 2017/(Atualmente)</li>
 </ol>
-<p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (Extensible Markup Language) and  <b>SVG</b> (Scalable Vector Graphics, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
+<p></p>
 
 ## CSS3 - Cascading Style Sheets 3
 <div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
