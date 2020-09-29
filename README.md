@@ -103,7 +103,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
   <li><b>padding</b> - Espaçamento entre a borda e o conteúdo.</li>
   <li><b>content</b> - O elemento HTML.</li>
 </ol>
-<p>Besides that, the Box model have yours positions:<p>
+<p>Besides that, the Box model have his positions:<p>
 <ul>
   <li><b>top</b>: Up position</li>
   <li><b>left</b>: Left position</li>
