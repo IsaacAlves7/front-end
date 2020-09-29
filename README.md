@@ -38,7 +38,7 @@
 
 ## HTML5 - Hypertext Makup Language 5
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/></div><br>
-<p>In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee.</p>
+<p>In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.</p>
 
 ### HTML Timeline
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (Extensible Markup Language) and  <b>SVG</b> (Scalable Vector Graphics, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
