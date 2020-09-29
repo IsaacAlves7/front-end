@@ -28,6 +28,7 @@
 
 
 <div align="center"><h1>1. The History of Internet</h1></div>
+<p>The <b>Internet</b> surgiu na Guerra Fria e com o acúmulo de conhecimentos adquiridos em funções estratégicas.</p>
 
 <div align="center"><h1>2. Client and Server</h1></div>
 
