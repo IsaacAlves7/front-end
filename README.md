@@ -2,7 +2,7 @@
 <p>I created this repository for my Web Development learning using HTML5 and CSS3.</p>
 <img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
 
-## Introduction - Overview the HTML5 and CSS3 for Web Development
+## Introduction - Overview about the HTML5 and CSS3 for Web Development
 <b>All Topics:</b>
 
 <ol>
