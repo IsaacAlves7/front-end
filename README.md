@@ -26,6 +26,7 @@
   <li>Parallax.</li>
   <li>HTML Canvas.</li>
 </ol>
+<hr>
 
 <div align="center"><h1>1. The History of Internet</h1></div>
 <img src="https://img.ibxk.com.br/2020/06/29/29100837408091.jpg?w=1120&h=420&mode=crop&scale=both"/>
