@@ -88,6 +88,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
   <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
 <code>&lt;/head&gt;</code>
 <code>&lt;body&gt;</code>
+   <code>&lt;h1&gt;Hello, World!&lt;/h1&gt;</code>
 <code>&lt;/body&gt;</code>
 <code>&lt;/html&gt;</code>
 </pre>
