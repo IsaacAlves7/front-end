@@ -29,10 +29,12 @@
 <hr>
 
 <div align="center"><h1>1. The History of Internet</h1></div>
+
+## What's the Internet?
 <img src="https://img.ibxk.com.br/2020/06/29/29100837408091.jpg?w=1120&h=420&mode=crop&scale=both"/>
 <p>The <b>Internet</b> started on Cold War and with the accumulation of knowledge adquiridos in strategy functions.</p>
 
-## Internet Timeline
+### Internet Timeline
 <ol>
  <li></li>
 </ol>
