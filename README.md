@@ -9,12 +9,11 @@
   <li>The History of Internet.</li>
   <li>The Client and Server.</li>
   <li>HTML5 and CSS3</li>
+  <li>TAGs HTML.</li> 
   <li>Semantic HTML.</li>
-  <li>TAGs HTML.</li>
-  <li>CDN.</li>
+  <li>CDN x Pack files.</li>
   <li>Google Fonts.</li>
   <li>Selectors and Declarations CSS3.</li>
-  <li>HTML5 + CSS3.</li>
   <li>Tables.</li>
   <li>HTML5 Forms.</li>
   <li>Iframe.</li>
@@ -75,6 +74,21 @@ de uma página da internet e sua maior vantagem é efetuar a separação entre o
 <p>The <b>DOM</b> (<i>Document Object Model</i>) is a multiplataform convention and independent of language for representing and interacting with objects in <b>HTML</b>, <b>XHTML</b> e <b>XML</b> documents.
 
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
+
+## Estrutura do HTML
+
+<p>Tudo começa com a pasta assets, public e src dentro dela. </p>
+
+<pre>
+<code>&lt;!Doctype html&gt;</code>
+  <code>&lt;html&gt;</code>
+  <code>&lt;head&gt;</code>
+  <code>&lt;meta charset="utf-8"&gt;</code>
+  <code>&lt;link&gt;&lt;/h4&gt;</code>
+  <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
+  <code>&lt;h6&gt;&lt;/h6&gt;</code>
+<code>&lt;/hgroup&gt;</code>
+</pre>
 
 <div align="center"><h1>4. TAGs HTML</h1></div>
 
