@@ -81,14 +81,14 @@ The nós de cada documento são organizados em in tree structure, is called of <
 
 <pre>
 <code>&lt;!Doctype html&gt;</code>
-  <code>&lt;html&gt;</code>
-  <code>&lt;head&gt;</code>
+<code>&lt;html&gt;</code>
+<code>&lt;head&gt;</code>
   <code>&lt;meta charset="utf-8"&gt;</code>
   <code>&lt;link rel="" &gt;</code>
   <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
-  <code>&lt;/head&gt;</code>
-  <code>&lt;body&gt;</code>
-  <code>&lt;/body&gt;</code>
+<code>&lt;/head&gt;</code>
+<code>&lt;body&gt;</code>
+<code>&lt;/body&gt;</code>
 <code>&lt;/html&gt;</code>
 </pre>
 
@@ -157,6 +157,8 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <p></p>
 
 <div align="center"><h1>6. Responsive Layout</h1></div>
+
+## What's the Responsive Layout?
 <img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/>
 <p>The</p>
 
