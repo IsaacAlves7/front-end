@@ -92,16 +92,15 @@ The nós de cada documento são organizados em in tree structure, is called of <
  <code>&lt;/hgroup&gt;</code>
 </pre>
 
-### TAGs de Texto
+### TAGs para Texto
 <pre>
 <code>&lt;p&gt;&lt;/p&gt;</code>
  <code>&lt;i&gt;&lt;/i&gt;</code>
  <code>&lt;em&gt;&lt;/em&gt;</code>
  <code>&lt;b&gt;&lt;/b&gt;</code>
  <code>&lt;strong&gt;&lt;/strong&gt;</code>
- <code>&lt;h5&gt;&lt;/h5&gt;</code>
- <code>&lt;h6&gt;&lt;/h6&gt;</code>
- <code>&lt;/hgroup&gt;</code>
+ <code>&lt;br&gt;</code>
+ <code>&lt;hr&gt;</code>
 </pre>
 
 ## Media TAGs
