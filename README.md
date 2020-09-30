@@ -11,7 +11,7 @@
   <li>HTML5 and CSS3</li>
   <li>TAGs HTML.</li> 
   <li>Semantic HTML.</li>
-  <li>CDN x Pack files.</li>
+  <li>CDN x Packfiles.</li>
   <li>Google Fonts.</li>
   <li>Selectors and Declarations CSS3.</li>
   <li>Tables.</li>
