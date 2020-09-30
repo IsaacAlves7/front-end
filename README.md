@@ -83,18 +83,18 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <p></p>
 <pre>
 <code>&lt;hgroup&gt;</code>
- <code>&lt;h1&gt;&lt;/h1&gt;</code>
- <code>&lt;h2&gt;&lt;/h2&gt;</code>
- <code>&lt;h3&gt;&lt;/h3&gt;</code>
- <code>&lt;h4&gt;&lt;/h4&gt;</code>
- <code>&lt;h5&gt;&lt;/h5&gt;</code>
- <code>&lt;h6&gt;&lt;/h6&gt;</code>
- <code>&lt;/hgroup&gt;</code>
+  <code>&lt;h1&gt;&lt;/h1&gt;</code>
+  <code>&lt;h2&gt;&lt;/h2&gt;</code>
+  <code>&lt;h3&gt;&lt;/h3&gt;</code>
+  <code>&lt;h4&gt;&lt;/h4&gt;</code>
+  <code>&lt;h5&gt;&lt;/h5&gt;</code>
+  <code>&lt;h6&gt;&lt;/h6&gt;</code>
+<code>&lt;/hgroup&gt;</code>
 </pre>
 
 ### TAGs para Texto
 <pre>
-<code>&lt;p&gt;&lt;/p&gt;</code>
+ <code>&lt;p&gt;&lt;/p&gt;</code>
  <code>&lt;i&gt;&lt;/i&gt;</code>
  <code>&lt;em&gt;&lt;/em&gt;</code>
  <code>&lt;b&gt;&lt;/b&gt;</code>
