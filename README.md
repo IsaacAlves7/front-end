@@ -109,6 +109,8 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
 <pre>
  <code>h1 { color: #000; }</code>
+ <code>h2,h3,h4 { color: #ccc; }</code>
+  <code>h5 h6 { color: #cc3232; }</code>
 </pre>
 
 ## Box Model
