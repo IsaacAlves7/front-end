@@ -103,6 +103,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
  <code>&lt;pre&gt;&lt;/pre&gt;</code>
  <code>&lt;br&gt;</code>
  <code>&lt;hr&gt;</code>
+ <code>&lt;a&gt;&lt;/a&gt;</code>
 </pre>
 
 ## Media TAGs
