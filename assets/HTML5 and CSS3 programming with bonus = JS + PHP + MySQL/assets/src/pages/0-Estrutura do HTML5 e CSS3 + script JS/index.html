@@ -1,37 +1,18 @@
 <!-- Aviso: Todo o conteúdo de explicação está comentado pela tag de comentário, a parte prática estará sempre fora do comentário! Bons estudos =)
 
-Em 1990, o HTML (Linguagem de Marcação de Hipertexto/ HyperText Markup Language) foi fundado por Tim Bernes-Lee.
-
-------- Cronologia do HTML: ----------
-
-* HTML é tornado público - 1989
-* HTML - 1991
-* Primeira especificação - 1992
-* HTML 2.0 é publicado e é criado o JavaScript (JS)- 1995
-* Inclusão de novos elementos e a apresentação do CSS 1 - 1996
-* HTML 3.2 - 1997
-* HTML 4 é publicado - 1998
-* HTML 4.01	- 1999
-* Norma ISO para o HTML e o XHTML 1 - 2000
-* HTML5 é publicado - 2008
-* W3C parou de trabalhar no XHTML e a desviou recursos para HTML5 - 2009
-* HTML5	- 2014
-* HTML5.1	- 2016 e 2017 (2ª ed.)
-* HTML5.2	- 2017/(Atualmente)
-
 Desde 1999, o desenvolvimento da linguagem HTML (HyperText Markup Language) ficou estacionado na versão 4. De lá pra cá, a W3C esteve focada em linguagens como
-XML (Extensible Markup Language) e  SVG (Scalable Vector Graphics o uso de gráficos vetoriais em navegadores). Enquanto isso, desenvolvedores de navegadores estiveram preocupados 
+XML (Extensible Markup Language) e  SVG (Scalable Vector Graphics o uso de gráficos vetoriais em navegadores). Enquanto isso, desenvolvedores de navegadores estiveram preocupados
 em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se
 uniram para atualizar o HTML e implementar novos e interessantes recursos.
 
-Em 1998, a W3C decidiu que não continuaria a evoluir o HTML. O futuro da programação para páginas de internet era o XML. Então o HTML foi congelado na versão 4.01 e uma 
-especificação foi lançada com nome de XHTML, que era uma versão do HTML baseada no XML, exigindo regras de sintaxe como atributos com aspas, 
-algumas tags com fechamento, enquanto outras eram autocontidas. Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava convencido que o XML era o 
-futuro para todos os autores web. Este grupo começou a desenvolver um trabalho separado, para criar uma nova forma de utilização dos antigos códigos HTML, 
-principalmente ligado ao uso de formulários, sem deixar de atender às determinações básicas do XML. Aquela especificação eventualmente se tornou Web Forms 2.0 e, 
+Em 1998, a W3C decidiu que não continuaria a evoluir o HTML. O futuro da programação para páginas de internet era o XML. Então o HTML foi congelado na versão 4.01 e uma
+especificação foi lançada com nome de XHTML, que era uma versão do HTML baseada no XML, exigindo regras de sintaxe como atributos com aspas,
+algumas tags com fechamento, enquanto outras eram autocontidas. Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava convencido que o XML era o
+futuro para todos os autores web. Este grupo começou a desenvolver um trabalho separado, para criar uma nova forma de utilização dos antigos códigos HTML,
+principalmente ligado ao uso de formulários, sem deixar de atender às determinações básicas do XML. Aquela especificação eventualmente se tornou Web Forms 2.0 e,
 subsequentemente, foi incorporado na especificação HTML5.
 
-Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas 
+Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas
 independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.
 
 Devido a especificação HTML5 estar sendo desenvolvida tanto pela W3C quanto pela WHATWG, há diferentes versões da especificação.
@@ -42,7 +23,7 @@ Por trás do HTML5 está uma série de princípios declarados de design. Há tr�
 * Evoluir a linguagem para autoria mais simples de aplicações web;
 
 
-O HTML5 trabalha com elementos de instrução, mais conhecidos como "Tags", por exemplo: 
+O HTML5 trabalha com elementos de instrução, mais conhecidos como "Tags", por exemplo:
 
 * <h1 class="" type="" name="">Hello, World!</h1>
 > Hello, World!
@@ -54,7 +35,7 @@ como por exemplo:
 
 <doctype>,<html>,<div>
 
-E são divididas conforme categorias a seguir: 
+E são divididas conforme categorias a seguir:
 
 * Metadados
 * O elemento root
@@ -95,9 +76,9 @@ Atributos do elemento:
 
 <!---------------- Sobre o HTML5 -----------------
 
-A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, 
-representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias 
-que permitem o desenvolvimento de aplicações quando associadas a outras linguagens. 
+A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet,
+representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias
+que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
 
 -->
 
@@ -108,9 +89,9 @@ que permitem o desenvolvimento de aplicações quando associadas a outras lingua
 
 <html lang="pt-br"> <!--html e linguagem regional-->
   <head> <!--Cabeça da página, representa uma coleção de comando em que podemos definir as informações do site em si, caracterizadas como "metadados". Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos CSS e JavaScript.-->
-  
+
     <!--Comentário HTML, nele podemos colocar em qualquer canto da estrutura ou fora dela, pois não irá aparecer na página, apenas no código!-->
-  
+
     <!--Metas básicas, servem para definições globais da página-->
   <meta charset="UTF-8"> <!--meta do HTML5 é curto comparado as versões anteriores da linguagem e ao XML. A principal diferença é que não precisa fechar a tag-->
   <meta name="description" content="html5-and-css3-programming">
@@ -118,8 +99,8 @@ que permitem o desenvolvimento de aplicações quando associadas a outras lingua
   <meta name="author" content="Hege Refsnes">
 
   <link rel="stylesheet" type="text/css" href="/public/styles/style.css"> <!--Tag link serve para ligar outras páginas ou arquivos externos para o html, rel="stylesheet" serve para linkar a folha de estilo-->
-  <link rel="shortcut icon" type="icon" href="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png"> <!--link rel="shortcut icon" insere a ícone na aba do navegador--> 
-  <title>0-Estrutura HTML5 e CSS3 + JS</title> <!--Título da página-->  
+  <link rel="shortcut icon" type="icon" href="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png"> <!--link rel="shortcut icon" insere a ícone na aba do navegador-->
+  <title>0-Estrutura HTML5 e CSS3 + JS</title> <!--Título da página-->
 </head>
   <body> <!--Corpo da página, Localizado no mesmo nível do <head>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.-->
     <h1 id="demo"></h1> <!--Tag de Título-->
@@ -132,20 +113,20 @@ que permitem o desenvolvimento de aplicações quando associadas a outras lingua
   </body>
 </html>
 
-<!------------ O que são API's? ------------------ 
+<!------------ O que são API's? ------------------
 
-Aplicações Web são o número cada vez maior de sites na Web, isto é, eles imitam aplicações de desktop ao invés dos documentos tradicionais e 
-estático de links de textos e imagens que compõem a maioria da Web. Como exemplo, temos os processadores onlines de texto, ferramentas de edição de foto, 
-sites de mapeamento etc. Altamente movidos com JavaScript, eles levaram o HTML4 à beira do limite de suas capacidades. 
-O HTML5 especifica novas APIs (Interface de Programação de Aplicações) para DOM (Modelo de Objeto de Documento), 
-que é uma convenção multiplataforma e independente de linguagem para representação e interação com objetos e documentos HTML, XHTML e XML. 
+Aplicações Web são o número cada vez maior de sites na Web, isto é, eles imitam aplicações de desktop ao invés dos documentos tradicionais e
+estático de links de textos e imagens que compõem a maioria da Web. Como exemplo, temos os processadores onlines de texto, ferramentas de edição de foto,
+sites de mapeamento etc. Altamente movidos com JavaScript, eles levaram o HTML4 à beira do limite de suas capacidades.
+O HTML5 especifica novas APIs (Interface de Programação de Aplicações) para DOM (Modelo de Objeto de Documento),
+que é uma convenção multiplataforma e independente de linguagem para representação e interação com objetos e documentos HTML, XHTML e XML.
 
 Essas novas APIs ajudam a arrastar e soltar objetos enviados pelo servidor, tais como, desenho, vídeos e similares.
 
-Essas novas interfaces que as páginas HTML expõem ao JavaScript via objetos na DOM tornam mais fácil escrever as aplicações, 
+Essas novas interfaces que as páginas HTML expõem ao JavaScript via objetos na DOM tornam mais fácil escrever as aplicações,
 utilizando padrões altamente especificados, ao invés de apenas artimanhas mal-documentadas.
 
-Ainda mais importante é a necessidade de um padrão aberto livre (para utilizar e para implementar) que possa competir com padrões proprietários como 
+Ainda mais importante é a necessidade de um padrão aberto livre (para utilizar e para implementar) que possa competir com padrões proprietários como
 Adobe Flash ou Microsoft Silverlight.
 
 Independentemente do que você acha dessas tecnologias ou empresas, acreditamos que a Web seja uma plataforma vital à sociedade, comércio e comunicações
@@ -155,10 +136,3 @@ Há milhões de páginas Web já em uso por aí, e é imperativo que elas contin
 que continua a definir como os navegadores devem lidar com marcações antigas como <font>, <center> e outras novas, pois milhões de páginas web as utilizam.
 
 -->
-
-<!------------- O que é DOM? (Document Object Model) --------------------
-
-O Modelo de Objeto de Documento (do inglês Document Object Model) é uma convenção multiplataforma e independente de linguagem para representação e interação com
-objetos em documentos HTML, XHTML e XML.
-
-Os nós de cada documento são organizados em uma estrutura de árvore, chamada de árvore DOM. -->

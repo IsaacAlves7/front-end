@@ -20,13 +20,6 @@ class="class" ----> .class{}
 
 Obs: Os id's são definidos com o hashtag (#) e as classes definidas com ponto (.). O id só pode ser usado uma vez na página.*//* 
 
-------------[ Box model ]------------- 
-
-1. margin - São os espaçamentos entre elementos.
-2. border - Circulam o padding e o conteúdo, dá para alterar a largura e cor.
-3. padding - Espaçamento entre a borda e o conteúdo.
-4. content - O elemento HTML. *//*
-
 --------- Padrão de WebDesign -------- */
 
 *{
@@ -41,7 +34,7 @@ h1{
     color: black; /*Color name*/
     color: #000; /*Hexadecimal*/
     color: rgb(0, 0, 0); /*RGB*/
-
+    
 /* ------- ([{ Borders }]) -------
     *  
     * 
