@@ -108,16 +108,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
 
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
 <pre>
- <code>h1 {
-           color: #000;
-           }</code>
- <code>&lt;i&gt;&lt;/i&gt;</code>
- <code>&lt;em&gt;&lt;/em&gt;</code>
- <code>&lt;b&gt;&lt;/b&gt;</code>
- <code>&lt;strong&gt;&lt;/strong&gt;</code>
- <code>&lt;pre&gt;&lt;/pre&gt;</code>
- <code>&lt;br&gt;</code>
- <code>&lt;hr&gt;</code>
+ <code>h1 { color: #000; }</code>
 </pre>
 
 ## Box Model
