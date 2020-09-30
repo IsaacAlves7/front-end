@@ -99,6 +99,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
  <code>&lt;em&gt;&lt;/em&gt;</code>
  <code>&lt;b&gt;&lt;/b&gt;</code>
  <code>&lt;strong&gt;&lt;/strong&gt;</code>
+ <code>&lt;pre&gt;&lt;/pre&gt;</code>
  <code>&lt;br&gt;</code>
  <code>&lt;hr&gt;</code>
 </pre>
