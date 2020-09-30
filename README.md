@@ -113,6 +113,8 @@ The nós de cada documento são organizados em in tree structure, is called of <
  <code>h5 h6 { color: #cc3232; }</code>
 </pre>
 
+## ID x Class
+
 ## Box Model
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><br>
 <p>When we are creating the layout of a website the browser representa each HTML element as a retangular box, this is the <b>box-model</b>. E com CSS nós alteramos a aparência dessa caixa (largura, altura, cor de fundo, etc.). Essa caixa é composta por 4 áreas: o conteúdo, o padding, a borda e a margem.</p>
