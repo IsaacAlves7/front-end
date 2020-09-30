@@ -82,12 +82,14 @@ The nós de cada documento são organizados em in tree structure, is called of <
 ### TAGs de Título
 <p></p>
 <pre>
+<code>&lt;hgroup&gt;</code>
  <code>&lt;h1&gt;&lt;/h1&gt;</code>
  <code>&lt;h2&gt;&lt;/h2&gt;</code>
  <code>&lt;h3&gt;&lt;/h3&gt;</code>
  <code>&lt;h4&gt;&lt;/h4&gt;</code>
  <code>&lt;h5&gt;&lt;/h5&gt;</code>
  <code>&lt;h6&gt;&lt;/h6&gt;</code>
+ <code>&lt;/hgroup&gt;</code>
 </pre>
 
 ## Media TAGs
