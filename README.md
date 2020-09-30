@@ -107,6 +107,18 @@ The nós de cada documento são organizados em in tree structure, is called of <
 ## Media TAGs
 
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
+<pre>
+ <code>h1 {
+           color: #000;
+           }</code>
+ <code>&lt;i&gt;&lt;/i&gt;</code>
+ <code>&lt;em&gt;&lt;/em&gt;</code>
+ <code>&lt;b&gt;&lt;/b&gt;</code>
+ <code>&lt;strong&gt;&lt;/strong&gt;</code>
+ <code>&lt;pre&gt;&lt;/pre&gt;</code>
+ <code>&lt;br&gt;</code>
+ <code>&lt;hr&gt;</code>
+</pre>
 
 ## Box Model
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><br>
