@@ -73,7 +73,7 @@ Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da 
 ## Protocolo TCP/IP
 <p></p>
 
-### Internet Timeline
+## Internet Timeline
 <ol>
  <li></li>
  <li></li>
