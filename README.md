@@ -23,6 +23,7 @@
   <li>Flexbox Layout.</li>
   <li>Grid Layout.</li>
   <li>HTML5 + CSS3 + JS.</li>
+  <li>HTML5 + CSS3 + JS + PHP + MySQL.</li>
   <li>Parallax.</li>
   <li>HTML Canvas.</li>
 </ol>
