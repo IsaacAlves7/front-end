@@ -62,7 +62,7 @@ A <b>internet</b> é a maior rede de comunicação desenvolvida pelo homem na Er
 
 Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da Ciência e Tecnologia, foi aberta ao setor privado para exploração comercial.</p>
 
-### Projeto ARPA
+## Projeto ARPA
 <p>A ideia da construção de uma rede de computadores que pudessem trocar informações surgiu no “Advanced Research Projects Agency”, <b>ARPA</b>, do Departamento de Defesa dos EUA quando, em 1962, a Agência contratou J.C.R. Licklider para liderar as suas novas iniciativas através do “Information Processing Techniques Office”, IPTO, da Agência.
 
 <i><b>ARPA</b> - Atualmente, <b>DARPA</b> (Defense Advanced Research Projects Agency). O nome original era apenas <b>ARPA</b> (Advanced Research Projects Agency, Agência de Projetos de Pesquisa Avançada), mas foi alterado para DARPA (de Defesa) em março de 1972. Voltou a ser ARPA novamente em fevereiro de 1993, e depois foi alterado de novo para DARPA em março de 1996.
@@ -70,7 +70,7 @@ Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da 
 <b>Joseph Carl Robnett Licklider</b> (St. Louis, Missouri, 11 de março de 1915 — Arlington, Massachusetts, 26 de junho de 1990) foi um psicólogo e cientista da computação estadunidense.
 </i></p>
 
-### Protocolo TCP/IP
+## Protocolo TCP/IP
 <p></p>
 
 ### Internet Timeline
