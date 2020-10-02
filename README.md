@@ -89,7 +89,9 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 <i>É curioso notar que as empresas de telecomunicações devotaram, por muito tempo, um amplo pessimismo à técnica de comutação de pacotes, conforme relatado num artigo do principal realizador da rede ARPANET, Lawrence G. Roberts. Faz pouco tempo apenas que este pessimismo foi trocado por uma participação ativa nas redes de computadores, mas mesmo hoje os serviços dessas empresas, do ponto de vista das redes de computadores, deixam muito a desejar.</i></p>
 
 ## Protocolo TCP/IP
-<p>De uma forma simples, o <strong>TCP/IP</strong> é o principal protocolo de envio e recebimento de dados na internet. <strong>TCP</strong> significa <em>Transmission Control Protocol</em> (Protocolo de Controle de Transmissão) e o <strong>IP</strong>, <em>Internet Protocol</em> (Protocolo de Internet).</p>
+<p>De uma forma simples, o <strong>TCP/IP</strong> é o principal protocolo de envio e recebimento de dados na internet. <strong>TCP</strong> significa <em>Transmission Control Protocol</em> (Protocolo de Controle de Transmissão) e o <strong>IP</strong>, <em>Internet Protocol</em> (Protocolo de Internet).
+
+<strong>Protocolo</strong> é uma espécie de linguagem utilizada para que dois computadores consigam se comunicar. Por mais que duas máquinas estejam conectadas à mesma rede, se não “falarem” a mesma língua, não há como estabelecer uma comunicação. Então, o <strong>TCP/IP</strong> é uma espécie de idioma que permite às aplicações conversarem entre si.</p>
 
 ## Internet Timeline
 <ol>
