@@ -184,6 +184,9 @@ The nós de cada documento são organizados em in tree structure, is called of <
 ## Media TAGs
 
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
+
+## Types of Selectors and Declarations
+
 <pre>
  <code>h1 { color: #000; }</code>
  <code>h2,h3,h4 { color: #ccc; }</code>
