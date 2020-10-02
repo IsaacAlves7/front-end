@@ -82,7 +82,9 @@ Na verdade, qualquer defeito de equipamentos na rede não apenas não interrompe
 
 Para realizar o primeiro experimento com a rede foram escolhidas <b>quatro Universidades</b> (Eram elas a Universidade da Califórnia em Los Angeles (centro do desenvolvimento do “software”), o Stanford Research Institute, a Universidade da Califórnia em Santa Bárbara e a Universidade de Utah, todos beneficiários de contratos com a ARPA.) que seriam conectadas em janeiro de 1970 na rede computacional ARPANET. Além da comunidade acadêmica, a rede original atendia também à comunidade militar americana.
 
-A rede se expandiu rapidamente, incluindo computadores de variadas plataformas de “hardware” e de “software”, demonstrando que a comunicação e cooperação entre sistemas, até mesmo de concepções muito diferentes, era perfeitamente factível. Havia 13 computadores na rede em janeiro de 1971, 23 em abril de 1972 e 38 em janeiro de 1973.</p>
+A rede se expandiu rapidamente, incluindo computadores de variadas plataformas de “hardware” e de “software”, demonstrando que a comunicação e cooperação entre sistemas, até mesmo de concepções muito diferentes, era perfeitamente factível. Havia 13 computadores na rede em janeiro de 1971, 23 em abril de 1972 e 38 em janeiro de 1973.
+
+As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 56 Kbps. Seus elementos ativos, chamados de Interface Message Processors (IMP) eram constituídos de computadores comercialmente disponíveis, cuidadosamente escolhidos para esta finalidade. Outro aspecto relevante é que a execução do projeto foi confiada a empresas particulares entre as quais deve ser mencionada a BBN (Bolt, Beranek, and Newman Inc.), de Cambridge, MA, nos Estados Unidos, que era a principal executora.</p>
 
 ## Protocolo TCP/IP
 <p></p>
