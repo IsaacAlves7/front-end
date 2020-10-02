@@ -103,7 +103,7 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 
 <b>Tim Berners-Lee</b>, que cunhou o termo "World Wide Web", desenvolveu, em outubro de 1990, o primeiro servidor Web, normalmente um programa de computador, em um computador específico, responsável por aceitar pedidos <b>HTTP</b> de programas em computadores clientes, geralmente os navegadores, e servi-los com respostas em HTTP. Ele também escreveu a primeira versão do "HyperText Markup Language” (HTML). Suas especificações iniciais para <b>URL</b>, <b>HTTP</b> e <b>HTML</b> foram refinadas e discutidas em círculos mais amplos para propagar a tecnologia web.</p>
 
-![protocol-stacks](https://user-images.githubusercontent.com/61624336/94971449-6ee95100-04dd-11eb-9851-b779180a071a.jpg)
+![img13](https://user-images.githubusercontent.com/61624336/94971529-94765a80-04dd-11eb-9e7d-df509e046568.jpg)
 
 ## Internet Timeline
 <ol>
