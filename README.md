@@ -84,10 +84,12 @@ Para realizar o primeiro experimento com a rede foram escolhidas <b>quatro Unive
 
 A rede se expandiu rapidamente, incluindo computadores de variadas plataformas de “hardware” e de “software”, demonstrando que a comunicação e cooperação entre sistemas, até mesmo de concepções muito diferentes, era perfeitamente factível. Havia 13 computadores na rede em janeiro de 1971, 23 em abril de 1972 e 38 em janeiro de 1973.
 
-As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 56 Kbps. Seus elementos ativos, chamados de Interface Message Processors (IMP) eram constituídos de computadores comercialmente disponíveis, cuidadosamente escolhidos para esta finalidade. Outro aspecto relevante é que a execução do projeto foi confiada a empresas particulares entre as quais deve ser mencionada a BBN (Bolt, Beranek, and Newman Inc.), de Cambridge, MA, nos Estados Unidos, que era a principal executora.</p>
+As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 56 Kbps. Seus elementos ativos, chamados de Interface Message Processors (IMP) eram constituídos de computadores comercialmente disponíveis, cuidadosamente escolhidos para esta finalidade. Outro aspecto relevante é que a execução do projeto foi confiada a empresas particulares entre as quais deve ser mencionada a BBN (Bolt, Beranek, and Newman Inc.), de Cambridge, MA, nos Estados Unidos, que era a principal executora.
+
+<i>É curioso notar que as empresas de telecomunicações devotaram, por muito tempo, um amplo pessimismo à técnica de comutação de pacotes, conforme relatado num artigo do principal realizador da rede ARPANET, Lawrence G. Roberts. Faz pouco tempo apenas que este pessimismo foi trocado por uma participação ativa nas redes de computadores, mas mesmo hoje os serviços dessas empresas, do ponto de vista das redes de computadores, deixam muito a desejar.</i></p>
 
 ## Protocolo TCP/IP
-<p></p>
+<p>De uma forma simples, o <strong>TCP/IP</strong> é o principal protocolo de envio e recebimento de dados na internet. <strong>TCP</strong> significa <em>Transmission Control Protocol</em> (Protocolo de Controle de Transmissão) e o <strong>IP</strong>, <em>Internet Protocol</em> (Protocolo de Internet).</p>
 
 ## Internet Timeline
 <ol>
