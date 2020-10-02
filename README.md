@@ -126,7 +126,9 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 
 ## HTML5 - Hypertext Makup Language 5
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/></div>
-<p>In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
+<p>A linguagem de formatação de documentos com a capacidade de links de hipertexto (termo que remete a um texto ao qual se agregam outros conjuntos de informação na forma de blocos de textos, palavras, imagens ou sons, cujo acesso ocorre através de referências específicas, no meio digital, denominadas hiperlinks, ou simplesmente links) e que tornou-se o formato básico para publicação na web.
+
+In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
 </p>
 
 ### HTML Timeline
