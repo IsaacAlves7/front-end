@@ -105,9 +105,11 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 
 ![img13](https://user-images.githubusercontent.com/61624336/94971529-94765a80-04dd-11eb-9e7d-df509e046568.jpg)
 
-<p>Em outubro de 1994, Tim Berners-Lee fundou o World Wide Web Consortium (W3C) no Laboratório de Ciência da Computação do Massachusetts Institute of Technology [MIT/LCS] em colaboração com o CERN, onde a Web surgiu, com apoio da DARPA e da Comissão Europeia. Em Abril de 1995, o <b>INRIA</b> (Institut National de Recherche en Informatique et Automatique) se tornou o primeiro host do W3C Europeu, seguido da Universidade de Keio no Japão (campus Shonan Fujisawa) na Ásia em 1996.</p>
+<p>Em outubro de 1994, Tim Berners-Lee fundou o World Wide Web Consortium (W3C) no Laboratório de Ciência da Computação do Massachusetts Institute of Technology [MIT/LCS] em colaboração com o CERN, onde a Web surgiu, com apoio da DARPA e da Comissão Europeia. Em Abril de 1995, o <b>INRIA</b> (Institut National de Recherche en Informatique et Automatique) se tornou o primeiro host do W3C Europeu, seguido da Universidade de Keio no Japão (campus Shonan Fujisawa) na Ásia em 1996.
 
 Em 2003, <b>ERCIM</b> (Consórcio Europeu de Pesquisa em Informática e Matemática) assumiu o papel de host europeu.
+
+A grande maioria dos trabalhos no W3C gira em torno da padronização de tecnologias web. Para realizar esse trabalho, o W3C segue processos que promovam o desenvolvimento de padrões de qualidade baseados no consenso da comunidade. Uma introdução ao processo do W3C dá uma noção de como acontece o trabalho em torno dos padrões no W3C.</p>
 
 
 ## Internet Timeline
