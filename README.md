@@ -54,10 +54,28 @@ Na década de 1970 surgiram os primeiros computadores pessoais. A Intel equipou 
 
 As universidades e outras instituições tiveram acesso à Arpanet a partir dos anos 1970, o que permitiu o acesso a universidades fora dos EUA, criando assim a base para uma rede mundial de computadores. Naquela época eram apenas 100 sites e pesquisadores já estudavam como o crescimento e suas opções alteravam o modo como usavam a rede.
 
-A <em>World Wide Web</em> (WWW) surgiu em 1989, criado por <b>Tim Berners-Lee</b>, como um integrador de informações que permite o acesso de forma simples e consistente em diferentes plataformas. O conteúdo da rede pôde ser ampliado com a possibilidade de incorporar imagens e sons. O sistema de localização de arquivos permitia que cada informação tivesse um endereço único e pudesse ser encontrada por qualquer usuário da rede.</p>
+A <em>World Wide Web</em> (WWW) surgiu em 1989, criado por <b>Tim Berners-Lee</b>, como um integrador de informações que permite o acesso de forma simples e consistente em diferentes plataformas. O conteúdo da rede pôde ser ampliado com a possibilidade de incorporar imagens e sons. O sistema de localização de arquivos permitia que cada informação tivesse um endereço único e pudesse ser encontrada por qualquer usuário da rede.
+<hr>
+
+A internet é a maior rede de comunicação desenvolvida pelo homem na Era Moderna. No Brasil, em 1991, foi criada a Rede Nacional de Pesquisa, uma operação acadêmica subordinada ao Ministério de Ciência e Tecnologia.
+<hr>
+
+Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da Ciência e Tecnologia, foi aberta ao setor privado para exploração comercial.</p>
+
+### Projeto ARPA
+<p></p>
+
+### Protocolo TCP/IP
+<p></p>
 
 ### Internet Timeline
 <ol>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
  <li></li>
 </ol>
 
