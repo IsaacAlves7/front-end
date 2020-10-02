@@ -47,7 +47,12 @@ O Departamento de Defesa dos EUA começou a desenvolver uma ferramenta capaz de 
 
 Foi criado, então, a ArphaNet em 1969.
 
-Durante esse período, surgiram também outros importantes inventos hoje largamente utilizados.</p>
+Durante esse período, surgiram também outros importantes inventos hoje largamente utilizados.
+<hr>
+
+Na década de 1970 surgiram os primeiros computadores pessoais. A Intel equipou os primeiros microcomputadores com 256 bytes de memória. E também surgiram os primeiros sistemas de posicionamento global (GPS, em inglês), criados originalmente para orientar mísseis e guiar tropas por lugares ermos.
+
+As universidades e outras instituições tiveram acesso à Arpanet a partir dos anos 1970, o que permitiu o acesso a universidades fora dos EUA, criando assim a base para uma rede mundial de computadores. Naquela época eram apenas 100 sites e pesquisadores já estudavam como o crescimento e suas opções alteravam o modo como usavam a rede.</p>
 
 ### Internet Timeline
 <ol>
@@ -64,7 +69,8 @@ Durante esse período, surgiram também outros importantes inventos hoje largame
 
 ## HTML5 - Hypertext Makup Language 5
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/></div>
-<p>In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.</p>
+<p>In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
+</p>
 
 ### HTML Timeline
 <ol>
