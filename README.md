@@ -96,6 +96,8 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 ## Pilha de protocolos
 <p>Na realidade, o <b>TCP/IP</b> é um conjunto de protocolos. Esse grupo é dividido em quatro camadas: aplicação, transporte, rede e interface. Cada uma delas é responsável pela execução de tarefas distintas. Essa divisão em camadas é uma forma de garantir a integridade dos dados que trafegam pela rede.</p>
 
+![protocol-stacks](https://user-images.githubusercontent.com/61624336/94964198-ca144700-04cf-11eb-9f31-7dd9e2d00a8f.jpg)
+
 ## O consórcio World Wide Web (W3C)
 <p>O <strong>Consórcio World Wide Web</strong> (W3C) é um consórcio internacional no qual organizações filiadas, uma equipe em tempo integral e o público trabalham juntos para desenvolver padrões para a Web. Liderado pelo inventor da web <b>Tim Berners-Lee</b> e o CEO <b>Jeffrey Jaffe</b>, o W3C tem como missão conduzir a World Wide Web para que atinja todo seu potencial, desenvolvendo protocolos e diretrizes que garantam seu crescimento de longo prazo.
 
