@@ -31,8 +31,18 @@
 <div align="center"><h1>1. The History of Internet</h1></div>
 
 ## What's the Internet?
+<p>Nos dias de hoje o difícil é identificar uma área que ainda não tenha investido em Tecnologia da Informação (TI) e se beneficiado com as facilidades trazidas pela informação tratada em tempo real e disponível sob demanda.
+
+A combinação de texto, som, imagem, entregues em uma pluralidade de formatos para diferentes dispositivos, permite, por exemplo, que um candidato a fornecedor receba informações atualizadas ou diferenciadas no caminho para o escritório do cliente. Também permite respostas rápidas, favorecendo a tomada de decisão mais assertiva.
+
+Com essa combinação e com a apropriação da tecnologia que vem se estabelecendo, implica certamente em mudança na forma de se resolver problemas, comprar, vender, estudar, se comunicar e de tomar decisões.
+
+São novos hábitos e costumes gerando novas demandas e oportunidades, bem como as soluções criativas e a inovação, principalmente, aquelas que se utilizam da Internet, como os portais de conhecimento, as salas de aula virtuais e os jogos para Internet. Os sistemas de e-commerce têm grande apreço no mercado de trabalho do profissional de informática.</p>
+
 <img src="https://img.ibxk.com.br/2020/06/29/29100837408091.jpg?w=1120&h=420&mode=crop&scale=both"/>
-<p>The <b>Internet</b> started on Cold War and with the accumulation of knowledge adquiridos in strategy functions.</p>
+<p>O acúmulo de conhecimento adquirido em função de estratégias usadas no período da Segunda Guerra e da necessidade de comunicação segura fomentou o desenvolvimento de ferramentas e códigos que viabilizassem a circulação de informações no meio militar, sem o risco de vazamento que pudesse colocar toda a estratégia em perigo.
+
+Com o fim da guerra, o estabelecimento da Guerra Fria e o mundo marcado por guerras pontuais com dois polos de comando, a comunicação e a transmissão de informação passaram a ser fator estratégico na política mundial.</p>
 
 ### Internet Timeline
 <ol>
