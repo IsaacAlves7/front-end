@@ -69,7 +69,18 @@ Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da 
 <i><b>ARPA</b> - Atualmente, <b>DARPA</b> (Defense Advanced Research Projects Agency). O nome original era apenas <b>ARPA</b> (Advanced Research Projects Agency, Agência de Projetos de Pesquisa Avançada), mas foi alterado para DARPA (de Defesa) em março de 1972. Voltou a ser ARPA novamente em fevereiro de 1993, e depois foi alterado de novo para DARPA em março de 1996.
 
 <b>Joseph Carl Robnett Licklider</b> (St. Louis, Missouri, 11 de março de 1915 — Arlington, Massachusetts, 26 de junho de 1990) foi um psicólogo e cientista da computação estadunidense.
-</i></p>
+</i>
+Um dos sonhos de Licklider era uma rede de computadores que permitisse o trabalho cooperativo em grupos, mesmo que fossem integrados por pessoas geograficamente distantes, além de permitir o compartilhamento de recursos escassos, como, por exemplo, o supercomputador ILLIAC IV, em construção na Universidade de Illinois, com o patrocínio da própria ARPA.
+
+O projeto foi amadurecendo e adquiriu momento quando a ARPA contratou Lawrence Roberts, do Lincoln Lab do MIT, em 1967, para tornar a ideia uma realidade. Nesta mesma época Licklider, tendo saído da ARPA em 1964, assumiu a direção do Projeto MAC no MIT.
+
+Foi escolhido para a rede um modelo proposto por Paul Baran em 1962 e que lançou a ideia de comunicação digital via comutação de pacotes, numa série de estudos sigilosos feitos na RAND Corporation. Esses estudos foram realizados em função de um contrato com a ARPA cujo objetivo era a idealização de um sistema de comunicações que não pudesse ser interrompido por avarias locais.
+
+Naquela época, a Guerra Fria estava no seu auge e a preocupação dos militares americanos era uma rede de telecomunicações que não possuísse uma central e que não pudesse ser destruída por nenhum ataque localizado. Uma consequência importante dessa escolha e dos desenvolvimentos posteriores é que a rede Internet herdou esta propriedade.
+
+Na verdade, qualquer defeito de equipamentos na rede não apenas não interrompe o seu funcionamento como adicionalmente não chega a interromper sequer as comunicações entre processos em curso na hora da avaria, desde que permaneça em funcionamento alguma conexão física entre os dois processos. Isso resulta na robustez extraordinária da rede Internet.
+
+Para realizar o primeiro experimento com a rede foram escolhidas quatro Universidades que seriam conectadas em janeiro de 1970 na rede computacional ARPANET. Além da comunidade acadêmica, a rede original atendia também à comunidade militar americana.</p>
 
 ## Protocolo TCP/IP
 <p></p>
