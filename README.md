@@ -57,7 +57,7 @@ As universidades e outras instituições tiveram acesso à Arpanet a partir dos 
 A <em>World Wide Web</em> (WWW) surgiu em 1989, criado por <b>Tim Berners-Lee</b>, como um integrador de informações que permite o acesso de forma simples e consistente em diferentes plataformas. O conteúdo da rede pôde ser ampliado com a possibilidade de incorporar imagens e sons. O sistema de localização de arquivos permitia que cada informação tivesse um endereço único e pudesse ser encontrada por qualquer usuário da rede.
 <hr>
 
-A internet é a maior rede de comunicação desenvolvida pelo homem na Era Moderna. No Brasil, em 1991, foi criada a Rede Nacional de Pesquisa, uma operação acadêmica subordinada ao Ministério de Ciência e Tecnologia.
+A <b>internet</b> é a maior rede de comunicação desenvolvida pelo homem na Era Moderna, ela possibilita todas os tipos de rede de computadores se conectarem entre si. No Brasil, em 1991, foi criada a Rede Nacional de Pesquisa, uma operação acadêmica subordinada ao Ministério de Ciência e Tecnologia.
 <hr>
 
 Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da Ciência e Tecnologia, foi aberta ao setor privado para exploração comercial.</p>
