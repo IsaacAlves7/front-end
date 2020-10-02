@@ -55,7 +55,7 @@ Na década de 1970 surgiram os primeiros computadores pessoais. A Intel equipou 
 
 As universidades e outras instituições tiveram acesso à Arpanet a partir dos anos 1970, o que permitiu o acesso a universidades fora dos EUA, criando assim a base para uma rede mundial de computadores. Naquela época eram apenas 100 sites e pesquisadores já estudavam como o crescimento e suas opções alteravam o modo como usavam a rede.
 
-A <em>World Wide Web</em> (WWW) surgiu em 1989, criado por <b>Tim Berners-Lee</b>, como um integrador de informações que permite o acesso de forma simples e consistente em diferentes plataformas. O conteúdo da rede pôde ser ampliado com a possibilidade de incorporar imagens e sons. O sistema de localização de arquivos permitia que cada informação tivesse um endereço único e pudesse ser encontrada por qualquer usuário da rede.
+A <b>World Wide Web</b> (WWW) surgiu em 1989, criado por <b>Tim Berners-Lee</b>, como um integrador de informações que permite o acesso de forma simples e consistente em diferentes plataformas. O conteúdo da rede pôde ser ampliado com a possibilidade de incorporar imagens e sons. O sistema de localização de arquivos permitia que cada informação tivesse um endereço único e pudesse ser encontrada por qualquer usuário da rede.
 <hr>
 
 A <b>internet</b> é a maior rede de comunicação desenvolvida pelo homem na Era Moderna, ela possibilita todos os tipos de rede de computadores se conectarem entre si em uma única rede. No Brasil, em 1991, foi criada a Rede Nacional de Pesquisa, uma operação acadêmica subordinada ao Ministério de Ciência e Tecnologia.
@@ -98,7 +98,8 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 
 ## O consórcio World Wide Web (W3C)
 <p>O <strong>Consórcio World Wide Web</strong> (W3C) é um consórcio internacional no qual organizações filiadas, uma equipe em tempo integral e o público trabalham juntos para desenvolver padrões para a Web. Liderado pelo inventor da web <b>Tim Berners-Lee</b> e o CEO <b>Jeffrey Jaffe</b>, o W3C tem como missão conduzir a World Wide Web para que atinja todo seu potencial, desenvolvendo protocolos e diretrizes que garantam seu crescimento de longo prazo.
-</p>
+
+<b>Tim Berners-Lee</b>, que cunhou o termo "World Wide Web", desenvolveu, em outubro de 1990, o primeiro servidor Web, normalmente um programa de computador, em um computador específico, responsável por aceitar pedidos HTTP de programas em computadores clientes, geralmente os navegadores, e servi-los com respostas em HTTP. Ele também escreveu a primeira versão do "HyperText Markup Language” (HTML). Suas especificações iniciais para URL, HTTP e HTML foram refinadas e discutidas em círculos mais amplos para propagar a tecnologia web.</p>
 
 
 ## Internet Timeline
