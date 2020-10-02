@@ -96,14 +96,14 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 ## Pilha de protocolos
 <p>Na realidade, o <b>TCP/IP</b> é um conjunto de protocolos. Esse grupo é dividido em quatro camadas: aplicação, transporte, rede e interface. Cada uma delas é responsável pela execução de tarefas distintas. Essa divisão em camadas é uma forma de garantir a integridade dos dados que trafegam pela rede.</p>
 
-![protocol-stacks](https://user-images.githubusercontent.com/61624336/94964198-ca144700-04cf-11eb-9f31-7dd9e2d00a8f.jpg)
+<center> ![protocol-stacks](https://user-images.githubusercontent.com/61624336/94964198-ca144700-04cf-11eb-9f31-7dd9e2d00a8f.jpg) </center>
 
 ## O consórcio World Wide Web (W3C)
 <p>O <strong>Consórcio World Wide Web</strong> (W3C) é um consórcio internacional no qual organizações filiadas, uma equipe em tempo integral e o público trabalham juntos para desenvolver padrões para a Web. Liderado pelo inventor da web <b>Tim Berners-Lee</b> e o CEO <b>Jeffrey Jaffe</b>, o W3C tem como missão conduzir a World Wide Web para que atinja todo seu potencial, desenvolvendo protocolos e diretrizes que garantam seu crescimento de longo prazo.
 
 <b>Tim Berners-Lee</b>, que cunhou o termo "World Wide Web", desenvolveu, em outubro de 1990, o primeiro servidor Web, normalmente um programa de computador, em um computador específico, responsável por aceitar pedidos <b>HTTP</b> de programas em computadores clientes, geralmente os navegadores, e servi-los com respostas em HTTP. Ele também escreveu a primeira versão do "HyperText Markup Language” (HTML). Suas especificações iniciais para <b>URL</b>, <b>HTTP</b> e <b>HTML</b> foram refinadas e discutidas em círculos mais amplos para propagar a tecnologia web.</p>
 
-![img13](https://user-images.githubusercontent.com/61624336/94971529-94765a80-04dd-11eb-9e7d-df509e046568.jpg)
+<center>![img13](https://user-images.githubusercontent.com/61624336/94971529-94765a80-04dd-11eb-9e7d-df509e046568.jpg)</center>
 
 <p>Em outubro de 1994, Tim Berners-Lee fundou o <strong>World Wide Web Consortium</strong> (W3C) no Laboratório de Ciência da Computação do Massachusetts Institute of Technology [MIT/LCS] em colaboração com o CERN, onde a Web surgiu, com apoio da DARPA e da Comissão Europeia. Em Abril de 1995, o <b>INRIA</b> (Institut National de Recherche en Informatique et Automatique) se tornou o primeiro host do W3C Europeu, seguido da Universidade de Keio no Japão (campus Shonan Fujisawa) na Ásia em 1996.
 
