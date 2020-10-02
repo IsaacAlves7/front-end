@@ -187,18 +187,18 @@ The nós de cada documento são organizados em in tree structure, is called of <
 
 ### TAGs para Texto
 <pre>
- <code>&lt;p&gt;&lt;/p&gt;</code>
- <code>&lt;i&gt;&lt;/i&gt;</code>
- <code>&lt;em&gt;&lt;/em&gt;</code>
- <code>&lt;b&gt;&lt;/b&gt;</code>
- <code>&lt;strong&gt;&lt;/strong&gt;</code>
+ <code>&lt;p&gt;parágrafo&lt;/p&gt;</code>
+ <code>&lt;i&gt;itálico&lt;/i&gt;</code>
+ <code>&lt;em&gt;itálico&lt;/em&gt;</code>
+ <code>&lt;b&gt;negrito&lt;/b&gt;</code>
+ <code>&lt;strong&gt;negrito&lt;/strong&gt;</code>
  <code>&lt;pre&gt;&lt;/pre&gt;</code>
  <code>&lt;br&gt;</code>
  <code>&lt;hr&gt;</code>
- <code>&lt;a href="" target=""&gt;&lt;/a&gt;</code>
 </pre>
 
-## Media TAGs
+## Link TAGs
+<code>&lt;a href="" target=""&gt;&lt;/a&gt;</code>
 
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
 
