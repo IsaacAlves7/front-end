@@ -85,6 +85,9 @@ Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da 
 </ol>
 
 <div align="center"><h1>2. Client-side and Server-side</h1></div>
+
+## Front-end, Back-end and Full-Stack
+
 <div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div>
 
 <div align="center"><h1>3. HTML5 and CSS3</h1></div>
