@@ -19,9 +19,9 @@
   <li>Iframe.</li>
   <li>Map.</li>
   <li>SVG.</li>
+  <li>Responsive Layout.</li>
   <li>Flexbox Layout.</li>
   <li>Grid Layout.</li>
-  <li>Responsive Layout.</li>
   <li>HTML5 + CSS3 + JS.</li>
   <li>Parallax.</li>
   <li>HTML Canvas.</li>
