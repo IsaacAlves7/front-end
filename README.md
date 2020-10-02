@@ -109,8 +109,12 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 
 Em 2003, <b>ERCIM</b> (Consórcio Europeu de Pesquisa em Informática e Matemática) assumiu o papel de host europeu.
 
-A grande maioria dos trabalhos no W3C gira em torno da padronização de tecnologias web. Para realizar esse trabalho, o W3C segue processos que promovam o desenvolvimento de padrões de qualidade baseados no consenso da comunidade. Uma introdução ao processo do W3C dá uma noção de como acontece o trabalho em torno dos padrões no W3C.</p>
+A grande maioria dos trabalhos no W3C gira em torno da padronização de tecnologias web. Para realizar esse trabalho, o W3C segue processos que promovam o desenvolvimento de padrões de qualidade baseados no consenso da comunidade. Uma introdução ao processo do W3C dá uma noção de como acontece o trabalho em torno dos padrões no W3C.
 
+Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiados grandes e pequenos, além do público em geral. O processo do W3C busca ser equânime responsável e alcançar todas as nuances da missão do W3C.</p>
+
+## Escritório W3C no Brasil
+<p></p>
 
 ## Internet Timeline
 <ol>
