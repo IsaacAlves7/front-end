@@ -39,9 +39,9 @@ São novos hábitos e costumes gerando novas demandas e oportunidades, bem como 
 
 ## What's the Internet?
 <img src="https://img.ibxk.com.br/2020/06/29/29100837408091.jpg?w=1120&h=420&mode=crop&scale=both"/>
-<p>O acúmulo de conhecimento adquirido em função de estratégias usadas no período da Segunda Guerra e da necessidade de comunicação segura fomentou o desenvolvimento de ferramentas e códigos que viabilizassem a circulação de informações no meio militar, sem o risco de vazamento que pudesse colocar toda a estratégia em perigo.
+<p>O acúmulo de conhecimento adquirido em função de estratégias usadas no período da <em>Segunda Guerra</em> e da necessidade de comunicação segura fomentou o desenvolvimento de ferramentas e códigos que viabilizassem a circulação de informações no meio militar, sem o risco de vazamento que pudesse colocar toda a estratégia em perigo.
 
-Com o fim da guerra, o estabelecimento da Guerra Fria e o mundo marcado por guerras pontuais com dois polos de comando, a comunicação e a transmissão de informação passaram a ser fator estratégico na política mundial.
+Com o fim da guerra, o estabelecimento da <em>Guerra Fria</em> e o mundo marcado por guerras pontuais com dois polos de comando, a comunicação e a transmissão de informação passaram a ser fator estratégico na política mundial.
 
 O Departamento de Defesa dos EUA começou a desenvolver uma ferramenta capaz de fazer e manter a comunicação entre as bases americanas mesmo distantes da sede.
 
