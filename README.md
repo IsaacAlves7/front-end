@@ -168,6 +168,15 @@ The nós de cada documento são organizados em in tree structure, is called of <
 ## Estrutura do HTML
 
 <p>Tudo começa com a pasta assets, public e src dentro dela. </p>
+<pre>
+<code><h1>Diretório 📂</h1></code>
+  <code><h2>public 📂</h2></code>
+  <code><h3>styles 📂</h3></code>
+  <code><h3>images 📂</h3></code>
+  <code><h2>src 📂</h2></code>
+  <code><h3>pages 📂</h3></code>
+  <code><p>index.html</p></code>
+</pre>
 
 <pre>
 <code>&lt;!Doctype html&gt;</code>
