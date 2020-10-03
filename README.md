@@ -191,7 +191,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
 
 ## Estrutura do HTML
 
-<p>Tudo começa com o diretório <b>assets</b>, e dentro dele o <b>public</b> e <b>src</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>. O index.html é o padrão da Web de ser o primeiro arquivo processado pela hospedagem e o style.css é o padrão para editar um ou mais arquivos HTML.</p>
+<p>Tudo começa com o diretório <b>assets</b>, e dentro dele o <b>public</b> e <b>src</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>. O index.html é o padrão da Web de ser o primeiro arquivo processado pelo navegador, geralmente é usado para uma área de Login ou a Home da página, e o style.css é o padrão para editar um ou mais arquivos HTML.</p>
 <pre>
 <code><h1>📂 assets/</h1></code>
   <code><b>📂 public/ </b></code>
