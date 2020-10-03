@@ -197,7 +197,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
   <code><h4>📂 public/ </h4></code>
   <code><b>📂 images</b></code>
   <code><b>📂 scripts</b></code>
-  <code><b>📂 styles/</b></code>
+  <code><h4>📂 styles/</h4></code>
   <code><b>📂 css/</b></code>
   <code><p>📝 style.css</p></code>
   <code><h4>📂 src/</h4></code>
