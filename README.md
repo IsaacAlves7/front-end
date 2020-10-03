@@ -136,7 +136,8 @@ Em desenvolvimento para a Web sempre separamos dois setores: a parte do servidor
 O cliente é o computador do usuário, assim como o seu. É utilizado pelas pessoas para acessar sites ou sistemas a partir de um endereço (Google Chrome, Internet Explorer, Safari, Mozilla Firefox e etc). Os arquivos vindos por esse endereço são disponibilizados por um outro computador que serve estes arquivos. Estes computadores que estão em algum lugar do mundo que servem arquivos e outros serviços são chamados de servidores (Apache, IIS, Glassfish e etc).</p>
 
 ## What's Front-end, Back-end and Full-Stack Development?
-<p></p>
+<p>Nos servidores programamos com linguagens como PHP, Java, C#, Ruby, entre outros. E também gerenciamos bancos de dados (MySQL, SQ Lite, Mongo DB, SQL Server e etc), onde chamamos essa parte de back-end. Quando há acesso ao banco de dados, o servidor trabalha de uma forma diferenciada, pois a implementação de um servidor web é um serviço diferente à implementação de um servidor banco de dados.
+Os clientes, que podem ser qualquer dispositivo conectado à Internet como smartphones, notebooks, tablets e smarttvs, recebem arquivos desses servidores, como imagens, vídeos, arquivos HTML, CSS e JavaScript. Chamamos essa parte de front-end. Já o Full-Stack engloba os conhecimentos tanto de front-end como back-end.</p>
 <div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div>
 
 <div align="center"><h1>3. HTML5 and CSS3</h1></div>
