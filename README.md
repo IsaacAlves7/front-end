@@ -255,7 +255,19 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
 
 ## Types of Selectors and Declarations
+<p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.
 
+A sintaxe é bem simples e pode ser explicada com a frase "você cria regras de estilo para elementos ou grupos de elementos".
+
+Vamos usar um elemento HTML que vimos anteriormente, a âncora <a>, para exemplificar.
+
+Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o <h1>, então dentro de um par de chaves adicionamos as declarações, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as declarações são formadas por uma propriedade e um valor.
+
+Percebam que podemos colocar vários seletores em uma regra separando-os por vírgula.
+
+E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento.
+
+O <b>a:hover</b> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
 <pre>
  <code>h1 { color: #000; }</code>
  <code>h2,h3,h4 { color: #ccc; }</code>
