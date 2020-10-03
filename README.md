@@ -48,7 +48,7 @@ Com o fim da guerra, o estabelecimento da <strong>Guerra Fria</strong> e o mundo
 
 O Departamento de Defesa dos EUA começou a desenvolver uma ferramenta capaz de fazer e manter a comunicação entre as bases americanas mesmo distantes da sede.
 
-Foi criado, então, a ArphaNet em 1969.
+Foi criado, então, a <b>ArphaNet</b> em 1969.
 
 Durante esse período, surgiram também outros importantes inventos hoje largamente utilizados.
 <hr>
