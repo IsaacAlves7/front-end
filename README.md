@@ -60,6 +60,7 @@ As universidades e outras instituições tiveram acesso à Arpanet a partir dos 
 A <b>World Wide Web</b> (WWW) surgiu em 1989, criado por <b>Tim Berners-Lee</b>, como um integrador de informações que permite o acesso de forma simples e consistente em diferentes plataformas. O conteúdo da rede pôde ser ampliado com a possibilidade de incorporar imagens e sons. O sistema de localização de arquivos permitia que cada informação tivesse um endereço único e pudesse ser encontrada por qualquer usuário da rede.
 <hr>
 
+## Definição de internet
 A <b>internet</b> é a maior rede de comunicação desenvolvida pelo homem na Era Moderna, ela possibilita todos os tipos de rede de computadores se conectarem entre si em uma única rede. No Brasil, em 1991, foi criada a Rede Nacional de Pesquisa, uma operação acadêmica subordinada ao Ministério de Ciência e Tecnologia.
 <hr>
 
