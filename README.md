@@ -139,6 +139,7 @@ O cliente é o computador do usuário, assim como o seu. É utilizado pelas pess
 <p>Nos servidores programamos com linguagens como PHP, Java, C#, Ruby, entre outros. E também gerenciamos bancos de dados (MySQL, SQ Lite, Mongo DB, SQL Server e etc), onde chamamos essa parte de back-end. Quando há acesso ao banco de dados, o servidor trabalha de uma forma diferenciada, pois a implementação de um servidor web é um serviço diferente à implementação de um servidor banco de dados.
 Os clientes, que podem ser qualquer dispositivo conectado à Internet como smartphones, notebooks, tablets e smarttvs, recebem arquivos desses servidores, como imagens, vídeos, arquivos HTML, CSS e JavaScript. Chamamos essa parte de front-end. Já o Full-Stack engloba os conhecimentos tanto de front-end como back-end.</p>
 <div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div>
+<p>Já o Full-Stack engloba os conhecimentos tanto de front-end como back-end.</p>
 
 <div align="center"><h1>3. HTML5 and CSS3</h1></div>
 <div align="center"><img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" height="200"/></div><br>
