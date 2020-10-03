@@ -126,7 +126,6 @@ Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiado
   <li>Criar um fórum amplo de participação dos membros do W3C na região bem como da comunidade interessada em padrões Web;</li>
   <li>Propor políticas e procedimentos relativos à regulamentação do uso da Internet, em cumprimento das responsabilidades do NIC.br para o Comitê Gestor da Internet no Brasil.</li>
   <li>Recomendar padrões técnicos e procedimentos operacionais para o desenvolvimento da Web no Brasil, em cumprimento das responsabilidades do NIC.br para o Comitê Gestor da Internet no Brasil.</li>
-  
 </ul>
 
 ## Internet Timeline
@@ -198,11 +197,11 @@ The nós de cada documento são organizados em in tree structure, is called of <
   <code><b>public 📂</b></code>
   <code><b>styles 📂</b></code>
   <code><b>css 📂</b></code>
-  <code><p>style.css</p></code>
-  <code><p>images 📂</p></code>
+  <code><b>style.css</b></code>
+  <code><b>images 📂</b></code>
   <code><b>src 📂</b></code>
-  <code><p>pages 📂</p></code>
-  <code><p>index.html</p></code>
+  <code><b>pages 📂</b></code>
+  <code><b>index.html</b></code>
 </pre>
 
 <pre>
