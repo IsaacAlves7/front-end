@@ -206,6 +206,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
 </pre>
 
 <pre>
+<h2>📝 index.html</h2>
 <code>&lt;!Doctype html&gt;</code>
 <code>&lt;html&gt;</code>
 <code>&lt;head&gt;</code>
