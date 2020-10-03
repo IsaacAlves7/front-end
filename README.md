@@ -261,7 +261,7 @@ A sintaxe é bem simples e pode ser explicada com a frase "você cria regras de 
 
 Vamos usar um elemento HTML que vimos anteriormente, a âncora <a>, para exemplificar.
 
-Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o <h1>, então dentro de um par de chaves adicionamos as declarações, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as declarações são formadas por uma propriedade e um valor.
+Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o &lt;h1&gt;, então dentro de um par de chaves adicionamos as declarações, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as declarações são formadas por uma propriedade e um valor.
 
 Percebam que podemos colocar vários seletores em uma regra separando-os por vírgula.
 
