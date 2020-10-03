@@ -128,21 +128,15 @@ Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiado
   <li>Recomendar padrões técnicos e procedimentos operacionais para o desenvolvimento da Web no Brasil, em cumprimento das responsabilidades do NIC.br para o Comitê Gestor da Internet no Brasil.</li>
 </ul>
 
-## Internet Timeline
-<ol>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
-</ol>
-
 <div align="center"><h1>2. Client-side and Server-side</h1></div>
+<p>Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web.
+  
+Em desenvolvimento para a Web sempre separamos dois setores: a parte do servidor e a parte do cliente.
+  
+O cliente é o computador do usuário, assim como o seu. É utilizado pelas pessoas para acessar sites ou sistemas a partir de um endereço (Google Chrome, Internet Explorer, Safari, Mozilla Firefox e etc). Os arquivos vindos por esse endereço são disponibilizados por um outro computador que serve estes arquivos. Estes computadores que estão em algum lugar do mundo que servem arquivos e outros serviços são chamados de servidores (Apache, IIS, Glassfish e etc).</p>
 
 ## What's Front-end, Back-end and Full-Stack Development?
-
+<p></p>
 <div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div>
 
 <div align="center"><h1>3. HTML5 and CSS3</h1></div>
