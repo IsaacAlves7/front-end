@@ -197,11 +197,11 @@ The nós de cada documento são organizados em in tree structure, is called of <
   <code><b>📂 public/ </b></code>
   <code><b>📂 styles/</b></code>
   <code><b>📂 css/</b></code>
-  <code><b>📝 style.css</b></code>
+  <code><p>📝 style.css</p></code>
   <code><b>📂 images/</b></code>
   <code><b>📂 src/</b></code>
   <code><b>📂 pages/</b></code>
-  <code><b>index.html📝</b></code>
+  <code><p>📝 index.html</p></code>
 </pre>
 
 <pre>
