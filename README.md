@@ -193,15 +193,15 @@ The nós de cada documento são organizados em in tree structure, is called of <
 
 <p>Tudo começa com a pasta assets, public e src dentro dela. </p>
 <pre>
-<code><h1>Diretório 📂</h1></code>
-  <code><b>public 📂</b></code>
-  <code><b>styles 📂</b></code>
-  <code><b>css 📂</b></code>
-  <code><b>style.css</b></code>
-  <code><b>images 📂</b></code>
-  <code><b>src 📂</b></code>
-  <code><b>pages 📂</b></code>
-  <code><b>index.html</b></code>
+<code><h1>📂 assets/</h1></code>
+  <code><b>📂 public/ </b></code>
+  <code><b>📂 styles/</b></code>
+  <code><b>📂 css/</b></code>
+  <code><b>📝 style.css</b></code>
+  <code><b>📂 images/</b></code>
+  <code><b>📂 src/</b></code>
+  <code><b>📂 pages/</b></code>
+  <code><b>index.html📝</b></code>
 </pre>
 
 <pre>
