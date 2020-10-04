@@ -196,6 +196,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <pre>
 <code><h2>📂 assets/</h2></code>
   <code><b>📂 public/ </b></code>
+  <hr>
   <code><b>📂 images</b></code>
   <code><b>📂 scripts</b></code>
   <hr>
