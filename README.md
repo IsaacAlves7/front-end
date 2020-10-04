@@ -244,7 +244,6 @@ The nós de cada documento são organizados em in tree structure, is called of <
          document.getElementById("demo").innerHTML = "Hello JavaScript!";
      }
 &lt;/script&gt;</code>
-
 <code>&lt;script type="script/javascript" src="main.js"&gt;&lt;/script&gt;</code>
 </pre>
   </p>
