@@ -260,19 +260,20 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 
 
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
-<p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.
+<p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
 
 A sintaxe é bem simples e pode ser explicada com a frase "você cria regras de estilo para elementos ou grupos de elementos".
 
 Vamos usar um elemento HTML que vimos anteriormente, a âncora , para exemplificar.
 
-Uma regra CSS é representada por um seletor ou um grupo de seletores, no nosso caso é o &lt;h1&gt;, então dentro de um par de chaves adicionamos as declarações, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as declarações são formadas por uma propriedade e um valor.</p>
+Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o <b>a</b>, então dentro de um par de chaves adicionamos as declarações, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as <b>declarações</b> são formadas por uma propriedade e um valor.</p>
 
 ## Types of Selectors and Declarations
 <p>Percebam que podemos colocar vários seletores em uma regra separando-os por vírgula.
 
 <pre>
- <code>h1 { color: #000; }</code>
+ <code>a { color: #000;
+           font-size: 30px;}</code>
  <code>h2,h3,h4 { color: #ccc; }</code>
  <code>h5 h6 { color: #cc3232; }</code>
 </pre>
