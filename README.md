@@ -234,6 +234,9 @@ The nós de cada documento são organizados em in tree structure, is called of <
   <pre>
    <code>&lt;meta charset="utf-8"&gt;</code>
    <code>&lt;meta name="description" content="Free Web Tutorials"&gt;</code>
+   <code>&lt;meta name="keywords" contents="HTML,CSS,XML,JavaScript"&gt;</code>
+   <code>&lt;meta name="author" content="Hege Refsnes"&gt;</code>
+   <code>&lt;meta http-equiv="refresh" content="30"&gt;</code>
   </pre>
   </p>
 
