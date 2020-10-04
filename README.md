@@ -283,8 +283,10 @@ Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer
 O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele representa um elemento HTML, e com IDs e Classes podemos representar qualquer tipo de elemento mas há algumas diferenças entre eles:
 
 <strong>ID</strong>: é representado pelo símbolo # (hash) seguido de um nome para esse ID.
+<pre><code>#id{}</code></pre>
 
 <strong>Classe</strong>: a classe é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash.
+<pre><code>.class{}</code></pre>
 
 E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
 
