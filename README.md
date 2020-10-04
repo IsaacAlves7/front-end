@@ -217,7 +217,8 @@ The nós de cada documento são organizados em in tree structure, is called of <
 </pre>
 
 <div align="center"><h1>4. TAGs HTML</h1></div>
-
+<p>Todo elemento HTML é uma tag que é definida entre os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;, há exceções de Tags que não precisem de um fechamento somente a Tag aberta, como é o caso do &lt;meta&gt; e &lt;link&gt;</b></p>
+  
 ## Text TAGs
 
 ### TAGs de Título
@@ -247,6 +248,9 @@ The nós de cada documento são organizados em in tree structure, is called of <
 
 ### Link TAGs
 <code>&lt;a href="" target=""&gt;&lt;/a&gt;</code>
+
+### Tag script
+
 
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
 
