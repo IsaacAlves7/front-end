@@ -225,10 +225,15 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <p>O <b>&lt;head&gt;</b> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <i>metadados</i>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos CSS e JavaScript.
 
 <p>No <b>&lt;head&gt;</b> encontramos:
-  <li><b>&lt;title&gt;</b> que representa o título do documento da página HTML.</li>
+  <li><b>&lt;title&gt;</b> que representa o título do documento da página HTML:</li>
   <pre><code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code></pre>
-  <li><b>&lt;link&gt;</b> que representa ligação com os arquivos css externos.</li>
+  <li><b>&lt;link&gt;</b> que representa ligação com os arquivos css externos:</li>
   <pre><code>&lt;link rel="stylesheet" href="style.css"&gt;</code></pre>
+  <li><b>&lt;meta&gt;</b> que representa comandos para definições globais da página:</li>
+  <pre>
+   <code>&lt;meta charset="utf-8"&gt;</code>
+   <code>&lt;meta name="description" content="Free Web Tutorials"&gt;</code>
+  </pre>
   </p>
 
 O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
@@ -289,10 +294,12 @@ Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer
 O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele representa um elemento HTML, e com IDs e Classes podemos representar qualquer tipo de elemento mas há algumas diferenças entre eles:
 
 <strong>ID</strong>: é representado pelo símbolo # (hash) seguido de um nome para esse ID.
-<pre><code>#id{}</code></pre>
+<pre><code>#id{
+  }</code></pre>
 
 <strong>Classe</strong>: a classe é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash.
-<pre><code>.class{}</code></pre>
+<pre><code>.class{
+  }</code></pre>
 
 E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
 
