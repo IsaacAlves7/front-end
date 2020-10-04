@@ -273,7 +273,7 @@ Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores<
 
 <pre>
  <code>a { color: #000;
-           font-size: 30px;}</code>
+   font-size: 30px;}</code>
  <code>h2,h3,h4 { color: #ccc; }</code>
  <code>h5 h6 { color: #cc3232; }</code>
 </pre>
