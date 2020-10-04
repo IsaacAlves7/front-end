@@ -251,7 +251,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <h2>&lt;body&gt;</h2>
 O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
 
-<li><b>&lt;h1&gt;&lt;h2&gt;&lt;h3&gt;&lt;h4&gt;&lt;h5&gt;&lt;h6&gt;</b> comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:</li>
+<li><b>&lt;h1&gt;&lt;h2&gt;&lt;h3&gt;&lt;h4&gt;&lt;h5&gt;&lt;h6&gt;</b> tags de títulos que são por ordem de h1-h6 diminuindo a fonte:</li>
 <pre>
 <code>&lt;hgroup&gt;</code>
   <code>&lt;h1&gt;título 1&lt;/h1&gt;</code>
@@ -262,6 +262,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
   <code>&lt;h6&gt;título 6&lt;/h6&gt;</code>
 <code>&lt;/hgroup&gt;</code>
 </pre>
+<p><b>&lt;hgroup&gt;</b> é uma tag para um grupo de tags, não possui valor semântico, apenas serve para deixar o código mais legível.</p>
 
 <pre>
  <code>&lt;p&gt;parágrafo&lt;/p&gt;</code>
