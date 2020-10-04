@@ -226,7 +226,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
 </pre>
 
 <h2>&lt;head&gt;</h2>
-<p>O <b>&lt;head&gt;</b> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <i>metadados</i>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos CSS e JavaScript.
+<p>O <b>&lt;head&gt;</b> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <i>metadados</i>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos <b>CSS</b> e <strong>JavaScript</strong>.
 
 <p>No <b>&lt;head&gt;</b> encontramos:
   <li><b>&lt;title&gt;</b> que representa o título do documento da página HTML:</li>
