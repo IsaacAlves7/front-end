@@ -238,6 +238,12 @@ The nós de cada documento são organizados em in tree structure, is called of <
    <code>&lt;meta name="author" content="Hege Refsnes"&gt;</code>
    <code>&lt;meta http-equiv="refresh" content="30"&gt;</code>
   </pre>
+  <li><b>&lt;script&gt;</b> comando para chamada de rotinas em JavaScript:</li>
+  <pre><code>&lt;script&gt;
+     function myFunction {
+         document.getElementById("demo").innerHTML = "Hello JavaScript!";
+     }
+  &lt;/script&gt;</code></pre>
   </p>
 
 <h2>&lt;body&gt;</h2>
