@@ -224,12 +224,12 @@ The nós de cada documento são organizados em in tree structure, is called of <
 
 <p>O <b>&lt;head&gt;</b> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <i>metadados</i>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos CSS e JavaScript.
 
-O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
-  
-## Text TAGs
+<p>No <b>&lt;head&gt;</b> encontramos:</p>
+<b>&lt;title&gt; que representa o título do documento da página HTML.</b>
+<pre><code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code></pre>
 
-### TAGs de Título
-<p></p>
+O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
+
 <pre>
 <code>&lt;hgroup&gt;</code>
   <code>&lt;h1&gt;título 1&lt;/h1&gt;</code>
@@ -241,7 +241,6 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;/hgroup&gt;</code>
 </pre>
 
-### TAGs para Texto
 <pre>
  <code>&lt;p&gt;parágrafo&lt;/p&gt;</code>
  <code>&lt;i&gt;itálico&lt;/i&gt;</code>
@@ -253,11 +252,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
  <code>&lt;hr&gt;</code>
 </pre>
 
-### Link TAGs
 <code>&lt;a href="" target=""&gt;&lt;/a&gt;</code>
-
-### Tag script
-
 
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
 <p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
