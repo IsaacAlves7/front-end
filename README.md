@@ -195,13 +195,15 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <p>Tudo começa com o diretório <b>assets</b>, e dentro dele o <b>public</b> e <b>src</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
 <pre>
 <code><h2>📂 assets/</h2></code>
-  <code><h4>📂 public/ </h4></code>
+  <code><b>📂 public/ </b></code>
   <code><b>📂 images</b></code>
   <code><b>📂 scripts</b></code>
-  <code><h4>📂 styles/</h4></code>
+  <hr>
+  <code><b>📂 styles/</b></code>
   <code><b>📂 css/</b></code>
   <code><p>📝 style.css</p></code>
-  <code><h4>📂 src/</h4></code>
+  <hr>
+  <code><b>📂 src/</b></code>
   <code><b>📂 pages/</b></code>
   <code><p>📝 index.html</p></code>
 </pre>
