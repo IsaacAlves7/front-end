@@ -185,6 +185,9 @@ de uma página da internet e sua maior vantagem é efetuar a separação entre o
 <p>The <b>DOM</b> (<i>Document Object Model</i>) is a multiplataform convention and independent of language for representing and interacting with objects in <b>HTML</b>, <b>XHTML</b> e <b>XML</b> documents.
 
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
+<hr>
+
+<div align="center"><h1>4. TAGs HTML</h1></div>
 
 ## Estrutura do HTML
 
@@ -222,7 +225,6 @@ The nós de cada documento são organizados em in tree structure, is called of <
 
 O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
 
-<div align="center"><h1>4. TAGs HTML</h1></div>
 <p>Todo elemento HTML é chamado de <b>tag</b> que é definida entre os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;</b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <b>&lt;meta&gt;</b> e <b>&lt;link&gt;</b>.</p>
   
 ## Text TAGs
