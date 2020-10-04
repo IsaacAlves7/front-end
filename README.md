@@ -224,9 +224,10 @@ The nós de cada documento são organizados em in tree structure, is called of <
 
 <p>O <b>&lt;head&gt;</b> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <i>metadados</i>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos CSS e JavaScript.
 
-<p>No <b>&lt;head&gt;</b> encontramos:</p>
-<b>&lt;title&gt; que representa o título do documento da página HTML.</b>
-<pre><code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code></pre>
+<p>No <b>&lt;head&gt;</b> encontramos:
+  <li><b>&lt;title&gt;</b> que representa o título do documento da página HTML.</li>
+  <pre><code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code></pre>
+  </p>
 
 O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
 
