@@ -263,16 +263,15 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;/hgroup&gt;</code>
 </pre>
 
-<pre>
- <code>&lt;p&gt;parágrafo&lt;/p&gt;</code>
- <code>&lt;i&gt;itálico&lt;/i&gt;</code>
- <code>&lt;em&gt;itálico&lt;/em&gt;</code>
+<pre><code>&lt;p&gt;parágrafo&lt;/p&gt;</code></pre>
+<pre><code>&lt;i&gt;itálico&lt;/i&gt;</code>
+     <code>&lt;em&gt;itálico&lt;/em&gt;</code></pre>
  <code>&lt;b&gt;negrito&lt;/b&gt;</code>
  <code>&lt;strong&gt;negrito&lt;/strong&gt;</code>
  <code>&lt;pre&gt;&lt;/pre&gt;</code>
  <code>&lt;br&gt;</code>
  <code>&lt;hr&gt;</code>
-</pre>
+
 
 <code>&lt;a href="" target=""&gt;&lt;/a&gt;</code>
 
