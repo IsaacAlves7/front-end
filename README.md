@@ -227,6 +227,8 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <p>No <b>&lt;head&gt;</b> encontramos:
   <li><b>&lt;title&gt;</b> que representa o título do documento da página HTML.</li>
   <pre><code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code></pre>
+  <li><b>&lt;link&gt;</b> que representa ligação com os arquivos css externos.</li>
+  <pre><code>&lt;link rel="stylesheet" href="style.css"&gt;</code></pre>
   </p>
 
 O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
