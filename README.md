@@ -282,6 +282,20 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 
 <code>&lt;a href="" target=""&gt;&lt;/a&gt;</code>
 </ul>
+<div align="center"><h1>6. Semantic HTML5</h1></div>
+
+## New Semantic Elements in HTML5 
+<div align="center"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" height="257"/> <img src="https://www.w3schools.com/html/img_sem_elements.gif"/></div>
+<ul>
+<li><p>O elemento <b>&lt;section&gt;</b> representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.</p></li>
+<pre>
+  <code>&lt;section&gt;
+   &lt;h1&gt;Título&lt;/h1&gt;
+   &lt;p&gt;Parágrafo&lt;/p&gt;
+  &lt;/section&gt;</code>
+</pre>
+</ul>
+
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
 <p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
 
@@ -342,19 +356,6 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
   <li><b>bottom</b>: Down position</li>
 </ul>
 
-<div align="center"><h1>6. Semantic HTML5</h1></div>
-
-## New Semantic Elements in HTML5 
-<div align="center"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" height="257"/> <img src="https://www.w3schools.com/html/img_sem_elements.gif"/></div>
-<ul>
-<li><p>O elemento <b>&lt;section&gt;</b> representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.</p></li>
-<pre>
-  <code>&lt;section&gt;
-   &lt;h1&gt;Título&lt;/h1&gt;
-   &lt;p&gt;Parágrafo&lt;/p&gt;
-  &lt;/section&gt;</code>
-</pre>
-</ul>
 <div align="center"><h1>6. Responsive Layout</h1></div>
 
 ## What's the Responsive Layout?
