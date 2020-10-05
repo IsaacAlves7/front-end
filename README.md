@@ -182,7 +182,15 @@ de uma página da internet e sua maior vantagem é efetuar a separação entre o
 
 ## JavaScript - JS
 <div align="center"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200"/></div>
+<p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
 
+Com o JavaScript podemos criar efeitos especiais para nossas páginas na Web, além de podermos proporcionar maior interatividade com nossos usuários.
+
+O JavaScript é uma linguagem orientada a objetos, ou seja, ela trata todos os elementos da página como objetos distintos, facilitando a tarefa da programação.
+
+Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem deseja criar páginas Web dinâmicas e interativas.
+
+É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.</p>
 
 ## DOM - Document Object Model
 <div align="center"><img src="https://www.kirupa.com/html5/images/DOM_js_72.png"/></div><br>
