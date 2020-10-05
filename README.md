@@ -221,6 +221,10 @@ Além disso, são divididas em categorias conforme a seguir:
   <li>Formulários</li>
   <li>Interativo</li>
 </ul>
+
+Uma TAG pode conter <b>atributos</b>, que são informações que alteram o comportamento da TAG. Os atributos podem ser divididos em atributos específicos para cada TAG e atributos globais que são comuns a todas as tags.
+
+Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o <b>CSS</b>, o <b>Javascript</b>.
 </p>
 
 ## Estrutura do HTML
