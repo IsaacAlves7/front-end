@@ -241,6 +241,12 @@ The nós de cada documento são organizados em in tree structure, is called of <
 
 <pre>&lt;meta http-equiv="Content-Type" content="text/html";charset="UTF-8"&gt;</pre>
 
+<p>Isso ainda é possível, mas a versão mais curta é preferível, já que é mais fácil de digitar e funciona em todo lugar.
+
+Você também perceberá que não colocamos aspas no atributo charset=utf-8 nem utilizamos o autoencerramento na tag. O HTML5 não é uma linguagem XML, então você não precisa dessas coisas.
+
+Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada como text/html (apenas um validador XHTML se importaria). Assim, favorecer uma forma em detrimento da outra no HTML5 seria totalmente arbitrário e tornaria inválidas as páginas que não seguissem o formato, apesar delas funcionarem perfeitamente em qualquer navegador. Desse modo, não importa para o HTML5 qual forma você utiliza.</p>
+
 <h2>&lt;!Doctype html&gt;</h2>
 <p>É o tipo do documento, vale ressaltar que não é obrigatório.</p>
 <h2>&lt;html&gt;</h2>
