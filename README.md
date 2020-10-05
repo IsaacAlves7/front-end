@@ -130,7 +130,8 @@ Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiado
 
 ## Internet Timeline
 <ol>
-  <li>1969-ARPANET</li>
+  <li>1969 - ARPANET</li>
+  <li>1995 - Internet</li>
 </ol>
 <hr>
 <div align="center"><h1>2. Client-side and Server-side</h1></div>
