@@ -262,14 +262,13 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
   <code>&lt;h6&gt;título 6&lt;/h6&gt;</code>
 <code>&lt;/hgroup&gt;</code>
 </pre>
-
 <li><p><b>&lt;p&gt;</b> elemento que representa um parágrafo:</p></li>
 <pre><code>&lt;p&gt;parágrafo&lt;/p&gt;</code></pre>
 <li><p><b>&lt;i&gt;</b> e <b>&lt;em&gt;</b> elementos que representam o texto do estilo do tipo <em>itálico</em>.</p></li>
 <pre><code>&lt;i&gt;itálico&lt;/i&gt;</code>
 <code>&lt;em&gt;itálico&lt;/em&gt;</code></pre>
 <li><p><b>&lt;b&gt;</b> e <b>&lt;strong&gt;</b> elementos que representam o texto do estilo do tipo <b>negrito</b>.</p></li>
-<pre><code>&lt;b&gt;negrito&lt;/b&gt;</code><br>
+<pre><code>&lt;b&gt;negrito&lt;/b&gt;</code>
 <code>&lt;strong&gt;negrito&lt;/strong&gt;</code></pre>
 
 <code>&lt;pre&gt;&lt;/pre&gt;</code>
