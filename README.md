@@ -236,7 +236,7 @@ Além das TAGs, existem outros elementos que ajudam na construção de documento
 ## Atributos de uma TAG
 <p><b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
 
-Os Atributos possuem nome e um valor. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo de uma TAG:
+Os Atributos possuem nome e um valor. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <b>&lt;link&gt;</b>:
 <pre>
 &lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;
 </pre>
