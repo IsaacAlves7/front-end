@@ -268,7 +268,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 
 <p><b>&lt;i&gt;</b> e <b>&lt;em&gt;</b> elementos que representam o texto do estilo <em>itálico</em>.</p>
 <pre><code>&lt;i&gt;itálico&lt;/i&gt;</code>
-   <code>&lt;em&gt;itálico&lt;/em&gt;</code></pre>
+<code>&lt;em&gt;itálico&lt;/em&gt;</code></pre>
    
  <code>&lt;b&gt;negrito&lt;/b&gt;</code>
  <code>&lt;strong&gt;negrito&lt;/strong&gt;</code>
