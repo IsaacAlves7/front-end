@@ -225,6 +225,8 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <code>&lt;/html&gt;</code>
 </pre>
 
+<p>Basicamente, a estrutura do documento html se baseia em <b>&lt;!Doctype html&gt;</b>, <b>&lt;html&gt;</b>, <b>&lt;head&gt;</b>, <b>&lt;body&gt;</b></p>
+
 <h2>&lt;head&gt;</h2>
 <p>O <b>&lt;head&gt;</b> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <i>metadados</i>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos <b>CSS</b> e <strong>JavaScript</strong>.
 
