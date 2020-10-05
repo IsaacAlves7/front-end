@@ -185,6 +185,9 @@ de uma página da internet e sua maior vantagem é efetuar a separação entre o
 <p>The <b>DOM</b> (<i>Document Object Model</i>) is a multiplataform convention and independent of language for representing and interacting with objects in <b>HTML</b>, <b>XHTML</b> e <b>XML</b> documents.
 
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
+
+## API's
+<p></p>
 <hr>
 
 <div align="center"><h1>4. TAGs HTML</h1></div>
