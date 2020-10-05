@@ -238,7 +238,7 @@ Além das TAGs, existem outros elementos que ajudam na construção de documento
 
 Os Atributos possuem nome e um valor. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo de uma TAG:
 <pre>
-  &lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;
+&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;
 </pre>
 Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso é <b>rel="stylesheet"</b> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <b>href=""</b> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
 </p>
