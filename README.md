@@ -213,7 +213,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <pre>
 <h2>📝 index.html</h2>
 <code>&lt;!Doctype html&gt;</code>
-<code>&lt;html&gt;</code>
+<code>&lt;html lang="pt-br"&gt;</code>
 <code>&lt;head&gt;</code>
   <code>&lt;meta charset="utf-8"&gt;</code>
   <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
@@ -225,8 +225,11 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <code>&lt;/html&gt;</code>
 </pre>
 
-<p>Basicamente, a estrutura do documento html se baseia em <b>&lt;!Doctype html&gt;</b>, <b>&lt;html&gt;</b>, <b>&lt;head&gt;</b>, <b>&lt;body&gt;</b></p>
-
+<p>Basicamente, a estrutura do documento html se baseia em <b>&lt;!Doctype html&gt;</b>, <b>&lt;html&gt;</b>, <b>&lt;head&gt;</b>, <b>&lt;body&gt;.</b></p>
+<h2>&lt;!Doctype html&gt;</h2>
+<p>É o tipo do documento, vale ressaltar que não é obrigatório.</p>
+<h2>&lt;html&gt;</h2>
+<p>É a tag onde editamos o documento HTML.</p>
 <h2>&lt;head&gt;</h2>
 <p>O <b>&lt;head&gt;</b> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <i>metadados</i>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos <b>CSS</b> e <strong>JavaScript</strong>.
 
