@@ -276,6 +276,13 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 <h2>&lt;head&gt;</h2>
 <p>O <b>&lt;head&gt;</b> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <i>metadados</i>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos <b>CSS</b> e <strong>JavaScript</strong>.
 
+## Atributos de uma TAG
+<p><b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem atributos globais (que funcionam em todas as Tags) e específicos (que são direcionados para cada Tag, através de especificação).
+
+Os Atributos possuem nome e um valor. Existem Atributos que você vai usar sempre e existem outros que serão mais raros.
+
+</p>
+
 <p>No <b>&lt;head&gt;</b> encontramos:
   <ul>
   <li><b>&lt;title&gt;</b> que representa o título do documento da página HTML:</li>
