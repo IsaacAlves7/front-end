@@ -236,8 +236,11 @@ Além das TAGs, existem outros elementos que ajudam na construção de documento
 ## Atributos de uma TAG
 <p><b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
 
-Os Atributos possuem nome e um valor. Existem Atributos que você vai usar sempre e existem outros que serão mais raros.
-
+Os Atributos possuem nome e um valor. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo de uma TAG:
+<pre>
+  &lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;
+</pre>
+Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso é <b>rel="stylesheet"</b> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <b>href=""</b> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
 </p>
 
 ## Estrutura do HTML
