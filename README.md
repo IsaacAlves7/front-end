@@ -128,6 +128,11 @@ Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiado
   <li>Recomendar padrões técnicos e procedimentos operacionais para o desenvolvimento da Web no Brasil, em cumprimento das responsabilidades do NIC.br para o Comitê Gestor da Internet no Brasil.</li>
 </ul>
 
+## Internet Timeline
+<ol>
+  <li>1969-ARPANET</li>
+</ol>
+<hr>
 <div align="center"><h1>2. Client-side and Server-side</h1></div>
 <p>Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web.
   
