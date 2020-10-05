@@ -180,6 +180,10 @@ In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by 
 <p><b>CSS</b> (<i>Cascading Style Sheets</i>), is a "Stylesheets" composta for "camadas" and used to define the presentation (aparence) in internet pages that adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML). O CSS define como serão exibidos os elementos contidos no código 
 de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.</p>
 
+## JavaScript - JS
+<div align="center"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200"/></div>
+
+
 ## DOM - Document Object Model
 <div align="center"><img src="https://www.kirupa.com/html5/images/DOM_js_72.png"/></div><br>
 <p>The <b>DOM</b> (<i>Document Object Model</i>) is a multiplataform convention and independent of language for representing and interacting with objects in <b>HTML</b>, <b>XHTML</b> e <b>XML</b> documents.
@@ -191,11 +195,11 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <hr>
 
 <div align="center"><h1>4. TAGs HTML</h1></div>
-<p>Todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;</b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <b>&lt;meta&gt;</b> e <b>&lt;link&gt;</b>.</p>
+<p>É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;</b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <b>&lt;meta&gt;</b> e <b>&lt;link&gt;</b>.</p>
 
 ## Estrutura do HTML
 
-<p>Tudo começa com o diretório <b>assets</b>, e dentro dele o <b>public</b> e <b>src</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
+<p>Tudo começa com o diretório <b>assets</b>, e dentro dele as pastas <b>public</b> e <b>src</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
 <pre>
 <code><h2>📂 /assets....</h2></code>
   <code><b>📂 /public...</b></code>
