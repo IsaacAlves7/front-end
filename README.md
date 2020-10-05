@@ -229,7 +229,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <h2>&lt;!Doctype html&gt;</h2>
 <p>É o tipo do documento, vale ressaltar que não é obrigatório.</p>
 <h2>&lt;html&gt;</h2>
-<p>É a tag onde editamos o documento HTML.</p>
+<p>É a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar.</p>
 <h2>&lt;head&gt;</h2>
 <p>O <b>&lt;head&gt;</b> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <i>metadados</i>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos <b>CSS</b> e <strong>JavaScript</strong>.
 
