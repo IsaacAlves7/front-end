@@ -288,7 +288,7 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 <h2>&lt;!Doctype html&gt;</h2>
 <p>É o tipo do documento, vale ressaltar que não é obrigatório.</p>
 <h2>&lt;html&gt;</h2>
-<p>É a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar.</p>
+<p>É a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar. Possui o atributo <b>lang=""</b> que define a língua regional do documento.</p>
 <h2>&lt;head&gt;</h2>
 <p>O <b>&lt;head&gt;</b> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <i>metadados</i>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos <b>CSS</b> e <strong>JavaScript</strong>.
 
