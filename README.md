@@ -226,6 +226,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <p>O <b>&lt;head&gt;</b> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <i>metadados</i>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos <b>CSS</b> e <strong>JavaScript</strong>.
 
 <p>No <b>&lt;head&gt;</b> encontramos:
+  <ul>
   <li><b>&lt;title&gt;</b> que representa o título do documento da página HTML:</li>
   <pre><code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code></pre>
   <li><b>&lt;link&gt;</b> que representa ligação com os arquivos css externos:</li>
@@ -247,10 +248,10 @@ The nós de cada documento são organizados em in tree structure, is called of <
 <code>&lt;script type="script/javascript" src="main.js"&gt;&lt;/script&gt;</code>
 </pre>
   </p>
-
+</ul>
 <h2>&lt;body&gt;</h2>
 O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
-
+<ul>
 <li><b>&lt;h1&gt;&lt;h2&gt;&lt;h3&gt;&lt;h4&gt;&lt;h5&gt;&lt;h6&gt;</b> tags de títulos que são por ordem de h1-h6 diminuindo a fonte (do maior para o menor). <b>&lt;hgroup&gt;</b> é uma tag para um grupo de tags, não possui valor semântico, apenas serve para deixar o código mais legível.</li>
 <pre>
 <code>&lt;hgroup&gt;</code>
@@ -277,7 +278,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 
 
 <code>&lt;a href="" target=""&gt;&lt;/a&gt;</code>
-
+</ul>
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
 <p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
 
