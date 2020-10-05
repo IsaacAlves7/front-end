@@ -343,7 +343,7 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
 ## New Semantic Elements in HTML5 
 <div align="center"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" height="257"/> <img src="https://www.w3schools.com/html/img_sem_elements.gif"/></div>
 <ul>
-<li><p>O elemento &lt;section&gt; representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.</p></li>
+<li><p>O elemento <b>&lt;section&gt;</b> representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.</p></li>
 <pre>
   <code>&lt;section&gt;
    &lt;h1&gt;Título&lt;/h1&gt;
