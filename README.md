@@ -239,7 +239,7 @@ The nós de cada documento são organizados em in tree structure, is called of <
 
 <p>Basicamente, a estrutura do documento html se baseia em <b>&lt;!Doctype html&gt;</b>, <b>&lt;html&gt;</b>, <b>&lt;head&gt;</b>, <b>&lt;body&gt;</b>. Observe a tag  muito cuidadosamente. Aqueles acostumados a escrever XHTML perceberam três estranhezas. A primeira é que a tag  está muito mais curta do que costumava ser até então - estávamos acostumados a utilizar:</b></p>
 
-<pre>&lt;meta http-equiv="Content-Type" content="text/html";charset="UTF-8"&gt;</pre>
+<pre>&lt;meta http-equiv="Content-Type" content="text/html;charset=UTF-8"&gt;</pre>
 
 <p>Isso ainda é possível, mas a versão mais curta é preferível, já que é mais fácil de digitar e funciona em todo lugar.
 
