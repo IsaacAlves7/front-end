@@ -292,6 +292,13 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 ## New Semantic Elements in HTML5 
 <div align="center"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" height="257"/> <img src="https://www.w3schools.com/html/img_sem_elements.gif"/></div>
 <ul>
+<li><p>O elemento <b>&lt;header&gt;</b> representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.</p></li>
+<pre>
+  <code>&lt;section&gt;
+   &lt;h1&gt;Título&lt;/h1&gt;
+   &lt;p&gt;Parágrafo&lt;/p&gt;
+  &lt;/section&gt;</code>
+</pre>
 <li><p>O elemento <b>&lt;section&gt;</b> representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.</p></li>
 <pre>
   <code>&lt;section&gt;
