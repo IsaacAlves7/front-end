@@ -227,6 +227,13 @@ Uma TAG pode conter <b>atributos</b>, que são informações que alteram o compo
 Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o <b>CSS</b>, o <b>Javascript</b>.
 </p>
 
+## Atributos de uma TAG
+<p><b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem atributos globais (que funcionam em todas as Tags) e específicos (que são direcionados para cada Tag, através de especificação).
+
+Os Atributos possuem nome e um valor. Existem Atributos que você vai usar sempre e existem outros que serão mais raros.
+
+</p>
+
 ## Estrutura do HTML
 
 <p>Tudo começa com o diretório <b>assets</b>, e dentro dele as pastas <b>public</b> e <b>src</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
@@ -275,13 +282,6 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 <p>É a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar.</p>
 <h2>&lt;head&gt;</h2>
 <p>O <b>&lt;head&gt;</b> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <i>metadados</i>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos <b>CSS</b> e <strong>JavaScript</strong>.
-
-## Atributos de uma TAG
-<p><b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem atributos globais (que funcionam em todas as Tags) e específicos (que são direcionados para cada Tag, através de especificação).
-
-Os Atributos possuem nome e um valor. Existem Atributos que você vai usar sempre e existem outros que serão mais raros.
-
-</p>
 
 <p>No <b>&lt;head&gt;</b> encontramos:
   <ul>
