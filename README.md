@@ -184,7 +184,9 @@ In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by 
 ## CSS3 - Cascading Style Sheets 3
 <div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
 <p><b>CSS</b> (<i>Cascading Style Sheets</i>), is a "Stylesheets" composta for "camadas" and used to define the presentation (aparence) in internet pages that adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML). O CSS define como serão exibidos os elementos contidos no código 
-de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.</p>
+de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
+<>
+</p>
 
 ## JavaScript - JS
 <div align="center"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200"/></div>
