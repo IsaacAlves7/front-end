@@ -359,7 +359,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <li><p><b>&lt;sub&gt;</b> elemento que representam o texto do estilo do tipo sobscrito.</p></li>
 <code>&lt;sub&gt;texto sobscrito&lt;/sub&gt;</code>
 <li><p><b>&lt;sup&gt;</b> elemento que representam o texto do estilo do tipo sobrescrito.</p></li>
-<code>&lt;sub&gt;texto sobrescrito&lt;/sub&gt;</code>
+<code>&lt;sup&gt;texto sobrescrito&lt;/sup&gt;</code>
 <li><p><b>&lt;big&gt;</b> elemento que representa o texto com fonte maior que o padrão.</p></li>
 <code>&lt;big&gt;texto com fonte maior do que o padrão&lt;/big&gt;</code>
 <li><p><b>&lt;small&gt;</b> elemento que representa o texto com fonte menor que o padrão.</p></li>
