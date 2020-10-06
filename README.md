@@ -350,8 +350,8 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <li><p><b>&lt;b&gt;</b> e <b>&lt;strong&gt;</b> elementos que representam o texto do estilo do tipo <b>negrito</b>.</p></li>
 <pre><code>&lt;b&gt;negrito&lt;/b&gt;</code>
 <code>&lt;strong&gt;negrito&lt;/strong&gt;</code></pre>
-<li><p><b>&lt;pre&gt;</b> elemento que representam o texto do estilo do tipo <b></b>.</p></li>
-<code>&lt;pre&gt;&lt;/pre&gt;</code>
+<li><p><b>&lt;pre&gt;</b> elemento que apresenta um bloco de texto pré-formatado, preservando seu conteúdo.<b></b>.</p></li>
+<code>&lt;pre&gt;Bloco de texto pré-formatado.&lt;/pre&gt;</code>
 <li><p><b>&lt;br&gt;</b> elemento que representam o texto do estilo do tipo <b></b>.</p></li>
 <code>&lt;br&gt;</code>
 <li><p><b>&lt;hr&gt;</b> elemento que representam o texto do estilo do tipo <b></b>.</p></li>
