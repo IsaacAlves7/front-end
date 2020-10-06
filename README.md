@@ -109,7 +109,7 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 
 ![img13](https://user-images.githubusercontent.com/61624336/94971529-94765a80-04dd-11eb-9e7d-df509e046568.jpg)
 
-<p>Em outubro de 1994, Tim Berners-Lee fundou o <strong>World Wide Web Consortium</strong> (W3C) no Laboratório de Ciência da Computação do Massachusetts Institute of Technology [MIT/LCS] em colaboração com o CERN, onde a Web surgiu, com apoio da DARPA e da Comissão Europeia. Em Abril de 1995, o <b>INRIA</b> (Institut National de Recherche en Informatique et Automatique) se tornou o primeiro host do W3C Europeu, seguido da Universidade de Keio no Japão (campus Shonan Fujisawa) na Ásia em 1996.
+<p style="color:olive;">Em outubro de 1994, Tim Berners-Lee fundou o <strong>World Wide Web Consortium</strong> (W3C) no Laboratório de Ciência da Computação do Massachusetts Institute of Technology [MIT/LCS] em colaboração com o CERN, onde a Web surgiu, com apoio da DARPA e da Comissão Europeia. Em Abril de 1995, o <b>INRIA</b> (Institut National de Recherche en Informatique et Automatique) se tornou o primeiro host do W3C Europeu, seguido da Universidade de Keio no Japão (campus Shonan Fujisawa) na Ásia em 1996.
 
 Em 2003, <b>ERCIM</b> (Consórcio Europeu de Pesquisa em Informática e Matemática) assumiu o papel de host europeu.
 
@@ -198,7 +198,7 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 <pre>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</pre>
 <li><b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada.</li>
 <br><b>Exemplo de CSS inline:</b><br>
-<pre>&lt;p style="color:olive;font-size:19px;background-color:black;"&gt;&lt;/p&gt;</pre>
+<pre>&lt;p style="color:olive;font-size:19px;background-color:black"&gt;&lt;/p&gt;</pre>
 </ul>
 </p>
 
@@ -413,7 +413,7 @@ Vamos usar um elemento HTML que vimos anteriormente, a âncora , para exemplific
 
 Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o <b>a</b>, então dentro de um par de chaves adicionamos as declarações, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as <b>declarações</b> são formadas por uma propriedade e um valor.</p>
 
-## Types of Selectors and Declarations
+## Tipos de Seletores, Declarações, Propriedades e Valores
 <p>Percebam que podemos colocar vários seletores em uma regra separando-os por vírgula.
 
 <pre>
