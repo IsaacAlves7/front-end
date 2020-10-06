@@ -410,11 +410,32 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;/html&gt;</code>
 </pre>
 <li><p>O elemento <b>&lt;header&gt;</b> utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.</p></li>
-<pre>
+<pre>  
+<code>&lt;!Doctype html&gt;</code>
+<code>&lt;html lang="pt-br"&gt;</code>
+<code>&lt;head&gt;</code>
+  <code>&lt;meta charset="utf-8"&gt;</code>
+  <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
+  <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
+<code>&lt;/head&gt;</code>
+<code>&lt;body&gt;</code>
+  <code>&lt;header&gt;
+  &lt;hgroup&gt;
+     &lt;h1&gt;Título da seção&lt;/h1&gt;
+     &lt;h2&gt;Segundo título&lt;/h2&gt;
+  &lt;/hgroup&gt;
+  &lt;p&gt;O curso de HTML é muito importante&lt;/p&gt;
+  &lt;/header&gt;</code>
   <code>&lt;section&gt;
-   &lt;h1&gt;Título&lt;/h1&gt;
-   &lt;p&gt;Parágrafo&lt;/p&gt;
+     &lt;h1&gt;Título da seção&lt;/h1&gt;
+     &lt;p&gt;Primeiro parágrafo&lt;/p&gt;
   &lt;/section&gt;</code>
+  <code>&lt;section&gt;
+     &lt;h1&gt;Título da segunda seção&lt;/h1&gt;
+     &lt;p&gt;Segundo parágrafo&lt;/p&gt;
+  &lt;/section&gt;</code>
+<code>&lt;/body&gt;</code>
+<code>&lt;/html&gt;</code>
 </pre>
   
 </ul>
