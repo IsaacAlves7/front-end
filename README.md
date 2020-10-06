@@ -402,7 +402,10 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
      &lt;h1&gt;Título da seção&lt;/h1&gt;
      &lt;p&gt;Primeiro parágrafo&lt;/p&gt;
   &lt;/section&gt;</code>
-   <code>&lt;h1&gt;Hello, World!&lt;/h1&gt;</code>
+  <code>&lt;section&gt;
+     &lt;h1&gt;Título da segunda seção&lt;/h1&gt;
+     &lt;p&gt;Segundo parágrafo&lt;/p&gt;
+  &lt;/section&gt;</code>
 <code>&lt;/body&gt;</code>
 <code>&lt;/html&gt;</code>
 </pre>
