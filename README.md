@@ -131,6 +131,8 @@ Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiado
 </ul>
 
 ## Internet Timeline
+<img src="https://miro.medium.com/max/1200/1*O1cChMT-iaKggag06PJp-Q.png" width="1000"/>
+
 <ol>
   <li>1969 - ARPANET</li>
   <li>1995 - Internet</li>
