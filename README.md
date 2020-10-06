@@ -191,13 +191,13 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 ### Tipos de CSS
 <ul>
 <li><b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML.</li>
-<b>Exemplo de CSS interno:</b><br><br>
+<br><b>Exemplo de CSS interno:</b><br>
 <pre>&lt;style&gt; * { margin: 0; padding: 0;} &lt;/style&gt;</pre>
 <li><b>CSS externo</b>: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML.</li>
-<b>Exemplo de CSS externo:</b><br><br>
+<br><b>Exemplo de CSS externo:</b><br>
 <pre>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</pre>
 <li><b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada.</li>
-<b>Exemplo de CSS inline:</b><br><br>
+<br><b>Exemplo de CSS inline:</b><br>
 <pre>&lt;img src="/assets/public/images/style.jpg" width="100" height="100"/&gt;</pre>
 </ul>
 </p>
