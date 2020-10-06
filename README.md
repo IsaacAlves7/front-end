@@ -364,8 +364,8 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;big&gt;texto com fonte maior do que o padrão&lt;/big&gt;</code>
 <li><p><b>&lt;small&gt;</b> elemento que representa o texto com fonte menor que o padrão.</p></li>
 <code>&lt;small&gt;texto com fonte menor do que o padrão&lt;/small&gt;</code>
-  
-<code>&lt;a href="" target=""&gt;&lt;/a&gt;</code>
+<li><p><b>&lt;a&gt;</b> elemento que representa uma âncora de endereços. Você pode inclusive criar links da sua página html.</p></li>  
+<code>&lt;a href="https://www.google.com/" target="_blank"&gt;Clique no endereço&lt;/a&gt;</code>
 </ul>
 <div align="center"><h1>6. Semantic HTML5</h1></div>
 
