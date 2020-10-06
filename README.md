@@ -189,9 +189,9 @@ de uma página da internet e sua maior vantagem é efetuar a separação entre o
 Há várias formas de inserir modificação no estilo com CSS. Com o CSS você pode especificar muitas propriedades de estilo para qualquer elemento HTML. Cada propriedade tem um nome e um valor, separados por dois pontos (:). Cada declaração de propriedade é separada por um ponto e vírgula (;).
 
 ### Tipos de CSS
-<b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML.
-<b>CSS externo</b>: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML.
-<b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada.
+<b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML.<br>
+<b>CSS externo</b>: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML.<br>
+<b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada.<br>
 </p>
 
 ## JavaScript - JS
