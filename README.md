@@ -314,6 +314,15 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 &lt;/script&gt;</code><br>
 <code>&lt;script type="script/javascript" src="main.js"&gt;&lt;/script&gt;</code>
 </pre>
+<li><b>&lt;style&gt;</b> comando para chamada de rotinas em CSS:</li>
+  <pre><code>&lt;style&gt;
+    h1 {
+    color: blue;
+    font-size: 200px;
+    }
+&lt;/style&gt;</code><br>
+<code>&lt;script type="script/javascript" src="main.js"&gt;&lt;/script&gt;</code>
+</pre>
   </p>
 </ul>
 <h2>&lt;body&gt;</h2>
