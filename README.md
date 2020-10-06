@@ -354,8 +354,17 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;br&gt;</code>
 <li><p><b>&lt;hr&gt;</b> elemento que representam o texto do estilo do tipo <b></b>.</p></li>
 <code>&lt;hr&gt;</code>
-
-
+<li><p><b>&lt;wbr&gt;</b> elemento que dá uma oportunidade de quebra de linha, se necessário.<b></b>.</p></li>
+<code>&lt;wbr&gt;</code>
+<li><p><b>&lt;sub&gt;</b> elemento que representam o texto do estilo do tipo sobscrito.</p></li>
+<code>&lt;sub&gt;texto sobscrito&lt;/sub&gt;</code>
+<li><p><b>&lt;sup&gt;</b> elemento que representam o texto do estilo do tipo sobrescrito.</p></li>
+<code>&lt;sub&gt;texto sobrescrito&lt;/sub&gt;</code>
+<li><p><b>&lt;big&gt;</b> elemento que representa o texto com fonte maior que o padrão.</p></li>
+<code>&lt;big&gt;texto com fonte maior do que o padrão&lt;/big&gt;</code>
+<li><p><b>&lt;small&gt;</b> elemento que representa o texto com fonte menor que o padrão.</p></li>
+<code>&lt;small&gt;texto com fonte menor do que o padrão&lt;/small&gt;</code>
+  
 <code>&lt;a href="" target=""&gt;&lt;/a&gt;</code>
 </ul>
 <div align="center"><h1>6. Semantic HTML5</h1></div>
