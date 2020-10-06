@@ -420,9 +420,16 @@ Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores<
  <code>
  a { 
     color: #000;
-    font-size: 30px;
    }</code>
 </pre>
+
+<ul>
+  <li>a = seletor</li>
+  <li>color = propriedade</li>
+  <li>#000 = valor</li>
+  <li>{color:#000;} = declaração</li>
+
+</ul>
 
 E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento.
 
