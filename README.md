@@ -315,7 +315,7 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 &lt;/script&gt;</code><br>
 <code>&lt;script type="script/javascript" src="main.js"&gt;&lt;/script&gt;</code>
 </pre>
-<li><b>&lt;style&gt;</b> comando para estilização do CSS do tipo (inline):</li>
+<li><b>&lt;style&gt;</b> comando para estilização do CSS do tipo interno:</li>
   <pre><code>&lt;style&gt;
     h1 {
     color: blue;
