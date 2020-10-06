@@ -198,7 +198,7 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 <pre>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</pre>
 <li><b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada.</li>
 <br><b>Exemplo de CSS inline:</b><br>
-<pre>&lt;img src="/assets/public/images/style.jpg" width="100" height="100"/&gt;</pre>
+<pre>&lt;p style="color:olive;font-size:19px;background-color:black;"&gt;&lt;/p&gt;</pre>
 </ul>
 </p>
 
