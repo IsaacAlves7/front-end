@@ -416,7 +416,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <p>Até a versão 4 do HTML as <b>divs</b> eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito na estruturamento da página.</p>
 <div align="center"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" height="257"/> <img src="https://www.w3schools.com/html/img_sem_elements.gif"/></div>
 <ul>
-<li><p>O elemento <b>&lt;section&gt;</b> representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.</p></li>
+<li><p>O elemento <b>&lt;section&gt;</b> (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.</p></li>
 <pre>  
 <code>&lt;!Doctype html&gt;</code>
 <code>&lt;html lang="pt-br"&gt;</code>
@@ -437,7 +437,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;/body&gt;</code>
 <code>&lt;/html&gt;</code>
 </pre>
-<li><p>O elemento <b>&lt;header&gt;</b> utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.</p></li>
+<li><p>O elemento <b>&lt;header&gt;</b> (cabeçalho) utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.</p></li>
 <pre>  
 <code>&lt;!Doctype html&gt;</code>
 <code>&lt;html lang="pt-br"&gt;</code>
@@ -466,7 +466,36 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;/html&gt;</code>
 </pre>
 
-<li><p><b>&lt;nav&gt;</b> este elemento é a seção onde ficam as informações de navegação de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.</p></li>
+<li><p><b>&lt;nav&gt;</b> (navegação) este elemento é a seção onde ficam as informações de de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.</p></li>
+<pre>
+ <code>&lt;!Doctype html&gt;</code>
+<code>&lt;html lang="pt-br"&gt;</code>
+<code>&lt;head&gt;</code>
+  <code>&lt;meta charset="utf-8"&gt;</code>
+  <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
+  <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
+<code>&lt;/head&gt;</code>
+<code>&lt;body&gt;</code>
+  <code>&lt;header&gt;
+  &lt;nav&gt;
+     &lt;h1&gt;Menu principal&lt;/h1&gt;
+     &lt;ul&gt;
+       &lt;li&gt;&lt;a href="article.html"&gt;índices de artigos&lt;/a&gt;&lt;/li&gt;
+       &lt;li&gt;&lt;a href="#"&gt;Link bloqueado&lt;/a&gt;&lt;/li&gt;
+     &lt;/ul&gt;
+  &lt;/nav&gt;
+  &lt;/header&gt;</code>
+  <code>&lt;section&gt;
+     &lt;h1&gt;Título da seção&lt;/h1&gt;
+     &lt;p&gt;Primeiro parágrafo&lt;/p&gt;
+  &lt;/section&gt;</code>
+  <code>&lt;section&gt;
+     &lt;h1&gt;Título da segunda seção&lt;/h1&gt;
+     &lt;p&gt;Segundo parágrafo&lt;/p&gt;
+  &lt;/section&gt;</code>
+<code>&lt;/body&gt;</code>
+<code>&lt;/html&gt;</code>
+</pre>
 </ul>
 
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
