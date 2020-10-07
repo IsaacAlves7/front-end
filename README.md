@@ -522,6 +522,68 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;/body&gt;</code>
 <code>&lt;/html&gt;</code>
 </pre>
+
+<li><p><b>&lt;footer&gt;</b> (rodapé) este elemento é um que contém basicamente as informações sobre o conteúdo da seção, como, por exemplo, o autor, links relacionados etc.</p></li>
+<pre>
+ <code>&lt;!Doctype html&gt;</code>
+<code>&lt;html lang="pt-br"&gt;</code>
+<code>&lt;head&gt;</code>
+  <code>&lt;meta charset="utf-8"&gt;</code>
+  <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
+  <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
+<code>&lt;/head&gt;</code>
+<code>&lt;body&gt;</code>
+     <code>&lt;p&gt;O básico de HTML&lt;/p&gt;</code>
+  <code>&lt;article&gt;
+     <code>&lt;header&gt;
+     <code>&lt;h1&gt;Nova Vitória!&lt;/h1&gt;</code>     
+     <code>&lt;p&gt;2020&lt;/p&gt;</code>        
+    &lt;/header&gt;</code>
+     <code>&lt;p&gt;Ganhou novamente&lt;/p&gt;</code>
+     <code>&lt;p&gt;...&lt;/p&gt;</code>     
+     <code>&lt;footer&gt;
+       <code>&lt;a href="?comments=1"&gt;Comentários&lt;/a&gt;</code>    
+       <code>&lt;a href="/creditos.html"&gt;Créditos&lt;/a&gt;</code>    
+       <code>&lt;a href="/tos.html"&gt;Termos Legais&lt;/a&gt;</code>    
+       <code>&lt;a href="/index.html"&gt;Mais informações&lt;/a&gt;</code>       
+     &lt;/footer&gt;</code>    
+  &lt;/article&gt;</code>
+<code>&lt;/body&gt;</code>
+<code>&lt;/html&gt;</code>
+</pre>
+
+<li><p><b>&lt;aside&gt;</b> (de lado) neste elemento estão contidas as informações que não estão relacionadas diretamente com o texto. Por exemplo: comerciais pagos, links promocionais etc.</p></li>
+<pre>
+ <code>&lt;!Doctype html&gt;</code>
+<code>&lt;html lang="pt-br"&gt;</code>
+<code>&lt;head&gt;</code>
+  <code>&lt;meta charset="utf-8"&gt;</code>
+  <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
+  <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
+<code>&lt;/head&gt;</code>
+<code>&lt;body&gt;</code>
+     <code>&lt;p&gt;O básico de HTML&lt;/p&gt;</code>
+  <code>&lt;article&gt;
+     <code>&lt;header&gt;
+     <code>&lt;h1&gt;Nova Vitória!&lt;/h1&gt;</code>     
+     <code>&lt;p&gt;2020&lt;/p&gt;</code>        
+    &lt;/header&gt;</code>
+     <code>&lt;p&gt;Ganhou novamente&lt;/p&gt;</code>
+     <code>&lt;p&gt;...&lt;/p&gt;</code>     
+     <code>&lt;footer&gt;
+       <code>&lt;a href="?comments=1"&gt;Comentários&lt;/a&gt;</code>    
+       <code>&lt;a href="/creditos.html"&gt;Créditos&lt;/a&gt;</code>    
+       <code>&lt;a href="/tos.html"&gt;Termos Legais&lt;/a&gt;</code>    
+       <code>&lt;a href="/index.html"&gt;Mais informações&lt;/a&gt;</code>       
+     &lt;/footer&gt;</code>    
+  &lt;/article&gt;</code>
+  <code>&lt;aside&gt;
+   &lt;h1&gt;Tenha uma graduação!&lt;/h1&gt;
+   &lt;p&gt;&lt;a href="ensino.com"&gt;Matricule-se já!&lt;/a&gt;&lt;/p&gt;
+  &lt;/aside&gt;</code>
+<code>&lt;/body&gt;</code>
+<code>&lt;/html&gt;</code>
+</pre>
 </ul>
 
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
