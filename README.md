@@ -496,6 +496,9 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;/body&gt;</code>
 <code>&lt;/html&gt;</code>
 </pre>
+
+<li><p><b>&lt;article&gt;</b> (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento <section>. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento &lt;header&gt; que é o título e um elemento <footer> que é o rodapé do elemento.</p></li>
+
 </ul>
 
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
