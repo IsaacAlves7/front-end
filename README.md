@@ -465,7 +465,8 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;/body&gt;</code>
 <code>&lt;/html&gt;</code>
 </pre>
-  
+
+<li><p><b>&lt;nav&gt;</b> este elemento é a seção onde ficam as informações de navegação de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.</p></li>
 </ul>
 
 <div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
