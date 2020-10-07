@@ -265,16 +265,16 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 
 ### Lista de Atributos de uma TAG
 <ul>
-  <li><b>rel=""</b></li>
-  <li><b>src=""</b></li>
-  <li><b>type=""</b></li>
-  <li><b>alt=""</b></li>
-  <li><b>target=""</b></li>
+  <li><b>rel=""</b> espeifica o relacionamento entre o documento atual e o documento linkado.</li>
+  <li><b>src=""</b> especifica a URL do arquivo de mídia.</li>
+  <li><b>type=""</b> especifica o tipo do documento.</li>
+  <li><b>alt=""</b> Mostra o texto quando a aparência não renderiza.</li>
+  <li><b>target=""</b> </li>
   <li><b>width=""</b></li>
   <li><b>height=""</b></li>
   <li><b>name=""</b></li>
   <li><b>title=""</b></li>
-  <li><b>=""</b></li>
+  
 
 </ul>
 </p>
