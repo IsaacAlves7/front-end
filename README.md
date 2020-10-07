@@ -412,6 +412,10 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 
 <li><p><b>&lt;del&gt;</b> elemento que representa o texto com a fonte rabiscada.</p></li>
 <code>&lt;p&gt;texto com a &lt;del&gt;<del>fonte rabiscada</del>&lt;/del&gt;&lt;p&gt;</code>
+<li><p><b>&lt;blockquote&gt;</b> elemento que tem como função exibir o texto indicando de qual referência foi retirado (citação).</p></li>
+<code>&lt;bloquote cite="http://www.quote.com/sample.html"&gt;
+    &lt;p&gt;Elemento textual.&lt;/p&gt;
+  &lt;/blockquote&gt;</code>
 </ul>
 
 <div align="center"><h1>6. Semantic HTML5</h1></div>
