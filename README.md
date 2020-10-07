@@ -385,8 +385,9 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;big&gt;texto com fonte maior do que o padrão&lt;/big&gt;</code>
 <li><p><b>&lt;small&gt;</b> elemento que representa o texto com fonte menor que o padrão.</p></li>
 <code>&lt;small&gt;texto com fonte menor do que o padrão&lt;/small&gt;</code>
-<li><p><b>&lt;a&gt;</b> elemento que representa uma âncora de endereço. Você pode inclusive criar links da sua página html.</p></li>  
+<li><p><b>&lt;a&gt;</b> elemento que representa uma âncora de endereço. Você pode inclusive criar links da sua página html. Com o atributo para renderizar endereços <b>href=""</b>você pode barrar o endereço como <b>href="#"</b> , apenas com o <b>#</b>, ou colocar o endereço da sua página html, uma URL ou até mesmo seu email com <b>href="mailto:webmaster@example.com"</b>.</p></li>  
 <code>&lt;a href="https://www.google.com/" target="_blank"&gt;Clique no endereço&lt;/a&gt;</code>
+<p>Além do atributo <b>href=""</b>, outro atributo muito utilizado é o <b>target=""</b> que possui o valor da forma como o endereço vai ser aberto, <b>target="_blank"</b> abre o endereço em uma nova página no navegador, <b>target="_window"</b> abre o documento na mesma janela.</p>
 </ul>
 <div align="center"><h1>6. Semantic HTML5</h1></div>
 
