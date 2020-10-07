@@ -389,7 +389,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
   
 <code>&lt;a href="https://www.google.com/" target="_blank"&gt;Clique no endereço&lt;/a&gt;</code>
 
-<p>Além do atributo <b>href=""</b>, outro atributo muito utilizado é o <b>target=""</b> que possui o valor da forma como o endereço vai ser aberto, <b>target="_blank"</b> abre o endereço em uma nova página no navegador, <b>target="_self"</b> abre o documento na mesma janela (esse é o padrão), <b>target="_parent"</b>, <b>target="_top"</b>.</p>
+<p>Além do atributo <b>href=""</b>, outro atributo muito utilizado é o <b>target=""</b> que possui o valor da forma como o endereço vai ser aberto, <b>target="_blank"</b> abre o endereço em uma nova página no navegador, <b>target="_self"</b> abre o documento na mesma janela (esse é o padrão), <b>target="_parent" abre o documento na armação parente</b>, <b>target="_top"</b> abre o documento no corpo todo da janela.</p>
 </ul>
 <div align="center"><h1>6. Semantic HTML5</h1></div>
 
