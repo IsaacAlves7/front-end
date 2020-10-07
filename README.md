@@ -273,11 +273,14 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
   <li><b>width=""</b> especifica a largura do elemento.</li> 
   <li><b>height=""</b> especifica a altura do elemento.</li>
   <li><b>name=""</b> especifica o nome do elemento.</li>
-  <li><b>title=""</b> especifica a informação extra sobre o elemento, como um balãosinho de texto.</li>
+  <li><b>value=""</b> especifica o valor do elemento.</li>
+
 </ul>
 
 ### Lista de Atributos Globais de uma TAG
-
+<ul>
+  <li><b>title=""</b> especifica a informação extra sobre o elemento, como um balãosinho de texto.</li>  
+</ul>
 </p>
 
 ## Estrutura do HTML
