@@ -411,7 +411,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <p>Além do atributo <b>href=""</b>, outro atributo muito utilizado é o <b>target=""</b> que possui o valor da forma como o endereço vai ser aberto, <b>target="_blank"</b> abre o endereço em uma nova página no navegador, <b>target="_self"</b> abre o documento na mesma janela (esse é o padrão), <b>target="_parent"</b> abre o documento na armação parente, <b>target="_top"</b> abre o documento no corpo todo da janela.</p>
 
 <li><p><b>&lt;del&gt;</b> elemento que representa o texto com a fonte rabiscada.</p></li>
-<code>&lt;p&gt;texto com a &lt;del&gt;fonte rabiscada&lt;/del&gt;&lt;p&gt;</code>
+<code>&lt;p&gt;texto com a &lt;del&gt;<del>fonte rabiscada</del>&lt;/del&gt;&lt;p&gt;</code>
 </ul>
 
 <div align="center"><h1>6. Semantic HTML5</h1></div>
