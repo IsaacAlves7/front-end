@@ -263,20 +263,21 @@ Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você 
 </pre>
 Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso é <b>rel="stylesheet"</b> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <b>href=""</b> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
 
-### Lista de Atributos de uma TAG
+### Lista de Atributos Específicos de uma TAG
 <ul>
-  <li><b>rel=""</b> espeifica o relacionamento entre o documento atual e o documento linkado.</li>
+  <li><b>rel=""</b> especifica o relacionamento entre o documento atual e o documento linkado.</li>
   <li><b>src=""</b> especifica a URL do arquivo de mídia.</li>
   <li><b>type=""</b> especifica o tipo do documento.</li>
-  <li><b>alt=""</b> Mostra o texto quando a aparência não renderiza.</li>
-  <li><b>target=""</b> </li>
-  <li><b>width=""</b></li>
-  <li><b>height=""</b></li>
-  <li><b>name=""</b></li>
+  <li><b>alt=""</b> mostra o texto quando a aparência não renderiza.</li>
+  <li><b>target=""</b> especifica a informação extra sobre o elemento, como um balãosinho de texto.</li>
+  <li><b>width=""</b> especifica a largura do elemento.</li> 
+  <li><b>height=""</b> especifica a altura do elemento.</li>
+  <li><b>name=""</b> especifica o nome do elemento.</li>
   <li><b>title=""</b></li>
-  
-
 </ul>
+
+### Lista de Atributos Globais de uma TAG
+
 </p>
 
 ## Estrutura do HTML
