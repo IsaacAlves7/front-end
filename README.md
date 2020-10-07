@@ -416,6 +416,11 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;bloquote cite="http://www.quote.com/sample.html"&gt;
     &lt;p&gt;Elemento textual.&lt;/p&gt;
   &lt;/blockquote&gt;</code>
+  
+<li><p><b>&lt;figure&gt;</b> elemento que permite definir logicamente as informações de uma imagem. Trabalha com &lt;figcaption&gt; e &lt;img&gt;.</p></li>
+<code>&lt;figure&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;</code>
 </ul>
 
 <div align="center"><h1>6. Semantic HTML5</h1></div>
