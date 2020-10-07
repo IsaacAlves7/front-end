@@ -262,6 +262,21 @@ Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você 
 &lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;
 </pre>
 Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso é <b>rel="stylesheet"</b> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <b>href=""</b> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
+
+### Lista de Atributos de uma TAG
+<ul>
+  <li><b>rel=""</b></li>
+  <li><b>src=""</b></li>
+  <li><b>type=""</b></li>
+  <li><b>alt=""</b></li>
+  <li><b>target=""</b></li>
+  <li><b>width=""</b></li>
+  <li><b>height=""</b></li>
+  <li><b>name=""</b></li>
+  <li><b>title=""</b></li>
+  <li><b>=""</b></li>
+
+</ul>
 </p>
 
 ## Estrutura do HTML
