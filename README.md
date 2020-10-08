@@ -466,7 +466,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
   <code>&lt;li&gt;exemplo 4&lt;/li&gt;</code><br>
  <code>&lt;/ol&gt;</code><br>
  
-  <li><p><b>&lt;ol&gt;</b> define uma lista comum, não-numerada (não-ordenada).</p></li>
+  <li><p><b>&lt;ul&gt;</b> define uma lista comum, não-numerada (não-ordenada).</p></li>
  <code>&lt;ul&gt;</code><br>
   <code>&lt;li&gt;exemplo 1&lt;/li&gt;</code><br>
   <code>&lt;li&gt;exemplo 2&lt;/li&gt;</code><br>
