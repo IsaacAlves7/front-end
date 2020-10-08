@@ -284,7 +284,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 </ul>
 
 
-### Lista de Atributos Scripts de uma TAG
+### Lista de Atributos Scripts de uma TAG (HTML5 + JavaScript)
 <ul>
   <li><b>onclick=""</b> especifica a informação extra sobre o elemento, como um balãosinho de texto.</li>  
   <li><b>onabort=""</b> especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS).</li>  
