@@ -451,6 +451,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 </ul>
 
 ### Tag de Listas
+<p>As listas são importantes para a organização do texto e orientação do usuário.</p>
 <ul>
  <li><p><b>&lt;li&gt;</b> elemento que representa um os itens das listas.</p></li>
  <code>&lt;li&gt;exemplo 1&lt;/li&gt;</code><br>
