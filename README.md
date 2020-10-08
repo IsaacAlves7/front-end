@@ -458,8 +458,13 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
  <code>&lt;li&gt;exemplo 3&lt;/li&gt;</code><br>
   
  <li><p><b>&lt;ol&gt;</b> define uma lista inumerada (ordenada).</p></li>
- <code>&lt;pre&gt;&lt;code&gt;console.log('Hello, World!');&lt;/code&gt;&lt;/pre&gt;</code>
-</ul>
+ <code>&lt;ol&gt;</code><br>
+  <code>&lt;li&gt;exemplo 1&lt;/li&gt;</code><br>
+  <code>&lt;li&gt;exemplo 2&lt;/li&gt;</code><br>
+  <code>&lt;li&gt;exemplo 3&lt;/li&gt;</code><br>
+  <code>&lt;li&gt;exemplo 4&lt;/li&gt;</code><br>
+ <code>&lt;/ol&gt;</code><br>
+ </ul>
 
 ### Tags de Multimidia
 
