@@ -102,7 +102,7 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 ## Pilha de protocolos
 <p>Na realidade, o <b>TCP/IP</b> é um conjunto de protocolos. Esse grupo é dividido em quatro camadas: aplicação, transporte, rede e interface. Cada uma delas é responsável pela execução de tarefas distintas. Essa divisão em camadas é uma forma de garantir a integridade dos dados que trafegam pela rede.</p>
 
-![protocol-stacks](https://user-images.githubusercontent.com/61624336/94964198-ca144700-04cf-11eb-9f31-7dd9e2d00a8f.jpg)
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/94964198-ca144700-04cf-11eb-9f31-7dd9e2d00a8f.jpg"/></div>
 
 ## O consórcio World Wide Web (W3C)
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/W3C%C2%AE_Icon.svg/1200px-W3C%C2%AE_Icon.svg.png" height="270"/></div>
