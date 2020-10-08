@@ -417,9 +417,10 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
     &lt;p&gt;Elemento textual.&lt;/p&gt;
   &lt;/blockquote&gt;</code>
   
-<li><p><b>&lt;figure&gt;</b> elemento que permite definir logicamente as informações de uma imagem. Trabalha com &lt;figcaption&gt; e &lt;img&gt;.</p></li>
+<li><p><b>&lt;figure&gt;</b> elemento que permite definir logicamente as informações de uma imagem. Trabalha com &lt;figcaption&gt;, que permite dar um título a uma imagem, e &lt;img&gt; elemento que exibe a imagem.</p></li>
 <code>&lt;figure&gt;
-    &lt;figcaption&gt;&lt;/figcaption&gt;
+    &lt;figcaption&gt;Foto de férias&lt;/figcaption&gt;
+   &lt;img src="stata.jpg" alt="Fotos das férias no Rio de Janeiro"/&gt;
   &lt;/figure&gt;</code>
 </ul>
 
