@@ -431,18 +431,33 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
    &lt;img src="stata.jpg" alt="Fotos das férias no Rio de Janeiro"/&gt;
   &lt;/figure&gt;</code>
   
-  <li><p><b>&lt;div&gt;</b> elemento que representa um bloco de texto. As TAGs &lt;body&gt;, &lt;header&gt;, &lt;footer&gt; etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da &lt;div&gt;. A &lt;div&gt; é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a &lt;div&gt; é usada para diagramar o layout de um site.</p></li>
+<li><p><b>&lt;div&gt;</b> elemento que representa um bloco de texto. As TAGs &lt;body&gt;, &lt;header&gt;, &lt;footer&gt; etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da &lt;div&gt;. A &lt;div&gt; é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a &lt;div&gt; é usada para diagramar o layout de um site.</p></li>
 <code>&lt;div&gt;teste&lt;/div&gt;&lt;</code>
+
+<li><p><b>&lt;span&gt;</b> elemento que possui uma utilização genérica semelhante ao elemento &lt;div&gt;.</p></li>
+<code>&lt;span&gt;texto de exemplo&lt;/span&gt;</code>
 
 <li><p><b>&lt;s&gt;</b> elemento que transforma o texto em um conteúdo não relevante.</p></li>
 <code>&lt;p&gt;O texto é &lt;s&gt;irrelevante&lt;/s&gt;&lt;/p&gt;</code>
+
+<li><p><b>&lt;cite&gt;</b> elemento que transforma o texto em uma citação.</p></li>
+<code>&lt;p&gt;O texto é do &lt;cite&gt;star wars&lt;/cite&gt;&lt;/p&gt;</code>
+
+<li><p><b>&lt;q&gt;</b> elemento que coloca aspas em um bloco de texto.</p></li>
+<code>&lt;p&gt;O texto é do &lt;q&gt;star wars&lt;/q&gt;&lt;/p&gt;</code>
+
+<li><p><b>&lt;code&gt;</b> elemento que representa um fragmento de código de computador.</p></li>
+<code>&lt;pre&gt;&lt;code&gt;console.log('Hello, World!');&lt;/code&gt;&lt;/pre&gt;</code>
 </ul>
 
+### Tag de Listas
+
+### Tag de Tabelas
 <div align="center"><h1>6. Semantic HTML5</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
 
 ## New Semantic Elements in HTML5 
-<p>Até a versão 4 do HTML as <b>divs</b> eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito na estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com uma estrutura de uma folha de jornal, pois ambas contém cabeçalhos, rodapés, artigos e seções.</p>
+<p>Até a versão 4 do HTML as <b>divs</b> eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma <b>folha de jornal</b>, pois ambas contém cabeçalhos, rodapés, artigos e seções.</p>
 <div align="center"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" height="257"/> <img src="https://www.w3schools.com/html/img_sem_elements.gif"/></div>
 <ul>
 <li><p>O elemento <b>&lt;section&gt;</b> (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.</p></li>
