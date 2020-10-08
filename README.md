@@ -453,16 +453,18 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 ### Tag de Listas
 <ul>
  <li><p><b>&lt;li&gt;</b> elemento que representa um os itens das listas.</p></li>
- <code>&lt;li&gt;exemplo 1&lt;/li&gt;
-    &lt;li&gt;exemplo 2&lt;/li&gt;
-    &lt;li&gt;exemplo 3&lt;/li&gt;
+ <code>&lt;li&gt;exemplo 1&lt;/li&gt;<br>
+    &lt;li&gt;exemplo 2&lt;/li&gt;<br>
+    &lt;li&gt;exemplo 3&lt;/li&gt;<br>
   </code>
   
  <li><p><b>&lt;ol&gt;</b> define uma lista inumerada (ordenada).</p></li>
  <code>&lt;pre&gt;&lt;code&gt;console.log('Hello, World!');&lt;/code&gt;&lt;/pre&gt;</code>
 </ul>
 
-### Tag de Tabelas
+### Tags de Multimidia
+
+### Tags de Tabelas
 <div align="center"><h1>6. Semantic HTML5</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
 
