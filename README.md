@@ -425,7 +425,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
   &lt;/figure&gt;</code>
   
   <li><p><b>&lt;div&gt;</b> elemento que representa um bloco de texto. As TAGs &lt;body&gt;, &lt;header&gt;, &lt;footer&gt; etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da &lt;div&gt;. A &lt;div&gt; é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a &lt;div&gt; é usada para diagramar o layout de um site.</p></li>
-<code>&lt;div&gt;teste&lt;/div&gt;&lt;p&gt;</code>
+<code>&lt;div&gt;teste&lt;/div&gt;&lt;</code>
 
 <li><p><b>&lt;s&gt;</b> elemento que transforma o texto em um conteúdo não relevante.</p></li>
 <code>&lt;p&gt;O texto é &lt;s&gt;irrelevante&lt;/s&gt;&lt;/p&gt;</code>
