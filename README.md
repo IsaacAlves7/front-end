@@ -457,13 +457,31 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
  <code>&lt;li&gt;exemplo 2&lt;/li&gt;</code><br>
  <code>&lt;li&gt;exemplo 3&lt;/li&gt;</code><br>
   
- <li><p><b>&lt;ol&gt;</b> define uma lista inumerada (ordenada).</p></li>
+ <li><p><b>&lt;ol&gt;</b> define uma lista numerada (ordenada).</p></li>
  <code>&lt;ol&gt;</code><br>
   <code>&lt;li&gt;exemplo 1&lt;/li&gt;</code><br>
   <code>&lt;li&gt;exemplo 2&lt;/li&gt;</code><br>
   <code>&lt;li&gt;exemplo 3&lt;/li&gt;</code><br>
   <code>&lt;li&gt;exemplo 4&lt;/li&gt;</code><br>
  <code>&lt;/ol&gt;</code><br>
+ 
+  <li><p><b>&lt;ol&gt;</b> define uma lista comum, não-numerada (não-ordenada).</p></li>
+ <code>&lt;ul&gt;</code><br>
+  <code>&lt;li&gt;exemplo 1&lt;/li&gt;</code><br>
+  <code>&lt;li&gt;exemplo 2&lt;/li&gt;</code><br>
+  <code>&lt;li&gt;exemplo 3&lt;/li&gt;</code><br>
+  <code>&lt;li&gt;exemplo 4&lt;/li&gt;</code><br>
+ <code>&lt;/ul&gt;</code><br>
+ 
+ <li><p><b>&lt;dl&gt;</b> elemento textual que exibe uma lista de definições, com termos específicos. Trabalha com as tags &lt;dt&gt; termo a ser exibido e &lt;dd&gt; elementos do termo.</p></li>
+ <code>&lt;dl&gt;</code><br>
+  <code>&lt;dt&gt;Carro&lt;/dt&gt;</code><br>
+  <code>&lt;dd&gt;Uno&lt;/dd&gt;</code><br>
+  <code>&lt;dd&gt;Gol&lt;/dd&gt;</code><br>
+  <code>&lt;dt&gt;Moto&lt;/dt&gt;</code><br>
+  <code>&lt;dd&gt;Honda&lt;/dd&gt;</code><br>
+  <code>&lt;dd&gt;Yamaha&lt;/dd&gt;</code><br>
+ <code>&lt;/dl&gt;</code><br>
  </ul>
 
 ### Tags de Multimidia
