@@ -110,7 +110,7 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 
 <b>Tim Berners-Lee</b>, que cunhou o termo "World Wide Web", desenvolveu, em outubro de 1990, o primeiro servidor Web, normalmente um programa de computador, em um computador específico, responsável por aceitar pedidos <b>HTTP</b> de programas em computadores clientes, geralmente os navegadores, e servi-los com respostas em HTTP. Ele também escreveu a primeira versão do "HyperText Markup Language” (HTML). Suas especificações iniciais para <b>URL</b>, <b>HTTP</b> e <b>HTML</b> foram refinadas e discutidas em círculos mais amplos para propagar a tecnologia web.</p>
 
-![img13](https://user-images.githubusercontent.com/61624336/94971529-94765a80-04dd-11eb-9e7d-df509e046568.jpg)
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/94971529-94765a80-04dd-11eb-9e7d-df509e046568.jpg"/></div>
 
 <p style="color:olive;">Em outubro de 1994, Tim Berners-Lee fundou o <strong>World Wide Web Consortium</strong> (W3C) no Laboratório de Ciência da Computação do Massachusetts Institute of Technology [MIT/LCS] em colaboração com o CERN, onde a Web surgiu, com apoio da DARPA e da Comissão Europeia. Em Abril de 1995, o <b>INRIA</b> (Institut National de Recherche en Informatique et Automatique) se tornou o primeiro host do W3C Europeu, seguido da Universidade de Keio no Japão (campus Shonan Fujisawa) na Ásia em 1996.
 
