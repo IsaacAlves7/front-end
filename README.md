@@ -282,7 +282,14 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
   <li><b>class=""</b> especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS).</li>  
   <li><b>id=""</b> especifica uma unica id para um elemento (referência de id para o CSS).</li>  
 </ul>
-</p>
+
+
+### Lista de Atributos Scripts de uma TAG
+<ul>
+  <li><b>onclick=""</b> especifica a informação extra sobre o elemento, como um balãosinho de texto.</li>  
+  <li><b>onabort=""</b> especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS).</li>  
+  <li><b>onchange=""</b> especifica uma unica id para um elemento (referência de id para o CSS).</li>  
+</ul>
 
 ## Estrutura do HTML
 
