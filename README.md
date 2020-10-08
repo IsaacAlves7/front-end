@@ -274,12 +274,13 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
   <li><b>height=""</b> especifica a altura do elemento.</li>
   <li><b>name=""</b> especifica o nome do elemento.</li>
   <li><b>value=""</b> especifica o valor do elemento.</li>
-
 </ul>
 
 ### Lista de Atributos Globais de uma TAG
 <ul>
   <li><b>title=""</b> especifica a informação extra sobre o elemento, como um balãosinho de texto.</li>  
+  <li><b>class=""</b> especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS).</li>  
+  <li><b>id=""</b> especifica uma unica id para um elemento (referência de id para o CSS).</li>  
 </ul>
 </p>
 
@@ -422,6 +423,9 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
     &lt;figcaption&gt;Foto de férias&lt;/figcaption&gt;
    &lt;img src="stata.jpg" alt="Fotos das férias no Rio de Janeiro"/&gt;
   &lt;/figure&gt;</code>
+  
+  <li><p><b>&lt;div&gt;</b> elemento que representa um bloco de texto. As TAGs &lt;body&gt;, &lt;header&gt;, &lt;footer&gt; etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da &lt;div&gt;. A &lt;div&gt; é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a &lt;div&gt; é usada para diagramar o layout de um site.</p></li>
+<code>&lt;div&gt;teste&lt;/div&gt;&lt;p&gt;</code>
 </ul>
 
 <div align="center"><h1>6. Semantic HTML5</h1></div>
