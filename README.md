@@ -508,7 +508,12 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <code>&lt;/head&gt;</code>
 <code>&lt;body&gt;</code>
    <code>&lt;table border="1"&gt;
-       <code>&lt;tr&gt;
+       <code>&lt;tr&gt; &lt;!--Primeira coluna--&gt; 
+          <code>&lt;td&gt;Primeira coluna&lt;/td&gt;</code> &lt;!--Primeira célula--&gt; 
+          <code>&lt;td&gt;Segunda coluna&lt;/td&gt;</code>
+          <code>&lt;td&gt;Terceira coluna&lt;/td&gt;</code>
+       &lt;/tr&gt;</code>
+       <code>&lt;tr&gt; &lt;!--Segunda coluna--&gt; 
           <code>&lt;td&gt;Primeira coluna&lt;/td&gt;</code>
           <code>&lt;td&gt;Segunda coluna&lt;/td&gt;</code>
           <code>&lt;td&gt;Terceira coluna&lt;/td&gt;</code>
