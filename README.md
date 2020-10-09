@@ -500,7 +500,7 @@ O comando tabela não foi retirado da linguagem, mas ficou restrito o seu uso. E
 O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha</b>, devemos introduzir a tag &lt;tr&gt; e para uma <b>célula</b> &lt;td&gt;. Todos esses comandos são encerrados como &lt;/table&gt;, &lt;/tr&gt; e &lt;/td&gt; respectivamente.</p>
 
 <pre>
- <code>&lt;html lang="pt-br"&gt;</code>
+<code>&lt;html lang="pt-br"&gt;</code>
 <code>&lt;head&gt;</code>
   <code>&lt;meta charset="utf-8"&gt;</code>
   <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
@@ -524,7 +524,13 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 </pre>
 
 <p>O comando &lt;table&gt; tem uma série de atributos que ajudam na formatação da tabela. Os principais são:</p>
-
+<ul>
+  <li><b>align=""</b></li>
+  <li><b>bgcolor=""</b></li>
+  <li><b>border=""</b></li>
+  <li><b>cellspacing=""</b></li>
+  <li><b>cellpadding=""</b></li>  
+</ul>
 
 
 
@@ -674,7 +680,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 
 <li><p><b>&lt;aside&gt;</b> (de lado) neste elemento estão contidas as informações que não estão relacionadas diretamente com o texto. Por exemplo: comerciais pagos, links promocionais etc.</p></li>
 <pre>
- <code>&lt;!Doctype html&gt;</code>
+<code>&lt;!Doctype html&gt;</code>
 <code>&lt;html lang="pt-br"&gt;</code>
 <code>&lt;head&gt;</code>
   <code>&lt;meta charset="utf-8"&gt;</code>
