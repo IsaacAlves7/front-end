@@ -486,8 +486,21 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
  </ul>
 
 ### Tags de Multimidia
+<p></p>
 
 ### Tags de Tabelas
+<p>Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
+
+Entretanto, hoje, o uso de tabelas está, de fato, interferindo na construção de sites melhores, mais acessíveis, flexíveis e funcionais, principalmente para as novas mídias, como os celulares, tablets etc.
+
+Essas tabelas ainda continuam existindo no HTML 5 como recurso para exibição de dados tabulares, informações vindas de base de dados. Com a nova versão do HTML, podemos criar sites feitos completamente sem tabelas (tableless), criando assim layouts dinâmicos que aparecem em telas grandes como no computador e se adaptam bem para uma tela pequena do smartphone. Mais pra frente você verá como construir layouts e layouts responsivos com HTML5 e CSS3.
+
+O comando tabela não foi retirado da linguagem, mas ficou restrito o seu uso. Em contrapartida, ainda temos vários sites que utilizam esse recurso, portanto, é importante entendermos como funciona até para poder, se for necessário, dar manutenção nesse tipo de página.
+
+O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha</b>, devemos introduzir a tag &lt;tr&gt; e para uma <b>célula</b> &lt;td&gt;. Todos esses comandos são encerrados como &lt;/table&gt;, &lt;/tr&gt; e &lt;/td&gt; respectivamente.</p>
+
+
+
 <div align="center"><h1>6. Semantic HTML5</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
 
