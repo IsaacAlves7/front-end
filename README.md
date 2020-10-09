@@ -499,7 +499,24 @@ O comando tabela não foi retirado da linguagem, mas ficou restrito o seu uso. E
 
 O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha</b>, devemos introduzir a tag &lt;tr&gt; e para uma <b>célula</b> &lt;td&gt;. Todos esses comandos são encerrados como &lt;/table&gt;, &lt;/tr&gt; e &lt;/td&gt; respectivamente.</p>
 
-
+<pre>
+ <code>&lt;html lang="pt-br"&gt;</code>
+<code>&lt;head&gt;</code>
+  <code>&lt;meta charset="utf-8"&gt;</code>
+  <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
+  <code>&lt;title&gt;HTML Tables&lt;/title&gt;</code>
+<code>&lt;/head&gt;</code>
+<code>&lt;body&gt;</code>
+   <code>&lt;table border="1"&gt;
+       <code>&lt;tr&gt;
+          <code>&lt;td&gt;Primeira coluna&lt;/td&gt;</code>
+          <code>&lt;td&gt;Segunda coluna&lt;/td&gt;</code>
+          <code>&lt;td&gt;Terceira coluna&lt;/td&gt;</code>
+       &lt;/tr&gt;</code>
+   &lt;/table&gt;</code>
+<code>&lt;/body&gt;</code>
+<code>&lt;/html&gt;</code>
+</pre>
 
 <div align="center"><h1>6. Semantic HTML5</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
