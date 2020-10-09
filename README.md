@@ -286,9 +286,9 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 
 ### Lista de Atributos Scripts de uma TAG (HTML5 + JavaScript)
 <ul>
-  <li><b>onclick=""</b> especifica a informação extra sobre o elemento, como um balãosinho de texto.</li>  
-  <li><b>onabort=""</b> especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS).</li>  
-  <li><b>onchange=""</b> especifica uma unica id para um elemento (referência de id para o CSS).</li>  
+  <li><b>onclick=""</b> </li>  
+  <li><b>onabort=""</b> </li>  
+  <li><b>onchange=""</b> </li>  
 </ul>
 
 ## Estrutura do HTML
@@ -525,11 +525,11 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 
 <p>O comando &lt;table&gt; tem uma série de atributos que ajudam na formatação da tabela. Os principais são:</p>
 <ul>
-  <li><b>align=""</b></li>
-  <li><b>bgcolor=""</b></li>
-  <li><b>border=""</b></li>
-  <li><b>cellspacing=""</b></li>
-  <li><b>cellpadding=""</b></li>  
+  <li><b>align=""</b> alinha a tabela nas três posições: <b>center</b>, <b>left</b>, <b>right</b>.</li>
+  <li><b>bgcolor=""</b> determina a cor da tabela.</li>
+  <li><b>border=""</b> determina o tamanho da borda, se for zero não mostra a borda.</li>
+  <li><b>cellspacing=""</b> determina o espaçamento entre células.</li>
+  <li><b>cellpadding=""</b> determina o espaçamento entre o texto e a borda da célula.</li>  
 </ul>
 
 
