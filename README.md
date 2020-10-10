@@ -497,7 +497,7 @@ Essas tabelas ainda continuam existindo no HTML 5 como recurso para exibição d
 
 O comando tabela não foi retirado da linguagem, mas ficou restrito o seu uso. Em contrapartida, ainda temos vários sites que utilizam esse recurso, portanto, é importante entendermos como funciona até para poder, se for necessário, dar manutenção nesse tipo de página.
 
-O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha</b>, devemos introduzir a tag &lt;tr&gt; e para uma <b>célula</b> &lt;td&gt;. Todos esses comandos são encerrados como &lt;/table&gt;, &lt;/tr&gt; e &lt;/td&gt; respectivamente.</p>
+O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha</b>, devemos introduzir a tag &lt;tr&gt; e para uma <b>célula</b> &lt;td&gt;, que divide a linha da tabela. &lt;th&gt; divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como &lt;/table&gt;, &lt;/tr&gt; e &lt;/td&gt; respectivamente.</p>
 
 <pre>
 <code>&lt;html lang="pt-br"&gt;</code>
