@@ -558,7 +558,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 </pre>
 
 #### Atributo Rules
-<p></p>
+<p>Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo RULES, dentro da tag . Os complementos desse atributo são:</p>
 
 <div align="center"><h1>6. Semantic HTML5</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
