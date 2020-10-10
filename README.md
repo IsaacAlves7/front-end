@@ -541,6 +541,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <code>&lt;/head&gt;</code>
 <code>&lt;body&gt;</code>
    <code>&lt;table border="1" cellspacing=2 cellpadding=6&gt; &lt;!--Esta linha inicia a tabela com borda de espessura 1 (border), espaço entre as células 2 (Cellspacing) e espaço dentro da célula 6 (Cellpadding)--&gt;
+   <code>&lt;caption&gt;Legenda&lt;/caption&gt;</code> &lt;!--Adiciona a legenda na tabela--&gt;
        <code>&lt;tr&gt; &lt;!--Primeira coluna--&gt; 
           <code>&lt;td&gt;Primeira coluna&lt;/td&gt;</code> &lt;!--Primeira célula--&gt; 
           <code>&lt;td&gt;Segunda coluna&lt;/td&gt;</code>
@@ -556,6 +557,8 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <code>&lt;/html&gt;</code>
 </pre>
 
+#### Atributo Rules
+<p></p>
 
 <div align="center"><h1>6. Semantic HTML5</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
