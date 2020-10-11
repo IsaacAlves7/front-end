@@ -496,8 +496,8 @@ Bastava adicionar uma <b>chamada para o plugin</b> e funcionava.</p>
  <code>&lt;/param&gt;</code>
  <code>&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;</code>
  <code>&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;</code>
- <code>&lt;param name="allowscriptaccess" value="always"></param>
-<embed src= https://www.youtube.com/embed/S2Vty9srpFw
+ <code>&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;
+&lt;embed src= https://www.youtube.com/embed/S2Vty9srpFw
 type="application/x-shockwave-flash"
 allowscriptaccess="always"
 allowfullscreen="true"
