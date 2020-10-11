@@ -514,10 +514,12 @@ Devido a tudo isso, o HTML 5 vem com um novo suporte, nativo na linguagem, para 
 <p>O problema apresentado pelo novo comando é o uso do atributo <b>src</b> que não funciona bem em alguns navegadores. E se pretendemos que todos possam abrir a página, com qualquer navegador, é necessário usar outro tipo de atributo. Por isso, é comum o uso do atributo <b>&lt;source&gt;</b> na tag &lt;video&gt;.
 
 O elemento <b>&lt;source&gt;</b> pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.</p>
-<pre><code>&lt;video width="426" height="240"&gt;</code></pre>
-<pre><code>&lt;source src="video.mp4" type="video/mp4"&gt;</code></pre>
-<pre><code>&lt;source src="video.webm" type="video/webm"&gt;</code></pre>
-<pre><code>&lt;/video&gt;</code></pre>
+<pre>
+ <code>&lt;video width="426" height="240"&gt;</code>
+ <code>&lt;source src="video.mp4" type="video/mp4"&gt;</code>
+ <code>&lt;source src="video.webm" type="video/webm"&gt;</code>
+ <code>&lt;/video&gt;</code>
+</pre>
 <p>Existem diversos codecs, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior.</p>
 
 ### Tags de Tabelas
