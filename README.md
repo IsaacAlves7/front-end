@@ -110,9 +110,11 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 
 ## O consórcio World Wide Web (W3C)
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/W3C%C2%AE_Icon.svg/1200px-W3C%C2%AE_Icon.svg.png" height="270"/></div>
-<p>O <strong>Consórcio World Wide Web</strong> (W3C) é um consórcio internacional no qual organizações filiadas, uma equipe em tempo integral e o público trabalham juntos para desenvolver padrões para a Web. Liderado pelo inventor da web <b>Tim Berners-Lee</b> e o CEO <b>Jeffrey Jaffe</b>, o W3C tem como missão conduzir a World Wide Web para que atinja todo seu potencial, desenvolvendo protocolos e diretrizes que garantam seu crescimento de longo prazo.
+<p>O <strong>Consórcio World Wide Web</strong> (W3C) é um consórcio internacional no qual organizações filiadas, uma equipe em tempo integral e o público trabalham juntos para desenvolver padrões para a Web. Liderado pelo inventor da web <b>Tim Berners-Lee</b> e o CEO <b>Jeffrey Jaffe</b>, o W3C tem como missão conduzir a World Wide Web para que atinja todo seu potencial, desenvolvendo protocolos e diretrizes que garantam seu crescimento de longo prazo.</p>
+  
+<div align="center"><img src="https://websdeveloperindia.com/wp-content/uploads/2019/03/www.jpg" height="270"/></div>
 
-<b>Tim Berners-Lee</b>, que cunhou o termo "World Wide Web", desenvolveu, em outubro de 1990, o primeiro servidor Web, normalmente um programa de computador, em um computador específico, responsável por aceitar pedidos <b>HTTP</b> de programas em computadores clientes, geralmente os navegadores, e servi-los com respostas em HTTP. Ele também escreveu a primeira versão do "HyperText Markup Language” (HTML). Suas especificações iniciais para <b>URL</b>, <b>HTTP</b> e <b>HTML</b> foram refinadas e discutidas em círculos mais amplos para propagar a tecnologia web.</p>
+<p><b>Tim Berners-Lee</b>, que cunhou o termo "World Wide Web", desenvolveu, em outubro de 1990, o primeiro servidor Web, normalmente um programa de computador, em um computador específico, responsável por aceitar pedidos <b>HTTP</b> de programas em computadores clientes, geralmente os navegadores, e servi-los com respostas em HTTP. Ele também escreveu a primeira versão do "HyperText Markup Language” (HTML). Suas especificações iniciais para <b>URL</b>, <b>HTTP</b> e <b>HTML</b> foram refinadas e discutidas em círculos mais amplos para propagar a tecnologia web.</p>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/94971529-94765a80-04dd-11eb-9e7d-df509e046568.jpg"/></div>
 
