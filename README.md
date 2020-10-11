@@ -506,7 +506,7 @@ height="240"&gt;</code>
 <code>&lt;/embed&gt;</code>
 <code>&lt;/object&gt;</code>
 </pre>
-
+<p>Em virtude das inconsistências dos navegadores, era preciso adicionar tanto o comando &lt;object&gt; quanto o comando &lt;embed&gt;, comandos específicos para utilização do plugin, duplicando muitos atributos. Isso sem falar que plugins como o Flash causam muitas instabilidades, ocasionando erros que levam até ao fechamento do navegador.</p>
 
 ### Tags de Tabelas
 <p>Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
