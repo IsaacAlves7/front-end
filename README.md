@@ -70,6 +70,7 @@ A <b>internet</b> é a maior rede de comunicação desenvolvida pelo homem na Er
 Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da Ciência e Tecnologia, foi aberta ao setor privado para exploração comercial.</p>
 
 ## Projeto ARPA
+<div align="center"><img src="https://img.ibxk.com.br/materias/9847/653839.jpg?w=328" height="270"/><img src="https://sites.google.com/site/sitesrecord/_/rsrc/1468737147609/o-que-e-arpanet/very_old_computer.jpg" height="270"/></div>
 <p>A ideia da construção de uma rede de computadores que pudessem trocar informações surgiu no “Advanced Research Projects Agency”, <b>ARPA</b>, do Departamento de Defesa dos EUA quando, em 1962, a Agência contratou J.C.R. Licklider para liderar as suas novas iniciativas através do “Information Processing Techniques Office”, IPTO, da Agência.
 
 <i><b>ARPA</b> - Atualmente, <b>DARPA</b> (Defense Advanced Research Projects Agency). O nome original era apenas <b>ARPA</b> (Advanced Research Projects Agency, Agência de Projetos de Pesquisa Avançada), mas foi alterado para DARPA (de Defesa) em março de 1972. Voltou a ser ARPA novamente em fevereiro de 1993, e depois foi alterado de novo para DARPA em março de 1996.
@@ -95,6 +96,7 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 <i>É curioso notar que as empresas de telecomunicações devotaram, por muito tempo, um amplo pessimismo à técnica de comutação de pacotes, conforme relatado num artigo do principal realizador da rede ARPANET, Lawrence G. Roberts. Faz pouco tempo apenas que este pessimismo foi trocado por uma participação ativa nas redes de computadores, mas mesmo hoje os serviços dessas empresas, do ponto de vista das redes de computadores, deixam muito a desejar.</i></p>
 
 ## Protocolo TCP/IP
+
 <p>De uma forma simples, o <strong>TCP/IP</strong> é o principal protocolo de envio e recebimento de dados na internet. <strong>TCP</strong> significa <em>Transmission Control Protocol</em> (Protocolo de Controle de Transmissão) e o <strong>IP</strong>, <em>Internet Protocol</em> (Protocolo de Internet).
 
 <strong>Protocolo</strong> é uma espécie de linguagem utilizada para que dois computadores consigam se comunicar. Por mais que duas máquinas estejam conectadas à mesma rede, se não “falarem” a mesma língua, não há como estabelecer uma comunicação. Então, o <strong>TCP/IP</strong> é uma espécie de idioma que permite às aplicações conversarem entre si.</p>
