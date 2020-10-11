@@ -486,7 +486,14 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
  </ul>
 
 ### Tags de Multimidia
-<p></p>
+<p>O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os
+navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
+
+Bastava adicionar uma <b>chamada para o plugin</b> e funcionava.</p>
+<pre>
+ 
+</pre>
+
 
 ### Tags de Tabelas
 <p>Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
