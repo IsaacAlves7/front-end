@@ -69,8 +69,8 @@ A <b>internet</b> é a maior rede de comunicação desenvolvida pelo homem na Er
 
 Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da Ciência e Tecnologia, foi aberta ao setor privado para exploração comercial.</p>
 
-## Projeto ARPA
-<div align="center"><img src="https://img.ibxk.com.br/materias/9847/653839.jpg?w=328" height="270"/></div>
+## Projeto ARPA (ARPANET/ DARPA/ MILNET/ INTERNET)
+<div align="center"><img src="https://img.ibxk.com.br/materias/9847/653839.jpg?w=328" height="270"/><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/United_States_Department_of_Defense_Seal.svg" height="270"/></div>
 <p>A ideia da construção de uma rede de computadores que pudessem trocar informações surgiu no “Advanced Research Projects Agency”, <b>ARPA</b>, do Departamento de Defesa dos EUA quando, em 1962, a Agência contratou J.C.R. Licklider para liderar as suas novas iniciativas através do “Information Processing Techniques Office”, IPTO, da Agência.</p>
 
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/DARPA_Logo.jpg" height="270"/></div>
