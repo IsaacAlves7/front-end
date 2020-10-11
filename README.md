@@ -562,7 +562,14 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <ul>
   <li><b>none</b> nenhuma linha inteira.</li>
   <li><b>all</b> para mostrar todas as linhas entre cada coluna e linha na tabela (default).</li>
-</ul>
+  <li><b>rows</b> para as linhas horizontais entre cada linha da tabela.</li>  
+  <li><b>cols</b> para as linhas verticais entre cada coluna da tabela.</li>
+  <li><b>groups</b> para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como COLGROUP e THEAD.</li>  
+</ul><br>
+<p>Veja alguns exemplos:</p>
+<pre>
+  
+</pre>
 
 <div align="center"><h1>6. Semantic HTML5</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
