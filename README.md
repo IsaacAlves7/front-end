@@ -491,7 +491,20 @@ navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
 
 Bastava adicionar uma <b>chamada para o plugin</b> e funcionava.</p>
 <pre>
- 
+ <code>&lt;object width="426" height="240"&gt;</code>
+ <code>&lt;param name="movie" value=" https://youtu.be/S2Vty9srpFw"&gt;</code>
+ <code>&lt;/param&gt;</code>
+ <code>&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;</code>
+ <code>&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;</code>
+ <code>&lt;param name="allowscriptaccess" value="always"></param>
+<embed src= https://www.youtube.com/embed/S2Vty9srpFw
+type="application/x-shockwave-flash"
+allowscriptaccess="always"
+allowfullscreen="true"
+width="426"
+height="240"&gt;</code>
+<code>&lt;/embed&gt;</code>
+<code>&lt;/object&gt;</code>
 </pre>
 
 
