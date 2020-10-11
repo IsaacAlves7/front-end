@@ -70,10 +70,12 @@ A <b>internet</b> é a maior rede de comunicação desenvolvida pelo homem na Er
 Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da Ciência e Tecnologia, foi aberta ao setor privado para exploração comercial.</p>
 
 ## Projeto ARPA
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/DARPA_Logo.jpg" height="270"/><img src="https://img.ibxk.com.br/materias/9847/653839.jpg?w=328" height="270"/></div>
-<p>A ideia da construção de uma rede de computadores que pudessem trocar informações surgiu no “Advanced Research Projects Agency”, <b>ARPA</b>, do Departamento de Defesa dos EUA quando, em 1962, a Agência contratou J.C.R. Licklider para liderar as suas novas iniciativas através do “Information Processing Techniques Office”, IPTO, da Agência.
+<div align="center"><img src="https://img.ibxk.com.br/materias/9847/653839.jpg?w=328" height="270"/></div>
+<p>A ideia da construção de uma rede de computadores que pudessem trocar informações surgiu no “Advanced Research Projects Agency”, <b>ARPA</b>, do Departamento de Defesa dos EUA quando, em 1962, a Agência contratou J.C.R. Licklider para liderar as suas novas iniciativas através do “Information Processing Techniques Office”, IPTO, da Agência.</p>
 
-<i><b>ARPA</b> - Atualmente, <b>DARPA</b> (Defense Advanced Research Projects Agency). O nome original era apenas <b>ARPA</b> (Advanced Research Projects Agency, Agência de Projetos de Pesquisa Avançada), mas foi alterado para DARPA (de Defesa) em março de 1972. Voltou a ser ARPA novamente em fevereiro de 1993, e depois foi alterado de novo para DARPA em março de 1996.
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/DARPA_Logo.jpg" height="270"/></div>
+
+<p><i><b>ARPA</b> - Atualmente, <b>DARPA</b> (Defense Advanced Research Projects Agency). O nome original era apenas <b>ARPA</b> (Advanced Research Projects Agency, Agência de Projetos de Pesquisa Avançada), mas foi alterado para DARPA (de Defesa) em março de 1972. Voltou a ser ARPA novamente em fevereiro de 1993, e depois foi alterado de novo para DARPA em março de 1996.
 
 <b>Joseph Carl Robnett Licklider</b> (St. Louis, Missouri, 11 de março de 1915 — Arlington, Massachusetts, 26 de junho de 1990) foi um psicólogo e cientista da computação estadunidense.
 </i>
@@ -96,9 +98,9 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 <i>É curioso notar que as empresas de telecomunicações devotaram, por muito tempo, um amplo pessimismo à técnica de comutação de pacotes, conforme relatado num artigo do principal realizador da rede ARPANET, Lawrence G. Roberts. Faz pouco tempo apenas que este pessimismo foi trocado por uma participação ativa nas redes de computadores, mas mesmo hoje os serviços dessas empresas, do ponto de vista das redes de computadores, deixam muito a desejar.</i></p>
 
 ## Protocolo TCP/IP
-
+<div align="center"><img src="https://www.citisystems.com.br/wp-content/uploads/2016/08/tcp-ip-modelo-osi.png"/></div>
 <p>De uma forma simples, o <strong>TCP/IP</strong> é o principal protocolo de envio e recebimento de dados na internet. <strong>TCP</strong> significa <em>Transmission Control Protocol</em> (Protocolo de Controle de Transmissão) e o <strong>IP</strong>, <em>Internet Protocol</em> (Protocolo de Internet).
-
+<div align="center"><img src="https://testarportasabertas.com.br/wp-content/uploads/2018/04/modelo-TCP-IP.png"/></div>
 <strong>Protocolo</strong> é uma espécie de linguagem utilizada para que dois computadores consigam se comunicar. Por mais que duas máquinas estejam conectadas à mesma rede, se não “falarem” a mesma língua, não há como estabelecer uma comunicação. Então, o <strong>TCP/IP</strong> é uma espécie de idioma que permite às aplicações conversarem entre si.</p>
 
 ## Pilha de protocolos
@@ -108,9 +110,11 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 
 ## O consórcio World Wide Web (W3C)
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/W3C%C2%AE_Icon.svg/1200px-W3C%C2%AE_Icon.svg.png" height="270"/></div>
-<p>O <strong>Consórcio World Wide Web</strong> (W3C) é um consórcio internacional no qual organizações filiadas, uma equipe em tempo integral e o público trabalham juntos para desenvolver padrões para a Web. Liderado pelo inventor da web <b>Tim Berners-Lee</b> e o CEO <b>Jeffrey Jaffe</b>, o W3C tem como missão conduzir a World Wide Web para que atinja todo seu potencial, desenvolvendo protocolos e diretrizes que garantam seu crescimento de longo prazo.
+<p>O <strong>Consórcio World Wide Web</strong> (W3C) é um consórcio internacional no qual organizações filiadas, uma equipe em tempo integral e o público trabalham juntos para desenvolver padrões para a Web. Liderado pelo inventor da web <b>Tim Berners-Lee</b> e o CEO <b>Jeffrey Jaffe</b>, o W3C tem como missão conduzir a World Wide Web para que atinja todo seu potencial, desenvolvendo protocolos e diretrizes que garantam seu crescimento de longo prazo.</p>
+  
+<div align="center"><img src="https://websdeveloperindia.com/wp-content/uploads/2019/03/www.jpg" height="270"/></div>
 
-<b>Tim Berners-Lee</b>, que cunhou o termo "World Wide Web", desenvolveu, em outubro de 1990, o primeiro servidor Web, normalmente um programa de computador, em um computador específico, responsável por aceitar pedidos <b>HTTP</b> de programas em computadores clientes, geralmente os navegadores, e servi-los com respostas em HTTP. Ele também escreveu a primeira versão do "HyperText Markup Language” (HTML). Suas especificações iniciais para <b>URL</b>, <b>HTTP</b> e <b>HTML</b> foram refinadas e discutidas em círculos mais amplos para propagar a tecnologia web.</p>
+<p><b>Tim Berners-Lee</b>, que cunhou o termo "World Wide Web", desenvolveu, em outubro de 1990, o primeiro servidor Web, normalmente um programa de computador, em um computador específico, responsável por aceitar pedidos <b>HTTP</b> de programas em computadores clientes, geralmente os navegadores, e servi-los com respostas em HTTP. Ele também escreveu a primeira versão do "HyperText Markup Language” (HTML). Suas especificações iniciais para <b>URL</b>, <b>HTTP</b> e <b>HTML</b> foram refinadas e discutidas em círculos mais amplos para propagar a tecnologia web.</p>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/94971529-94765a80-04dd-11eb-9e7d-df509e046568.jpg"/></div>
 
@@ -142,6 +146,7 @@ Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiado
 </ol>
 <hr>
 <div align="center"><h1>2. Client-side and Server-side</h1></div>
+<div align="center"><img src="https://nickjanetakis.com/assets/blog/cards/server-side-templates-vs-rest-api-and-javascript-front-end-374a74c142bfb09344b9635c3c444b6a152a3c90952e79df1ae013081af5f53e.jpg"/></div>
 <p>Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web.
   
 Em desenvolvimento para a Web sempre separamos dois setores: a parte do servidor e a parte do cliente.
@@ -228,7 +233,21 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
 
 ## API's
-<p></p>
+<p>Aplicações Web são o número cada vez maior de sites na Web, isto é, eles imitam aplicações de desktop ao invés dos documentos tradicionais e
+estático de links de textos e imagens que compõem a maioria da Web. Como exemplo, temos os processadores onlines de texto, ferramentas de edição de foto,
+sites de mapeamento etc. Altamente movidos com JavaScript, eles levaram o HTML4 à beira do limite de suas capacidades.
+O HTML5 especifica novas APIs (Interface de Programação de Aplicações) para DOM (Modelo de Objeto de Documento),
+que é uma convenção multiplataforma e independente de linguagem para representação e interação com objetos e documentos HTML, XHTML e XML.
+
+Essas novas APIs ajudam a arrastar e soltar objetos enviados pelo servidor, tais como, desenho, vídeos e similares.
+
+Essas novas interfaces que as páginas HTML expõem ao JavaScript via objetos na DOM tornam mais fácil escrever as aplicações,
+utilizando padrões altamente especificados, ao invés de apenas artimanhas mal-documentadas.
+
+Ainda mais importante é a necessidade de um padrão aberto livre (para utilizar e para implementar) que possa competir com padrões proprietários como
+Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas tecnologias ou empresas, acreditamos que a Web seja uma plataforma vital à sociedade, comércio e comunicações para estar nas mãos de um fabricante.
+
+Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  &lt;font&gt;, &lt;center&gt; e outras novas, pois milhões de páginas web as utilizam.</p>
 <hr>
 
 <div align="center"><h1>4. TAGs HTML</h1></div>
