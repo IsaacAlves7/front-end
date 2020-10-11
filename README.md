@@ -567,9 +567,11 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
   <li><b>groups</b> para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como COLGROUP e THEAD.</li>  
 </ul><br>
 <p>Veja alguns exemplos:</p>
-<pre>
-  
-</pre>
+<pre><code>&lt;table border rules="all"6&gt;</code></pre>
+<pre><code>&lt;table border rules="none"6&gt;</code></pre>
+<pre><code>&lt;table border rules="cols"6&gt;</code></pre>
+<pre><code>&lt;table border rules="groups"6&gt;</code></pre>
+<pre><code>&lt;table border rules="rows"6&gt;</code></pre>
 
 <div align="center"><h1>6. Semantic HTML5</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
