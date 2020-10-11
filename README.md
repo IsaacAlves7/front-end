@@ -73,7 +73,7 @@ Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da 
 <div align="center"><img src="https://img.ibxk.com.br/materias/9847/653839.jpg?w=328" height="270"/></div>
 <p>A ideia da construção de uma rede de computadores que pudessem trocar informações surgiu no “Advanced Research Projects Agency”, <b>ARPA</b>, do Departamento de Defesa dos EUA quando, em 1962, a Agência contratou J.C.R. Licklider para liderar as suas novas iniciativas através do “Information Processing Techniques Office”, IPTO, da Agência.</p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/DARPA_Logo.jpg" height="270" align="center"/>
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/DARPA_Logo.jpg" height="270"/></div>
 
 <p><i><b>ARPA</b> - Atualmente, <b>DARPA</b> (Defense Advanced Research Projects Agency). O nome original era apenas <b>ARPA</b> (Advanced Research Projects Agency, Agência de Projetos de Pesquisa Avançada), mas foi alterado para DARPA (de Defesa) em março de 1972. Voltou a ser ARPA novamente em fevereiro de 1993, e depois foi alterado de novo para DARPA em março de 1996.
 
