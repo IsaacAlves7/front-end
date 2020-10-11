@@ -247,8 +247,7 @@ Adobe Flash ou Microsoft Silverlight.
 Independentemente do que você acha dessas tecnologias ou empresas, acreditamos que a Web seja uma plataforma vital à sociedade, comércio e comunicações
 para estar nas mãos de um fabricante.
 
-Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4
-que continua a definir como os navegadores devem lidar com marcações antigas como <font>, <center> e outras novas, pois milhões de páginas web as utilizam.</p>
+Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como <font>, <center> e outras novas, pois milhões de páginas web as utilizam.</p>
 <hr>
 
 <div align="center"><h1>4. TAGs HTML</h1></div>
