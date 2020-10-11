@@ -230,7 +230,25 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
 
 ## API's
-<p></p>
+<p>Aplicações Web são o número cada vez maior de sites na Web, isto é, eles imitam aplicações de desktop ao invés dos documentos tradicionais e
+estático de links de textos e imagens que compõem a maioria da Web. Como exemplo, temos os processadores onlines de texto, ferramentas de edição de foto,
+sites de mapeamento etc. Altamente movidos com JavaScript, eles levaram o HTML4 à beira do limite de suas capacidades.
+O HTML5 especifica novas APIs (Interface de Programação de Aplicações) para DOM (Modelo de Objeto de Documento),
+que é uma convenção multiplataforma e independente de linguagem para representação e interação com objetos e documentos HTML, XHTML e XML.
+
+Essas novas APIs ajudam a arrastar e soltar objetos enviados pelo servidor, tais como, desenho, vídeos e similares.
+
+Essas novas interfaces que as páginas HTML expõem ao JavaScript via objetos na DOM tornam mais fácil escrever as aplicações,
+utilizando padrões altamente especificados, ao invés de apenas artimanhas mal-documentadas.
+
+Ainda mais importante é a necessidade de um padrão aberto livre (para utilizar e para implementar) que possa competir com padrões proprietários como
+Adobe Flash ou Microsoft Silverlight.
+
+Independentemente do que você acha dessas tecnologias ou empresas, acreditamos que a Web seja uma plataforma vital à sociedade, comércio e comunicações
+para estar nas mãos de um fabricante.
+
+Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4
+que continua a definir como os navegadores devem lidar com marcações antigas como <font>, <center> e outras novas, pois milhões de páginas web as utilizam.</p>
 <hr>
 
 <div align="center"><h1>4. TAGs HTML</h1></div>
