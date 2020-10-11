@@ -520,7 +520,8 @@ O elemento <b>&lt;source&gt;</b> pode ser usado múltiplas vezes e permite defin
  <code>&lt;source src="video.webm" type="video/webm"&gt;</code>
  <code>&lt;/video&gt;</code>
 </pre>
-<p>Existem diversos codecs, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior.</p>
+<p>Existem diversos <b>codecs</b>, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior. Obs: Codecs são programas utilizados para codificar e decodificar arquivos de mídia. Eles compactam o formato original, favorecendo o armazenamento, e descompactam na hora da reprodução, transformando novamente em imagem ou áudio.</p>
+
 
 ### Tags de Tabelas
 <p>Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
