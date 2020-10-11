@@ -286,9 +286,9 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 
 ### Lista de Atributos Scripts de uma TAG (HTML5 + JavaScript)
 <ul>
-  <li><b>onclick=""</b> </li>  
-  <li><b>onabort=""</b> </li>  
-  <li><b>onchange=""</b> </li>  
+  <li><b>onclick=""</b> script roda quando o elemento é clicado.</li>  
+  <li><b>onabort=""</b> script roda no abortar.</li>  
+  <li><b>onchange=""</b> script roda quando o valor do elemento é mudado.</li>  
 </ul>
 
 ## Estrutura do HTML
