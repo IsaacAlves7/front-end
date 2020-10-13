@@ -232,11 +232,12 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
 
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
 
-## API's
+## API's - Aplication Programming Interfaces
+<img src=""/>
 <p>Aplicações Web são o número cada vez maior de sites na Web, isto é, eles imitam aplicações de desktop ao invés dos documentos tradicionais e
 estático de links de textos e imagens que compõem a maioria da Web. Como exemplo, temos os processadores onlines de texto, ferramentas de edição de foto,
 sites de mapeamento etc. Altamente movidos com JavaScript, eles levaram o HTML4 à beira do limite de suas capacidades.
-O HTML5 especifica novas APIs (Interface de Programação de Aplicações) para DOM (Modelo de Objeto de Documento),
+  O HTML5 especifica novas <b>APIs</b> (Interface de Programação de Aplicações) para DOM (Modelo de Objeto de Documento),
 que é uma convenção multiplataforma e independente de linguagem para representação e interação com objetos e documentos HTML, XHTML e XML.
 
 Essas novas APIs ajudam a arrastar e soltar objetos enviados pelo servidor, tais como, desenho, vídeos e similares.
