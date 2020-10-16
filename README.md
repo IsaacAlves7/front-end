@@ -1,4 +1,4 @@
-# It's a repository of HTML5 & CSS3 for Web-Dev programming 📙📘📑📃🌐
+# It's a repository of HTML5 & CSS3 programming 📙📘📑📃🌐
 
 <!--O README.md foi feito com HTML e Markdown-->
 <p>I created this repository for my Web Development learning using HTML5 and CSS3. Lembrando que todo <b>README.md</b> do GitHub foi feito com HTML e Markdown, por isso é muito importante aprender sobre linguagens de Marcação de Hipertexto. 
