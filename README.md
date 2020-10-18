@@ -6,7 +6,7 @@
 Obs: É importante instalar cada um dos componentes apresentados e executar os códigos na sua própria máquina.</p>
 <img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
 
-## Introduction - Overview about the HTML5 and CSS3 for Web Development
+## Introduction - Overview about the HTML5 & CSS3 for Web Development 🌐
 <b>All Topics:</b>
 
 <ol>
