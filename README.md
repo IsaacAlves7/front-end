@@ -586,7 +586,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 
 <p>O comando &lt;table&gt; tem uma série de atributos que ajudam na formatação da tabela. Os principais são:</p>
 <ul>
-  <li><b>align=""</b> alinha a tabela nas três posições: <b>center</b>, <b>left</b>, <b>right</b>.</li>
+  <li><b>align=""</b> alinha a tabela nas três posições: <b>center</b>, <b>left</b>, <b>right</b> e <b>justify</b>.</li>
   <li><b>bgcolor=""</b> determina a cor da tabela.</li>
   <li><b>border=""</b> determina o tamanho da borda, se for zero não mostra a borda.</li>
   <li><b>cellspacing=""</b> determina o espaçamento entre células.</li>
