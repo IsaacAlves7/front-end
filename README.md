@@ -160,7 +160,7 @@ Os <b>clientes</b>, que podem ser qualquer dispositivo conectado à Internet com
 <div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div>
 <p>Já o <b>Full-Stack</b> engloba os conhecimentos tanto de front-end como back-end, ou seja, é um profissional bem mais completo e que se destaca muito no mercado de trabalho.</p>
 
-<div align="center"><h1>3. HTML5 and CSS3</h1></div>
+<div align="center"><h1>3. HTML5 and CSS3 📙📘</h1></div>
 <div align="center"><img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" height="200"/></div><br>
 <p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.</p>
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
@@ -193,14 +193,14 @@ In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by 
 <p>Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava convencido que o XML era o futuro para todos os autores web. Este grupo começou a desenvolver um trabalho separado, para criar uma nova forma de utilização dos antigos códigos HTML, principalmente ligado ao uso de formulários, sem deixar de atender às determinações básicas do XML. Aquela especificação eventualmente se tornou Web Forms 2.0 e, subsequentemente, foi incorporado na especificação HTML5.</p>
 <p>Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.</p>
 
-## CSS3 - Cascading Style Sheets 3
+## CSS3 - Cascading Style Sheets 3 📘🌐
 <div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
 <p><b>CSS</b> (<i>Cascading Style Sheets</i>), is a "Stylesheets" composta for "camadas" and used to define the presentation (aparence) in internet pages that adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML). O CSS define como serão exibidos os elementos contidos no código 
 de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
 
 Há várias formas de inserir modificação no estilo com CSS. Com o CSS você pode especificar muitas propriedades de estilo para qualquer elemento HTML. Cada propriedade tem um nome e um valor, separados por dois pontos (:). Cada declaração de propriedade é separada por um ponto e vírgula (;).
 
-### Tipos de CSS
+### Tipos de CSS 📘
 <ul>
 <li><b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML.</li>
 <br><b>Exemplo de CSS interno:</b><br>
@@ -226,13 +226,13 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
 
 É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.</p>
 
-## Document Object Model (DOM) 🌳
+## Document Object Model (DOM) 🌳📙📘📒
 <div align="center"><img src="https://www.kirupa.com/html5/images/DOM_js_72.png"/></div><br>
 <p>The <b>DOM</b> (<i>Document Object Model</i>) is a multiplataform convention and independent of language for representing and interacting with objects in <b>HTML</b>, <b>XHTML</b> e <b>XML</b> documents.
 
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
 
-## API's - Aplication Programming Interfaces
+## API's - Aplication Programming Interfaces 📙📘📒🐘🏦🎲
 <div align="center">
 <img src="https://miro.medium.com/max/654/0*prut14lFoArZnPK5.jpg" height="400"/><img src="https://lh3.googleusercontent.com/proxy/HraXKGl_iVtTejDCKPhnrC3VDbpTxuQ_c2yqdreVqTjDEbDgs4BfEqEVSziJKMni_7Uwq-TPHRk3KOPW1MPdEWI8GJ7ek0QMzOuknDIVFRbgs6TLl9zYba1-1iaJeVi4VZk"/></div>
 <i>Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, <b>REST API</b>, também chamado de <b>RESTful API</b>.</i><br><br>
@@ -254,7 +254,7 @@ Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas
 Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  &lt;font&gt;, &lt;center&gt; e outras novas, pois milhões de páginas web as utilizam.</p>
 <hr>
 
-<div align="center"><h1>4. TAGs HTML</h1></div>
+<div align="center"><h1>4. TAGs HTML 📙📋</h1></div>
 <img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
 <p>É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: &lt;meta&gt;, &lt;h1&gt;, &lt;img&gt; etc. 
 
@@ -302,7 +302,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
   <li><b>value=""</b> especifica o valor do elemento.</li>
 </ul>
 
-### Lista de Atributos Globais de uma TAG
+### Lista de Atributos Globais de uma TAG 📙🌎
 <ul>
   <li><b>title=""</b> especifica a informação extra sobre o elemento, como um balãosinho de texto.</li>  
   <li><b>class=""</b> especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS).</li>  
@@ -310,14 +310,14 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 </ul>
 
 
-### Lista de Atributos Scripts de uma TAG (HTML5 + JavaScript)
+### Lista de Atributos Scripts de uma TAG (HTML5 + JavaScript) 📙📒
 <ul>
   <li><b>onclick=""</b> script roda quando o elemento é clicado.</li>  
   <li><b>onabort=""</b> script roda no abortar.</li>  
   <li><b>onchange=""</b> script roda quando o valor do elemento é mudado.</li>  
 </ul>
 
-## Estrutura do HTML
+## Estrutura do HTML 📙📃🧱
 
 <p>Tudo começa com o diretório <b>assets</b>, e dentro dele as pastas <b>public</b> e <b>src</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
 <pre>
@@ -476,7 +476,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;pre&gt;&lt;code&gt;console.log('Hello, World!');&lt;/code&gt;&lt;/pre&gt;</code>
 </ul>
 
-### Tag de Listas
+### Tag de Listas 📙📑
 <p>As listas são importantes para a organização do texto e orientação do usuário.</p>
 <ul>
  <li><p><b>&lt;li&gt;</b> elemento que representa um os itens das listas.</p></li>
@@ -511,7 +511,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
  <code>&lt;/dl&gt;</code><br>
  </ul>
 
-### Tags de Multimidia 🔊🎬▶️
+### Tags de Multimidia 📙🔊🎬▶️
 <p>O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os
 navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
 
@@ -898,19 +898,19 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
 
 <div align="center"><h1>6. Responsive Layout</h1></div>
 
-## What's the Responsive Layout?
+## What's the Responsive Layout? 📙📘📱💻🖥️
 <img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/>
 <p>The</p>
 
 <div align="center"><h1>6. Flexbox Layout</h1></div>
 
-## What's the Flexbox Layout?
+## What's the Flexbox Layout? 📙📘🥡
 <div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/><img src="https://boluda.com/files/curso-flexbox.jpg" width="400"></div><br>
 <p>The</p>
 
 <div align="center"><h1>6. Grid Layout</h1></div>
 
-## What's the Grid Layout?
+## What's the Grid Layout? 📙📘🍱
 <div align="center"><img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="200"/> <img src="https://www.w3schools.com/css/grid_lines.png" width="270"></div><br>
 <p>The</p>
 
