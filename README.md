@@ -200,7 +200,7 @@ de uma página da internet e sua maior vantagem é efetuar a separação entre o
 
 Há várias formas de inserir modificação no estilo com CSS. Com o CSS você pode especificar muitas propriedades de estilo para qualquer elemento HTML. Cada propriedade tem um nome e um valor, separados por dois pontos (:). Cada declaração de propriedade é separada por um ponto e vírgula (;).
 
-### Tipos de CSS 📘
+### Tipos de CSS 📘📃
 <ul>
 <li><b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML.</li>
 <br><b>Exemplo de CSS interno:</b><br>
@@ -821,7 +821,13 @@ da Web.
 
 O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5.</p>
 
-## Seletores e Declarações 📘📃
+## Sintaxe 📘🧱
+<b>Formas de inclusão no HTML:</b>
+
+### Estilo inline
+<p>Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo style. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código.</p>
+
+## Seletores e Declarações 📘📝📃
 
 <p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
 
