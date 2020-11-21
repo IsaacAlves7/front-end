@@ -811,23 +811,22 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 </pre>
 </ul>
 
-<div align="center"><h1>5. Selectors and Declarations CSS</h1></div>
+<div align="center"><h1>5. Revisando o CSS 📘</h1></div>
+<p>Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecanismo simples
+para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos
+da Web.
+
+O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5.</p>
+
+## Seletores e Declarações
+
 <p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
 
 A sintaxe é bem simples e pode ser explicada com a frase "você cria regras de estilo para elementos ou grupos de elementos".
 
 Vamos usar um elemento HTML que vimos anteriormente, a âncora , para exemplificar.
 
-Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o <b>a</b>, então dentro de um par de chaves adicionamos as declarações, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as <b>declarações</b> são formadas por uma propriedade e um valor.</p>
-
-<hr>
-
-# Revisando o CSS 📘
-<p>Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecanismo simples
-para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos
-da Web.
-
-O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5.</p>
+Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o <b>a</b>, então dentro de um par de chaves adicionamos as <strong>declarações</strong>, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as <b>declarações</b> são formadas por uma propriedade e um valor.</p>
 
 ## Tipos de Seletores, Declarações, Propriedades e Valores
 <p>Percebam que podemos colocar vários seletores em uma regra separando-os por vírgula.
