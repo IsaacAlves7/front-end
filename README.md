@@ -845,7 +845,17 @@ Exemplo de utilização:</p>
 </pre>
 
 ### Estilo externo 📘
+<p>As regras foram escritas em um arquivo com extensão <b>.css</b> e podem ser carregadas ao documento HTML5 de duas formas:</p>
 
+#### Utilizando o elemento &lt;link&gt; no HTML
+<pre>
+&lt;head&gt;
+&lt;link rel="stylesheet" href="default.css"&gt;
+&lt;link rel="stylesheet" href="green.css" title="Green styles"&gt;
+&lt;link rel="alternate stylesheet" href="contrast.css" title="High contrast"&gt;
+&lt;link rel="alternate stylesheet" href="big.css" title="Big fonts"&gt;
+&lt;link rel="alternate stylesheet" href="wide.css" title="Wide screen"&gt;&lt;/head&gt;
+</pre>
 
 ## Seletores e Declarações 📘📝📃
 
