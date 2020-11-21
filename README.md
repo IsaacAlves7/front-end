@@ -965,9 +965,18 @@ Exemplo:</p>
 <pre>
 ul {
 margin-top: 12px; /*topo da margem = 12px*/
+margin-right: 12px; /*direito da margem = 12px*/
+margin-bottom: 12px; /*abaixo da margem = 12px*/
+margin-left: 12px; /*esquedo da margem = 12px*/
+&nbsp;
+padding-top: 12px; /*espaçamento topo entre a borda e o conteúdo = 12px*/
 padding-right: 0px; /*espaçamento direito entre a borda e o conteúdo = 0px*/
+padding-bottom: 12px; /*espaçamento inferior entre a borda e o conteúdo = 12px*/
+padding-left: 12px; /*espaçamento esquerdo entre a borda e o conteúdo = 12px*/
 }
 </pre>
+
+<blockquote>OBS: Perceberam a discrepância?</blockquote>
 
 
 
