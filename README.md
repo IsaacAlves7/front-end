@@ -821,7 +821,7 @@ da Web.
 
 O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5.</p>
 
-## Seletores e Declarações
+## Seletores e Declarações 📘📃
 
 <p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
 
@@ -831,7 +831,7 @@ Vamos usar um elemento HTML que vimos anteriormente, a âncora , para exemplific
 
 Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o <b>a</b>, então dentro de um par de chaves adicionamos as <strong>declarações</strong>, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as <b>declarações</b> são formadas por uma propriedade e um valor.</p>
 
-## Tipos de Seletores, Declarações, Propriedades e Valores
+## Tipos de Seletores, Declarações, Propriedades e Valores 📘📃🧱
 <p>Percebam que podemos colocar vários seletores em uma regra separando-os por vírgula.
 
 <pre>
@@ -860,7 +860,7 @@ E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML s
 
 O <b>a:hover</b> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
 
-## ID x Class
+## ID x Class 🆔🆑
 <p>No exemplo anterior criamos uma regra que altera um elemento HTML diretamente, mas isso significa que todos os elementos <a> ficarão com aquela aparência, e normalmente temos sites mais complexos que precisam de várias regras diferentes para elementos iguais.
 
 Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer no módulo passado, ele tinha vários elementos header, mas não vamos querer que o header principal tenha a mesma formatação que o header de uma postagem, é aí que entram os IDs e Classes.
@@ -877,7 +877,7 @@ O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele represen
 
 E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
 
-## Box Model 📦
+## Box Model 📦📘
 <p>Look from this images bellow:</p>
 
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><br>
