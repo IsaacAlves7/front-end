@@ -949,6 +949,13 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
   <li><b>right</b>: Right position</li>
   <li><b>bottom</b>: Down position</li>
 </ul>
+<p>Sempre será referenciada por esta ordem: <strong>topo, direita, inferior e esquerda</strong><em>(top, right, bottom, left)</em>.
+
+Exemplo:</p>
+
+
+
+
 
 <div align="center"><h1>6. Responsive Layout 📱💻🖥️</h1></div>
 
