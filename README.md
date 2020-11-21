@@ -618,7 +618,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <code>&lt;/html&gt;</code>
 </pre>
 
-### Atributo Rules 📖
+### Atributo Rules 📖🔳⬜🔲
 <p>Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo RULES, dentro da tag . Os complementos desse atributo são:</p>
 <ul>
   <li><b>none</b> nenhuma linha inteira.</li>
