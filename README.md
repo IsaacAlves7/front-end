@@ -949,9 +949,38 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
   <li><b>bottom</b>: Down position</li>
   <li><b>left</b>: Left position</li>
 </ul>
-<blockquote><strong>OBS: Sempre será referenciada por esta ordem: <strong>topo, direita, inferior e esquerda</strong><em> (top, right, bottom, left)</em>.</blockquote>
+<blockquote><strong>OBS: Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda</strong><em> (top, right, bottom, left)</em>.</blockquote>
 
 Exemplo:</p>
+<pre>
+ul {
+margin: 12px 12px 12px 12px; /*top, right, bottom, left = 12px*/
+padding: 12px 0px 12px 12px; /*espaçamento direito entre a borda e o conteúdo = 0px; top, left, bottom = 12px*/
+}
+</pre>
+
+Outra forma é inserior a propriedade do box model de acordo com suas posições, o que não é muito prático.
+
+Exemplo:</p>
+<pre>
+ul {
+margin-top: 12px; /*topo da margem = 12px*/
+padding-right: 0px; /*espaçamento direito entre a borda e o conteúdo = 0px*/
+}
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
