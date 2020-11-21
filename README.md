@@ -846,6 +846,13 @@ Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores<
 
 </ul>
 
+<pre>
+ <code>
+ a:hover { 
+    color: #fff;
+   }</code>
+</pre>
+
 E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento.
 
 O <b>a:hover</b> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
