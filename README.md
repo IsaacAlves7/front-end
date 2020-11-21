@@ -42,7 +42,7 @@ Com essa combinação e com a apropriação da tecnologia que vem se estabelecen
 
 São novos hábitos e costumes gerando novas demandas e oportunidades, bem como as soluções criativas e a inovação, principalmente, aquelas que se utilizam da Internet, como os portais de conhecimento, as salas de aula virtuais e os jogos para Internet. Os sistemas de e-commerce têm grande apreço no mercado de trabalho do profissional de informática.</p>
 
-## What's the Internet?
+## What's the Internet? 🌐
 <img src="https://img.ibxk.com.br/2020/06/29/29100837408091.jpg?w=1120&h=420&mode=crop&scale=both"/>
 <p>O acúmulo de conhecimento adquirido em função de estratégias usadas no período da <strong>Segunda Guerra</strong> e da necessidade de comunicação segura fomentou o desenvolvimento de ferramentas e códigos que viabilizassem a circulação de informações no meio militar, sem o risco de vazamento que pudesse colocar toda a estratégia em perigo.
 
@@ -62,14 +62,14 @@ As universidades e outras instituições tiveram acesso à Arpanet a partir dos 
 A <b>World Wide Web</b> (WWW) surgiu em 1989, criado por <b>Tim Berners-Lee</b>, como um integrador de informações que permite o acesso de forma simples e consistente em diferentes plataformas. O conteúdo da rede pôde ser ampliado com a possibilidade de incorporar imagens e sons. O sistema de localização de arquivos permitia que cada informação tivesse um endereço único e pudesse ser encontrada por qualquer usuário da rede.
 <hr>
 
-## Definição de internet
+## Definição de internet 🌐
 <img src="https://nerdup.com.br/wp-content/uploads/2019/05/internet-banda-larga.jpeg"/>
 A <b>internet</b> é a maior rede de comunicação desenvolvida pelo homem na Era Moderna, ela possibilita todos os tipos de rede de computadores se conectarem entre si em uma única rede. No Brasil, em 1991, foi criada a Rede Nacional de Pesquisa, uma operação acadêmica subordinada ao Ministério de Ciência e Tecnologia.
 <hr>
 
 Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da Ciência e Tecnologia, foi aberta ao setor privado para exploração comercial.</p>
 
-## Projeto ARPA (ARPANET/ DARPA/ MILNET/ INTERNET)
+## Projetos (ARPANET/ DARPA/ MILNET/ INTERNET) 🌐
 <div align="center"><img src="https://img.ibxk.com.br/materias/9847/653839.jpg?w=328" height="270"/><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/United_States_Department_of_Defense_Seal.svg" height="270"/></div>
 <p>A ideia da construção de uma rede de computadores que pudessem trocar informações surgiu no “Advanced Research Projects Agency”, <b>ARPA</b>, do Departamento de Defesa dos EUA quando, em 1962, a Agência contratou J.C.R. Licklider para liderar as suas novas iniciativas através do “Information Processing Techniques Office”, IPTO, da Agência.</p>
 
@@ -97,18 +97,18 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 
 <i>É curioso notar que as empresas de telecomunicações devotaram, por muito tempo, um amplo pessimismo à técnica de comutação de pacotes, conforme relatado num artigo do principal realizador da rede ARPANET, Lawrence G. Roberts. Faz pouco tempo apenas que este pessimismo foi trocado por uma participação ativa nas redes de computadores, mas mesmo hoje os serviços dessas empresas, do ponto de vista das redes de computadores, deixam muito a desejar.</i></p>
 
-## Protocolo TCP/IP
+## Protocolo TCP/IP 📶🌐
 <div align="center"><img src="https://www.citisystems.com.br/wp-content/uploads/2016/08/tcp-ip-modelo-osi.png"/></div>
 <p>De uma forma simples, o <strong>TCP/IP</strong> é o principal protocolo de envio e recebimento de dados na internet. <strong>TCP</strong> significa <em>Transmission Control Protocol</em> (Protocolo de Controle de Transmissão) e o <strong>IP</strong>, <em>Internet Protocol</em> (Protocolo de Internet).
 <div align="center"><img src="https://testarportasabertas.com.br/wp-content/uploads/2018/04/modelo-TCP-IP.png"/></div>
 <strong>Protocolo</strong> é uma espécie de linguagem utilizada para que dois computadores consigam se comunicar. Por mais que duas máquinas estejam conectadas à mesma rede, se não “falarem” a mesma língua, não há como estabelecer uma comunicação. Então, o <strong>TCP/IP</strong> é uma espécie de idioma que permite às aplicações conversarem entre si.</p>
 
-## Pilha de protocolos
+## Pilha de protocolos 📶📶📶📶🌐
 <p>Na realidade, o <b>TCP/IP</b> é um conjunto de protocolos. Esse grupo é dividido em quatro camadas: aplicação, transporte, rede e interface. Cada uma delas é responsável pela execução de tarefas distintas. Essa divisão em camadas é uma forma de garantir a integridade dos dados que trafegam pela rede.</p>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/94964198-ca144700-04cf-11eb-9f31-7dd9e2d00a8f.jpg"/></div>
 
-## O consórcio World Wide Web (W3C)
+## O consórcio World Wide Web (W3C) 🏢🌐
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/W3C%C2%AE_Icon.svg/1200px-W3C%C2%AE_Icon.svg.png" height="270"/></div>
 <p>O <strong>Consórcio World Wide Web</strong> (W3C) é um consórcio internacional no qual organizações filiadas, uma equipe em tempo integral e o público trabalham juntos para desenvolver padrões para a Web. Liderado pelo inventor da web <b>Tim Berners-Lee</b> e o CEO <b>Jeffrey Jaffe</b>, o W3C tem como missão conduzir a World Wide Web para que atinja todo seu potencial, desenvolvendo protocolos e diretrizes que garantam seu crescimento de longo prazo.</p>
   
@@ -126,7 +126,7 @@ A grande maioria dos trabalhos no W3C gira em torno da padronização de tecnolo
 
 Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiados grandes e pequenos, além do público em geral. O processo do W3C busca ser equânime responsável e alcançar todas as nuances da missão do W3C.</p>
 
-## Escritório W3C no Brasil
+## Escritório W3C no Brasil 🏢 🇧🇷
 <p>O W3C Escritório Brasil iniciou suas operações no dia 1 de novembro de 2007. Tem como missão:</p>
 <ul>
   <li>Disseminar a cultura de adoção de padrões para o desenvolvimento pleno da Web a longo prazo;</li>
@@ -137,7 +137,7 @@ Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiado
   <li>Recomendar padrões técnicos e procedimentos operacionais para o desenvolvimento da Web no Brasil, em cumprimento das responsabilidades do NIC.br para o Comitê Gestor da Internet no Brasil.</li>
 </ul>
 
-## Internet Timeline
+## Internet Timeline 🕖🌐
 <img src="https://miro.medium.com/max/1200/1*O1cChMT-iaKggag06PJp-Q.png" width="1000"/>
 
 <ol>
@@ -153,7 +153,7 @@ Em desenvolvimento para a Web sempre separamos dois setores: a parte do servidor
   
 O <strong>cliente</strong> é o computador do usuário, assim como o seu. É utilizado pelas pessoas para acessar sites ou sistemas a partir de um endereço (Google Chrome, Internet Explorer, Safari, Mozilla Firefox e etc). Os arquivos vindos por esse endereço são disponibilizados por um outro computador que serve estes arquivos. Estes computadores que estão em algum lugar do mundo que servem arquivos e outros serviços são chamados de servidores (Apache, IIS, Glassfish e etc).</p>
 
-## What's Front-end, Back-end and Full-Stack Development?
+## What's Front-end, Back-end and Full-Stack Development? 
 <p>Nos <strong>servidores</strong> programamos com linguagens como <b>PHP</b>, <b>Java</b>, <b>C#</b>, <b>Ruby</b>, <b>Python</b> entre outros. E também gerenciamos <b>bancos de dados</b> (MySQL, SQ Lite, Mongo DB, SQL Server e etc), onde chamamos essa parte de <b>back-end</b>. Quando há acesso ao banco de dados, o servidor trabalha de uma forma diferenciada, pois a implementação de um servidor web é um serviço diferente à implementação de um servidor banco de dados.
   
 Os <b>clientes</b>, que podem ser qualquer dispositivo conectado à Internet como smartphones, notebooks, tablets e smarttvs, recebem arquivos desses servidores, como imagens, vídeos, arquivos HTML, CSS e JavaScript. Chamamos essa parte de <b>front-end</b>.</p>
@@ -165,14 +165,14 @@ Os <b>clientes</b>, que podem ser qualquer dispositivo conectado à Internet com
 <p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.</p>
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 
-## HTML5 - Hypertext Makup Language 5
+## HTML5 - Hypertext Makup Language 5 📙🌐
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/></div>
 <p>A linguagem de formatação de documentos com a capacidade de links de hipertexto (termo que remete a um texto ao qual se agregam outros conjuntos de informação na forma de blocos de textos, palavras, imagens ou sons, cujo acesso ocorre através de referências específicas, no meio digital, denominadas hiperlinks, ou simplesmente links) e que tornou-se o formato básico para publicação na web.
 
 In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
 </p>
 
-### HTML Timeline
+### HTML Timeline 🕖📙
 <ol>
   <li>HTML é tornado público - 1989</li>
   <li>HTML - 1991</li>
@@ -214,7 +214,7 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 </ul>
 </p>
 
-## JavaScript (JS) 📜
+## JavaScript (JS) 📒📜
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Repositório do JavaScript"/></a><br></div><br>
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
 
@@ -280,7 +280,7 @@ Uma TAG pode conter <b>atributos</b>, que são informações que alteram o compo
 Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o <b>CSS</b>, o <b>Javascript</b>.
 </p>
 
-## Atributos de uma TAG
+## Atributos de uma TAG 📙
 <p><b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
 
 Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <b>&lt;link&gt;</b>:
@@ -289,7 +289,7 @@ Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você 
 </pre>
 Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso é <b>rel="stylesheet"</b> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <b>href=""</b> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
 
-### Lista de Atributos Específicos de uma TAG
+### Lista de Atributos Específicos de uma TAG 📙
 <ul>
   <li><b>rel=""</b> especifica o relacionamento entre o documento atual e o documento linkado.</li>
   <li><b>src=""</b> especifica a URL do arquivo de mídia.</li>
@@ -634,10 +634,10 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <pre><code>&lt;table border rules="groups"6&gt;</code></pre>
 <pre><code>&lt;table border rules="rows"6&gt;</code></pre>
 
-<div align="center"><h1>6. Semantic HTML5 📙</h1></div>
+<div align="center"><h1>6. HTML Semantic 📙📰</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
 
-## New Semantic Elements in HTML5 
+## New Semantic Elements in HTML5 📙📰
 <p>Até a versão 4 do HTML as <b>divs</b> eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma <b>folha de jornal</b>, pois ambas contém cabeçalhos, rodapés, artigos e seções.</p>
 <div align="center"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" height="257"/> <img src="https://www.w3schools.com/html/img_sem_elements.gif"/></div>
 <ul>
@@ -810,6 +810,9 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <code>&lt;/html&gt;</code>
 </pre>
 </ul>
+
+# Formulários HTML 📙🗳️
+<p></p>
 
 <div align="center"><h1>5. Revisando o CSS 📘</h1></div>
 <p>Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecanismo simples
