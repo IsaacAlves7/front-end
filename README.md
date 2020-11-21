@@ -938,7 +938,7 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
 <p>When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.</p>
 <ol>
   <li><b>margin</b> - São os espaçamentos entre elementos (transparente).</li>
-  <li><b>border</b> - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura e cor.</li>
+  <li><b>border</b> - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura, cor e forma.</li>
   <li><b>padding</b> - Espaçamento entre a borda e o conteúdo.</li>
   <li><b>content</b> - O elemento ou conteúdo HTML.</li>
 </ol>
@@ -976,10 +976,17 @@ padding-left: 12px; /*espaçamento esquerdo entre a borda e o conteúdo = 12px*/
 }
 </pre>
 
-<blockquote>OBS: Perceberam a discrepância?</blockquote>
+<blockquote>OBS: Perceberam a discrepância entre os dois métodos?</blockquote>
 
-<p>No entanto, a <strong>border</strong> é diferente da <strong>margin</strong> e do <strong>padding</strong>.</p>
-
+<p>No entanto, a <strong>border</strong> é diferente da <strong>margin</strong> e do <strong>padding</strong>: 'border-top-width', 'border-right-width', 'border-bottom-width', e 'border-left-width‘.
+&nbsp;
+Exemplo de utilização:
+&nbsp;
+<pre>
+h1 { border-width: thin } /* thin thin thin thin */
+h1 { border-width: thin thick } /* thin thick thin thick */
+h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
+</pre>
 
 
 
