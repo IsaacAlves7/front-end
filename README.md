@@ -844,10 +844,10 @@ Exemplo de utilização:</p>
  &lt;/head&gt;
 </pre>
 
-### Estilo externo 📘
+### Estilo externo 📘📙
 <p>As regras foram escritas em um arquivo com extensão <b>.css</b> e podem ser carregadas ao documento HTML5 de duas formas:</p>
 
-#### Utilizando o elemento &lt;link&gt; no HTML
+#### Utilizando o elemento &lt;link&gt; no HTML 📘📙
 <pre>
 &lt;head&gt;
 &lt;link rel="stylesheet" href="default.css"&gt;
@@ -856,6 +856,24 @@ Exemplo de utilização:</p>
 &lt;link rel="alternate stylesheet" href="big.css" title="Big fonts"&gt;
 &lt;link rel="alternate stylesheet" href="wide.css" title="Wide screen"&gt;&lt;/head&gt;
 </pre>
+
+#### Utilização do elemento &lt;import&gt; no CSS 📘📘
+<p>Permite <b>importar</b> regras de estilo dentro de outras regras de estilo. Esse método permite aplicar regras comuns a todos os documentos HTML.
+
+<b>Exemplo de utilização:</b>
+
+Dentro de um documento .css podemos aplicar nas primeiras linhas, a chamada de arquivos externos, para utilizar comandos já existentes.</p>
+
+<pre>
+@import "mystyle.css";
+@import url("mystyle.css");
+@import url("fineprint.css") print; /* mídia específica para impressão */
+@import url("bluish.css") projection, tv; /* mídia específica grandes mídias*/
+@import url("narrow.css") handheld and (max-width: 400px); /* mídia específica mídias portáteis*/
+</pre>
+
+## Conceito de Módulos
+<p>O CSS nível 3 implementou o conceito de módulos, em que cada </p>
 
 ## Seletores e Declarações 📘📝📃
 
