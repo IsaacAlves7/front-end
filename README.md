@@ -214,7 +214,7 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 </ul>
 </p>
 
-## JS - JavaScript
+## JavaScript (JS) 📜
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Repositório do JavaScript"/></a><br></div><br>
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
 
@@ -511,7 +511,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
  <code>&lt;/dl&gt;</code><br>
  </ul>
 
-### Tags de Multimidia
+### Tags de Multimidia 🔊🎬▶️
 <p>O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os
 navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
 
