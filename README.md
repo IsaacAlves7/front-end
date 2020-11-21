@@ -945,11 +945,11 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
 <p>Besides that, the Box model have his positions:<p>
 <ul>
   <li><b>top</b>: Up position</li>
-  <li><b>left</b>: Left position</li>
   <li><b>right</b>: Right position</li>
   <li><b>bottom</b>: Down position</li>
+  <li><b>left</b>: Left position</li>
 </ul>
-<p>Sempre será referenciada por esta ordem: <strong>topo, direita, inferior e esquerda</strong><em>(top, right, bottom, left)</em>.
+<blockquote><strong>OBS: Sempre será referenciada por esta ordem: <strong>topo, direita, inferior e esquerda</strong><em> (top, right, bottom, left)</em>.</blockquote>
 
 Exemplo:</p>
 
