@@ -811,8 +811,8 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 </pre>
 </ul>
 
-# Formulários HTML 📙🗳️
-<p></p>
+# Formulários HTML 📙🗳️✔️🔘
+<p>A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.).</p>
 
 <div align="center"><h1>5. Revisando o CSS 📘</h1></div>
 <p>Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecanismo simples
