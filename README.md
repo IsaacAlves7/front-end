@@ -931,7 +931,7 @@ O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele represen
 
 E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
 
-## Box Model 📘📦
+## Box Model 📘📦⬆️➡️⬇️⬅️
 <p>Look from this images bellow:</p>
 
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><br>
