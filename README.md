@@ -549,7 +549,7 @@ O elemento <b>&lt;source&gt;</b> pode ser usado múltiplas vezes e permite defin
 <p>Existem diversos <b>codecs</b>, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior. Obs: Codecs são programas utilizados para codificar e decodificar arquivos de mídia. Eles compactam o formato original, favorecendo o armazenamento, e descompactam na hora da reprodução, transformando novamente em imagem ou áudio.</p>
 
 
-### Tags de Tabelas
+### Tags de Tabelas 📙🔳⬜🔲
 <p>Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
 
 Entretanto, hoje, o uso de tabelas está, de fato, interferindo na construção de sites melhores, mais acessíveis, flexíveis e funcionais, principalmente para as novas mídias, como os celulares, tablets etc.
@@ -618,7 +618,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <code>&lt;/html&gt;</code>
 </pre>
 
-### Atributo Rules
+### Atributo Rules 📖
 <p>Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo RULES, dentro da tag . Os complementos desse atributo são:</p>
 <ul>
   <li><b>none</b> nenhuma linha inteira.</li>
