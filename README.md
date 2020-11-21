@@ -978,7 +978,7 @@ padding-left: 12px; /*espaçamento esquerdo entre a borda e o conteúdo = 12px*/
 
 <blockquote>OBS: Perceberam a discrepância?</blockquote>
 
-
+<p>No entanto, a <strong>border</strong> é diferente da <strong>margin</strong> e do <strong>padding</strong>.</p>
 
 
 
