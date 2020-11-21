@@ -873,7 +873,7 @@ Dentro de um documento .css podemos aplicar nas primeiras linhas, a chamada de a
 </pre>
 
 ## Conceito de Módulos
-<p>O CSS nível 3 implementou o conceito de módulos, em que cada </p>
+<p>O CSS nível 3 implementou o conceito de módulos, em que cada módulo é desenvolvido de forma independente, seguindo um cronograma próprio. A principal vantagem é independência na construção das novas funcionalidades.</p>
 
 ## Seletores e Declarações 📘📝📃
 
@@ -937,10 +937,10 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><br>
 <p>When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.</p>
 <ol>
-  <li><b>margin</b> - São os espaçamentos entre elementos.</li>
-  <li><b>border</b> - Circulam o padding e o conteúdo, dá para alterar a largura e cor.</li>
+  <li><b>margin</b> - São os espaçamentos entre elementos (transparente).</li>
+  <li><b>border</b> - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura e cor.</li>
   <li><b>padding</b> - Espaçamento entre a borda e o conteúdo.</li>
-  <li><b>content</b> - O elemento HTML.</li>
+  <li><b>content</b> - O elemento ou conteúdo HTML.</li>
 </ol>
 <p>Besides that, the Box model have his positions:<p>
 <ul>
