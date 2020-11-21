@@ -824,8 +824,14 @@ O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento do
 ## Sintaxe 📘🧱
 <b>Formas de inclusão no HTML:</b>
 
-### Estilo inline
-<p>Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo style. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código.</p>
+### Estilo inline 📝
+<p>Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código.</p>
+<pre>
+    &lt;p style=?color: white; background:black?&gt;Hello, world!&lt;/p&gt;
+</pre>
+### Estilo incorporado ou interno 📃
+
+### Estilo externo 📘
 
 ## Seletores e Declarações 📘📝📃
 
