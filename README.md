@@ -829,9 +829,23 @@ O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento do
 <pre>
     &lt;p style=?color: white; background:black?&gt;Hello, world!&lt;/p&gt;
 </pre>
+
 ### Estilo incorporado ou interno 📃
+<p>Caracteriza-se por escrever o código CSS, utilizando o comando <strong>&lt;style&gt;</strong> do HTML. Esse método é superior ao anterior, pois <b>todas as regras CSS</b> estão localizadas no início do código HTML5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
+
+Exemplo de utilização:</p>
+
+<pre>
+ &lt;head&gt;
+  &lt;style&gt;
+   * {margin: 0; padding: 0; box-sizing: border-box;}
+   body {width: 100%; height: 100vh;}
+  &lt;/style&gt;
+ &lt;/head&gt;
+</pre>
 
 ### Estilo externo 📘
+
 
 ## Seletores e Declarações 📘📝📃
 
