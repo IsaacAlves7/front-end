@@ -1157,23 +1157,38 @@ No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
   <li><strong>font-size</strong> que define o tamanho da fonte.</li>
   <li><strong>font-style</strong> que define o estilo da fonte.</li>
   <li><strong>font-variant</strong> que define a caixa da fonte.</li>
-  
+  <li><strong>letter-spacing> que define o espaçamento das letras da fonte.</li>
 </ul>
 <p>Exemplos:</p>
 <pre>
  h1{
- font-size: 250%;
- font-style: normal;
+   font-size: 250%;
+   font-style: normal;
+   font-variant: small-caps;
  }
- 
+ &nbsp;
  h2{
- font-size: 100px;
- font-style: italic;
+   font-size: 100px;
+   font-style: italic;
+   font-weight: normal;
  }
- 
+ &nbsp;
+ h3{
+   font-size: 2cm;
+   font-style: italic;
+   font-weight: bold;
+ }
+ &nbsp;
+ h4{
+   font-size: 10rem;
+   font-style: italic;
+   font-weight: 900;
+ }
+ &nbsp;
  p{
- font-size: 100pc;
- font-style: oblique;
+   font-size: 100pc;
+   font-style: oblique;
+   letter-spacing: 2px;
  }
 </pre>
 
