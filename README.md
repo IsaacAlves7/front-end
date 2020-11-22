@@ -1153,8 +1153,29 @@ font-family:'Abhaya Libre', serif;
 <p>O comando <strong>Font-family</strong> é o que determina a fonte que será usada.
 
 No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
-
-
+<ul>
+  <li><strong>font-size</strong> que define o tamanho da fonte.</li>
+  <li><strong>font-style</strong> que define o estilo da fonte.</li>
+  <li><strong>font-variant</strong> que define a caixa da fonte.</li>
+  
+</ul>
+<p>Exemplos:</p>
+<pre>
+ h1{
+ font-size: 250%;
+ font-style: normal;
+ }
+ 
+ h2{
+ font-size: 100px;
+ font-style: italic;
+ }
+ 
+ p{
+ font-size: 100pc;
+ font-style: oblique;
+ }
+</pre>
 
 <!--
 <div align="center"><h1>6. Responsive Layout 📱💻🖥️</h1></div>
