@@ -1154,10 +1154,10 @@ font-family:'Abhaya Libre', serif;
 
 No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
 <ul>
-  <li><strong>font-size</strong> que define o tamanho da fonte.</li>
-  <li><strong>font-style</strong> que define o estilo da fonte.</li>
-  <li><strong>font-variant</strong> que define a caixa da fonte.</li>
-  <li><strong>letter-spacing> que define o espaçamento das letras da fonte.</li>
+  <li><strong>font-size</strong> que define o tamanho da fonte.</strong></li>
+  <li><strong>font-style</strong> que define o estilo da fonte.</strong></li>
+  <li><strong>font-variant</strong> que define a caixa da fonte.</strong></li>
+  <li><strong>letter-spacing> que define o espaçamento das letras da fonte.</strong></li>
 </ul>
 <p>Exemplos:</p>
 <pre>
