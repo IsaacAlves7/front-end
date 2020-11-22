@@ -1068,7 +1068,9 @@ h1#titulo1 { text-align: center } /* aplica a regra ao elemento h1 com o id=titu
 </pre>
 
 ## Foreground e Background
-<p>O CSS permite alterar as cores de primeiro plano (foreground) e plano de fundo (background) dos elementos.
+<p>O CSS permite alterar as cores de primeiro plano (<em>foreground</em>) e plano de fundo (<em>background</em>) dos elementos. O W3C recomenda que a regra background seja utilizado no elemento <em>body</em>.
+
+Sempre que pensamos em criar um layout, devemos configurar a cor de fundo (background)</p>
 
 
 
