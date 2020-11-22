@@ -1027,7 +1027,7 @@ font-family: sans-serif
 <p>Um elemento pode estar contido dentro de outro elemento.
 
 Exemplo:
-<H1>Este texto é <EM>muito</EM> importante</H1></p>
+&lt;H1&gt;Este texto é &lt;EM&gt;muito&lt;/EM&gt; importante&lt;/H1&gt;</p>
 <pre>
 h1 { color: red } /* indica que todos os elementos h1 possuem a cor vermelha */
 em { color: red } /* indica que todos os elementos em possuem a cor vermelha */
@@ -1036,6 +1036,47 @@ h1 em { color: blue } /* indica que os elementos em contidos em um elemento h1 p
 
 ### Seletores filhos
 <p>Um elemento filho é caraterizado quando os elementos são separados por “&gt;".</p>
+<pre>div ol&gt;li p {color: green }</pre>
+
+<p>Este exemplo, todos os elementos <strong>p</strong> serão de cor verde quando estiverem dentro de um elemento item &lt;li&gt;, filho de uma lista &lt;ol&gt; dentro de uma &lt;div&gt;.</p>
+
+### Seletores por atributos
+<p>Especifica regras para os elementos que possuem determinado atributo.
+
+Exemplo:</p>
+<pre>span[hello="Cleveland"][goodbye="Columbus"] { color: blue; }</pre>
+
+<p>A regra será aplicada a todos os elementos span que possuem o atributo hello="Cleveland" e o atributo goodbye="Columbus".</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
