@@ -995,8 +995,7 @@ O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele represen
 E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
 
 
-## Pseudo-Classe
-
+## Pseudo-Classe 📘❌🆑
 <pre>
  <code>
  a:hover { 
@@ -1008,7 +1007,7 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
 
 O <b>a:hover</b> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
 
-## Box Model 📘📦⬆️➡️⬇️⬅️
+## Box Model 📘📦 ⬆️➡️⬇️⬅️
 <p>Look from this images bellow:</p>
 
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><br>
