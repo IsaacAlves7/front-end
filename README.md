@@ -1143,14 +1143,14 @@ body{
 
 
 
-<!--
+
 <div align="center"><h1>6. Responsive Layout 📱💻🖥️</h1></div>
 <img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/>
 <p>The</p>
-<div align="center"><h1>6. Flexbox Layout 🥡🍜🧃</h1></div>
-<div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/><img src="https://boluda.com/files/curso-flexbox.jpg" width="400"></div><br>
+<div align="center"><h1>6. Flexbox Layout 📦🥡🧃</h1></div>
+<div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/></div><br>
 <p>The</p>
 <div align="center"><h1>6. Grid Layout 🍱🍙🍣</h1></div>
-<div align="center"><img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="200"/> <img src="https://www.w3schools.com/css/grid_lines.png" width="270"></div><br>
+<div align="center"><img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="200"/> <!--<img src="https://www.w3schools.com/css/grid_lines.png" width="270">--></div><br>
 <p>The</p>
--->
+
