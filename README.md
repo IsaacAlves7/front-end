@@ -279,7 +279,7 @@ Uma TAG pode conter <b>atributos</b>, que são informações que alteram o compo
 Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o <b>CSS</b>, o <b>Javascript</b>.
 </p>
 
-## Atributos de uma TAG 📙
+## Atributos de uma TAG 📙📚
 <p><b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
 
 Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <b>&lt;link&gt;</b>:
@@ -288,7 +288,7 @@ Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você 
 </pre>
 Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso é <b>rel="stylesheet"</b> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <b>href=""</b> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
 
-### Lista de Atributos Específicos de uma TAG 📙
+### Lista de Atributos Específicos de uma TAG 📙📋📚
 <ul>
   <li><b>rel=""</b> especifica o relacionamento entre o documento atual e o documento linkado.</li>
   <li><b>src=""</b> especifica a URL do arquivo de mídia.</li>
@@ -301,7 +301,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
   <li><b>value=""</b> especifica o valor do elemento.</li>
 </ul>
 
-### Lista de Atributos Globais de uma TAG 📙🌎
+### Lista de Atributos Globais de uma TAG 📙📋📚🌎
 <ul>
   <li><b>title=""</b> especifica a informação extra sobre o elemento, como um balãosinho de texto.</li>  
   <li><b>class=""</b> especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS).</li>  
@@ -309,7 +309,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 </ul>
 
 
-### Lista de Atributos Scripts de uma TAG (HTML5 + JavaScript) 📙+📒
+### Lista de Atributos Scripts de uma TAG (HTML5 + JavaScript) 📙📋📚+📒📜
 <ul>
   <li><b>onclick=""</b> script roda quando o elemento é clicado.</li>  
   <li><b>onabort=""</b> script roda no abortar.</li>  
@@ -475,7 +475,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;pre&gt;&lt;code&gt;console.log('Hello, World!');&lt;/code&gt;&lt;/pre&gt;</code>
 </ul>
 
-### Tag de Listas 📙📑
+### Tag de Listas 📙📑🎋🔖
 <p>As listas são importantes para a organização do texto e orientação do usuário.</p>
 <ul>
  <li><p><b>&lt;li&gt;</b> elemento que representa um os itens das listas.</p></li>
@@ -510,7 +510,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
  <code>&lt;/dl&gt;</code><br>
  </ul>
 
-### Tags de Multimidia 📙🔊🎬▶️
+### Tags de Multimidia 📙🔊🎵🎬▶️
 <p>O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os
 navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
 
@@ -1137,10 +1137,13 @@ body{
 O site do Google disponibiliza uma quantidade grande de fontes livres. No endereço https://fonts.google.com/ encontramos as fontes e a forma de como colocar no nosso código.
 
 Para colocar no código da página, escolhemos a fonte e depois copiamos o código que vai ser colocado no HEAD da página.</p>
+<pre>
+ &lt;head&gt;
+  &lt;link href="https://fonts.googleapis.com/css?family=Abhaya+Libre|Bungee+Inline" rel="stylesheet"&gt;
+ &lt;/head&gt;
+</pre>
 
-
-
-
+<p>Depois no CSS colocamos o comando para o seu uso.</p>
 
 
 
