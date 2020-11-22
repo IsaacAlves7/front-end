@@ -1145,7 +1145,7 @@ body{
 
 
 <div align="center"><h1>6. Responsive Layout 📱💻🖥️</h1></div>
-<img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/>
+<div align="center"><img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/></div>
 <p>The</p>
 <div align="center"><h1>6. Flexbox Layout 📦🥡🧃</h1></div>
 <div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/></div><br>
