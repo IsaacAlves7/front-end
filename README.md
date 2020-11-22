@@ -988,7 +988,7 @@ h1 { border-width: thin thick } /* thin thick thin thick */
 h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
 </pre>
 
-<p>Estilos da borda: 'border-top-style', 'border-right-style', 'border-bottom-style', 'border-left-style', and 'border-style‘
+<p><strong>Estilos da borda:</strong> 'border-top-style', 'border-right-style', 'border-bottom-style', 'border-left-style', and 'border-style‘
 
 Exemplo de utilização:</p>
 <pre>#xy34 { border-style: solid dotted }</pre>
