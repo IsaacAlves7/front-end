@@ -1070,7 +1070,10 @@ Exemplo de utilização:</p>
 ## Foreground e Background
 <p>O CSS permite alterar as cores de primeiro plano (<em>foreground</em>) e plano de fundo (<em>background</em>) dos elementos. O W3C recomenda que a regra background seja utilizado no elemento <em>body</em>.
 
-Sempre que pensamos em criar um layout, devemos configurar a cor de fundo (background) para que a página que será aberta apresente a mesma cor em qualquer navegador. Caso não seja definida, corre o risco do usuário ter modificado a cor padrão da máquina e como não está configurada no HTML, a página vai mostrar a cor padrão, alterando, assim, o que foi definido no layout.</p>
+Sempre que pensamos em criar um layout, devemos configurar a cor de fundo (background) para que a página que será aberta apresente a mesma cor em qualquer navegador. Caso não seja definida, corre o risco do usuário ter modificado a cor padrão da máquina e como não está configurada no HTML, a página vai mostrar a cor padrão, alterando, assim, o que foi definido no layout.
+
+O mesmo caso acontece com a cor da fonte (foreground) que deve ser definida da mesma forma. O W3C recomenda sempre que o body contenha essas definições para que todas as páginas apresentem uma formatação.</p>
+
 
 
 
