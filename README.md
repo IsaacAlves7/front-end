@@ -1099,15 +1099,37 @@ body{
 }
 </pre>
 
-<p>Definindo assim uma cor e uma imagem para o fundo da página.</p>
+<p>Definindo assim uma cor e uma imagem repitida para o fundo da página.</p>
 
+<p>Quando definimos uma imagem de fundo, o atributo url pode conter um endereço completo de onde se encontra a imagem, podendo estar até em outro domínio.</p>
+<pre>
+body{
+  background-image: url("//www.exodocientifica.com.br/wp-content/uploads/2014/08/fundo-site.jpg");
+  backgroud-color: #cccccc;
+}
+</pre>
 
+<p>A definição da imagem de fundo pode ser configurada com alguns atributos especiais como:</p>
+<pre>
+body{
+  background-image: url("paper.gif");
+  background-repeat: repeat-y;
+}
+</pre>
 
+<p>Essa regra repete a imagem no eixo especificado. Se usar <strong>background-repeat: no-repeat;</strong> a imagem não será repetida.</p>
 
+<p>Podemos fixar a imagem em um determinado local da tela.</p>
+<pre>
+body{
+   background-image: url('smiley.gif');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+}
+</pre>
 
-
-
-
+<p><strong>attachment</strong> fixa a imagem e <b>position</b> determina a sua localização.</p>
 
 
 
