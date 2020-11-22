@@ -1074,7 +1074,7 @@ Sempre que pensamos em criar um layout, devemos configurar a cor de fundo (backg
 
 O mesmo caso acontece com a cor da fonte (foreground) que deve ser definida da mesma forma. O W3C recomenda sempre que o body contenha essas definições para que todas as páginas apresentem uma formatação.</p>
 
-### Background
+### Background 🖼️🟦
 <p>Para alterar a cor de fundo de uma página HTML, usando atributos do CSS, devemos usar conforme o exemplo:</p>
 
 #### Modificando a cor do plano de fundo (background):
@@ -1131,8 +1131,12 @@ body{
 
 <p><strong>attachment</strong> fixa a imagem e <b>position</b> determina a sua localização. O resultado é a imagem totalmente centralizada na página.</p>
 
+## Trabalhando com FONTE no CSS 📘🔤🔠
+<p>Uma das novidades do CSS 3 é o uso de fontes da própria internet, podemos agora usar fontes livres que são disponíveis na internet, sem que tenha a necessidade de estar instalada na máquina do usuário.
 
+O site do Google disponibiliza uma quantidade grande de fontes livres. No endereço https://fonts.google.com/ encontramos as fontes e a forma de como colocar no nosso código.
 
+Para colocar no código da página, escolhemos a fonte e depois copiamos o código que vai ser colocado no HEAD da página.</p>
 
 
 
