@@ -998,10 +998,28 @@ h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
 Exemplo de utilização:</p>
 <pre>#xy34 { border-style: solid dotted }</pre>
 
+## Seleção de elementos
+<p>No CSS, a seleção de elementos pode variar de uma forma simplificada até padrões contextuais ricos.</p>
 
+## Tipos de seleção
+<p>Os tipos de seleção são muito importantes, pois a ordem deles alteram no resultado do processamento da página.</p>
 
+### Agrupamento
+<p>O CSS permite agrupar declarações repetidas.
 
+Exemplo:</p>
+<pre>
+h1 { font-family: sans-serif }
+h2 { font-family: sans-serif }
+h3 { font-family: sans-serif }
+</pre>
 
+<p>É equivalente a:</p>
+<pre>
+h1, h2, h3 {
+font-family: sans-serif
+}
+</pre>
 
 
 
