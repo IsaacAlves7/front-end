@@ -886,13 +886,15 @@ Vamos usar um elemento HTML que vimos anteriormente, a âncora , para exemplific
 Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o <b>a</b>, então dentro de um par de chaves adicionamos as <strong>declarações</strong>, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as <b>declarações</b> são formadas por uma propriedade e um valor.</p>
 
 ## Tipos de Seletores, Declarações, Propriedades e Valores 📘📃🧱
-<p>Percebam que podemos colocar vários seletores em uma regra separando-os por vírgula.
+Uma regra CSS é representada por:
 
 <p><strong>Propriedade:</strong> Determina a modificação a ser feita.</p>
 
 <p><strong>Seletor:</strong> É o alvo da regra (nome do comando) CSS.</p>
 
-<p><strong>Valor:</strong> A alteração.</p>
+<p><strong>Valor:</strong> A alteração.
+
+Exemplo:</p>
 
 <pre>
  <code>
@@ -1021,8 +1023,19 @@ font-family: sans-serif
 }
 </pre>
 
+### Seletores descendentes
+<p>Um elemento pode estar contido dentro de outro elemento.
 
+Exemplo:
+<H1>Este texto é <EM>muito</EM> importante</H1></p>
+<pre>
+h1 { color: red } /* indica que todos os elementos h1 possuem a cor vermelha */
+em { color: red } /* indica que todos os elementos em possuem a cor vermelha */
+h1 em { color: blue } /* indica que os elementos em contidos em um elemento h1 possuem a cor azul */
+</pre>
 
+### Seletores filhos
+<p>Um elemento filho é caraterizado quando os elementos são separados por “&gt;".</p>
 
 
 
