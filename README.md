@@ -910,96 +910,6 @@ Exemplo:</p>
   <li>{color:#000;} = declaração</li>
 </ul>
 
-<pre>
- <code>
- a:hover { 
-    color: #fff;
-   }</code>
-</pre>
-
-E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento.
-
-O <b>a:hover</b> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
-
-## ID x Class 🆔❌🆑
-<p>No exemplo anterior criamos uma regra que altera um elemento HTML diretamente, mas isso significa que todos os elementos <a> ficarão com aquela aparência, e normalmente temos sites mais complexos que precisam de várias regras diferentes para elementos iguais.
-
-Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer no módulo passado, ele tinha vários elementos header, mas não vamos querer que o header principal tenha a mesma formatação que o header de uma postagem, é aí que entram os IDs e Classes.
-
-O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele representa um elemento HTML, e com IDs e Classes podemos representar qualquer tipo de elemento mas há algumas diferenças entre eles:
-
-<strong>ID</strong>: é representado pelo símbolo # (hash) seguido de um nome para esse ID. Só pode ser utilizado uma única vez!
-<pre><code>#id{
-  }</code></pre>
-
-<strong>Classe</strong>: a classe é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash. Pode ser utilizado mais de uma vez!
-<pre><code>.class{
-  }</code></pre>
-
-E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
-
-## Box Model 📘📦⬆️➡️⬇️⬅️
-<p>Look from this images bellow:</p>
-
-<div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><br>
-<p>When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.</p>
-<ol>
-  <li><b>margin</b> - São os espaçamentos entre elementos (transparente).</li>
-  <li><b>border</b> - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura, cor e forma.</li>
-  <li><b>padding</b> - Espaçamento entre a borda e o conteúdo.</li>
-  <li><b>content</b> - O elemento ou conteúdo HTML.</li>
-</ol>
-<p>Besides that, the Box model have his positions:<p>
-<ul>
-  <li><b>top</b>: Up position</li>
-  <li><b>right</b>: Right position</li>
-  <li><b>bottom</b>: Down position</li>
-  <li><b>left</b>: Left position</li>
-</ul>
-<blockquote><strong>OBS: Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda</strong><em> (top, right, bottom, left)</em>.</blockquote>
-
-Exemplo:</p>
-<pre>
-ul {
-margin: 12px 12px 12px 12px; /*top, right, bottom, left = 12px*/
-padding: 12px 0px 12px 12px; /*espaçamento direito entre a borda e o conteúdo = 0px; top, left, bottom = 12px*/
-}
-</pre>
-
-Outra forma é inserior a propriedade do box model de acordo com suas posições, o que não é muito prático.
-
-Exemplo:</p>
-<pre>
-ul {
-margin-top: 12px; /*topo da margem = 12px*/
-margin-right: 12px; /*direito da margem = 12px*/
-margin-bottom: 12px; /*abaixo da margem = 12px*/
-margin-left: 12px; /*esquedo da margem = 12px*/
-&nbsp;
-padding-top: 12px; /*espaçamento topo entre a borda e o conteúdo = 12px*/
-padding-right: 0px; /*espaçamento direito entre a borda e o conteúdo = 0px*/
-padding-bottom: 12px; /*espaçamento inferior entre a borda e o conteúdo = 12px*/
-padding-left: 12px; /*espaçamento esquerdo entre a borda e o conteúdo = 12px*/
-}
-</pre>
-
-<blockquote>OBS: Perceberam a discrepância entre os dois métodos?</blockquote>
-
-<p>No entanto, a <strong>border</strong> é diferente da <strong>margin</strong> e do <strong>padding</strong>: 'border-top-width', 'border-right-width', 'border-bottom-width', e 'border-left-width‘.
-&nbsp;
-Exemplo de utilização:
-&nbsp;
-<pre>
-h1 { border-width: thin } /* thin thin thin thin */
-h1 { border-width: thin thick } /* thin thick thin thick */
-h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
-</pre>
-
-<p><strong>Estilos da borda:</strong> 'border-top-style', 'border-right-style', 'border-bottom-style', 'border-left-style', and 'border-style‘
-
-Exemplo de utilização:</p>
-<pre>#xy34 { border-style: solid dotted }</pre>
-
 ## Seleção de elementos
 <p>No CSS, a seleção de elementos pode variar de uma forma simplificada até padrões contextuais ricos.</p>
 
@@ -1066,6 +976,99 @@ Exemplo:</p>
 h1#titulo1 { text-align: center } /* aplica a regra ao elemento h1 com o id=titulo */
 *.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
 </pre>
+
+## ID x Class 🆔❌🆑
+<p>No exemplo anterior criamos uma regra que altera um elemento HTML diretamente, mas isso significa que todos os elementos <a> ficarão com aquela aparência, e normalmente temos sites mais complexos que precisam de várias regras diferentes para elementos iguais.
+
+Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer no módulo passado, ele tinha vários elementos header, mas não vamos querer que o header principal tenha a mesma formatação que o header de uma postagem, é aí que entram os IDs e Classes.
+
+O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele representa um elemento HTML, e com IDs e Classes podemos representar qualquer tipo de elemento mas há algumas diferenças entre eles:
+
+<strong>ID</strong>: é representado pelo símbolo # (hash) seguido de um nome para esse ID. Só pode ser utilizado uma única vez!
+<pre><code>#id{
+  }</code></pre>
+
+<strong>Classe</strong>: a classe é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash. Pode ser utilizado mais de uma vez!
+<pre><code>.class{
+  }</code></pre>
+
+E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
+
+
+## Pseudo-Classe
+
+<pre>
+ <code>
+ a:hover { 
+    color: #fff;
+   }</code>
+</pre>
+
+<p>E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento.
+
+O <b>a:hover</b> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
+
+## Box Model 📘📦⬆️➡️⬇️⬅️
+<p>Look from this images bellow:</p>
+
+<div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><br>
+<p>When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.</p>
+<ol>
+  <li><b>margin</b> - São os espaçamentos entre elementos (transparente).</li>
+  <li><b>border</b> - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura, cor e forma.</li>
+  <li><b>padding</b> - Espaçamento entre a borda e o conteúdo.</li>
+  <li><b>content</b> - O elemento ou conteúdo HTML.</li>
+</ol>
+<p>Besides that, the Box model have his positions:<p>
+<ul>
+  <li><b>top</b>: Up position</li>
+  <li><b>right</b>: Right position</li>
+  <li><b>bottom</b>: Down position</li>
+  <li><b>left</b>: Left position</li>
+</ul>
+<blockquote><strong>OBS: Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda</strong><em> (top, right, bottom, left)</em>.</blockquote>
+
+Exemplo:</p>
+<pre>
+ul {
+margin: 12px 12px 12px 12px; /*top, right, bottom, left = 12px*/
+padding: 12px 0px 12px 12px; /*espaçamento direito entre a borda e o conteúdo = 0px; top, left, bottom = 12px*/
+}
+</pre>
+
+Outra forma é inserior a propriedade do box model de acordo com suas posições, o que não é muito prático.
+
+Exemplo:</p>
+<pre>
+ul {
+margin-top: 12px; /*topo da margem = 12px*/
+margin-right: 12px; /*direito da margem = 12px*/
+margin-bottom: 12px; /*abaixo da margem = 12px*/
+margin-left: 12px; /*esquedo da margem = 12px*/
+&nbsp;
+padding-top: 12px; /*espaçamento topo entre a borda e o conteúdo = 12px*/
+padding-right: 0px; /*espaçamento direito entre a borda e o conteúdo = 0px*/
+padding-bottom: 12px; /*espaçamento inferior entre a borda e o conteúdo = 12px*/
+padding-left: 12px; /*espaçamento esquerdo entre a borda e o conteúdo = 12px*/
+}
+</pre>
+
+<blockquote>OBS: Perceberam a discrepância entre os dois métodos?</blockquote>
+
+<p>No entanto, a <strong>border</strong> é diferente da <strong>margin</strong> e do <strong>padding</strong>: 'border-top-width', 'border-right-width', 'border-bottom-width', e 'border-left-width‘.
+&nbsp;
+Exemplo de utilização:
+&nbsp;
+<pre>
+h1 { border-width: thin } /* thin thin thin thin */
+h1 { border-width: thin thick } /* thin thick thin thick */
+h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
+</pre>
+
+<p><strong>Estilos da borda:</strong> 'border-top-style', 'border-right-style', 'border-bottom-style', 'border-left-style', and 'border-style‘
+
+Exemplo de utilização:</p>
+<pre>#xy34 { border-style: solid dotted }</pre>
 
 ## Foreground e Background
 <p>O CSS permite alterar as cores de primeiro plano (<em>foreground</em>) e plano de fundo (<em>background</em>) dos elementos. O W3C recomenda que a regra background seja utilizado no elemento <em>body</em>.
