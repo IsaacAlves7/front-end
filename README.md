@@ -886,14 +886,13 @@ Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores<
 
 ## Tipos de Seletores, Declarações, Propriedades e Valores 📘📃🧱
 Uma regra CSS é representada por:
-
-<p><strong>Propriedade:</strong> Determina a modificação a ser feita.</p>
-
-<p><strong>Seletor:</strong> É o alvo da regra (nome do comando) CSS.</p>
-
-<p><strong>Valor:</strong> A alteração.
-
-Exemplo:</p>
+<ul>
+<li><strong>Propriedade:</strong> Determina a modificação a ser feita.</li>
+<li><strong>Seletor:</strong> É o alvo da regra (nome do comando) CSS.</li>
+<li><strong>Valor:</strong> A alteração.</li>
+<li><strong>Declaração:</strong> É o conjunto de propriedades e valores.</li>
+</ul>
+<p>Exemplo:</p>
 
 <pre>
  <code>
