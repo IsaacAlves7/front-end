@@ -232,7 +232,7 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
 
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
 
-## API's - Aplication Programming Interfaces 📙📘📒🐘🏦🎲
+## Aplication Programming Interfaces (API's) 📙+📘+📒+🐘+🏦+🎲
 <div align="center"><img src="https://miro.medium.com/max/654/0*prut14lFoArZnPK5.jpg" height="400"/></div>
 <i>Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, <b>REST API</b>, também chamado de <b>RESTful API</b>.</i><br><br>
 
@@ -253,7 +253,7 @@ Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas
 Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  &lt;font&gt;, &lt;center&gt; e outras novas, pois milhões de páginas web as utilizam.</p>
 <hr>
 
-<div align="center"><h1>4. TAGs HTML 📙📋</h1></div>
+<div align="center"><h1>4. TAGs HTML 📙📚</h1></div>
 <img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
 <p>É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: &lt;meta&gt;, &lt;h1&gt;, &lt;img&gt; etc. 
 
@@ -309,7 +309,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 </ul>
 
 
-### Lista de Atributos Scripts de uma TAG (HTML5 + JavaScript) 📙📒
+### Lista de Atributos Scripts de uma TAG (HTML5 + JavaScript) 📙+📒
 <ul>
   <li><b>onclick=""</b> script roda quando o elemento é clicado.</li>  
   <li><b>onabort=""</b> script roda no abortar.</li>  
@@ -633,7 +633,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <pre><code>&lt;table border rules="groups"6&gt;</code></pre>
 <pre><code>&lt;table border rules="rows"6&gt;</code></pre>
 
-### Tags de Formulários 📙🗳️✔️✅❎🟦🔎🔘
+### Tags de Formulários 📙🏷️📛🗳️✔️✅🆗🔎🔘
 <p>A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.).</p>
 
 <div align="center"><h1>6. HTML Semantic 📙📰</h1></div>
@@ -1067,21 +1067,39 @@ h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
 Exemplo de utilização:</p>
 <pre>#xy34 { border-style: solid dotted }</pre>
 
-## Foreground e Background
+## Foreground e Background 📘🖼️🟦
 <p>O CSS permite alterar as cores de primeiro plano (<em>foreground</em>) e plano de fundo (<em>background</em>) dos elementos. O W3C recomenda que a regra background seja utilizado no elemento <em>body</em>.
 
 Sempre que pensamos em criar um layout, devemos configurar a cor de fundo (background) para que a página que será aberta apresente a mesma cor em qualquer navegador. Caso não seja definida, corre o risco do usuário ter modificado a cor padrão da máquina e como não está configurada no HTML, a página vai mostrar a cor padrão, alterando, assim, o que foi definido no layout.
 
 O mesmo caso acontece com a cor da fonte (foreground) que deve ser definida da mesma forma. O W3C recomenda sempre que o body contenha essas definições para que todas as páginas apresentem uma formatação.</p>
 
+### Background
+<p>Para alterar a cor de fundo de uma página HTML, usando atributos do CSS, devemos usar conforme o exemplo:</p>
 
+#### Modificando a cor do plano de fundo (background):
+<p>Dentro da Tag &lt;body&gt;, alteramos o atributo <b>background-color</b> com a cor desejada.</p>
 
+<pre>
+body {
+  background-color: yellow;
+}
+</pre>
 
+<p>Definindo, assim, uma cor amarela para o fundo da página.</p>
 
+<p>A definição do background pode ser feita também com a utilização de imagens como fundo, para isso devemos pensar da mesma forma e utilizar os comandos específicos para imagens de fundo.
 
+<strong>Exemplo de elemento do plano de fundo (background):</strong></p>
 
+<pre>
+body{
+  background-image: url("paper.gif");
+  background-color: #cccccc;
+}
+</pre>
 
-
+<p>Definindo assim uma cor e uma imagem para o fundo da página.</p>
 
 
 
@@ -1107,10 +1125,10 @@ O mesmo caso acontece com a cor da fonte (foreground) que deve ser definida da m
 <div align="center"><h1>6. Responsive Layout 📱💻🖥️</h1></div>
 <img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/>
 <p>The</p>
-<div align="center"><h1>6. Flexbox Layout 🥡🍜</h1></div>
+<div align="center"><h1>6. Flexbox Layout 🥡🍜🧃</h1></div>
 <div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/><img src="https://boluda.com/files/curso-flexbox.jpg" width="400"></div><br>
 <p>The</p>
-<div align="center"><h1>6. Grid Layout 🍱🍣</h1></div>
+<div align="center"><h1>6. Grid Layout 🍱🍙🍣</h1></div>
 <div align="center"><img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="200"/> <img src="https://www.w3schools.com/css/grid_lines.png" width="270"></div><br>
 <p>The</p>
 -->
