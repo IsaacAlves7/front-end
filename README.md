@@ -888,6 +888,12 @@ Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores<
 ## Tipos de Seletores, Declarações, Propriedades e Valores 📘📃🧱
 <p>Percebam que podemos colocar vários seletores em uma regra separando-os por vírgula.
 
+<p><strong>Propriedade:</strong> Determina a modificação a ser feita.</p>
+
+<p><strong>Seletor:</strong> É o alvo da regra (nome do comando) CSS.</p>
+
+<p><strong>Valor:</strong> A alteração.</p>
+
 <pre>
  <code>
  a { 
@@ -900,7 +906,6 @@ Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores<
   <li>color = propriedade</li>
   <li>#000 = valor</li>
   <li>{color:#000;} = declaração</li>
-
 </ul>
 
 <pre>
