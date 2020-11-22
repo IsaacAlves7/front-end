@@ -233,8 +233,7 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
 
 ## API's - Aplication Programming Interfaces 📙📘📒🐘🏦🎲
-<div align="center">
-<img src="https://miro.medium.com/max/654/0*prut14lFoArZnPK5.jpg" height="400"/><img src="https://lh3.googleusercontent.com/proxy/HraXKGl_iVtTejDCKPhnrC3VDbpTxuQ_c2yqdreVqTjDEbDgs4BfEqEVSziJKMni_7Uwq-TPHRk3KOPW1MPdEWI8GJ7ek0QMzOuknDIVFRbgs6TLl9zYba1-1iaJeVi4VZk"/></div>
+<div align="center"><img src="https://miro.medium.com/max/654/0*prut14lFoArZnPK5.jpg" height="400"/></div>
 <i>Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, <b>REST API</b>, também chamado de <b>RESTful API</b>.</i><br><br>
 
 <p>Aplicações Web são o número cada vez maior de sites na Web, isto é, eles imitam aplicações de desktop ao invés dos documentos tradicionais e
