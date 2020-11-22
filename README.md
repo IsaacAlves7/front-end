@@ -1048,11 +1048,27 @@ Exemplo:</p>
 
 <p>A regra será aplicada a todos os elementos span que possuem o atributo hello="Cleveland" e o atributo goodbye="Columbus".</p>
 
+### Seletores por classes
+<p>Uma classe permite atribuir um conjunto de regras a um determinado elemento. É determinado por asterisco ponto (*.) ou simplesmente ponto (.).
 
+Exemplo:</p>
+<pre>
+.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
+/*ou*/
+*.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
+</pre>
 
+### Seletores por ID
+<p>O atributo ID permite identificar um elemento único no documento HTML. Para selecionar este elemento basta utilizar o caracter “#” seguindo pelo nome do elemento.
 
+Exemplo:</p>
+<pre>
+h1#titulo1 { text-align: center } /* aplica a regra ao elemento h1 com o id=titulo */
+*.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
+</pre>
 
-
+## Foreground e Background
+<p>O CSS permite alterar as cores de primeiro plano (foreground) e plano de fundo (background) dos elementos.
 
 
 
