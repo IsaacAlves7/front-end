@@ -1129,7 +1129,7 @@ body{
 }
 </pre>
 
-<p><strong>attachment</strong> fixa a imagem e <b>position</b> determina a sua localização.</p>
+<p><strong>attachment</strong> fixa a imagem e <b>position</b> determina a sua localização. O resultado é a imagem totalmente centralizada na página.</p>
 
 
 
