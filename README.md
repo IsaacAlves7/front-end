@@ -1033,7 +1033,7 @@ padding: 12px 0px 12px 12px; /*espaçamento direito entre a borda e o conteúdo 
 }
 </pre>
 
-Outra forma é inserior a propriedade do box model de acordo com suas posições, o que não é muito prático.
+Outra forma é inserir a propriedade do box model de acordo com suas posições, o que não é muito prático.
 
 Exemplo:</p>
 <pre>
@@ -1050,7 +1050,7 @@ padding-left: 12px; /*espaçamento esquerdo entre a borda e o conteúdo = 12px*/
 }
 </pre>
 
-<blockquote>OBS: Perceberam a discrepância entre os dois métodos?</blockquote>
+<blockquote>OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.</blockquote>
 
 <p>No entanto, a <strong>border</strong> é diferente da <strong>margin</strong> e do <strong>padding</strong>: 'border-top-width', 'border-right-width', 'border-bottom-width', e 'border-left-width‘.
 &nbsp;
