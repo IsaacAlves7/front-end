@@ -871,7 +871,7 @@ Dentro de um documento .css podemos aplicar nas primeiras linhas, a chamada de a
 @import url("narrow.css") handheld and (max-width: 400px); /* mídia específica mídias portáteis*/
 </pre>
 
-## Conceito de Módulos
+## Conceito de Módulos 📘
 <p>O CSS nível 3 implementou o conceito de módulos, em que cada módulo é desenvolvido de forma independente, seguindo um cronograma próprio. A principal vantagem é independência na construção das novas funcionalidades.</p>
 
 ## Seletores e Declarações 📘📝📃
@@ -1062,7 +1062,7 @@ h1 { border-width: thin thick } /* thin thick thin thick */
 h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
 </pre>
 
-<p><strong>Estilos da borda:</strong> 'border-top-style', 'border-right-style', 'border-bottom-style', 'border-left-style', and 'border-style‘
+<p><strong>Estilos da borda:</strong> 'border-top-style', 'border-right-style', 'border-bottom-style', 'border-left-style', and 'border-style‘, 'border'.
 
 Exemplo de utilização:</p>
 <pre>#xy34 { border-style: solid dotted }</pre>
@@ -1070,7 +1070,7 @@ Exemplo de utilização:</p>
 ## Foreground e Background
 <p>O CSS permite alterar as cores de primeiro plano (<em>foreground</em>) e plano de fundo (<em>background</em>) dos elementos. O W3C recomenda que a regra background seja utilizado no elemento <em>body</em>.
 
-Sempre que pensamos em criar um layout, devemos configurar a cor de fundo (background)</p>
+Sempre que pensamos em criar um layout, devemos configurar a cor de fundo (background) para que a página que será aberta apresente a mesma cor em qualquer navegador. Caso não seja definida, corre o risco do usuário ter modificado a cor padrão da máquina e como não está configurada no HTML, a página vai mostrar a cor padrão, alterando, assim, o que foi definido no layout.</p>
 
 
 
