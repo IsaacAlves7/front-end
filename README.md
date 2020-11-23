@@ -1516,9 +1516,43 @@ Podemos modificar posição, rotacionar, aumentar e diminuir, tudo isso dentro d
 
 Vamos começar com um exemplo de como mudar uma div de posição sem precisar chamar novamente a página, isto é, diretamente no navegador.</p>
 
+#### Vejamos os códigos:
+<pre>
+<h4>📙 index.html</h4>
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+ &lt;link&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p&gt;Rotacionar o element DIV&lt;/p&gt;
+&lt;div id="div1"&gt;Aqui o texto!&lt;/div&gt;
+&nbsp;
+Rotacionar: &lt;br&gt;
+&nbsp;
+&lt;input type="range" min="-360" max="360" value="7" onchange="rotate(this.value)"/&gt;&lt;br&gt;
+transformação: rotacionar(&lt;span id="span1"&gt;7deg&lt;/span&gt;);
+&lt;/body&gt;
+&lt;/html&gt;
+</pre>
 
+<pre>
+<h4>📘 style.css</h4>
+#div1 {
+   width: 120px;
+   height: 100px;
+   background-color: yellow;
+   border: 1px solid black;
+   transform: rotate(7deg);
+   -ms-transform: rotate(7deg); /*IE 9*/
+   -webkit-transform: rotate(7deg); /*Opera, Chrome and Safari*/
+}
+</pre>
 
+<pre>
+<h4>📒 main.js</h4>
 
+</pre>
 
 
 
