@@ -1340,6 +1340,16 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
 
 <p>Nas <em>media queries</em> são utilizados três operadores lógicos:</p>
 
+### not
+<p>Usamos para dispositivos monocromáticos, pois estamos negando o atributo color.</p>
+<pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
+
+### or
+<p>Define a localização do arquivo.css.</p>
+<pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
+### only
+<p>Define o tipo de saída do arquivo.</p>
+</ul>
 
 
 
