@@ -31,6 +31,12 @@
   <li>Parallax.</li>
   <li>HTML Canvas.</li>
 </ol>
+
+## Prerequisites:
+<ul>
+  <li>Bom domínio no inglês!</li>
+  <li>Vontade de aprender!</li>
+</ul>
 <hr>
 
 <div align="center"><h1>1. The History of Internet 🖥️💻⌨️🖱️📱🌐</h1></div>
@@ -1221,10 +1227,22 @@ As recomendações do W3C para as CSS 3 preveem a existência de três esquemas 
 <p>Esse esquema segue o fluxo normal em que os elementos são exibidos um após o outro e de cima para baixo. Ele é simples e atualmente a maioria das páginas usam essa forma.
 
 Um exemplo usando textos em sequência:</p>
+<pre>
+em{
+  padding: 2px;
+  margin: 2em;
+  border-width: medium;
+  border-style: dashed;
+  line-height: 2.4em;
+}
+</pre>
 
+### 2. Esquema Float (Flutuante)
+<p>Definido pela regra <b>float</b> de posicionamento, juntamente com as regras <strong>left, right, none e inherit (herdado)</strong>.
 
+O box é deslocado para uma nova posição e seu espaço original é preenchido por outro elemento, na medida do possível.
 
-
+Exemplo de uso: Neste exemplo a imagem está com o float: LEFT o que a coloca ao lado do texto.</p>
 
 
 
