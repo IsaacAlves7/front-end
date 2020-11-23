@@ -930,6 +930,7 @@ h1, h2, h3 {
 font-family: sans-serif
 }
 </pre>
+<blockquote>OBS: Todos os h1, todos os h2 e todos os h3</blockquote>
 
 ### Seletores descendentes
 <p>Um elemento pode estar contido dentro de outro elemento.
@@ -947,6 +948,14 @@ h1 em { color: blue } /* indica que os elementos em contidos em um elemento h1 p
 <pre>div ol&gt;li p {color: green }</pre>
 
 <p>Este exemplo, todos os elementos <strong>p</strong> serão de cor verde quando estiverem dentro de um elemento item &lt;li&gt;, filho de uma lista &lt;ol&gt; dentro de uma &lt;div&gt;.</p>
+
+### Seletores por prioridade
+<p>Um elemento por prioridade é caracterizado quando os elementos são separados por "+". Ou seja, o primeiro parágrafo que vem depois da div.</p>
+<pre>
+ div + p {
+   color: red;
+ }
+</pre>
 
 ### Seletores por atributos
 <p>Especifica regras para os elementos que possuem determinado atributo.
