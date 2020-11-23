@@ -1551,8 +1551,28 @@ transformação: rotacionar(&lt;span id="span1"&gt;7deg&lt;/span&gt;);
 
 <pre>
 <h4>📒 main.js</h4>
-
+function rotate(value){
+   document.getElementById('div1').style.webkitTransform="rotate("+value+"deg)";
+   document.getElementById('div1').style.webkitTransform="rotate("+value+"deg)";
+   document.getElementById('div1').style.webkitTransform="rotate("+value+"deg)";
+   document.getElementById('div1').style.msTransform="rotate("+value+"deg)";
+   document.getElementById('div1').style.MozTransform="rotate("+value+"deg)";
+   document.getElementById('div1').style.OTransform="rotate("+value+"deg)";
+   document.getElementById('div1').style.tranform="rotate("+value+"deg)";
+   document.getElementById('span1').innerHTML=value+"deg";
+}
 </pre>
+
+<blockquote>Agora veja como ficará a página. Arrastando a barra de rolagem, teremos a modificação da caixa amarela.</blockquote>
+
+
+
+
+
+
+
+
+
 
 
 
