@@ -1287,6 +1287,23 @@ body {
 #main {
     position: fixed;
     width: auto;
+    height: auto;
+    top: 15%;
+    right: 0;
+    bottom: 100px;
+    left: 10em;
+    background-color: yellow;
+}
+&nbsp;
+#footer{
+     position: fixed;
+     width: 100%;
+     height: 100px;
+     top: auto;
+     right: 0;
+     bottom: 0;
+     left: 0;
+     background-color: black;
 }
 </pre>
 
