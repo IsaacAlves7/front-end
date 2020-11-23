@@ -1327,8 +1327,14 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
   <li><strong>tv</strong> = para dispositivos como televisores, ou seja, com baixa resolução, quantidade de cores e scroll limitados.</li>
   <li><strong>handheld</strong> = para dispositivos portáteis, geralmente com telas pequenas e banda limitada.</li>
 </ul>
-
-
+<p>Observe, abaixo, um exemplo de utilização:</p>
+<pre>&lt;link rel="stylesheet" href="estilo.css" media="screen and (color)"/&gt;</pre>
+<b>Onde:</b>
+<ul>
+  <li><strong>rel</strong> = define o tipo do arquivo</li>
+  <li><strong>href</strong> = define a localização do arquivo.css</li>
+  <li><strong>media</strong> = define o tipo de saída do arquivo</li>
+</ul>
 
 
 
