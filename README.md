@@ -1322,7 +1322,15 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
   <li><strong>print</strong> = para a impressão em papel.</li>
   <li><strong>projection</strong> = para apresentações como PPS.</li>
   <li><strong>screen</strong> = para monitores ou dispositivos com telas coloridas e resolução adequada.</li>
+  <li><strong>speech</strong> = para sintetizadores de voz. O CSS 2 têm uma especificação de CSS chamada <strong>Aural</strong>, onde podemos formatar a voz dos sintetizadores.</li>
+  <li><strong>tty</strong> = para dispositivos que possuem uma grade fixa para exibição de caracteres, tais como: Teletypes, Terminais e também dispositivos portáteis com display limitados.</li>
+  <li><strong>tv</strong> = para dispositivos como televisores, ou seja, com baixa resolução, quantidade de cores e scroll limitados.</li>
+  <li><strong>handheld</strong> = para dispositivos portáteis, geralmente com telas pequenas e banda limitada.</li>
 </ul>
+
+
+
+
 
 
 
