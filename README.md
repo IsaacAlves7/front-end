@@ -1565,7 +1565,10 @@ function rotate(value){
 
 <blockquote>Agora veja como ficará a página. Arrastando a barra de rolagem, teremos a modificação da caixa amarela.</blockquote>
 
-
+#### Tipos de transformações possíveis:
+<table>
+  
+</table>
 
 
 
