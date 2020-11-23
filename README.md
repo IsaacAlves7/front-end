@@ -1509,15 +1509,12 @@ background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
 background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 </pre>
 
-## CSS 3 Propriedades de Transformação
-<p>O CSS 3 em conjunto com o JavasCript e o HTML 5 passaram a dar suporte a transformações
-em tempo real, de objetos HTML.
+## CSS 3 Propriedades de Transformação 📘🌱🌲
+<p>O <b>CSS3</b> em conjunto com o <b>JavasScript</b> e o <b>HTML5</b> passaram a dar suporte a transformações em tempo real, de objetos HTML.
 
-Podemos modificar posição, rotacionar, aumentar e diminuir, tudo isso dentro de todos os eixos
-gráficos disponíveis na sua tela.
+Podemos modificar posição, rotacionar, aumentar e diminuir, tudo isso dentro de todos os eixos gráficos disponíveis na sua tela.
 
-Vamos começar com um exemplo de como mudar uma div de posição sem precisar chamar
-novamente a página, isto é, diretamente no navegador.</p>
+Vamos começar com um exemplo de como mudar uma div de posição sem precisar chamar novamente a página, isto é, diretamente no navegador.</p>
 
 
 
