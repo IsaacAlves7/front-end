@@ -1567,7 +1567,10 @@ function rotate(value){
 
 #### Tipos de transformações possíveis:
 <table>
-  
+  <tr>
+    <td>Valor</td>
+    <td>Descrição</td>
+  </tr>
 </table>
 
 
