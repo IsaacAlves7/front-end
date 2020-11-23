@@ -1450,18 +1450,89 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 
 <pre>
 <h4>📙 index.html</h4>
-<div id="container" class="container">
+&lt;div id="container" class="container"&gt;
 &nbsp;
-  <div class="box-flex box1">
-<p>Box 1</p>
-</div>
-  <div class="box-flex box2">
-<p>Box 2</p>
+  &lt;div class="box-flex box1"&gt;
+&lt;p&gt;Box 1&lt;/p&gt;
+&lt;/div&gt;
+  &lt;div class="box-flex box2"&gt;
+&lt;p&gt;Box 2&lt;/p&gt;
 </div>
   </div>
 </pre>
 
 <p>Agora, iremos criar um identificador container e configurar como queremos colocar as caixas.</p>
+
+### Criar container
+<pre>
+#container {
+    display: box;
+    box-align: stretch;
+    box-orient: horizontal;
+}
+</pre>
+
+### Definir a largura das caixas
+<pre>
+.container {
+    /*width: 240px;*/
+    height: 240px;
+}
+</pre>
+
+### Tornar o box flexível
+<pre>
+.box-flex {
+    box-flex: 1;
+}
+</pre>
+
+### Definir as medias do box
+<pre>
+.box-flex {
+/* width: 80px; */
+height: 80px;
+}
+
+.box-flex p {
+color: #fff;
+font-weight: bold;
+margin: 0 !important;
+padding: 0 !important;
+}
+
+.box1 {
+background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
+}
+
+.box2 {
+background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
