@@ -1344,9 +1344,18 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
 <p>Usamos para dispositivos monocromáticos, pois estamos negando o atributo color.</p>
 <pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
 
+<p>No próximo exemplo, podemos definir a resolução de vídeo que queremos modificar:</p>
+
+<pre>&lt;link rel="stylesheet" href="estilo.css" media="screen and (max-width: 480px)"/&gt;</pre>
+
+<blockquote>As modificações serão feitas em dispositivos de media screen e com resolução máxima de 480px.</blockquote>
+
+
+
 ### or
 <p>Define a localização do arquivo.css.</p>
 <pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
+
 ### only
 <p>Define o tipo de saída do arquivo.</p>
 </ul>
