@@ -1028,8 +1028,17 @@ O <b>a:hover</b> do exemplo significa que a âncora também terá essa aparênci
 Exemplo:</p>
 <pre>
 ul {
-margin: 12px 12px 12px 12px; /*top, right, bottom, left = 12px*/
-padding: 12px 0px 12px 12px; /*espaçamento direito entre a borda e o conteúdo = 0px; top, left, bottom = 12px*/
+ margin: 12px;
+ padding: 12px;
+}
+</pre>
+
+Dessa forma, é possível inserir de uma vez os espaçamentos da ordem (top, right, bottom, left) de um modelo padrão de 12px para cada posição, porém não permite diferenciar e alterar uma posição da ordem, pois ambos foram solicitados para 12px. Outra forma, é inserir essa instrução passo a passo para a ordem (top, right, bottom, left) o que permite diferenciar o espaçamento de cada um, como desejado.
+
+<pre>
+ul {
+ margin: 12px 12px 12px 12px; /*top, right, bottom, left = 12px*/
+ padding: 12px 0px 12px 12px; /*espaçamento direito entre a borda e o conteúdo = 0px; top, left, bottom = 12px*/
 }
 </pre>
 
@@ -1038,15 +1047,15 @@ Outra forma é inserir a propriedade do box model de acordo com suas posições,
 Exemplo:</p>
 <pre>
 ul {
-margin-top: 12px; /*topo da margem = 12px*/
-margin-right: 12px; /*direito da margem = 12px*/
-margin-bottom: 12px; /*abaixo da margem = 12px*/
-margin-left: 12px; /*esquedo da margem = 12px*/
+ margin-top: 12px; /*topo da margem = 12px*/
+ margin-right: 12px; /*direito da margem = 12px*/
+ margin-bottom: 12px; /*abaixo da margem = 12px*/
+ margin-left: 12px; /*esquedo da margem = 12px*/
 &nbsp;
-padding-top: 12px; /*espaçamento topo entre a borda e o conteúdo = 12px*/
-padding-right: 0px; /*espaçamento direito entre a borda e o conteúdo = 0px*/
-padding-bottom: 12px; /*espaçamento inferior entre a borda e o conteúdo = 12px*/
-padding-left: 12px; /*espaçamento esquerdo entre a borda e o conteúdo = 12px*/
+ padding-top: 12px; /*espaçamento topo entre a borda e o conteúdo = 12px*/
+ padding-right: 0px; /*espaçamento direito entre a borda e o conteúdo = 0px*/
+ padding-bottom: 12px; /*espaçamento inferior entre a borda e o conteúdo = 12px*/
+ padding-left: 12px; /*espaçamento esquerdo entre a borda e o conteúdo = 12px*/
 }
 </pre>
 
@@ -1157,6 +1166,7 @@ No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
   <li><strong>font-size</strong> que define o tamanho da fonte.</li>
   <li><strong>font-style</strong> que define o estilo da fonte.</li>
   <li><strong>font-variant</strong> que define a caixa da fonte.</li>
+  <li><strong>font-weight</strong> que define o corpo da fonte.</li>
   <li><strong>letter-spacing</strong> que define o espaçamento das letras da fonte.</li>
 </ul>
 <p>Exemplos:</p>
@@ -1191,6 +1201,26 @@ No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
    letter-spacing: 2px;
  }
 </pre>
+
+## O posicionamento de blocos no CSS 📘🔃
+<p>As propriedades CSS <strong>position</strong> e <strong>float</strong> determinam como um box será posicionado no modelo visual de formatação de um documento. Esse box pode conter imagens, textos, listas, entre outros e, com isso, podemos montar layouts com a mesma qualidade de um programa gráfico feito para este fim.
+
+As recomendações do W3C para as CSS 3 preveem a existência de três esquemas de posicionamento:</p>
+
+### 1. Esquema Normal
+<p>Esse esquema segue o fluxo normal em que os elementos são exibidos um após o outro e de cima para baixo. Ele é simples e atualmente a maioria das páginas usam essa forma.
+
+Um exemplo usando textos em sequência:</p>
+
+
+
+
+
+
+
+
+
+
 
 <!--
 <div align="center"><h1>6. Responsive Layout 📱💻🖥️</h1></div>
