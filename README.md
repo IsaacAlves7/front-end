@@ -1331,11 +1331,14 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
 <pre>&lt;link rel="stylesheet" href="estilo.css" media="screen and (color)"/&gt;</pre>
 <b>Onde:</b>
 <ul>
-  <li><strong>rel</strong> = define o tipo do arquivo</li>
-  <li><strong>href</strong> = define a localização do arquivo.css</li>
-  <li><strong>media</strong> = define o tipo de saída do arquivo</li>
+  <li><strong>rel</strong> = define o tipo do arquivo.</li>
+  <li><strong>href</strong> = define a localização do arquivo.css.</li>
+  <li><strong>media</strong> = define o tipo de saída do arquivo.</li>
 </ul>
 
+<p>Com esse arquivo definimos que ele será usado quando for acessado pela mídia correspondente. Dessa maneira, o CSS não será aplicado em <strong>dispositivos monocromáticos.</strong></p>
+
+<p>Nas <em>media queries</em> são utilizados três operadores lógicos:</p>
 
 
 
