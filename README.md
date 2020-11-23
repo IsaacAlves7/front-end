@@ -1223,7 +1223,7 @@ No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
 
 As recomendações do W3C para as CSS 3 preveem a existência de três esquemas de posicionamento:</p>
 
-### 1. Esquema Normal
+### 1. Esquema Normal 📘👨
 <p>Esse esquema segue o fluxo normal em que os elementos são exibidos um após o outro e de cima para baixo. Ele é simples e atualmente a maioria das páginas usam essa forma.
 
 Um exemplo usando textos em sequência:</p>
@@ -1237,7 +1237,7 @@ em{
 }
 </pre>
 
-### 2. Esquema Float (Flutuante)
+### 2. Esquema Float (Flutuante) 📘 👨‍🚀
 <p>Definido pela regra <b>float</b> de posicionamento, juntamente com as regras <strong>left, right, none e inherit (herdado)</strong>.
 
 O box é deslocado para uma nova posição e seu espaço original é preenchido por outro elemento, na medida do possível.
@@ -1253,8 +1253,10 @@ body, p, img {
 }
 </pre>
 
+### 3. Esquema Absoluto 📘👑
+<p>Definido pela regra position com valores <b>absolute</b> e <b>fixed</b>. O box é removido do fluxo completamente sem impactar nos elementos posteriores.
 
-
+No exemplo, seu uso para montar layouts com várias partes:</p>
 
 
 
