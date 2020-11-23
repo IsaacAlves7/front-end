@@ -1360,9 +1360,25 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
 <p>Define o tipo de saída do arquivo.</p>
 </ul>
 
+### Layout multicolunas
+<p>Sua principal vantagem é a flexibilidade, pois independe de dispositivo.
 
+Esta especificação permite que o conteúdo da página se adeque de uma coluna para outra e o número de colunas pode variar dependendo do tamanho da janela.
 
+Para facilitar o seu entendimento, vamos direto a um exemplo:
 
+No código CSS definimos em quantas colunas apresentaremos o texto, fazendo distinção de navegador (existem comandos específicos para cada navegador).</p>
+<pre>
+div {
+   -webkit-column-count: 3; /* Chrome, Safari, Opera */
+   -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    }
+&nbsp;
+p { 
+  margin: 0; padding: 0 
+  }
+</pre>
 
 
 
