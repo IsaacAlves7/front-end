@@ -1150,7 +1150,7 @@ font-family:'Bungee Inline', cursive;
 font-family:'Abhaya Libre', serif;
 </pre>
 
-<p>O comando <strong>Font-family</strong> é o que determina a fonte que será usada.
+<p>O comando <strong>font-family</strong> é o que determina a fonte que será usada.
 
 No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
 <ul>
