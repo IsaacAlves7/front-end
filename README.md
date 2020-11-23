@@ -1376,22 +1376,92 @@ div {
     }
 &nbsp;
 p { 
-  margin: 0; padding: 0 
+  margin: 0; padding: 0; 
+  }
+&nbsp;
+img { 
+  display: none;
   }
 </pre>
 
+<p>No HTML temos um código simples de texto.</p>
+<pre>
+&lt;html&gt;
+&lt;head&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;div&gt;
+   &lt;p&gt;Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Popularizou-se na década de 1960, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</pre>
+<blockquote>Se diminuirmos o navegador, o layout irá se ajustar. Podemos ainda dividir as colunas com uma linha. Para isso, utilizaremos o CSS.</blockquote>
+<pre>
+  div {
+  -webkit-column-count: 3; /* Chrome, Safari, Opera */ -moz-column-count: 3; /* Firefox */ column-count: 3;
+  /** Define o espaçamento entre as colunas **/ -webkit-column-gap: 30px; /* Chrome, Safari, Opera */ -moz-column-gap: 30px; /* Firefox */ column-gap: 30px;
+  /** Define uma linha solida entre as colunas **/
+  -webkit-column-rule-style: solid; /* Chrome, Safari, Opera */ -moz-column-rule-style: solid; /* Firefox */ column-rule-style: solid; 
+  } 
+  p { margin: 0; padding: 0 }
+</pre>
 
+### Layout de Box Flexível
+<p>É um novo algoritmo para disposição de boxes dentro do HTML. Este modelo permite um controle mais apurado do Box permitindo “dobrar” suas dimensões para preencher espaços não utilizados.
 
+Veja as propriedades a seguir:</p>
+<ul>
+  <li><strong>display: ;</strong> /*flex, inline-flex*/</li>
+  <li><strong>flex-direction: ;</strong> /*row, column, row-reverse, column-reverse*/</li>
+  <li><strong>flex-wrap: ;</strong> /*nowrap, wrap, wrap-reverse*/</li>
+  <li><strong>flex-flow: ;</strong> /*forma abreviada para declarar flex-direction e flex-wrap*/</li>
+</ul>
 
+#### Vamos ao exemplo!
+<p>Renderização dos boxes (.box1 e .box2) contidos no div#container renderizados segundo o Box Model CSS 2.1.
 
+Observe agora a estilização padrão da marcação e sua respectiva renderização.</p>
+<pre>
+<h4>📘 style.css</h4>
+&nbsp;
+.container {
+width: 240px;
+height: 240px;
+}
+&nbsp;
+.box-flex {
+width: 80px;
+height: 80px;
+}
+&nbsp;
+.box-flex p {
+color: #fff;
+font-weight: bold;
+margin: 0 !important;
+padding: 0 !important;
+}
+&nbsp;
+.box1 {
+background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
+}
+.box2 {
+background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
+</pre>
 
+<pre>
+<h4>📙 index.html</h4>
+<div id="container" class="container">
+&nbsp;
+  <div class="box-flex box1">
+<p>Box 1</p>
+</div>
+  <div class="box-flex box2">
+<p>Box 2</p>
+</div>
+  </div>
+</pre>
 
-
-
-
-
-
-
+<p>Agora, iremos criar um identificador container e configurar como queremos colocar as caixas.</p>
 
 
 
