@@ -1243,7 +1243,15 @@ em{
 O box é deslocado para uma nova posição e seu espaço original é preenchido por outro elemento, na medida do possível.
 
 Exemplo de uso: Neste exemplo a imagem está com o float: LEFT o que a coloca ao lado do texto.</p>
-
+<pre>
+img {
+  float: left;
+}
+&nbsp;
+body, p, img {
+      margin: 2em;
+}
+</pre>
 
 
 
