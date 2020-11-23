@@ -1312,9 +1312,17 @@ body {
 
 Os <strong>media types</strong> são definidos para cada tipo de media recebendo um certo código CSS, fazendo com que o navegador direcione a abertura da página de uma certa forma. O HTML foi gerado para ser portátil, ou seja, lido e interpretado por qualquer tipo de dispositivo. Só que cada dispositivo exibe o HTML de uma maneira, devido a fatores como, por exemplo, as dimensões da tela.
 
-Imagine que visitamos um site em um desktop; ele não terá o mesmo aspecto se visitarmos o mesmo site em um dispositivo móvel. Isso ocorre porque são dispositivos diferentes e formas diferentes de navegação. Por isso, a importância de usar essa nova forma de definição de CSS. Isso facilita a leitura do site em mídias diferentes.</p>
+Imagine que visitamos um site em um desktop; ele não terá o mesmo aspecto se visitarmos o mesmo site em um dispositivo móvel. Isso ocorre porque são dispositivos diferentes e formas diferentes de navegação. Por isso, a importância de usar essa nova forma de definição de CSS. Isso facilita a leitura do site em mídias diferentes.
 
-
+Para que possamos manter nossas páginas sempre adequadas a cada tipo de visualização, utilizamos <b>media types</b> com a seguinte formatação:</p>
+<ul>
+  <li><strong>all</strong> = para todos os dispositivos.</li>
+  <li><strong>braille</strong> = para os dispositivos táteis.</li>
+  <li><strong>embossed</strong> = para os dispositivos que imprimem em braille.</li>
+  <li><strong>print</strong> = para a impressão em papel.</li>
+  <li><strong>projection</strong> = para apresentações como PPS.</li>
+  <li><strong>screen</strong> = para monitores ou dispositivos com telas coloridas e resolução adequada.</li>
+</ul>
 
 
 
@@ -1337,13 +1345,14 @@ Imagine que visitamos um site em um desktop; ele não terá o mesmo aspecto se v
 
 
 <!--
-<div align="center"><h1>6. Responsive Layout 📱💻🖥️</h1></div>
+<div align="center"><h1>6. Pré-processador Sass 📕👄💄</h1></div>
+<div align="center"><h1>7. Responsive Layout 📱💻🖥️</h1></div>
 <div align="center"><img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/></div>
 <p>The</p>
-<div align="center"><h1>6. Flexbox Layout 📦🥡🧃</h1></div>
+<div align="center"><h1>8. Flexbox Layout 📦🥡🧃</h1></div>
 <div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/></div><br>
 <p>The</p>
-<div align="center"><h1>6. Grid Layout 🍱🍙🍣</h1></div>
+<div align="center"><h1>9. Grid Layout 🍱🍙🍣</h1></div>
 <div align="center"><img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="200"/></div><br>
 <p>The</p>
  -->
