@@ -1257,7 +1257,38 @@ body, p, img {
 <p>Definido pela regra position com valores <b>absolute</b> e <b>fixed</b>. O box é removido do fluxo completamente sem impactar nos elementos posteriores.
 
 No exemplo, seu uso para montar layouts com várias partes:</p>
-
+<pre>
+body {
+   height: 8.5in;
+}
+&nbsp;
+#header {
+     position: fixed;
+     width: 100%;
+     height: 15%;
+     top: 0;
+     right: 0;
+     bottom: auto;
+     left: 0;
+     background-color: red;
+}
+&nbsp;
+#sidebar {
+     position: fixed;
+     width: 10em;
+     height: auto;
+     top: 15%;
+     right: auto;
+     bottom: 100px;
+     left: 0;
+     background-color: blue;
+}
+&nbsp;
+#main {
+    position: fixed;
+    width: auto;
+}
+</pre>
 
 
 <!--
