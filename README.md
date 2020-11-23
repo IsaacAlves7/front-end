@@ -1002,7 +1002,7 @@ O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele represen
 E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
 
 
-## Pseudo-Classe 📘❌🆑
+## Pseudo-Classes 📘🤞🆑
 <pre>
  <code>
  a:hover { 
@@ -1013,6 +1013,9 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
 <p>E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento.
 
 O <b>a:hover</b> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
+
+## Pseudo-Elementos 📘🤞
+<p>Os <strong>pseudo-elementos</strong> são</p>
 
 ## Box Model 📘📦 ⬆️➡️⬇️⬅️
 <p>Look from this images bellow:</p>
