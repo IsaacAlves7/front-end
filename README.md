@@ -1018,6 +1018,31 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
 
 O <b>a:hover</b> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
 
+### Tipos de Pseudo-Classes 📘🤞🆑
+<table>
+  <tr>
+    <td>Pseudo-classe</td>
+    <td>Definição</td>
+  </tr>
+  <tr>
+    <td>seletor<strong>:hover<strong></td>
+    <td>Altera o elemento por passar o mouse por cima.</td>
+  </tr>  
+  <tr>
+    <td>seletor<strong>:active<strong></td>
+    <td>Altera o elemento por clica-lo.</td>
+  </tr>
+   <tr>
+    <td>seletor<strong>:link<strong></td>
+    <td>Altera o elemento por clica-lo.</td>
+  </tr>
+   <tr>
+    <td>seletor<strong>:visited<strong></td>
+    <td>Altera o elemento por clica-lo.</td>
+  </tr>
+</table>
+
+
 ## Pseudo-Elementos 📘🤞📚
 <p>Os <strong>pseudo-elementos</strong> são</p>
 
