@@ -1659,7 +1659,7 @@ function rotate(value){
   </tr>
 </table>
 
-### Exemplo de aplicação
+### Exemplo de aplicação: Fotos de uma câmera Polaroid
 <pre>
 <h4>📙 index.html</h4>
 &lt;!DOCTYPE html&gt;
@@ -1688,8 +1688,50 @@ body {
   background-color: #E9E9E9;
 }
 div.polaroid{
+   width: 249px;
+   padding: 10px 10px 20px 10px;
+   border: 1px solid #BFBFBF;
+   background-color: white;
+   box-shadow: 10px 10px 5px #aaaaaa;
+}
+div.rotate_right{
+   float: left;
+   -ms-transform: rotate(7deg);/*IE 9*/
+   -webkit-transform: rotate(7deg);/*Safari*/
+   transform: rotate(7deg);
+}
+div.rotate_left{
+    float: left;
+    -ms-transform: rotate(-8deg);/*IE 9*/
+    -webkit-transform: rotate(-8deg);/*Safari*/
+    transform: rotate(-8deg);
 }
 </pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
