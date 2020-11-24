@@ -1591,6 +1591,26 @@ function rotate(value){
     <td>translate3d(x,y,z)</td>
     <td>Define deslocamento 3D.</td>
   </tr>
+  <tr>
+    <td>translateX(x)</td>
+    <td>Deslocamento pelo eixo X.</td>
+  </tr>
+  <tr>
+    <td>translateY(y)</td>
+    <td>Deslocamento pelo eixo Y.</td>
+  </tr>
+  <tr>
+    <td>translateZ(z)</td>
+    <td>Deslocamento pelo eixo Z.</td>
+  </tr>
+  <tr>
+    <td>scale(x,y)</td>
+    <td>Modifica o tamanho em 2D.</td>
+  </tr>
+  <tr>
+    <td>scale3d(x,y,z)</td>
+    <td>Modifica o tamanho em 3D.</td>
+  </tr>
 </table>
 
 
