@@ -1571,6 +1571,26 @@ function rotate(value){
     <td>Valor</td>
     <td>Descrição</td>
   </tr>
+  <tr>
+    <td>none</td>
+    <td>Nenhum tipo de transformação.</td>
+  </tr>
+  <tr>
+    <td>matrix(n,n,n,n,n,n)</td>
+    <td>Define transformação 2D com seis valores.</td>
+  </tr>
+  <tr>
+    <td>matrix3d(n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n)</td>
+    <td>Define transformação 3D com uma matrix de 16 valores.</td>
+  </tr>
+  <tr>
+    <td>translate(x,y)</td>
+    <td>Define deslocamento 2D.</td>
+  </tr>
+    <tr>
+    <td>translate3d(x,y,z)</td>
+    <td>Define deslocamento 3D.</td>
+  </tr>
 </table>
 
 
