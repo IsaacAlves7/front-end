@@ -1350,8 +1350,6 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
 
 <blockquote>As modificações serão feitas em dispositivos de media screen e com resolução máxima de 480px.</blockquote>
 
-
-
 ### or
 <p>Define a localização do arquivo.css.</p>
 <pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
@@ -1509,7 +1507,7 @@ background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
 background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 </pre>
 
-## CSS 3 Propriedades de Transformação 📘🌱🌲
+## CSS3 Propriedades de Transformação 📘🌱🌲
 <p>O <b>CSS3</b> em conjunto com o <b>JavasScript</b> e o <b>HTML5</b> passaram a dar suporte a transformações em tempo real, de objetos HTML.
 
 Podemos modificar posição, rotacionar, aumentar e diminuir, tudo isso dentro de todos os eixos gráficos disponíveis na sua tela.
@@ -1671,21 +1669,25 @@ function rotate(value){
 &lt;/head&gt;
 &lt;body&gt;
 &lt;div class="polaroid rotate_right"&gt;
-&lt;img src="pulpitrock.jpg" alt="Pulpit rock"&gt;
+  &lt;img src="pulpitrock.jpg" alt="Pulpit rock" width="284" height="213"&gt;
+&lt;p class="caption"&gt;O púlpito em Lysefjorden, Noruega.&lt;/p&gt;
 &lt;/div&gt;
 &nbsp;
-Rotacionar: &lt;br&gt;
-&nbsp;
-&lt;input type="range" min="-360" max="360" value="7" onchange="rotate(this.value)"/&gt;&lt;br&gt;
-transformação: rotacionar(&lt;span id="span1"&gt;7deg&lt;/span&gt;);
+&lt;div class="polaroid rotate_left"&gt;
+&lt;img src="cinqueterre.jpg" alt="Monterosso al Mare" width="284" height="213"&gt;
+&lt;p class="caption"&gt;Monterosso al Mare. Uma das cinco aldeias de Cinque Terre&lt;/p&gt;
+&lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </pre>
 
 <pre>
 <h4>📘 style.css</h4>
-#div1 {
-
+body {
+  margin: 30px;
+  background-color: #E9E9E9;
+}
+div.polaroid{
 }
 </pre>
 
