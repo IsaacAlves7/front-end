@@ -1611,9 +1611,57 @@ function rotate(value){
     <td>scale3d(x,y,z)</td>
     <td>Modifica o tamanho em 3D.</td>
   </tr>
+  <tr>
+    <td>scaleX(x)</td>
+    <td>Modifica o tamanho pelo eixo X.</td>
+  </tr>  
+  <tr>
+    <td>scaleY(y)</td>
+    <td>Modifica o tamanho pelo eixo Y.</td>
+  </tr>
+  <tr>
+    <td>scaleZ(z)</td>
+    <td>Modifica o tamanho pelo eixo Z.</td>
+  </tr>
+  <tr>
+    <td>rotate(angle)</td>
+    <td>Rotacionar pelo ângulo.</td>
+  </tr>
+  <tr>
+    <td>rotate3d(x,y,z,angle)</td>
+    <td>Rotacionar.</td>
+  </tr>
+  <tr>
+    <td>rotateX(angle)</td>
+    <td>Rotacionar pelo eixo X.</td>
+  </tr>
+  <tr>
+    <td>rotateY(angle)</td>
+    <td>Rotacionar pelo eixo Y.</td>
+  </tr>
+  <tr>
+    <td>rotateZ(angle)</td>
+    <td>Rotacionar pelo eixo Z.</td>
+  </tr>
+  <tr>
+    <td>skew(x-angle,y-angle)</td>
+    <td>Modifica torcendo o objeto pelo ângulo.</td>
+  </tr>
+  <tr>
+    <td>skewX(angle)</td>
+    <td>Modifica torcendo o objeto pelo ângulo.</td>
+  </tr>
+ <tr>
+    <td>skewY(angle)</td>
+    <td>Modifica torcendo o objeto pelo ângulo.</td>
+  </tr>
+  <tr>
+    <td>perspective(n)</td>
+    <td>Perspectiva.</td>
+  </tr>
 </table>
 
-
+### Exemplo de aplicação
 
 
 
