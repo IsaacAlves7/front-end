@@ -1383,6 +1383,8 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
 <p>Define o tipo de saída do arquivo.</p>
 </ul>
 
+### A importância do Viewport para layouts responsivos 👓🤳
+
 ### Layout multicolunas
 <p>Sua principal vantagem é a flexibilidade, pois independe de dispositivo.
 
