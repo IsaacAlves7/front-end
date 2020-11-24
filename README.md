@@ -1565,7 +1565,7 @@ function rotate(value){
 
 <blockquote>Agora veja como ficará a página. Arrastando a barra de rolagem, teremos a modificação da caixa amarela.</blockquote>
 
-#### Tipos de transformações possíveis:
+### Tipos de transformações possíveis 📘🌱🌳🍃🍂
 <table>
   <tr>
     <td>Valor</td>
@@ -1662,6 +1662,32 @@ function rotate(value){
 </table>
 
 ### Exemplo de aplicação
+<pre>
+<h4>📙 index.html</h4>
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+ &lt;link&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class="polaroid rotate_right"&gt;
+&lt;img src="pulpitrock.jpg" alt="Pulpit rock"&gt;
+&lt;/div&gt;
+&nbsp;
+Rotacionar: &lt;br&gt;
+&nbsp;
+&lt;input type="range" min="-360" max="360" value="7" onchange="rotate(this.value)"/&gt;&lt;br&gt;
+transformação: rotacionar(&lt;span id="span1"&gt;7deg&lt;/span&gt;);
+&lt;/body&gt;
+&lt;/html&gt;
+</pre>
+
+<pre>
+<h4>📘 style.css</h4>
+#div1 {
+
+}
+</pre>
 
 
 
