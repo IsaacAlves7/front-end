@@ -862,7 +862,7 @@ Exemplo de utilização:</p>
 &lt;link rel="alternate stylesheet" href="wide.css" title="Wide screen"&gt;&lt;/head&gt;
 </pre>
 
-#### Utilização do elemento &lt;import&gt; no CSS 📘📘
+#### Utilização do elemento @import no CSS 📘📘
 <p>Permite <b>importar</b> regras de estilo dentro de outras regras de estilo. Esse método permite aplicar regras comuns a todos os documentos HTML.
 
 <b>Exemplo de utilização:</b>
