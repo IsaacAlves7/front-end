@@ -40,7 +40,7 @@
 <hr>
 
 <div align="center"><h1>1. The History of Internet 🖥️💻⌨️🖱️📱🌐</h1></div>
-<img src="https://timeline.canaltech.com.br/1872.700/internet-lenta-teste-sua-conexao-entenda-as-metricas-e-descubra-as-causas.jpg" width="1700"/>
+<img src="https://img.ibxk.com.br/2014/12/16/16112834391327.jpg?w=1120&h=420&mode=crop&scale=both" width="1700"/>
 <p>Nos dias de hoje o difícil é identificar uma área que ainda não tenha investido em Tecnologia da Informação (TI) e se beneficiado com as facilidades trazidas pela informação tratada em tempo real e disponível sob demanda.
 
 A combinação de texto, som, imagem, entregues em uma pluralidade de formatos para diferentes dispositivos, permite, por exemplo, que um candidato a fornecedor receba informações atualizadas ou diferenciadas no caminho para o escritório do cliente. Também permite respostas rápidas, favorecendo a tomada de decisão mais assertiva.
