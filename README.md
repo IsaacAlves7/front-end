@@ -132,7 +132,7 @@ A grande maioria dos trabalhos no W3C gira em torno da padronização de tecnolo
 
 Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiados grandes e pequenos, além do público em geral. O processo do W3C busca ser equânime responsável e alcançar todas as nuances da missão do W3C.</p>
 
-## Escritório W3C no Brasil 🏢 🇧🇷
+## Escritório W3C no Brasil 🏢 🇧🇷 🌐
 <p>O W3C Escritório Brasil iniciou suas operações no dia 1 de novembro de 2007. Tem como missão:</p>
 <ul>
   <li>Disseminar a cultura de adoção de padrões para o desenvolvimento pleno da Web a longo prazo;</li>
