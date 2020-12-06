@@ -65,7 +65,7 @@ Durante esse período, surgiram também outros importantes inventos hoje largame
 Na década de 1970 surgiram os primeiros computadores pessoais. A Intel equipou os primeiros microcomputadores com 256 bytes de memória. E também surgiram os primeiros sistemas de posicionamento global (GPS, em inglês), criados originalmente para orientar mísseis e guiar tropas por lugares ermos.
 
 As universidades e outras instituições tiveram acesso à Arpanet a partir dos anos 1970, o que permitiu o acesso a universidades fora dos EUA, criando assim a base para uma rede mundial de computadores. Naquela época eram apenas 100 sites e pesquisadores já estudavam como o crescimento e suas opções alteravam o modo como usavam a rede.
-
+<div align="center"><img src="https://www.google.com/logos/doodles/2019/30th-anniversary-of-the-world-wide-web-4871946884874240-2xa.gif"/></div>
 A <b>World Wide Web</b> (WWW) surgiu em 1989, criado por <b>Tim Berners-Lee</b>, como um integrador de informações que permite o acesso de forma simples e consistente em diferentes plataformas. O conteúdo da rede pôde ser ampliado com a possibilidade de incorporar imagens e sons. O sistema de localização de arquivos permitia que cada informação tivesse um endereço único e pudesse ser encontrada por qualquer usuário da rede.
 <hr>
 
