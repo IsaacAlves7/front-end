@@ -9,7 +9,7 @@
 <p>Para sites de apoio recomendo:</p>
 <ul>
   <li>https://www.w3schools.com/html/default.asp - https://www.w3schools.com/css/default.asp</li>
-  <li>https://stackoverflow.com/</li>
+  <li>https://stackoverflow.com/ - </li>
 </ul>
 
 ## Introduction - Overview about the HTML5 & CSS3 for Web Development 🌐
@@ -325,7 +325,9 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
   <li><b>onabort=""</b> script roda no abortar.</li>  
   <li><b>onchange=""</b> script roda quando o valor do elemento é mudado.</li>  
   <li><b>onblur=""</b> script roda quando o elemento perde o foco.</li> 
-  <li><b>onabort=""</b> script roda o elemento no aborto.</li>   
+  <li><b>onabort=""</b> script roda o elemento no aborto.
+    <pre>&gt;audio&nsbp;, &gt;embed&nsbp;, &gt;object&nsbp;, &gt;video&nsbp;</pre></li>   
+  
 </ul>
 
 ## Estrutura do HTML 📙📃🧱
