@@ -326,7 +326,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
   <li><b>onchange=""</b> script roda quando o valor do elemento é mudado.</li>  
   <li><b>onblur=""</b> script roda quando o elemento perde o foco.</li> 
   <li><b>onabort=""</b> script roda o elemento no aborto.
-    <pre>&gt;audio&nsbp;, &gt;embed&nsbp;, &gt;object&nsbp;, &gt;video&nsbp;</pre></li>   
+    <pre>&gt;audio&nbsp;, &gt;embed&nbsp;, &gt;object&nbsp;, &gt;video&nbsp;</pre></li>   
   
 </ul>
 
