@@ -6,6 +6,11 @@
 <blockquote><b>Obs:</b> É importante instalar cada um dos componentes apresentados e executar os códigos na sua própria máquina.</blockquote>
 <img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
 
+<p>Para sites de apoio recomendo:</p>
+<ul>
+  <li>https://www.w3schools.com/html/default.asp - https://www.w3schools.com/css/default.asp</li>
+  <li>https://stackoverflow.com/</li>
+</ul>
 ## Introduction - Overview about the HTML5 & CSS3 for Web Development 🌐
 <b>All Topics:</b>
 
@@ -318,7 +323,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
   <li><b>onclick=""</b> script roda quando o elemento é clicado.</li>  
   <li><b>onabort=""</b> script roda no abortar.</li>  
   <li><b>onchange=""</b> script roda quando o valor do elemento é mudado.</li>  
-  <li><b>onchange=""</b> script roda quando o valor do elemento é mudado.</li> 
+  <li><b>onblur=""</b> script roda quando o valor do elemento é mudado.</li> 
 </ul>
 
 ## Estrutura do HTML 📙📃🧱
