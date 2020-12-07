@@ -645,7 +645,10 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <pre><code>&lt;table border rules="rows"6&gt;</code></pre>
 
 ### Tags de Formulários 📙🏷️📛🗳️✔️✅🆗🔎🔘🎚️🎛️
-<p>A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.).</p>
+<p>A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:</p>
+<ul>
+  <li></li>
+</ul>
 
 <div align="center"><h1>6. HTML Semantic 📙📰</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
