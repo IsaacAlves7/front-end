@@ -263,7 +263,7 @@ Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas
 
 Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  &lt;font&gt;, &lt;center&gt; e outras novas, pois milhões de páginas web as utilizam.</p>
 
-<div align="center"><h1>4. TAGs HTML 📙📚</h1></div>
+<div align="center"><h1>Cap 04: 📙 TAGs HTML 📚</h1></div>
 <img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
 <p>É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: &lt;meta&gt;, &lt;h1&gt;, &lt;img&gt; etc. 
 
