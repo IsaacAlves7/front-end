@@ -45,7 +45,7 @@
 </ul>
 <hr>
 
-<div align="center"><h1>1. The History of Internet 🖥️💻⌨️🖱️📱🌐</h1></div>
+<div align="center"><h1>Cap 01: The History of Internet 🖥️💻⌨️🖱️📱🌐</h1></div>
 <img src="https://img.ibxk.com.br/2014/12/16/16112834391327.jpg?w=1120&h=420&mode=crop&scale=both" width="1700"/>
 <p>Nos dias de hoje o difícil é identificar uma área que ainda não tenha investido em Tecnologia da Informação (TI) e se beneficiado com as facilidades trazidas pela informação tratada em tempo real e disponível sob demanda.
 
@@ -156,7 +156,7 @@ Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiado
   <li>1995 - Internet</li>
 </ol>
 <hr>
-<div align="center"><h1>2. Client-side and Server-side 🖥️🔄🗄️🌐</h1></div>
+<div align="center"><h1>Cap2: Client-side and Server-side 🖥️🔄🗄️🌐</h1></div>
 <div align="center"><img src="https://nickjanetakis.com/assets/blog/cards/server-side-templates-vs-rest-api-and-javascript-front-end-374a74c142bfb09344b9635c3c444b6a152a3c90952e79df1ae013081af5f53e.jpg" height="270"/></div>
 <p>Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web.
   
@@ -171,7 +171,7 @@ Os <b>clientes</b>, que podem ser qualquer dispositivo conectado à Internet com
 <div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div>
 <p>Já o <b>Full-Stack</b> engloba os conhecimentos tanto de front-end como back-end, ou seja, é um profissional bem mais completo e que se destaca muito no mercado de trabalho.</p>
 
-<div align="center"><h1>3. HTML5 and CSS3 📙📘</h1></div>
+<div align="center"><h1>Cap 03: HTML5 and CSS3 📙📘</h1></div>
 <div align="center"><img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" height="200"/></div><br>
 <p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.</p>
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
