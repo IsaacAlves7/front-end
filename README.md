@@ -71,7 +71,7 @@ Na década de 1970 surgiram os primeiros computadores pessoais. A Intel equipou 
 
 As universidades e outras instituições tiveram acesso à Arpanet a partir dos anos 1970, o que permitiu o acesso a universidades fora dos EUA, criando assim a base para uma rede mundial de computadores. Naquela época eram apenas 100 sites e pesquisadores já estudavam como o crescimento e suas opções alteravam o modo como usavam a rede.
 <div align="center"><img src="https://radiopeaobrasil.com.br/wp-content/uploads/2019/03/file.jpg"/></div>
-&nbsp;
+
 A <b>World Wide Web</b> (WWW) surgiu em 1989, criado por <b>Tim Berners-Lee</b>, como um integrador de informações que permite o acesso de forma simples e consistente em diferentes plataformas. O conteúdo da rede pôde ser ampliado com a possibilidade de incorporar imagens e sons. O sistema de localização de arquivos permitia que cada informação tivesse um endereço único e pudesse ser encontrada por qualquer usuário da rede.
 
 ## Definição de internet 🌐
