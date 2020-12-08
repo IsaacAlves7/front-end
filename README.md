@@ -20,6 +20,7 @@
 <p>Para simulações de layout recomendo esses jogos educacionais:</p>
 <ul>
   <li>https://flexboxfroggy.com/</li>
+  <li>https://courses.cs.washington.edu/courses/cse154/flexboxducky/</li>
   <li>http://www.flexboxdefense.com/</li>
   <li>https://cssgridgarden.com/</li>
   <li>https://gridcritters.com/</li>
