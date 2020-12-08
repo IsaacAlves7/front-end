@@ -22,6 +22,8 @@
   <li>https://flexboxfroggy.com/</li>
   <li>https://cssgridgarden.com/</li>
 </ul>
+<p>Para o aprendizado em JavaScript, acesse o repositório abaixo:</p>
+<li>https://github.com/IsaacAlves7/javascript-programming</li>
 
 ## Introduction - Overview about the HTML5 & CSS3 for Web Development 🌐
 <b>All Topics:</b>
