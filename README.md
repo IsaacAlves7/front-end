@@ -851,6 +851,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 </ul>
 
 <div align="center"><h1>Cap 05: 📘 Revisando o CSS 📄</h1></div>
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="270"/></div>
 <p>Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecanismo simples
 para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos
 da Web.
