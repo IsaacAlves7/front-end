@@ -329,7 +329,8 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
   <li><b>onchange=""</b> visível em todos os elementos, o script roda quando o valor do elemento é mudado.</li>  
   <li><b>onblur=""</b> visível em todos os elementos, o script roda quando o elemento perde o foco.</li> 
   <li><b>onabort=""</b> compatível apenas com os elementos: <code>&lt;audio&gt;, &lt;embed&gt;, &lt;object&gt;, &lt;video&gt;</code>, o script roda o elemento no aborto.</li>
-  <li><b>onafterprint=""</b></li>
+  <li><b>onabeforeprint=""</b> compatível apenas com o elemento: <code>&lt;body&gt;</code>, o script roda antes do elemento ser printado.</li>  
+  <li><b>onafterprint=""</b> compatível apenas com o elemento: <code>&lt;body&gt;</code>, o script roda depois de o elemento ser printado.</li>
 </ul>
 
 ## Estrutura do HTML 📙📃🧱
