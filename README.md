@@ -56,7 +56,7 @@
 </ul>
 <hr>
 
-<div align="center"><h1>Cap 01: The History of Internet 🖥️💻⌨️🖱️📱🌐</h1></div>
+<div align="center"><h1>Cap 01: 🖥️💻⌨️ The History of Internet 🖱️📱🌐</h1></div>
 <img src="https://img.ibxk.com.br/2014/12/16/16112834391327.jpg?w=1120&h=420&mode=crop&scale=both" width="1700"/>
 <p>Nos dias de hoje o difícil é identificar uma área que ainda não tenha investido em Tecnologia da Informação (TI) e se beneficiado com as facilidades trazidas pela informação tratada em tempo real e disponível sob demanda.
 
@@ -91,7 +91,7 @@ A <b>internet</b> é a maior rede de comunicação desenvolvida pelo homem na Er
 
 Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da Ciência e Tecnologia, foi aberta ao setor privado para exploração comercial.</p>
 
-## A História da (ARPANET/ DARPA/ MILNET/ INTERNET) 🦅🏫🌎🌐
+## 🦅🏫 A História da (ARPANET/ DARPA/ MILNET/ INTERNET) 🌎🌐
 <div align="center"><img src="https://img.ibxk.com.br/materias/9847/653839.jpg?w=328" height="270"/><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/United_States_Department_of_Defense_Seal.svg" height="270"/></div>
 <p>A ideia da construção de uma rede de computadores que pudessem trocar informações surgiu no “Advanced Research Projects Agency”, <b>ARPA</b>, do Departamento de Defesa dos EUA quando, em 1962, a Agência contratou J.C.R. Licklider para liderar as suas novas iniciativas através do “Information Processing Techniques Office”, IPTO, da Agência.</p>
 
@@ -119,18 +119,18 @@ As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 5
 
 <i>É curioso notar que as empresas de telecomunicações devotaram, por muito tempo, um amplo pessimismo à técnica de comutação de pacotes, conforme relatado num artigo do principal realizador da rede ARPANET, Lawrence G. Roberts. Faz pouco tempo apenas que este pessimismo foi trocado por uma participação ativa nas redes de computadores, mas mesmo hoje os serviços dessas empresas, do ponto de vista das redes de computadores, deixam muito a desejar.</i></p>
 
-## Protocolo TCP/IP 📶🌐
+## 📶 Protocolo TCP/IP 🌐
 <div align="center"><img src="https://www.citisystems.com.br/wp-content/uploads/2016/08/tcp-ip-modelo-osi.png"/></div>
 <p>De uma forma simples, o <strong>TCP/IP</strong> é o principal protocolo de envio e recebimento de dados na internet. <strong>TCP</strong> significa <em>Transmission Control Protocol</em> (Protocolo de Controle de Transmissão) e o <strong>IP</strong>, <em>Internet Protocol</em> (Protocolo de Internet).
 <div align="center"><img src="https://testarportasabertas.com.br/wp-content/uploads/2018/04/modelo-TCP-IP.png"/></div>
 <strong>Protocolo</strong> é uma espécie de linguagem utilizada para que dois computadores consigam se comunicar. Por mais que duas máquinas estejam conectadas à mesma rede, se não “falarem” a mesma língua, não há como estabelecer uma comunicação. Então, o <strong>TCP/IP</strong> é uma espécie de idioma que permite às aplicações conversarem entre si.</p>
 
-## Pilha de protocolos 📶📶📶📶🌐
+## 📶📶📶 Pilha de protocolos 📶📶🌐
 <p>Na realidade, o <b>TCP/IP</b> é um conjunto de protocolos. Esse grupo é dividido em quatro camadas: aplicação, transporte, rede e interface. Cada uma delas é responsável pela execução de tarefas distintas. Essa divisão em camadas é uma forma de garantir a integridade dos dados que trafegam pela rede.</p>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/94964198-ca144700-04cf-11eb-9f31-7dd9e2d00a8f.jpg"/></div>
 
-## O consórcio World Wide Web (W3C) 🏢🌐
+## 🏢 O consórcio World Wide Web (W3C) 🌐
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/W3C%C2%AE_Icon.svg/1200px-W3C%C2%AE_Icon.svg.png" height="270"/></div>
 <p>O <strong>Consórcio World Wide Web</strong> (W3C) é um consórcio internacional no qual organizações filiadas, uma equipe em tempo integral e o público trabalham juntos para desenvolver padrões para a Web. Liderado pelo inventor da web <b>Tim Berners-Lee</b> e o CEO <b>Jeffrey Jaffe</b>, o W3C tem como missão conduzir a World Wide Web para que atinja todo seu potencial, desenvolvendo protocolos e diretrizes que garantam seu crescimento de longo prazo.</p>
   
