@@ -345,7 +345,9 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
   <li><b>ondblclick=""</b> visível em todos os elementos, o script roda quando o conteúdo do elemento está sendo clicado-duplo.</li>  
   <li><b>ondrag=""</b> visível em todos os elementos, o script roda quando o conteúdo do elemento está sendo arrastado.</li>
   <li><b>ondragend=""</b> visível em todos os elementos, o script roda no fim de uma operação de arrastamento.</li>
-  <li><b>ondragenter=""</b> visível em todos os elementos, o script roda no fim de uma operação de arrastamento.</li>
+  <li><b>ondragenter=""</b> visível em todos os elementos, o script roda quando o elemento foi arrastado para um alvo solto válido.</li>
+  <li><b>ondragleave=""</b> visível em todos os elementos, o script roda quando um elemento deixa um alvo solto válido.</li>  
+  
 </ul>
 
 ## Estrutura do HTML 📙📃🧱
