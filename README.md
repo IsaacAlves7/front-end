@@ -9,7 +9,7 @@
 <p>Para sites de apoio recomendo:</p>
 <ul>
   <li>https://www.w3schools.com/html/default.asp - https://www.w3schools.com/css/default.asp</li>
-  <li>https://stackoverflow.com/ - </li>
+  <li>https://stackoverflow.com/ - https://www.nodestudio.com.br/</li>
 </ul>
 <p>Para simulações recomendo:</p>
 <ul>
