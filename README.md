@@ -16,6 +16,11 @@
   <li>https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default</li>
   <li>https://codepen.io/</li>
 </ul>
+<p>Para simulações de layout recomendo esses jogos educacionais:</p>
+<ul>
+  <li>https://flexboxfroggy.com/</li>
+  <li>https://cssgridgarden.com/</li>
+</ul>
 
 ## Introduction - Overview about the HTML5 & CSS3 for Web Development 🌐
 <b>All Topics:</b>
