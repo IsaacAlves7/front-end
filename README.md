@@ -323,13 +323,11 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 
 ### Atributos Scripts de uma TAG (HTML5 + JavaScript) 📙📋📚+📒📜
 <ul>
-  <li><b>onclick=""</b> script roda quando o elemento é clicado.</li>  
-  <li><b>onabort=""</b> script roda no abortar.</li>  
-  <li><b>onchange=""</b> script roda quando o valor do elemento é mudado.</li>  
-  <li><b>onblur=""</b> script roda quando o elemento perde o foco.</li> 
-  <li><b>onabort=""</b> script roda o elemento no aborto.
-    <code>&lt;audio&gt;, &lt;embed&gt;, &lt;object&gt;, &lt;video&gt;</code></li>   
-  
+  <li><b>onclick=""</b> visível em todos os elementos, o script roda quando o elemento é clicado.</li>  
+  <li><b>onabort=""</b> visível em todos os elementos, o script roda no abortar.</li>  
+  <li><b>onchange=""</b> visível em todos os elementos, o script roda quando o valor do elemento é mudado.</li>  
+  <li><b>onblur=""</b> visível em todos os elementos, o script roda quando o elemento perde o foco.</li> 
+  <li><b>onabort=""</b> compatível apenas com os elementos: <code>&lt;audio&gt;, &lt;embed&gt;, &lt;object&gt;, &lt;video&gt;</code>, o script roda o elemento no aborto.</li>
 </ul>
 
 ## Estrutura do HTML 📙📃🧱
