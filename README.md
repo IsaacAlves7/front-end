@@ -84,15 +84,15 @@ Durante esse período, surgiram também outros importantes inventos hoje largame
 
 Na década de 1970 surgiram os primeiros computadores pessoais. A Intel equipou os primeiros microcomputadores com 256 bytes de memória. E também surgiram os primeiros sistemas de posicionamento global (GPS, em inglês), criados originalmente para orientar mísseis e guiar tropas por lugares ermos.
 
-As universidades e outras instituições tiveram acesso à Arpanet a partir dos anos 1970, o que permitiu o acesso a universidades fora dos EUA, criando assim a base para uma rede mundial de computadores. Naquela época eram apenas 100 sites e pesquisadores já estudavam como o crescimento e suas opções alteravam o modo como usavam a rede.
+As universidades e outras instituições tiveram acesso à Arpanet a partir dos anos 1970, o que permitiu o acesso a universidades fora dos EUA, criando assim a base para uma rede mundial de computadores. Naquela época eram apenas 100 sites e pesquisadores já estudavam como o crescimento e suas opções alteravam o modo como usavam a rede.</p>
 <div align="center"><img src="https://radiopeaobrasil.com.br/wp-content/uploads/2019/03/file.jpg"/></div>
-
-A <b>World Wide Web</b> (WWW) surgiu em 1989, criado por <b>Tim Berners-Lee</b>, como um integrador de informações que permite o acesso de forma simples e consistente em diferentes plataformas. O conteúdo da rede pôde ser ampliado com a possibilidade de incorporar imagens e sons. O sistema de localização de arquivos permitia que cada informação tivesse um endereço único e pudesse ser encontrada por qualquer usuário da rede.
+&nbsp;
+<p>A <b>World Wide Web</b> (WWW) surgiu em 1989, criado por <b>Tim Berners-Lee</b>, como um integrador de informações que permite o acesso de forma simples e consistente em diferentes plataformas. O conteúdo da rede pôde ser ampliado com a possibilidade de incorporar imagens e sons. O sistema de localização de arquivos permitia que cada informação tivesse um endereço único e pudesse ser encontrada por qualquer usuário da rede.</p>
 
 ## Definição de internet 🌐
 <img src="https://nerdup.com.br/wp-content/uploads/2019/05/internet-banda-larga.jpeg"/>
-A <b>internet</b> é a maior rede de comunicação desenvolvida pelo homem na Era Moderna, ela possibilita todos os tipos de rede de computadores se conectarem entre si em uma única rede. No Brasil, em 1991, foi criada a Rede Nacional de Pesquisa, uma operação acadêmica subordinada ao Ministério de Ciência e Tecnologia.
-
+<p>A <b>internet</b> é a maior rede de comunicação desenvolvida pelo homem na Era Moderna, ela possibilita todos os tipos de rede de computadores se conectarem entre si em uma única rede. No Brasil, em 1991, foi criada a Rede Nacional de Pesquisa, uma operação acadêmica subordinada ao Ministério de Ciência e Tecnologia.
+&nbsp;
 Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da Ciência e Tecnologia, foi aberta ao setor privado para exploração comercial.</p>
 
 ## 🦅🏫 A História da (ARPANET/ DARPA/ MILNET/ INTERNET) 🌎🌐
