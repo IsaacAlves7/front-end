@@ -159,16 +159,6 @@ Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiado
   <li>Recomendar padrões técnicos e procedimentos operacionais para o desenvolvimento da Web no Brasil, em cumprimento das responsabilidades do NIC.br para o Comitê Gestor da Internet no Brasil.</li>
 </ul>
 
-<!--
-Internet Timeline 🕖🌐
-<img src="https://miro.medium.com/max/1200/1*O1cChMT-iaKggag06PJp-Q.png" width="1000"/>
-
-<ol>
-  <li>1969 - ARPANET</li>
-  <li>1995 - Internet</li>
-</ol>
--->
-
 <div align="center"><h1>Cap 02: Client-side and Server-side 🖥️🔄🗄️🌐</h1></div>
 <div align="center"><img src="https://nickjanetakis.com/assets/blog/cards/server-side-templates-vs-rest-api-and-javascript-front-end-374a74c142bfb09344b9635c3c444b6a152a3c90952e79df1ae013081af5f53e.jpg" height="270"/></div>
 <p>Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web.
@@ -336,10 +326,10 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 <p>O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando um JavaScript quando o usuário interage em um elemento. Exemplos de eventos:</p>
 <ul>
   <li><b>onclick=""</b> visível em todos os elementos, o script roda quando o elemento é clicado.</li>  
-  <li><b>onabort=""</b> visível em todos os elementos, o script roda no abortar.</li>  
   <li><b>onchange=""</b> visível em todos os elementos, o script roda quando o valor do elemento é mudado.</li>  
   <li><b>onblur=""</b> visível em todos os elementos, o script roda quando o elemento perde o foco.</li> 
   <li><b>onabort=""</b> compatível apenas com os elementos: <code>&lt;audio&gt;, &lt;embed&gt;, &lt;object&gt;, &lt;video&gt;</code>, o script roda o elemento no aborto.</li>
+  <li><b>onafterprint=""</b></li>
 </ul>
 
 ## Estrutura do HTML 📙📃🧱
