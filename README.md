@@ -331,6 +331,8 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
   <li><b>onabort=""</b> compatível apenas com os elementos: <code>&lt;audio&gt;, &lt;embed&gt;, &lt;object&gt;, &lt;video&gt;</code>, o script roda o elemento no aborto.</li>
   <li><b>onabeforeprint=""</b> compatível apenas com o elemento: <code>&lt;body&gt;</code>, o script roda antes do elemento ser printado.</li>  
   <li><b>onafterprint=""</b> compatível apenas com o elemento: <code>&lt;body&gt;</code>, o script roda depois de o elemento ser printado.</li>
+  <li><b>onbeforeunload=""</b> compatível apenas com o elemento: <code>&lt;body&gt;</code>, o script roda quando o documento é sobre estar descarregado.</li> 
+  <li><b>oncanplay=""</b> compatível apenas com os elementos: <code>&lt;audio&gt;, &lt;embed&gt;, &lt;object&gt;, &lt;video&gt;</code>, o script roda quando um arquivo está começando a tocar (quando este tem protegido o suficiente para começar).</li>
 </ul>
 
 ## Estrutura do HTML 📙📃🧱
