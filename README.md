@@ -332,7 +332,8 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 </ul>
 
 
-### Atributos Scripts de uma TAG (HTML5 + JavaScript) 📙📋📚+📒📜
+### Eventos de uma TAG (HTML5 + JavaScript) 📙📋📚+📒📜
+<p>O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando um JavaScript quando o usuário interage em um elemento. Exemplos de eventos:</p>
 <ul>
   <li><b>onclick=""</b> visível em todos os elementos, o script roda quando o elemento é clicado.</li>  
   <li><b>onabort=""</b> visível em todos os elementos, o script roda no abortar.</li>  
