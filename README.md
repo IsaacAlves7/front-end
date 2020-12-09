@@ -327,6 +327,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 
 
 ### Eventos de uma TAG (Atributos HTML5 + Chamadas de funções JavaScript) 📙📋📚+📒📜
+<pre>&lt;img src="1.jpg" onclick="functionClick()"/&gt;</pre>
 <p>O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando uma função JavaScript quando o usuário interage em um elemento. Exemplos de eventos:</p>
 <ul>
   <li><b>onclick=""</b> visível em todos os elementos, o script roda quando o elemento é clicado.</li>  
