@@ -31,7 +31,7 @@
 <b>All topics:</b>
 
 <ol>
-  <li>The History of Internet.</li>
+  <li>🖥️💻⌨️ The History of Internet 🖱️📱🌐</li>
   <li>The Client and Server.</li>
   <li>HTML5 and CSS3</li>
   <li>TAGs HTML.</li> 
