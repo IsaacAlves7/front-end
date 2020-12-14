@@ -32,7 +32,7 @@
 
 <ol>
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-01-%EF%B8%8F%EF%B8%8F-the-history-of-internet-%EF%B8%8F">🖥️💻⌨️ The History of Internet 🖱️📱🌐</a></li>
-  <li><a href="">🖥️ Client-side 🔄 and Server-side 🗄️🌐</a></li>
+  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-02-%EF%B8%8F-client-side-and-server-side-%EF%B8%8F">🖥️ Client-side 🔄 and Server-side 🗄️🌐</a></li>
   <li>HTML5 and CSS3</li>
   <li>TAGs HTML.</li> 
   <li>Semantic HTML.</li>
@@ -163,7 +163,7 @@ Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiado
   <li>Recomendar padrões técnicos e procedimentos operacionais para o desenvolvimento da Web no Brasil, em cumprimento das responsabilidades do NIC.br para o Comitê Gestor da Internet no Brasil.</li>
 </ul>
 
-<div align="center"><h1>Cap 02: 🖥️ Client-side 🔄and Server-side 🗄️🌐</h1></div>
+<div align="center"><h1>Cap 02: 🖥️ Client-side 🔄 and Server-side 🗄️🌐</h1></div>
 <div align="center"><img src="https://nickjanetakis.com/assets/blog/cards/server-side-templates-vs-rest-api-and-javascript-front-end-374a74c142bfb09344b9635c3c444b6a152a3c90952e79df1ae013081af5f53e.jpg" height="270"/></div>
 <p>Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web.
   
