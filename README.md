@@ -28,7 +28,7 @@
 <li>https://github.com/IsaacAlves7/javascript-programming</li>
 
 ## Introduction - Overview about the HTML5 & CSS3 for Web Development 🌐
-<b>All Topics:</b>
+<b>All topics:</b>
 
 <ol>
   <li>The History of Internet.</li>
