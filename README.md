@@ -4,6 +4,10 @@
 <p>I created this repository for my Web Development learning using HTML5 and CSS3. Lembrando que todo <b>README.md</b> do GitHub foi feito com HTML e Markdown, por isso é muito importante aprender sobre linguagens de Marcação de Hipertexto. </p>
 
 <blockquote><b>Obs:</b> É importante instalar cada um dos componentes apresentados e executar os códigos na sua própria máquina.</blockquote>
+
+[![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
+[![JS](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/IsaacAlves7/php-programming)
+
 <img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
 
 <p>Para sites de apoio recomendo:</p>
