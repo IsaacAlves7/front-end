@@ -7,7 +7,7 @@
 
 [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/IsaacAlves7/php-programming)
-[![WordPress](https://img.shields.io/badge/-Wordpress-F7DF1E?style=for-the-badge&logo=WordPress&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
+[![WordPress](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=WordPress&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://github.com/IsaacAlves7/php-programming)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
 [![SVG](https://img.shields.io/badge/-SVG-FFB13B?style=for-the-badge&logo=SVG&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
