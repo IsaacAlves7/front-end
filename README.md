@@ -63,7 +63,7 @@
   <li>HTML Canvas.</li>
 </ol>
 <hr>
-<div align="center"><img src="https://www.cornickmountain.com/images/html3.png" height="150"/></div>
+<div align="center"><img src="https://www.cornickmountain.com/images/html3.png" height="177"/></div>
 
 ## Prerequisites:
 <ul>
