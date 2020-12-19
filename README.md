@@ -37,7 +37,7 @@
 <p>Para o aprendizado em JavaScript, acesse o repositório abaixo:</p>
 <li>https://github.com/IsaacAlves7/javascript-programming</li>
 
-## Menu - Overview about the HTML5 & CSS3 for Web Development 🌐
+## Main menu - Overview about the HTML5 & CSS3 for Web Development 🌐
 <b>All topics:</b>
 
 <ol>
