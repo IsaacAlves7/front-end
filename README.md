@@ -6,7 +6,7 @@
 <blockquote><b>Obs:</b> É importante instalar cada um dos componentes apresentados e executar os códigos na sua própria máquina.</blockquote>
 
 [![Css3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/IsaacAlves7/css3-programming)
-[![FontAwesome](https://img.shields.io/badge/-Font‍‍Awesome-339AF0?style=for-the-badge&logo=Font‍Awesome&logoColor=white)](https://github.com/IsaacAlves7/css3-programming)
+[![FontAwesome](https://img.shields.io/badge/-Font‍‍Awesome-339AF0?style=for-the-badge&logo=Font_Awesome&logoColor=white)](https://github.com/IsaacAlves7/css3-programming)
 [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/IsaacAlves7/php-programming)
 [![WordPress](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/IsaacAlves7/javascript-programming)
@@ -41,7 +41,7 @@
 <b>All topics:</b>
 
 <ol>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-01-%EF%B8%8F%EF%B8%8F-the-history-of-internet-%EF%B8%8F">🖥️💻⌨️ The History of Internet 🖱️📱🌐</a></li>
+  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-01-%EF%B8%8F%EF%B8%8F-the-history-of-internet-%EF%B8%8F">🖥️💻⌨️ The History of Internet 🖱️📱🌐</a></li>"
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-02-%EF%B8%8F-client-side--and-server-side-%EF%B8%8F">🖥️ Client-side 🔄 and Server-side 🗄️🌐</a></li>
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-03--html5-and-css3-">📙 HTML5 and CSS3 📘</a></li>
   <li>TAGs HTML.</li> 
