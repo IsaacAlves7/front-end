@@ -10,6 +10,7 @@
 [![WordPress](https://img.shields.io/badge/-Wordpress-F7DF1E?style=for-the-badge&logo=WordPress&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://github.com/IsaacAlves7/php-programming)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
+[![SVG](https://img.shields.io/badge/-SVG-FFB13B?style=for-the-badge&logo=SVG&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
 
 <img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
 
