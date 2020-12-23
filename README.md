@@ -45,8 +45,7 @@
 <img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
 
 <p>Para sites de apoio recomendo:</p>
-<ul>
-  <li>https://www.w3schools.com/html/default.asp - https://www.w3schools.com/css/default.asp</li>
+[![Web](https://img.shields.io/badge/-HTML5-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://www.w3schools.com/html/default.asp) https://www.w3schools.com/css/default.asp
   <li>https://stackoverflow.com/ - https://www.nodestudio.com.br/ - https://www.freecodecamp.org/learn/</li>
 </ul>
 <p>Para simulações recomendo:</p>
