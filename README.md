@@ -53,15 +53,7 @@
 [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)]()
 [![Node Studio Treinamentos](https://img.shields.io/badge/-Node‍‍Studio‍‍Treinamentos-343434?style=for-the-badge&logo=React&logoColor=lime)]()
 
-
-<li> - https://www.nodestudio.com.br/ - https://www.freecodecamp.org/learn/</li>
-</ul>
-<p>Para simulações recomendo:</p>
-<ul>
-  <li>https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default</li>
-  <li>https://codepen.io/</li>
-</ul>
-<p>Para simulações de layout recomendo esses jogos educacionais:</p>
+## 🐸🥕 Para simulações de layout recomendo esses jogos educacionais:
 <ul>
   <li>https://flexboxfroggy.com/</li>
   <li>https://courses.cs.washington.edu/courses/cse154/flexboxducky/</li>
