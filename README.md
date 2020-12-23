@@ -44,13 +44,16 @@
 
 <img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
 
-<p>Para sites de apoio recomendo:</p>
+## 📚 Links de Apoio:
+[![Codepen](https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=CodePen&logoColor=white)]()
+[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000000?style=for-the-badge&logo=FreeCodeCamp&logoColor=white)](https://www.freecodecamp.org/learn/)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-f9f9f9?style=for-the-badge&logo=StackOverflow&logoColor=orange)](https://stackoverflow.com/)
+[![HTML5](https://img.shields.io/badge/-HTML5-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://www.w3schools.com/html/default.asp) 
+[![Css3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/default.asp)
+[![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)]()
 
-[![Web](https://img.shields.io/badge/-HTML5-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://www.w3schools.com/html/default.asp) 
 
-https://www.w3schools.com/css/default.asp
-
-<li>https://stackoverflow.com/ - https://www.nodestudio.com.br/ - https://www.freecodecamp.org/learn/</li>
+<li> - https://www.nodestudio.com.br/ - https://www.freecodecamp.org/learn/</li>
 </ul>
 <p>Para simulações recomendo:</p>
 <ul>
