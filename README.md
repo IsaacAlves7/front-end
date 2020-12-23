@@ -10,7 +10,7 @@
   <li>Vontade de aprender!</li>
 </ul>
 
-<blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Web development using HTML5 and CSS3, if you want to learn about JavaScript, PHP, JS Frameworks, etc; I recommend to access another repositories, click on links bellow!</blockquote>
+<blockquote><b>⚠️ Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Web development using HTML5 and CSS3, if you want to learn about JavaScript, PHP, JS Frameworks, etc; I recommend to access another repositories, click on links bellow!</blockquote>
 
 ## :octocat: Repositórios:
 
