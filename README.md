@@ -11,7 +11,7 @@
 [![Joomla](https://img.shields.io/badge/-Joomla-5091CD?style=for-the-badge&logo=Joomla&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
 [![Composer](https://img.shields.io/badge/-Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
-[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EE4623?style=for-the-badge&logo=CodeIgniter&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)[!
+[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EE4623?style=for-the-badge&logo=CodeIgniter&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
 [![Python](https://img.shields.io/badge/-Python-339AF0?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/IsaacAlves7/python-programming)
 [![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=Java&logoColor=white)](https://github.com/IsaacAlves7/java-programming)
 [![WordPress](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/IsaacAlves7/javascript-programming)
