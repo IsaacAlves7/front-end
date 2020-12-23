@@ -2,6 +2,8 @@
 <!--O README.md foi feito com HTML e Markdown📃📑-->
 <p>I created this repository for my Web Development learning using HTML5 and CSS3. Lembrando que todo <b>README.md</b> do GitHub foi feito com HTML e Markdown, por isso é muito importante aprender sobre linguagens de Marcação de Hipertexto. </p>
 
+<img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
+
 ## 💪 Prerequisites:
 <ul>
   <li>Bom domínio no inglês!</li>
@@ -46,8 +48,6 @@
 [![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)](https://github.com/IsaacAlves7/gulp-programming)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
-
-<img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
 
 ## 📚 Links de Apoio:
 [![Codepen](https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=CodePen&logoColor=white)]()
