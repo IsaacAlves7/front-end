@@ -1,7 +1,12 @@
 # It's a repository of HTML5 & CSS3 Development 📙📘🌐
 <!--O README.md foi feito com HTML e Markdown📃📑-->
-
 <p>I created this repository for my Web Development learning using HTML5 and CSS3. Lembrando que todo <b>README.md</b> do GitHub foi feito com HTML e Markdown, por isso é muito importante aprender sobre linguagens de Marcação de Hipertexto. </p>
+
+## 💪 Prerequisites:
+<ul>
+  <li>Bom domínio no inglês!</li>
+  <li>Vontade de aprender!</li>
+</ul>
 
 <blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Web development using HTML5 and CSS3, if you want to learn about JavaScript, PHP, JS Frameworks, etc; I recommend to access another repositories, click on links bellow!</blockquote>
 
@@ -87,14 +92,6 @@
   <li>Parallax.</li>
   <li>HTML Canvas.</li>
 </ol>
-<hr>
-<div align="center"><img src="https://www.cornickmountain.com/images/html3.png" height="177"/></div>
-
-## Prerequisites:
-<ul>
-  <li>Bom domínio no inglês!</li>
-  <li>Vontade de aprender!</li>
-</ul>
 <hr>
 
 <div align="center"><h1>Cap 01: 🖥️💻⌨️ The History of Internet 🖱️📱🌐</h1></div>
