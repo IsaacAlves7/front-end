@@ -51,7 +51,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://www.w3schools.com/html/default.asp) 
 [![Css3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/default.asp)
 [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)]()
-[![Node Studio Treinamentos](https://img.shields.io/badge/-Node‍‍Studio‍‍Treinamentos-343434?style=for-the-badge&logo=React&logoColor=lime)]()
+[![Node Studio Treinamentos](https://img.shields.io/badge/-Node‍‍Studio‍‍Treinamentos-343434?style=for-the-badge&logo=React&logoColor=lime)](https://www.nodestudio.com.br/)
 
 ## 🐸🥕 Para simulações de layout recomendo esses jogos educacionais:
 <ul>
