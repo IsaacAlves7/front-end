@@ -4,7 +4,7 @@
 
 <img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
 
-## 💪 Prerequisites:
+## 🎒 Prerequisites and repositories:
 <ul>
   <li>Bom domínio no inglês!</li>
   <li>Vontade de aprender!</li>
