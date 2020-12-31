@@ -77,20 +77,6 @@
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-04--tags-html-">📙 TAGs HTML 📚</a></li> 
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#6--html-semantic-">📙 HTML5 Semantic 📰</a></li>
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-05--revisando-o-css-">📘 Revisando o CSS 📄</a></li>
-  <li>Google Fonts.</li>
-  <li>Selectors and Declarations CSS3.</li>
-  <li>Tables.</li>
-  <li>HTML5 Forms.</li>
-  <li>Iframe.</li>
-  <li>Map.</li>
-  <li>SVG.</li>
-  <li>Responsive Layout.</li>
-  <li>Flexbox Layout.</li>
-  <li>Grid Layout.</li>
-  <li>HTML5 + CSS3 + JS.</li>
-  <li>HTML5 + CSS3 + JS + PHP + MySQL.</li>
-  <li>Parallax.</li>
-  <li>HTML Canvas.</li>
 </ol>
 <hr>
 
@@ -885,7 +871,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 </pre>
 </ul>
 
-<div align="center"><h1>Cap 05: 📘 Revisando o CSS 📄</h1></div>
+<div align="center"><h1>Cap 06: 📘 Revisando o CSS 📄</h1></div>
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="270"/></div>
 <p>Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecanismo simples
 para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos
