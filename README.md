@@ -708,7 +708,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
   <li></li>
 </ul>
 
-<div align="center"><h1>6. 📙 HTML Semantic 📰</h1></div>
+<div align="center"><h1>Cap 05. 📙 HTML Semantic 📰</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
 
 ## New Semantic Elements in HTML5 📙📰
