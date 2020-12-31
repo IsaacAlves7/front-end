@@ -1,6 +1,6 @@
 # It's a repository of HTML5 & CSS3 Development 📙📘🌐
 <!--O README.md foi feito com HTML e Markdown📃📑-->
-<p>I created this repository for my Web Development learning using HTML5 and CSS3. Lembrando que todo <b>README.md</b> do GitHub foi feito com HTML e Markdown, por isso é muito importante aprender sobre linguagens de Marcação de Hipertexto. </p>
+<p>I created this repository for my Web Development learning using HTML5 and CSS3.</p>
 
 <img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
 
