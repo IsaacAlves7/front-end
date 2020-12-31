@@ -75,7 +75,7 @@
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-02-%EF%B8%8F-client-side--and-server-side-%EF%B8%8F">🖥️ Client-side 🔄 and Server-side 🗄️🌐</a></li>
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-03--html5-and-css3-">📙 HTML5 and CSS3 📘</a></li>
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-04--tags-html-">📙 TAGs HTML 📚</a></li> 
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#6-html-semantic-">📙 HTML5 Semantic 📰</a></li>
+  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#6--html-semantic-">📙 HTML5 Semantic 📰</a></li>
   <li>CDN x Packfiles.</li>
   <li>Google Fonts.</li>
   <li>Selectors and Declarations CSS3.</li>
