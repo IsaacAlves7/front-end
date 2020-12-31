@@ -34,7 +34,7 @@
 [![Grunt](https://img.shields.io/badge/-Grunt-FBA919?style=for-the-badge&logo=Grunt&logoColor=black)](https://github.com/IsaacAlves7/gulp-programming)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![React.js](https://img.shields.io/badge/-React.js-000000?style=for-the-badge&logo=React&logoColor=61DAFB)](https://github.com/IsaacAlves7/react.js-programming)
-[![React Native](https://img.shields.io/badge/-React‍‍Native-blue?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react-native-programming)
+[![React Native](https://img.shields.io/badge/-React‍‍Native-FF2D20?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react-native-programming)
 [![Redux](https://img.shields.io/badge/-Redux-3880FF?style=for-the-badge&logo=Redux&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
 [![Angular.js](https://img.shields.io/badge/-Angular.js-FF2D20?style=for-the-badge&logo=AngularJS&logoColor=white)](https://github.com/IsaacAlves7/angular.js-programming)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-3880FF?style=for-the-badge&logo=Vue.js&logoColor=white)](https://github.com/IsaacAlves7/vue.js-programming)
