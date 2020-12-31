@@ -29,7 +29,7 @@
 [![GSAP](https://img.shields.io/badge/-GSAP-red?style=for-the-badge&logo=GreenSock&logoColor=black)](https://github.com/IsaacAlves7/jQuery-programming)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
 [![JSON](https://img.shields.io/badge/-JSON-red?style=for-the-badge&logo=JSON&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![Node.js](https://img.shields.io/badge/-Node.js-3880FF?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![Babel.js](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![Grunt](https://img.shields.io/badge/-Grunt-FBA919?style=for-the-badge&logo=Grunt&logoColor=black)](https://github.com/IsaacAlves7/gulp-programming)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
