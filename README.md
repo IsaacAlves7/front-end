@@ -49,7 +49,7 @@
 [![Webpack](https://img.shields.io/badge/-Webpack-FF2D20?style=for-the-badge&logo=Webpack&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
 [![Jest](https://img.shields.io/badge/-Jest-1572B6?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
 
-## 📚 Links de Apoio:
+## 🔗 Links de Apoio 📚:
 [![Codepen](https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=CodePen&logoColor=white)]()
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000000?style=for-the-badge&logo=FreeCodeCamp&logoColor=white)](https://www.freecodecamp.org/learn/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-f9f9f9?style=for-the-badge&logo=StackOverflow&logoColor=orange)](https://stackoverflow.com/)
@@ -58,7 +58,7 @@
 [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)]()
 [![Node Studio Treinamentos](https://img.shields.io/badge/-Node‍‍Studio‍‍Treinamentos-343434?style=for-the-badge&logo=React&logoColor=lime)](https://www.nodestudio.com.br/)
 
-## 🐸🥕 Para simulações de layout recomendo esses jogos educacionais:
+## 🐸 Para simulações de layout recomendo esses jogos educacionais 🥕:
 <ul>
   <li>https://flexboxfroggy.com/</li>
   <li>https://courses.cs.washington.edu/courses/cse154/flexboxducky/</li>
