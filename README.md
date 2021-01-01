@@ -13,7 +13,7 @@
 <blockquote><b>⚠️ Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Web development using HTML5 and CSS3, if you want to learn about JavaScript, PHP, JS Frameworks, etc; I recommend to access another repositories, click on links bellow!</blockquote>
 
 [![Css3](https://img.shields.io/badge/-CSS3-FF2D20?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/IsaacAlves7/css3-programming)
-[![JS](https://img.shields.io/badge/-JavaScript-1572B6?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
+[![JS](https://img.shields.io/badge/-JavaScript-1572B6?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/IsaacAlves7/javascript-programming)
 [![PHP](https://img.shields.io/badge/-PHP-FF2D20?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/IsaacAlves7/php-programming)
 [![SQL](https://img.shields.io/badge/-SQL‍‍language-1572B6?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://github.com/IsaacAlves7/sql-language)
 [![WordPress](https://img.shields.io/badge/-Wordpress-FF2D20?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
