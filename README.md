@@ -2,7 +2,7 @@
 <!--O README.md foi feito com HTML e Markdown📃📑-->
 <p>I created this repository for my Web Development learning using HTML5 and CSS3.</p>
 
-<img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/>
+<a href="https://github.com/IsaacAlves7/html5-and-css3-development"><img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/></a>
 
 ## 🎒 Prerequisites and repositories 📚:
 <ul>
