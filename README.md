@@ -6,11 +6,11 @@
 
 ## 🎒 Prerequisites and repositories 📚:
 <ul>
-  <li>Bom domínio no inglês!</li>
-  <li>Vontade de aprender!</li>
+  <li>Good domains in English;</li>
+  <li>Desire to learn.</li>
 </ul>
 
-<blockquote><b>⚠️ Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Web development using HTML5 and CSS3, if you want to learn about JavaScript, PHP, JS Frameworks, etc; I recommend to access another repositories, click on links bellow!</blockquote>
+<blockquote><b>⚠️ Warning:</b> It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Web development using HTML5 and CSS3, if you want to learn about JavaScript, PHP, JS Frameworks, etc; I recommend to access another repositories, click on links bellow!</blockquote>
 
 [![Css3](https://img.shields.io/badge/-CSS3-FF2D20?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/IsaacAlves7/css3-programming)
 [![JS](https://img.shields.io/badge/-JavaScript-1572B6?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/IsaacAlves7/javascript-programming)
