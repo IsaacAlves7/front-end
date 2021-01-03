@@ -48,7 +48,7 @@
 [![Gulp](https://img.shields.io/badge/-Gulp-1867C0?style=for-the-badge&logo=gulp&logoColor=white)](https://github.com/IsaacAlves7/gulp-programming)
 [![Webpack](https://img.shields.io/badge/-Webpack-FF2D20?style=for-the-badge&logo=Webpack&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
 [![Jest](https://img.shields.io/badge/-Jest-1572B6?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
-[![C#](https://img.shields.io/badge/-C#-5C2D91?style=for-the-badge&logo=.NET&logoColor=white)](https://github.com/IsaacAlves7/c-sharp-programming)
+[![C#](https://img.shields.io/badge/-C#-FF2D20?style=for-the-badge&logo=NET&logoColor=white)](https://github.com/IsaacAlves7/c-sharp-programming)
 
 ## 🔗 Links de Apoio 📚:
 [![Codepen](https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=CodePen&logoColor=white)]()
