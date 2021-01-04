@@ -77,7 +77,7 @@
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-03--html5-and-css3-">📙 HTML5 and CSS3 📘</a></li>
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-04--tags-html-">📙 TAGs HTML 📚</a></li> 
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#6--html-semantic-">📙 HTML5 Semantic 📰</a></li>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-05--revisando-o-css-">📘 Revisando o CSS 📄</a></li>
+  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-06--revisando-o-css-">📘 Revisando o CSS 📄</a></li>
 </ol>
 <hr>
 
