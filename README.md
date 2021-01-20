@@ -73,7 +73,7 @@
 <b>All topics:</b>
 
 <ol>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-01-%EF%B8%8F%EF%B8%8F-the-history-of-internet-%EF%B8%8F">🖥️💻⌨️ The History of Internet 🖱️📱🌐</a></li>
+  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-01-%EF%B8%8F%EF%B8%8F-the-history-of-internet-%EF%B8%8F">🖥️ The History of Internet 🌐</a></li>
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-02-%EF%B8%8F-client-side--and-server-side-%EF%B8%8F">🖥️ Client-side 🔄 and Server-side 🗄️🌐</a></li>
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-03--html5-and-css3-">📙 HTML5 and CSS3 📘</a></li>
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-04--tags-html-">📙 TAGs HTML 📚</a></li> 
