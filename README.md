@@ -86,7 +86,7 @@
 </ol>
 <hr>
 
-<div align="center"><h1>Cap 01: 🖥️💻⌨️ The History of Internet 🖱️📱🌐</h1></div>
+<div align="center"><h1>Cap 01: 🖥️ The History of Internet 🌐</h1></div>
 <img src="https://img.ibxk.com.br/2014/12/16/16112834391327.jpg?w=1120&h=420&mode=crop&scale=both" width="1700"/>
 <p>Nos dias de hoje o difícil é identificar uma área que ainda não tenha investido em Tecnologia da Informação (TI) e se beneficiado com as facilidades trazidas pela informação tratada em tempo real e disponível sob demanda.
 
