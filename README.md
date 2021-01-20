@@ -96,7 +96,6 @@ Com essa combinação e com a apropriação da tecnologia que vem se estabelecen
 
 São novos hábitos e costumes gerando novas demandas e oportunidades, bem como as soluções criativas e a inovação, principalmente, aquelas que se utilizam da Internet, como os portais de conhecimento, as salas de aula virtuais e os jogos para Internet. Os sistemas de e-commerce têm grande apreço no mercado de trabalho do profissional de informática.</p>
 
-## 🌐 What's the Internet? 🌐
 <img src="https://img.ibxk.com.br/2020/06/29/29100837408091.jpg?w=1120&h=420&mode=crop&scale=both"/>
 <p>O acúmulo de conhecimento adquirido em função de estratégias usadas no período da <strong>Segunda Guerra</strong> e da necessidade de comunicação segura fomentou o desenvolvimento de ferramentas e códigos que viabilizassem a circulação de informações no meio militar, sem o risco de vazamento que pudesse colocar toda a estratégia em perigo.
 
@@ -115,7 +114,7 @@ As universidades e outras instituições tiveram acesso à Arpanet a partir dos 
 &nbsp;
 <p>A <b>World Wide Web</b> (WWW) surgiu em 1989, criado por <b>Tim Berners-Lee</b>, como um integrador de informações que permite o acesso de forma simples e consistente em diferentes plataformas. O conteúdo da rede pôde ser ampliado com a possibilidade de incorporar imagens e sons. O sistema de localização de arquivos permitia que cada informação tivesse um endereço único e pudesse ser encontrada por qualquer usuário da rede.</p>
 
-##  🌐 Definição de internet 🌐
+##  🌐 What is internet? 🌐
 <img src="https://nerdup.com.br/wp-content/uploads/2019/05/internet-banda-larga.jpeg"/>
 <p>A <b>internet</b> é a maior rede de comunicação desenvolvida pelo homem na Era Moderna, ela possibilita todos os tipos de rede de computadores se conectarem entre si em uma única rede. No Brasil, em 1991, foi criada a Rede Nacional de Pesquisa, uma operação acadêmica subordinada ao Ministério de Ciência e Tecnologia.
 &nbsp;
