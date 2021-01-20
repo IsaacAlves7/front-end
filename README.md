@@ -1,5 +1,5 @@
 # It's a repository of HTML5 & CSS3 Development 📙📘🌐
-<!--O README.md foi feito com HTML e Markdown📃📑-->
+
 <p>I created this repository for my Web Development learning using HTML5 and CSS3.</p>
 
 <a href="https://github.com/IsaacAlves7/html5-and-css3-development"><img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/></a>
@@ -332,8 +332,15 @@ Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você 
 Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso é <b>rel="stylesheet"</b> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <b>href=""</b> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
 
 ### Atributos Específicos de uma TAG 📙📋📚
-<ul>
-  <li><b>rel=""</b> especifica o relacionamento entre o documento atual e o documento linkado.</li>
+<table>
+  <tr>
+    <td><strong>Atributo</strong></td>
+    <td><strong>Função do atributo</strong></td>
+  </tr>
+  <tr>
+    <td><code>rel=""</code></td>
+    <td>Especifica o relacionamento entre o documento atual e o documento linkado</td>
+  </tr>
   <li><b>src=""</b> especifica a URL do arquivo de mídia.</li>
   <li><b>type=""</b> especifica o tipo do documento.</li>
   <li><b>alt=""</b> mostra o texto quando a aparência não renderiza.</li>
@@ -342,7 +349,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
   <li><b>height=""</b> especifica a altura do elemento.</li>
   <li><b>name=""</b> especifica o nome do elemento.</li>
   <li><b>value=""</b> especifica o valor do elemento.</li>
-</ul>
+</table>
 
 ### Atributos Globais de uma TAG 📙📋📚🌎
 <ul>
@@ -1262,15 +1269,27 @@ font-family:'Abhaya Libre', serif;
 <p>O comando <strong>font-family</strong> é o que determina a fonte que será usada.
 
 No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
-<ul>
-  <li><code>font-size</code> que define o tamanho da fonte.</li>
+<table>
+  <tr>
+     <td><strong>Propriedade</strong></td>
+     <td><strong>Função da propriedade</strong></td>
+     <td><b>valores</b></td>
+     <td><b>Função dos valores</b></td>
+  </tr>
+  <tr>
+     <td><code>font-size</code></td>
+     <td>Define o tamanho da fonte</td>
+     <td></td>
+  </tr>
+
+
   <li><code>font-style</code> que define o estilo da fonte.</li>
   <li><code>font-variant</code> que define a caixa da fonte.</li>
   <li><code>font-weight</code> que define o corpo da fonte.</li>
   <li><code>letter-spacing</code> que define o espaçamento das letras da fonte.</li>
   <li><code>text-transform</code> alterna o texto entre maiúsculas e minúsculas.</li>
   <li><code>text-decoration</code> adiciona destaque a um texto.</li>
-</ul>
+</table>
 <p>Exemplos:</p>
 <pre>
  h1{
@@ -1850,14 +1869,14 @@ div.rotate_left{
 
 
 <!--
-<div align="center"><h1>6. Pré-processador Sass 📕👄💄</h1></div>
-<div align="center"><h1>7. Responsive Layout 📱💻🖥️</h1></div>
+<div align="center"><h1>Cap 06: 📕 Pré-processador Sass 👄💄</h1></div>
+<div align="center"><h1>Cap 07: 📙📘 Responsive Layout 📱💻🖥️</h1></div>
 <div align="center"><img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/></div>
 <p>The</p>
-<div align="center"><h1>8. Flexbox Layout 📦🥡🧃</h1></div>
+<div align="center"><h1>Cap 08: 📘 Flexbox Layout 🥡</h1></div>
 <div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/></div><br>
 <p>The</p>
-<div align="center"><h1>9. Grid Layout 🍱🍙🍣</h1></div>
+<div align="center"><h1>Cap 09: 📘 Grid Layout 🍱</h1></div>
 <div align="center"><img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="200"/></div><br>
 <p>The</p>
  -->
