@@ -120,7 +120,7 @@ As universidades e outras instituições tiveram acesso à Arpanet a partir dos 
 &nbsp;
 Em 1995, pela iniciativa do Ministério das Telecomunicações e Ministério da Ciência e Tecnologia, foi aberta ao setor privado para exploração comercial.</p>
 
-## 🦅🏫 A História da (ARPANET/ DARPA/ MILNET/ INTERNET) 🌎🌐
+## 🦅🏫 The History of (ARPANET/ DARPA/ MILNET/ INTERNET) 🌎🌐
 <div align="center"><img src="https://img.ibxk.com.br/materias/9847/653839.jpg?w=328" height="270"/><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/United_States_Department_of_Defense_Seal.svg" height="270"/></div>
 <p>A ideia da construção de uma rede de computadores que pudessem trocar informações surgiu no “Advanced Research Projects Agency”, <b>ARPA</b>, do Departamento de Defesa dos EUA quando, em 1962, a Agência contratou J.C.R. Licklider para liderar as suas novas iniciativas através do “Information Processing Techniques Office”, IPTO, da Agência.</p>
 
@@ -188,9 +188,9 @@ Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiado
   <li>Recomendar padrões técnicos e procedimentos operacionais para o desenvolvimento da Web no Brasil, em cumprimento das responsabilidades do NIC.br para o Comitê Gestor da Internet no Brasil.</li>
 </ul>
 
-## 🔍 Navegação na internet 🌐
+## 🔍 How does internet browsing work? 🌐
 
-### URL, URN e URI
+### What are URL, URN and URI?
 
 <hr>
 
@@ -208,6 +208,7 @@ O <strong>cliente</strong> é o computador do usuário, assim como o seu. É uti
 Os <b>clientes</b>, que podem ser qualquer dispositivo conectado à Internet como smartphones, notebooks, tablets e smarttvs, recebem arquivos desses servidores, como imagens, vídeos, arquivos HTML, CSS e JavaScript. Chamamos essa parte de <b>front-end</b>.</p>
 <div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div>
 <p>Já o <b>Full-Stack</b> engloba os conhecimentos tanto de front-end como back-end, ou seja, é um profissional bem mais completo e que se destaca muito no mercado de trabalho.</p>
+<hr>
 
 <div align="center"><h1>Cap 03: 📙 HTML5 and CSS3 📘</h1></div>
 <div align="center"><img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" height="200"/></div><br>
@@ -300,6 +301,7 @@ Ainda mais importante é a necessidade de um padrão aberto livre (para utilizar
 Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas tecnologias ou empresas, acreditamos que a Web seja uma plataforma vital à sociedade, comércio e comunicações para estar nas mãos de um fabricante.
 
 Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  &lt;font&gt;, &lt;center&gt; e outras novas, pois milhões de páginas web as utilizam.</p>
+<hr>
 
 <div align="center"><h1>Cap 04: 📙 TAGs HTML 📚</h1></div>
 <img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
