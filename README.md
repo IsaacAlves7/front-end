@@ -188,10 +188,13 @@ Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiado
   <li>Recomendar padrões técnicos e procedimentos operacionais para o desenvolvimento da Web no Brasil, em cumprimento das responsabilidades do NIC.br para o Comitê Gestor da Internet no Brasil.</li>
 </ul>
 
-## 🔍 How does internet browsing work? 🌐
+# 🔍 How does internet browsing work? 🌐
 
-### What are URL, URN and URI?
-
+## What are URL, URN and URI?
+## Internet Protocols
+### http
+### https
+### 
 <hr>
 
 <div align="center"><h1>Cap 02: 🖥️ Client-side 🔄 and Server-side 🗄️🌐</h1></div>
