@@ -147,7 +147,7 @@ A rede se expandiu rapidamente, incluindo computadores de variadas plataformas d
 
 As ligações da ARPANET usavam linhas telefônicas dedicadas à velocidade de 56 Kbps. Seus elementos ativos, chamados de Interface Message Processors (IMP) eram constituídos de computadores comercialmente disponíveis, cuidadosamente escolhidos para esta finalidade. Outro aspecto relevante é que a execução do projeto foi confiada a empresas particulares entre as quais deve ser mencionada a BBN (Bolt, Beranek, and Newman Inc.), de Cambridge, MA, nos Estados Unidos, que era a principal executora.
 
-<i>É curioso notar que as empresas de telecomunicações devotaram, por muito tempo, um amplo pessimismo à técnica de comutação de pacotes, conforme relatado num artigo do principal realizador da rede ARPANET, Lawrence G. Roberts. Faz pouco tempo apenas que este pessimismo foi trocado por uma participação ativa nas redes de computadores, mas mesmo hoje os serviços dessas empresas, do ponto de vista das redes de computadores, deixam muito a desejar.</i></p>
+<blockquote>É curioso notar que as empresas de telecomunicações devotaram, por muito tempo, um amplo pessimismo à técnica de comutação de pacotes, conforme relatado num artigo do principal realizador da rede ARPANET, Lawrence G. Roberts. Faz pouco tempo apenas que este pessimismo foi trocado por uma participação ativa nas redes de computadores, mas mesmo hoje os serviços dessas empresas, do ponto de vista das redes de computadores, deixam muito a desejar.</blockquote></p>
 
 ## 📶 Protocolo TCP/IP 🌐
 <div align="center"><img src="https://www.citisystems.com.br/wp-content/uploads/2016/08/tcp-ip-modelo-osi.png"/></div>
