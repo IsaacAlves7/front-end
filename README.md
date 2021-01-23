@@ -333,10 +333,13 @@ Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no 
 
 <p> O <b>index.html</b> é o padrão da Web de ser o primeiro arquivo processado pelo navegador, geralmente é usado para uma áreas de Login ou a Home da página, e o <b>style.css</b> é o padrão para editar um ou mais arquivos HTML.</p>
 
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105612417-dd0e9800-5d9a-11eb-9ca4-6733559a200c.jpg)
 
 <p>Basicamente, a estrutura do documento html se baseia em <code>&lt;!Doctype html&gt;</code>, <code>&lt;html&gt;</code>, <code>&lt;head&gt;</code>, <code>&lt;body&gt;</code>. Observe a tag  muito cuidadosamente. Aqueles acostumados a escrever XHTML perceberam três estranhezas. A primeira é que a tag está muito mais curta do que costumava ser até então - estávamos acostumados a utilizar:</b></p>
 
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 <pre>&lt;meta http-equiv="Content-Type" content="text/html;charset=UTF-8"&gt;</pre>
 
 <p>Isso ainda é possível, mas a versão mais curta é preferível, já que é mais fácil de digitar e funciona em todo lugar.
