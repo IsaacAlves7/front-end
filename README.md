@@ -1322,7 +1322,7 @@ body {
 </pre>
 <hr>
 
-<h1 align="center">Cap: 📘 Propriedades de Transição 🚘</h1>
+<h1 align="center">Cap: 📘 Propriedades de Transição 🚘🚦</h1>
 <hr>
 <h1 align="center">Cap: 📘 Propriedades de Transformação 🌱🌲</h1>
 <p>O <b>CSS3</b> em conjunto com o <b>JavasScript</b> e o <b>HTML5</b> passaram a dar suporte a transformações em tempo real, de objetos HTML.
