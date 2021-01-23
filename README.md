@@ -75,7 +75,7 @@
 <ol>
   <li><a href="">🖥️ Client-side and Server-side 🗄️🌐</a></li>
   <li><a href="">📙 HTML5 and CSS3 📘</a></li>
-  <li><a href="">📙 TAGs essenciais do HTML 📚</a></li> 
+  <li><a href="">📙 TAGs essenciais do HTML 🏷️</a></li> 
   <li><a href="">📙 TAG de Âncora 🔗</a></li>
   <li><a href="">📙 TAG de Imagem 🖼️</a></li>
   <li><a href="">📙 TAGs de Listas 📑</a></li> 
@@ -215,7 +215,7 @@ Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas
 Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  &lt;font&gt;, &lt;center&gt; e outras novas, pois milhões de páginas web as utilizam.</p>
 <hr>
 
-<div align="center"><h1>Cap 04: 📙 TAGs essenciais do HTML 📚</h1></div>
+<div align="center"><h1>Cap 04: 📙 TAGs essenciais do HTML 🏷️</h1></div>
 <img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
 <p>É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: &lt;meta&gt;, &lt;h1&gt;, &lt;img&gt; etc. 
 
@@ -241,7 +241,7 @@ Uma TAG pode conter <b>atributos</b>, que são informações que alteram o compo
 Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o <b>CSS</b>, o <b>Javascript</b>.
 </p>
 
-## Atributos de uma TAG 📙📚
+## Atributos de uma TAG 📙🏷️
 <p><b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
 
 Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <b>&lt;link&gt;</b>:
@@ -250,7 +250,7 @@ Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você 
 </pre>
 Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso é <b>rel="stylesheet"</b> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <b>href=""</b> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
 
-### Atributos Específicos de uma TAG 📙📋📚
+### Atributos Específicos de uma TAG 📙🏷️
 <table>
   <tr>
     <td><strong>Atributo</strong></td>
@@ -294,7 +294,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
   </tr>
 </table>
 
-### Atributos Globais de uma TAG 📙📋📚🌎
+### Atributos Globais de uma TAG 📙🏷️🌎
 <table>
   <tr>
     <td><strong>Atributo</strong></td>
