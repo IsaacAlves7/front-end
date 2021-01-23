@@ -1316,211 +1316,6 @@ body {
 </pre>
 <hr>
 
-<h1 align="center">Cap 15: 📙📘 Responsive Layout 📱💻🖥️</h1>
-<div align="center"><img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/></div>
-
-## 📘 Utilizando Media Queries 🖥️💻📱
-<p>Podemos definir <b>media queries</b> como a maneira que o navegador define que formatação de página vai apresentar a cada tipo de dispositivo.
-
-Os <strong>media types</strong> são definidos para cada tipo de media recebendo um certo código CSS, fazendo com que o navegador direcione a abertura da página de uma certa forma. O HTML foi gerado para ser portátil, ou seja, lido e interpretado por qualquer tipo de dispositivo. Só que cada dispositivo exibe o HTML de uma maneira, devido a fatores como, por exemplo, as dimensões da tela.
-
-Imagine que visitamos um site em um desktop; ele não terá o mesmo aspecto se visitarmos o mesmo site em um dispositivo móvel. Isso ocorre porque são dispositivos diferentes e formas diferentes de navegação. Por isso, a importância de usar essa nova forma de definição de CSS. Isso facilita a leitura do site em mídias diferentes.
-
-Para que possamos manter nossas páginas sempre adequadas a cada tipo de visualização, utilizamos <b>media types</b> com a seguinte formatação:</p>
-<ul>
-  <li><strong>all</strong> = para todos os dispositivos.</li>
-  <li><strong>braille</strong> = para os dispositivos táteis.</li>
-  <li><strong>embossed</strong> = para os dispositivos que imprimem em braille.</li>
-  <li><strong>print</strong> = para a impressão em papel.</li>
-  <li><strong>projection</strong> = para apresentações como PPS.</li>
-  <li><strong>screen</strong> = para monitores ou dispositivos com telas coloridas e resolução adequada.</li>
-  <li><strong>speech</strong> = para sintetizadores de voz. O CSS 2 têm uma especificação de CSS chamada <strong>Aural</strong>, onde podemos formatar a voz dos sintetizadores.</li>
-  <li><strong>tty</strong> = para dispositivos que possuem uma grade fixa para exibição de caracteres, tais como: Teletypes, Terminais e também dispositivos portáteis com display limitados.</li>
-  <li><strong>tv</strong> = para dispositivos como televisores, ou seja, com baixa resolução, quantidade de cores e scroll limitados.</li>
-  <li><strong>handheld</strong> = para dispositivos portáteis, geralmente com telas pequenas e banda limitada.</li>
-</ul>
-<p>Observe, abaixo, um exemplo de utilização:</p>
-<pre>&lt;link rel="stylesheet" href="estilo.css" media="screen and (color)"/&gt;</pre>
-<b>Onde:</b>
-<ul>
-  <li><strong>rel</strong> = define o tipo do arquivo.</li>
-  <li><strong>href</strong> = define a localização do arquivo.css.</li>
-  <li><strong>media</strong> = define o tipo de saída do arquivo.</li>
-</ul>
-
-<p>Com esse arquivo definimos que ele será usado quando for acessado pela mídia correspondente. Dessa maneira, o CSS não será aplicado em <strong>dispositivos monocromáticos.</strong></p>
-
-<p>Nas <em>media queries</em> são utilizados três operadores lógicos:</p>
-
-### not
-<p>Usamos para dispositivos monocromáticos, pois estamos negando o atributo color.</p>
-<pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
-
-<p>No próximo exemplo, podemos definir a resolução de vídeo que queremos modificar:</p>
-
-<pre>&lt;link rel="stylesheet" href="estilo.css" media="screen and (max-width: 480px)"/&gt;</pre>
-
-<blockquote>As modificações serão feitas em dispositivos de media screen e com resolução máxima de 480px.</blockquote>
-
-### or
-<p>Define a localização do arquivo.css.</p>
-<pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
-
-### only
-<p>Define o tipo de saída do arquivo.</p>
-</ul>
-
-### A importância do Viewport para layouts responsivos 👓🤳
-
-### Layout multicolunas
-<p>Sua principal vantagem é a flexibilidade, pois independe de dispositivo.
-
-Esta especificação permite que o conteúdo da página se adeque de uma coluna para outra e o número de colunas pode variar dependendo do tamanho da janela.
-
-Para facilitar o seu entendimento, vamos direto a um exemplo:
-
-No código CSS definimos em quantas colunas apresentaremos o texto, fazendo distinção de navegador (existem comandos específicos para cada navegador).</p>
-<pre>
-div {
-   -webkit-column-count: 3; /* Chrome, Safari, Opera */
-   -moz-column-count: 3; /* Firefox */
-    column-count: 3;
-    }
-&nbsp;
-p { 
-  margin: 0; padding: 0; 
-  }
-&nbsp;
-img { 
-  display: none;
-  }
-</pre>
-
-<p>No HTML temos um código simples de texto.</p>
-<pre>
-&lt;html&gt;
-&lt;head&gt;&lt;/head&gt;
-&lt;body&gt;
-&lt;div&gt;
-   &lt;p&gt;Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Popularizou-se na década de 1960, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</pre>
-<blockquote>Se diminuirmos o navegador, o layout irá se ajustar. Podemos ainda dividir as colunas com uma linha. Para isso, utilizaremos o CSS.</blockquote>
-<pre>
-  div {
-  -webkit-column-count: 3; /* Chrome, Safari, Opera */ -moz-column-count: 3; /* Firefox */ column-count: 3;
-  /** Define o espaçamento entre as colunas **/ -webkit-column-gap: 30px; /* Chrome, Safari, Opera */ -moz-column-gap: 30px; /* Firefox */ column-gap: 30px;
-  /** Define uma linha solida entre as colunas **/
-  -webkit-column-rule-style: solid; /* Chrome, Safari, Opera */ -moz-column-rule-style: solid; /* Firefox */ column-rule-style: solid; 
-  } 
-  p { margin: 0; padding: 0 }
-</pre>
-
-### Layout de Box Flexível
-<p>É um novo algoritmo para disposição de boxes dentro do HTML. Este modelo permite um controle mais apurado do Box permitindo “dobrar” suas dimensões para preencher espaços não utilizados.
-
-Veja as propriedades a seguir:</p>
-<ul>
-  <li><strong>display: ;</strong> /*flex, inline-flex*/</li>
-  <li><strong>flex-direction: ;</strong> /*row, column, row-reverse, column-reverse*/</li>
-  <li><strong>flex-wrap: ;</strong> /*nowrap, wrap, wrap-reverse*/</li>
-  <li><strong>flex-flow: ;</strong> /*forma abreviada para declarar flex-direction e flex-wrap*/</li>
-</ul>
-
-#### Vamos ao exemplo!
-<p>Renderização dos boxes (.box1 e .box2) contidos no div#container renderizados segundo o Box Model CSS 2.1.
-
-Observe agora a estilização padrão da marcação e sua respectiva renderização.</p>
-<pre>
-<h4>📘 style.css</h4>
-&nbsp;
-.container {
-width: 240px;
-height: 240px;
-}
-&nbsp;
-.box-flex {
-width: 80px;
-height: 80px;
-}
-&nbsp;
-.box-flex p {
-color: #fff;
-font-weight: bold;
-margin: 0 !important;
-padding: 0 !important;
-}
-&nbsp;
-.box1 {
-background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
-}
-.box2 {
-background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
-</pre>
-
-<pre>
-<h4>📙 index.html</h4>
-&lt;div id="container" class="container"&gt;
-&nbsp;
-  &lt;div class="box-flex box1"&gt;
-&lt;p&gt;Box 1&lt;/p&gt;
-&lt;/div&gt;
-  &lt;div class="box-flex box2"&gt;
-&lt;p&gt;Box 2&lt;/p&gt;
-</div>
-  </div>
-</pre>
-
-<p>Agora, iremos criar um identificador container e configurar como queremos colocar as caixas.</p>
-
-### Criar container
-<pre>
-#container {
-    display: box;
-    box-align: stretch;
-    box-orient: horizontal;
-}
-</pre>
-
-### Definir a largura das caixas
-<pre>
-.container {
-    /*width: 240px;*/
-    height: 240px;
-}
-</pre>
-
-### Tornar o box flexível
-<pre>
-.box-flex {
-    box-flex: 1;
-}
-</pre>
-
-### Definir as medias do box
-<pre>
-.box-flex {
-/* width: 80px; */
-height: 80px;
-}
-
-.box-flex p {
-color: #fff;
-font-weight: bold;
-margin: 0 !important;
-padding: 0 !important;
-}
-
-.box1 {
-background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
-}
-
-.box2 {
-background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
-</pre>
-<hr>
 <h1 align="center">Cap: 📘 Propriedades de Transição 🚘</h1>
 <hr>
 <h1 align="center">Cap: 📘 Propriedades de Transformação 🌱🌲</h1>
@@ -1736,6 +1531,212 @@ div.rotate_left{
 
 <h1 align="center">Cap 09: 📘 Grid Layout 🍱</h1>
 <div align="center"><img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="200"/></div>
+<hr>
+
+<h1 align="center">Cap 15: 📙📘 Responsive Layout 📱💻🖥️</h1>
+<div align="center"><img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/></div>
+
+## 📘 Utilizando Media Queries 🖥️💻📱
+<p>Podemos definir <b>media queries</b> como a maneira que o navegador define que formatação de página vai apresentar a cada tipo de dispositivo.
+
+Os <strong>media types</strong> são definidos para cada tipo de media recebendo um certo código CSS, fazendo com que o navegador direcione a abertura da página de uma certa forma. O HTML foi gerado para ser portátil, ou seja, lido e interpretado por qualquer tipo de dispositivo. Só que cada dispositivo exibe o HTML de uma maneira, devido a fatores como, por exemplo, as dimensões da tela.
+
+Imagine que visitamos um site em um desktop; ele não terá o mesmo aspecto se visitarmos o mesmo site em um dispositivo móvel. Isso ocorre porque são dispositivos diferentes e formas diferentes de navegação. Por isso, a importância de usar essa nova forma de definição de CSS. Isso facilita a leitura do site em mídias diferentes.
+
+Para que possamos manter nossas páginas sempre adequadas a cada tipo de visualização, utilizamos <b>media types</b> com a seguinte formatação:</p>
+<ul>
+  <li><strong>all</strong> = para todos os dispositivos.</li>
+  <li><strong>braille</strong> = para os dispositivos táteis.</li>
+  <li><strong>embossed</strong> = para os dispositivos que imprimem em braille.</li>
+  <li><strong>print</strong> = para a impressão em papel.</li>
+  <li><strong>projection</strong> = para apresentações como PPS.</li>
+  <li><strong>screen</strong> = para monitores ou dispositivos com telas coloridas e resolução adequada.</li>
+  <li><strong>speech</strong> = para sintetizadores de voz. O CSS 2 têm uma especificação de CSS chamada <strong>Aural</strong>, onde podemos formatar a voz dos sintetizadores.</li>
+  <li><strong>tty</strong> = para dispositivos que possuem uma grade fixa para exibição de caracteres, tais como: Teletypes, Terminais e também dispositivos portáteis com display limitados.</li>
+  <li><strong>tv</strong> = para dispositivos como televisores, ou seja, com baixa resolução, quantidade de cores e scroll limitados.</li>
+  <li><strong>handheld</strong> = para dispositivos portáteis, geralmente com telas pequenas e banda limitada.</li>
+</ul>
+<p>Observe, abaixo, um exemplo de utilização:</p>
+<pre>&lt;link rel="stylesheet" href="estilo.css" media="screen and (color)"/&gt;</pre>
+<b>Onde:</b>
+<ul>
+  <li><strong>rel</strong> = define o tipo do arquivo.</li>
+  <li><strong>href</strong> = define a localização do arquivo.css.</li>
+  <li><strong>media</strong> = define o tipo de saída do arquivo.</li>
+</ul>
+
+<p>Com esse arquivo definimos que ele será usado quando for acessado pela mídia correspondente. Dessa maneira, o CSS não será aplicado em <strong>dispositivos monocromáticos.</strong></p>
+
+<p>Nas <em>media queries</em> são utilizados três operadores lógicos:</p>
+
+### not
+<p>Usamos para dispositivos monocromáticos, pois estamos negando o atributo color.</p>
+<pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
+
+<p>No próximo exemplo, podemos definir a resolução de vídeo que queremos modificar:</p>
+
+<pre>&lt;link rel="stylesheet" href="estilo.css" media="screen and (max-width: 480px)"/&gt;</pre>
+
+<blockquote>As modificações serão feitas em dispositivos de media screen e com resolução máxima de 480px.</blockquote>
+
+### or
+<p>Define a localização do arquivo.css.</p>
+<pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
+
+### only
+<p>Define o tipo de saída do arquivo.</p>
+</ul>
+
+### A importância do Viewport para layouts responsivos 👓🤳
+
+### Layout multicolunas
+<p>Sua principal vantagem é a flexibilidade, pois independe de dispositivo.
+
+Esta especificação permite que o conteúdo da página se adeque de uma coluna para outra e o número de colunas pode variar dependendo do tamanho da janela.
+
+Para facilitar o seu entendimento, vamos direto a um exemplo:
+
+No código CSS definimos em quantas colunas apresentaremos o texto, fazendo distinção de navegador (existem comandos específicos para cada navegador).</p>
+<pre>
+div {
+   -webkit-column-count: 3; /* Chrome, Safari, Opera */
+   -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    }
+&nbsp;
+p { 
+  margin: 0; padding: 0; 
+  }
+&nbsp;
+img { 
+  display: none;
+  }
+</pre>
+
+<p>No HTML temos um código simples de texto.</p>
+<pre>
+&lt;html&gt;
+&lt;head&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;div&gt;
+   &lt;p&gt;Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Popularizou-se na década de 1960, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</pre>
+<blockquote>Se diminuirmos o navegador, o layout irá se ajustar. Podemos ainda dividir as colunas com uma linha. Para isso, utilizaremos o CSS.</blockquote>
+<pre>
+  div {
+  -webkit-column-count: 3; /* Chrome, Safari, Opera */ -moz-column-count: 3; /* Firefox */ column-count: 3;
+  /** Define o espaçamento entre as colunas **/ -webkit-column-gap: 30px; /* Chrome, Safari, Opera */ -moz-column-gap: 30px; /* Firefox */ column-gap: 30px;
+  /** Define uma linha solida entre as colunas **/
+  -webkit-column-rule-style: solid; /* Chrome, Safari, Opera */ -moz-column-rule-style: solid; /* Firefox */ column-rule-style: solid; 
+  } 
+  p { margin: 0; padding: 0 }
+</pre>
+
+### Layout de Box Flexível
+<p>É um novo algoritmo para disposição de boxes dentro do HTML. Este modelo permite um controle mais apurado do Box permitindo “dobrar” suas dimensões para preencher espaços não utilizados.
+
+Veja as propriedades a seguir:</p>
+<ul>
+  <li><strong>display: ;</strong> /*flex, inline-flex*/</li>
+  <li><strong>flex-direction: ;</strong> /*row, column, row-reverse, column-reverse*/</li>
+  <li><strong>flex-wrap: ;</strong> /*nowrap, wrap, wrap-reverse*/</li>
+  <li><strong>flex-flow: ;</strong> /*forma abreviada para declarar flex-direction e flex-wrap*/</li>
+</ul>
+
+#### Vamos ao exemplo!
+<p>Renderização dos boxes (.box1 e .box2) contidos no div#container renderizados segundo o Box Model CSS 2.1.
+
+Observe agora a estilização padrão da marcação e sua respectiva renderização.</p>
+<pre>
+<h4>📘 style.css</h4>
+&nbsp;
+.container {
+width: 240px;
+height: 240px;
+}
+&nbsp;
+.box-flex {
+width: 80px;
+height: 80px;
+}
+&nbsp;
+.box-flex p {
+color: #fff;
+font-weight: bold;
+margin: 0 !important;
+padding: 0 !important;
+}
+&nbsp;
+.box1 {
+background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
+}
+.box2 {
+background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
+</pre>
+
+<pre>
+<h4>📙 index.html</h4>
+&lt;div id="container" class="container"&gt;
+&nbsp;
+  &lt;div class="box-flex box1"&gt;
+&lt;p&gt;Box 1&lt;/p&gt;
+&lt;/div&gt;
+  &lt;div class="box-flex box2"&gt;
+&lt;p&gt;Box 2&lt;/p&gt;
+</div>
+  </div>
+</pre>
+
+<p>Agora, iremos criar um identificador container e configurar como queremos colocar as caixas.</p>
+
+### Criar container
+<pre>
+#container {
+    display: box;
+    box-align: stretch;
+    box-orient: horizontal;
+}
+</pre>
+
+### Definir a largura das caixas
+<pre>
+.container {
+    /*width: 240px;*/
+    height: 240px;
+}
+</pre>
+
+### Tornar o box flexível
+<pre>
+.box-flex {
+    box-flex: 1;
+}
+</pre>
+
+### Definir as medias do box
+<pre>
+.box-flex {
+/* width: 80px; */
+height: 80px;
+}
+
+.box-flex p {
+color: #fff;
+font-weight: bold;
+margin: 0 !important;
+padding: 0 !important;
+}
+
+.box1 {
+background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
+}
+
+.box2 {
+background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
+</pre>
 <hr>
 
 <h1 align="center">Cap 06: 📕 Pré-processador Sass 👄💄</h1>
