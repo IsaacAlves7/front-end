@@ -263,28 +263,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 
 ### Eventos de uma TAG (Atributos HTML5 + Chamadas de funções JavaScript) 📙📋📚+📒📜
 <pre>&lt;img src="1.jpg" onclick="functionClick()"/&gt;</pre>
-<p>O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando uma função JavaScript quando o usuário interage em um elemento. Exemplos de eventos:</p>
-<ul>
-  <li><b>onclick=""</b> visível em todos os elementos, o script roda quando o elemento é clicado.</li>  
-  <li><b>onchange=""</b> visível em todos os elementos, o script roda quando o valor do elemento é mudado.</li>  
-  <li><b>onblur=""</b> visível em todos os elementos, o script roda quando o elemento perde o foco.</li> 
-  <li><b>onabort=""</b> compatível apenas com os elementos: <code>&lt;audio&gt;, &lt;embed&gt;, &lt;object&gt;, &lt;video&gt;</code>, o script roda o elemento no aborto.</li>
-  <li><b>onabeforeprint=""</b> compatível apenas com o elemento: <code>&lt;body&gt;</code>, o script roda antes do elemento ser printado.</li>  
-  <li><b>onafterprint=""</b> compatível apenas com o elemento: <code>&lt;body&gt;</code>, o script roda depois de o elemento ser printado.</li>
-  <li><b>onbeforeunload=""</b> compatível apenas com o elemento: <code>&lt;body&gt;</code>, o script roda quando o documento é sobre estar descarregado.</li> 
-  <li><b>oncanplay=""</b> compatível apenas com os elementos: <code>&lt;audio&gt;, &lt;embed&gt;, &lt;object&gt;, &lt;video&gt;</code>, o script roda quando um arquivo está começando a tocar (quando este tem protegido o suficiente para começar).</li>
-  <li><b>oncanplaythrough=""</b> compatível apenas com os elementos: <code>&lt;audio&gt; e &lt;video&gt;</code>, o script roda quando um arquivo pode ser tocado todo do inicio ao fim sem pausando para o carregamento.</li> 
-  <li><b>oncontextmenu=""</b> compatível com todos os elementos, o script roda quando um menu contexto é desencadeado.</li> 
-  <li><b>oncopy=""</b> compatível com todos os elementos, o script roda quando um conteúdo do elemento é copiado.</li> 
-  <li><b>oncuechange=""</b> compatível apenas com o elemento: <code>&lt;track&gt;</code>, o script roda quando há mudança de sugestão no elemento &lt;track&gt;.</li> 
-  <li><b>oncut=""</b> visível em todos os elementos, o script roda quando o conteúdo do elemento está sendo cortado.</li>
-  <li><b>ondblclick=""</b> visível em todos os elementos, o script roda quando o conteúdo do elemento está sendo clicado-duplo.</li>  
-  <li><b>ondrag=""</b> visível em todos os elementos, o script roda quando o conteúdo do elemento está sendo arrastado.</li>
-  <li><b>ondragend=""</b> visível em todos os elementos, o script roda no fim de uma operação de arrastamento.</li>
-  <li><b>ondragenter=""</b> visível em todos os elementos, o script roda quando o elemento foi arrastado para um alvo solto válido.</li>
-  <li><b>ondragleave=""</b> visível em todos os elementos, o script roda quando um elemento deixa um alvo solto válido.</li>  
-  
-</ul>
+<p>O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando uma função JavaScript quando o usuário interage em um elemento.</p>
 
 ## Estrutura do HTML 📙📃🧱
 
