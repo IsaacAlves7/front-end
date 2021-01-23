@@ -74,7 +74,7 @@
 
 <ol>
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-01-%EF%B8%8F-client-side-and-server-side-%EF%B8%8F">🖥️ Client-side and Server-side 🗄️🌐</a></li>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-03--html5-and-css3-">📙 HTML5 and CSS3 📘</a></li>
+  <li><a href="">📙 HTML5 and CSS3 📘</a></li>
   <li><a href="">📙 TAGs essenciais do HTML 🏷️</a></li> 
   <li><a href="">📙 TAG de Âncora 🔗</a></li>
   <li><a href="">📙 TAG de Imagem 🖼️</a></li>
@@ -122,7 +122,7 @@ Os <b>clientes</b>, que podem ser qualquer dispositivo conectado à Internet com
 <p>Já o <b>Full-Stack</b> engloba os conhecimentos tanto de front-end como back-end, ou seja, é um profissional bem mais completo e que se destaca muito no mercado de trabalho.</p>
 <hr>
 
-<div align="center"><h1>Cap 03: 📙 HTML5 and CSS3 📘</h1></div>
+<div align="center"><h1>Cap 02: 📙 HTML5 and CSS3 📘</h1></div>
 <div align="center"><img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" height="200"/></div><br>
 <p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.</p>
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
@@ -215,7 +215,7 @@ Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas
 Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  <code>&lt;font&gt;</code>, <code>&lt;center&gt;</code> e outras novas, pois milhões de páginas web as utilizam.</p>
 <hr>
 
-<div align="center"><h1>Cap 04: 📙 TAGs essenciais do HTML 🏷️</h1></div>
+<div align="center"><h1>Cap 03: 📙 TAGs essenciais do HTML 🏷️</h1></div>
 <img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
 <p>É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code>&lt;meta&gt;</code>, <code>&lt;h1&gt;</code>, <code>&lt;img&gt;</code> etc. 
 
