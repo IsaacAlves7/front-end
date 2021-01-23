@@ -324,6 +324,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 
 <p>Tudo começa com o diretório <b>/assets</b>, e dentro dele as pastas <b>/public</b> e <b>/src</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
 
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105612147-e860c400-5d98-11eb-97a3-2775e77b7827.jpg)
