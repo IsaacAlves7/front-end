@@ -69,7 +69,7 @@
   <li>https://gridcritters.com/</li>
 </ul>
 
-## 📙 Main menu - Fundamentals about the HTML5 & CSS3 📘:
+## 📙 Main menu - Fundamentals about the HTML5 & CSS3 Development 📘:
 <b>All topics:</b>
 
 <ol>
