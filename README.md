@@ -1780,7 +1780,7 @@ No Google Trends, se procurarmos por “Less” e “Sass”, veremos que o Sass
 ## Sass ou Scss?
 Quando começamos a ler sobre Sass, encontramos também o termo "SCSS". Afinal, qual a diferença?
 
-**Sass** é o nome do pré-processador, originalmente criado em **Ruby**(A linguagem de programação Ruby). No começo, era necessário instalar o Ruby em sua máquina para poder gerar o CSS.
+**Sass** é o nome do pré-processador, originalmente criado em **Ruby** (A linguagem de programação Ruby). No começo, era necessário instalar o Ruby em sua máquina para poder gerar o CSS.
 
 A sintaxe era bem diferente do CSS comum:
 
@@ -1791,9 +1791,9 @@ A sintaxe era bem diferente do CSS comum:
   color: green
 </pre>
 
+Veja que, diferente do CSS comum, não há “<code>;</code>“ nem “<code>{ }</code>”. Pela ausência de “<code>{ }</code>“, os espaços da indentação são importantes.
 
-
-
+Depois de um tempo, o Sass passou por uma mudança. Sua sintaxe passou a ser mais parecida com o CSS comum:
 
 
 
