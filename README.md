@@ -322,19 +322,10 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 
 ## Estrutura do HTML 📙📃🧱
 
-<p>Tudo começa com o diretório <b>assets</b>, e dentro dele as pastas <b>public</b> e <b>src</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
-<pre>
-<code><h2>📂 /assets....</h2></code>
-  <code><b>📂 /public...</b></code>
-  <code><b>📂 images</b></code>
-  <code><b>📂 scripts</b></code>
-  <code><b>📂 /styles..</b></code>
-  <code><b>📂 /css.</b></code>
-  <code><p>📝 style.css</p></code>
-  <code><b>📂 /src..</b></code>
-  <code><b>📂 /pages.</b></code>
-  <code><p>📝 index.html</p></code>
-</pre>
+<p>Tudo começa com o diretório <b>/assets</b>, e dentro dele as pastas <b>/public</b> e <b>/src</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
+
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/105612147-e860c400-5d98-11eb-97a3-2775e77b7827.jpg)
+
 <p> O <b>index.html</b> é o padrão da Web de ser o primeiro arquivo processado pelo navegador, geralmente é usado para uma áreas de Login ou a Home da página, e o <b>style.css</b> é o padrão para editar um ou mais arquivos HTML.</p>
 
 <pre>
