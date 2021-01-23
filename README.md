@@ -1784,7 +1784,7 @@ Quando começamos a ler sobre Sass, encontramos também o termo "SCSS". Afinal, 
 
 A sintaxe era bem diferente do CSS comum:
 
-[![Sass](https://img.shields.io/badge/-style.sass-000?style=social&logo=Sass&logoColor=safira)](#)
+[![Sass](https://img.shields.io/badge/-style.sass-000?style=social&logo=Sass&logoColor=pink)](#)
 
 <pre>
   #my-div
