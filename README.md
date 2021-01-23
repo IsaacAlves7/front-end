@@ -1756,6 +1756,7 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 ## O que são Pré-Processadores de CSS?
 Para um desenvolvimento web moderno, o CSS é muitas vezes visto como primitivo e incompleto. Há muitas funcionalidades que nos facilitaria na hora de desenvolver aplicações mais complexas.
 
+Um *pré-processador* é um programa que recebe um texto, realiza algumas alterações e nos devolve um novo texto.
 
 
 
