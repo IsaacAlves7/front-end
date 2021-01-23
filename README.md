@@ -81,7 +81,7 @@
   <li><a href="">📙 TAGs de Listas 📑</a></li> 
   <li><a href="">📙 TAGs de Multimedia 🔊▶️</a></li> 
   <li><a href="">📙 TAGs de Tabelas ⬜🔲</a></li> 
-  <li><a href="">📙 Tags de Formulários 📋</a></li>
+  <li><a href="">📙 TAGs de Formulários 📋</a></li>
   <li><a href="">📙 HTML5 Semantic 📰</a></li>
   <li><a href="">📙 HTML5 Iframe 🎞️</a></li>
   <li><a href="">📙 HTML5 Maps 🗺️</a></li>
