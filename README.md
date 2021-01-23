@@ -461,7 +461,10 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
  </ul>
 <hr>
 
-<h1 align="center">Cap 06: 📙 Tags de Multimidia 🔊▶️</h1>
+<h1 align="center">Cap: 📙 TAG de Imagem 🖼️</h1>
+<hr>
+
+<h1 align="center">Cap 06: 📙 TAGs de Multimidia 🔊▶️</h1>
 <p>O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os
 navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
 
