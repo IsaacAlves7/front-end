@@ -1808,6 +1808,19 @@ Depois de um tempo, o Sass passou por uma mudança. Sua sintaxe passou a ser mai
 }
 </pre>
 
+## Similar a:
+
+[![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
+
+<pre>
+  #my-div{
+  color: red;
+  }
+  #my-div:hover{
+  color: green;
+  }
+</pre>
+
 A nova sintaxe do Sass utiliza a extensão "**.scss**", diferente da antiga que utilizava a extensão ".sass".
 
 <blockquote><b>Resumindo:</b> “sass” e “scss” são as duas sintaxes do Sass. Você ainda pode utilizar a sintaxe .sass, mas o mais recomendado é usar a sintaxe <b>.scss</b>, por ser mais parecido com o CSS comum.</blockquote>
