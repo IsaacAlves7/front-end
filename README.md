@@ -1748,6 +1748,9 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 
 <h1 align="center">Cap 06: 📕 Pré-processador Sass 👄💄</h1>
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="200"></div>
+
+[![Sass](https://img.shields.io/badge/-style.scss-000?style=social&logo=Sass&logoColor=pink)](#)
+
 <p>É o pré-processador CSS mais utilizado atualmente.</p>
 
 ## O que são Pré-Processadores de CSS?
