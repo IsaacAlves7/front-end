@@ -94,7 +94,7 @@
   <li><a href="">📘 Keyframes 🚶‍♂️🏃‍♂️💨</a></li>
   <li><a href="">📘 Transition 🚘🚦</a></li>
   <li><a href="">📘 Transform 🌱🌲</a></li>
-  <li><a href="">📘 Positions 🟧🟦</a></li>
+  <li><a href="">📘 Positions and dimensions 🟧🟦</a></li>
   <li><a href="">📘 Displays 📺</a></li>
   <li><a href="">📘 Flexbox Layout 🥡</a></li>
   <li><a href="">📘 Grid Layout 🍱</a></li>
