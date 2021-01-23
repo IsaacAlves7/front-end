@@ -587,6 +587,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
   <code>&lt;dd&gt;Yamaha&lt;/dd&gt;</code><br>
  <code>&lt;/dl&gt;</code><br>
  </ul>
+<hr>
 
 <h1 align="center">Cap 06: 📙 Tags de Multimidia 🔊▶️</h1>
 <p>O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os
@@ -624,7 +625,7 @@ O elemento <b>&lt;source&gt;</b> pode ser usado múltiplas vezes e permite defin
  <code>&lt;/video&gt;</code>
 </pre>
 <p>Existem diversos <b>codecs</b>, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior. Obs: Codecs são programas utilizados para codificar e decodificar arquivos de mídia. Eles compactam o formato original, favorecendo o armazenamento, e descompactam na hora da reprodução, transformando novamente em imagem ou áudio.</p>
-
+<hr>
 
 <h1 align="center">Cap 07: 📙 Tags de Tabelas ⬜🔲</h1>
 <p>Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
@@ -716,8 +717,9 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <ul>
   <li></li>
 </ul>
+<hr>
 
-<div align="center"><h1>Cap 05. 📙 HTML Semantic 📰</h1></div>
+<div align="center"><h1>Cap 09: 📙 HTML Semantic 📰</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
 
 ## New Semantic Elements in HTML5 📙📰
@@ -893,8 +895,9 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <code>&lt;/html&gt;</code>
 </pre>
 </ul>
+<hr>
 
-<div align="center"><h1>Cap 06: 📘 Revisando o CSS 📄</h1></div>
+<div align="center"><h1>Cap 10: 📘 Revisando o CSS 📄</h1></div>
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="270"/></div>
 <p>Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecanismo simples
 para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos
