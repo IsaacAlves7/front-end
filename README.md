@@ -1751,7 +1751,7 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 
 [![Sass](https://img.shields.io/badge/-style.scss-000?style=social&logo=Sass&logoColor=pink)](#)
 
-<p>É o pré-processador CSS mais utilizado atualmente.</p>
+<p>É o pré-processador CSS mais utilizado atualmente e muito querido pela comunidade DEV.</p>
 
 ## O que são Pré-Processadores de CSS?
 Para um desenvolvimento web moderno, o CSS é muitas vezes visto como primitivo e incompleto. Há muitas funcionalidades que nos facilitaria na hora de desenvolver aplicações mais complexas.
