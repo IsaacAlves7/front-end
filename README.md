@@ -457,22 +457,22 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
     &lt;p&gt;Elemento textual.&lt;/p&gt;
   &lt;/blockquote&gt;</code>
   
-<li><p><b>&lt;figure&gt;</b> elemento que permite definir logicamente as informações de uma imagem. Trabalha com &lt;figcaption&gt;, que permite dar um título a uma imagem, e &lt;img&gt; elemento que exibe a imagem.</p></li>
-<code>&lt;figure&gt;
+<li><p><code>&lt;figure&gt;</code> elemento que permite definir logicamente as informações de uma imagem. Trabalha com <code>&lt;figcaption&gt;</code>, que permite dar um título a uma imagem, e <code>&lt;img&gt;</code> elemento que exibe a imagem.</p></li>
+<pre>&lt;figure&gt;
     &lt;figcaption&gt;Foto de férias&lt;/figcaption&gt;
    &lt;img src="stata.jpg" alt="Fotos das férias no Rio de Janeiro"/&gt;
-  &lt;/figure&gt;</code>
+  &lt;/figure&gt;</pre>
   
-<li><p><b>&lt;div&gt;</b> elemento que representa um bloco de texto. As TAGs &lt;body&gt;, &lt;header&gt;, &lt;footer&gt; etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da &lt;div&gt;. A &lt;div&gt; é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a &lt;div&gt; é usada para diagramar o layout de um site.</p></li>
+<li><p><code>&lt;div&gt;</code> elemento que representa um bloco de texto. As TAGs <code>&lt;body&gt;</code>, <code>&lt;header&gt;</code>, <code>&lt;footer&gt;</code> etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da <code>&lt;div&gt;</code>. A <code>&lt;div&gt;</code> é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a <code>&lt;div&gt;</code> é usada para diagramar o layout de um site.</p></li>
 <code>&lt;div&gt;teste&lt;/div&gt;&lt;</code>
 
-<li><p><b>&lt;span&gt;</b> elemento que possui uma utilização genérica semelhante ao elemento &lt;div&gt;.</p></li>
-<code>&lt;span&gt;texto de exemplo&lt;/span&gt;</code>
+<li><p><code>&lt;span&gt;</code> elemento que possui uma utilização genérica semelhante ao elemento &lt;div&gt;.</p></li>
+<pre>&lt;span&gt;texto de exemplo&lt;/span&gt;</pre>
 
-<li><p><b>&lt;s&gt;</b> elemento que transforma o texto em um conteúdo não relevante.</p></li>
+<li><p><code>&lt;s&gt;</code> elemento que transforma o texto em um conteúdo não relevante.</p></li>
 <code>&lt;p&gt;O texto é &lt;s&gt;irrelevante&lt;/s&gt;&lt;/p&gt;</code>
 
-<li><p><b>&lt;cite&gt;</b> elemento que transforma o texto em uma citação.</p></li>
+<li><p><code>&lt;cite&gt;</code> elemento que transforma o texto em uma citação.</p></li>
 <code>&lt;p&gt;O texto é do &lt;cite&gt;star wars&lt;/cite&gt;&lt;/p&gt;</code>
 
 <li><p><b>&lt;q&gt;</b> elemento que coloca aspas em um bloco de texto.</p></li>
