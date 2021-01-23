@@ -98,6 +98,7 @@
   <li><a href="">📘 Displays 📺</a></li>
   <li><a href="">📘 Flexbox Layout 🥡</a></li>
   <li><a href="">📘 Grid Layout 🍱</a></li>
+  <li><a href="">📙📘 Responsive Layout 📱💻🖥️</a></li>
   <li><a href="">📙🌌 Parallax 🌌📘</a></li>
   <li><a href="">📕 Pré-processador Sass 👄💄</a></li>
   <li><a href="">📕 Primeiros passos com o Sass e configurando o ambiente 🟩</a></li>
