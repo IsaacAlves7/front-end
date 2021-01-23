@@ -344,25 +344,28 @@ Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no 
 
 <p>Isso ainda é possível, mas a versão mais curta é preferível, já que é mais fácil de digitar e funciona em todo lugar.
 
-Você também perceberá que não colocamos aspas no atributo charset=utf-8 nem utilizamos o autoencerramento na tag. O HTML5 não é uma linguagem XML, então você não precisa dessas coisas.
+Você também perceberá que não colocamos aspas no atributo <code>charset=utf-8</code> nem utilizamos o autoencerramento na tag. O HTML5 não é uma linguagem XML, então você não precisa dessas coisas.
 
 Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada como text/html (apenas um validador XHTML se importaria). Assim, favorecer uma forma em detrimento da outra no HTML5 seria totalmente arbitrário e tornaria inválidas as páginas que não seguissem o formato, apesar delas funcionarem perfeitamente em qualquer navegador. Desse modo, não importa para o HTML5 qual forma você utiliza.</p>
 
 <h2>&lt;!Doctype html&gt;</h2>
 <p>É o tipo do documento, vale ressaltar que não é obrigatório.</p>
 <h2>&lt;html&gt;</h2>
-<p>É a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar. Possui o atributo <b>lang=""</b> que define a língua regional do documento.</p>
+<p>É a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar. Possui o atributo <code>lang=""</code> que define a língua regional do documento.</p>
+
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 <pre>&lt;html lang="pt-br"&gt;&lt;/html&gt;</pre>
+
 <h2>&lt;head&gt;</h2>
-<p>O <b>&lt;head&gt;</b> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <i>metadados</i>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos <b>CSS</b> e <strong>JavaScript</strong>.
+<p>O <code>&lt;head&gt;</code> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <b>metadados</b>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos <b>CSS</b> e <strong>JavaScript</strong>.
 
 <p>No <b>&lt;head&gt;</b> encontramos:
   <ul>
-  <li><b>&lt;title&gt;</b> que representa o título do documento da página HTML:</li>
+  <li><code>&lt;title&gt;</code> que representa o título do documento da página HTML:</li>
   <pre><code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code></pre>
-  <li><b>&lt;link&gt;</b> que representa ligação com os arquivos css externos:</li>
-  <pre><code>&lt;link rel="stylesheet" href="style.css"&gt;</code></pre>
-  <li><b>&lt;meta&gt;</b> que representa comandos para definições globais da página:</li>
+  <li><code>&lt;link&gt;</code> que representa ligação com os arquivos css externos:</li>
+  <pre>&lt;link rel="stylesheet" href="style.css"&gt;</pre>
+  <li><code>&lt;meta&gt;</code> que representa comandos para definições globais da página:</li>
   <pre>
    <code>&lt;meta charset="utf-8"&gt;</code>
    <code>&lt;meta name="description" content="Free Web Tutorials"&gt;</code>
@@ -370,7 +373,7 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
    <code>&lt;meta name="author" content="Hege Refsnes"&gt;</code>
    <code>&lt;meta http-equiv="refresh" content="30"&gt;</code>
   </pre>
-  <li><b>&lt;script&gt;</b> comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:</li>
+  <li><code>&lt;script&gt;</code> comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:</li>
   <pre><code>&lt;script&gt;
      function myFunction {
          document.getElementById("demo").innerHTML = "Hello JavaScript!";
@@ -378,7 +381,7 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 &lt;/script&gt;</code><br>
 <code>&lt;script type="script/javascript" src="main.js"&gt;&lt;/script&gt;</code>
 </pre>
-<li><b>&lt;style&gt;</b> comando para estilização do CSS do tipo interno:</li>
+<li><code>&lt;style&gt;</code> comando para estilização do CSS do tipo interno:</li>
   <pre><code>&lt;style&gt;
     h1 {
     color: blue;
@@ -390,9 +393,9 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
   </p>
 </ul>
 <h2>&lt;body&gt;</h2>
-O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
+O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</code>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
 <ul>
-<li><b>&lt;h1&gt;&lt;h2&gt;&lt;h3&gt;&lt;h4&gt;&lt;h5&gt;&lt;h6&gt;</b> tags de títulos que são por ordem de h1-h6 diminuindo a fonte (do maior para o menor). <b>&lt;hgroup&gt;</b> é uma tag para um grupo de tags, não possui valor semântico, apenas serve para deixar o código mais legível.</li>
+<li><code>&lt;h1&gt;&lt;h2&gt;&lt;h3&gt;&lt;h4&gt;&lt;h5&gt;&lt;h6&gt;</code> tags de títulos que são por ordem de h1-h6 diminuindo a fonte (do maior para o menor). <code>&lt;hgroup&gt;</code> é uma tag para um grupo de tags, não possui valor semântico, apenas serve para deixar o código mais legível.</li>
 <pre>
 <code>&lt;hgroup&gt;</code>
   <code>&lt;h1&gt;título 1&lt;/h1&gt;</code>
