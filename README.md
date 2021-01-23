@@ -79,7 +79,7 @@
   <li><a href="">📙 TAG de Âncora 🔗</a></li>
   <li><a href="">📙 TAG de Imagem 🖼️</a></li>
   <li><a href="">📙 TAGs de Listas 📑</a></li> 
-  <li><a href="">📙 TAGs de Multimidia 🔊▶️</a></li> 
+  <li><a href="">📙 TAGs de Multimedia 🔊▶️</a></li> 
   <li><a href="">📙 TAGs de Tabelas ⬜🔲</a></li> 
   <li><a href="">📙 Tags de Formulários 📋</a></li>
   <li><a href="">📙 HTML5 Semantic 📰</a></li>
