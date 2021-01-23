@@ -340,6 +340,7 @@ Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no 
 <p>Basicamente, a estrutura do documento html se baseia em <code>&lt;!Doctype html&gt;</code>, <code>&lt;html&gt;</code>, <code>&lt;head&gt;</code>, <code>&lt;body&gt;</code>. Observe a tag  muito cuidadosamente. Aqueles acostumados a escrever XHTML perceberam três estranhezas. A primeira é que a tag está muito mais curta do que costumava ser até então - estávamos acostumados a utilizar:</b></p>
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+
 <pre>&lt;meta http-equiv="Content-Type" content="text/html;charset=UTF-8"&gt;</pre>
 
 <p>Isso ainda é possível, mas a versão mais curta é preferível, já que é mais fácil de digitar e funciona em todo lugar.
@@ -361,17 +362,17 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 
 <p>No <b>&lt;head&gt;</b> encontramos:
   <ul>
-  <li><code>&lt;title&gt;</code> que representa o título do documento da página HTML:</li>
+  <li><code>&lt;title&gt;</code> que representa o título do documento da página HTML:</li><br/>
     
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
   <pre><code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code></pre>
-  <li><code>&lt;link&gt;</code> que representa ligação com os arquivos css externos:</li>
+  <li><code>&lt;link&gt;</code> que representa ligação com os arquivos css externos:</li><br/>
     
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
   <pre>&lt;link rel="stylesheet" href="style.css"&gt;</pre>
-  <li><code>&lt;meta&gt;</code> que representa comandos para definições globais da página:</li>
+  <li><code>&lt;meta&gt;</code> que representa comandos para definições globais da página:</li><br/>
   
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
@@ -382,7 +383,7 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
    <code>&lt;meta name="author" content="Hege Refsnes"&gt;</code>
    <code>&lt;meta http-equiv="refresh" content="30"&gt;</code>
   </pre>
-  <li><code>&lt;script&gt;</code> comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:</li>
+  <li><code>&lt;script&gt;</code> comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:</li><br/>
   
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
@@ -394,7 +395,7 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 &lt;script type="script/javascript" src="main.js"&gt;&lt;/script&gt;
 </pre>
 
-<li><code>&lt;style&gt;</code> comando para estilização do CSS do tipo interno:</li>
+<li><code>&lt;style&gt;</code> comando para estilização do CSS do tipo interno:</li><br/>
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
