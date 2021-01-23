@@ -579,7 +579,7 @@ O elemento <b>&lt;source&gt;</b> pode ser usado múltiplas vezes e permite defin
 <hr>
 
 <h1 align="center">Cap 07: 📙 Tags de Tabelas ⬜🔲</h1>
-<img src="https://cdn.educba.com/academy/wp-content/uploads/2019/10/Create-Tables-in-HTML.png">
+<div align="center"><img src="https://cdn.educba.com/academy/wp-content/uploads/2019/10/Create-Tables-in-HTML.png"></div>
 <p>Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
 
 Entretanto, hoje, o uso de tabelas está, de fato, interferindo na construção de sites melhores, mais acessíveis, flexíveis e funcionais, principalmente para as novas mídias, como os celulares, tablets etc.
