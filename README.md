@@ -244,11 +244,11 @@ Além das TAGs, existem outros elementos que ajudam na construção de documento
 ## Atributos de uma TAG 📙🏷️
 <p><b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
 
-Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <b>&lt;link&gt;</b>:
+Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <code>&lt;link&gt;</code>:
 <pre>
 &lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;
 </pre>
-Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso é <b>rel="stylesheet"</b> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <b>href=""</b> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
+Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no caso é <code>rel="stylesheet"</code> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <code>href=""</code> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
 
 ### Atributos Específicos de uma TAG 📙🏷️
 <table>
