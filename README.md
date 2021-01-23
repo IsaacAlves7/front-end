@@ -446,9 +446,6 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <code>&lt;big&gt;texto com fonte maior do que o padrão&lt;/big&gt;</code>
 <li><p><code>&lt;small&gt;</code> elemento que representa o texto com fonte menor que o padrão.</p></li>
 <code>&lt;small&gt;texto com fonte menor do que o padrão&lt;/small&gt;</code>
-
-<p>Além do atributo <b>href=""</b>, outro atributo muito utilizado é o <b>target=""</b> que possui o valor da forma como o endereço vai ser aberto, <b>target="_blank"</b> abre o endereço em uma nova página no navegador, <b>target="_self"</b> abre o documento na mesma janela (esse é o padrão), <b>target="_parent"</b> abre o documento na armação parente, <b>target="_top"</b> abre o documento no corpo todo da janela.</p>
-
 <li><p><b>&lt;del&gt;</b> elemento que representa o texto com a fonte rabiscada.</p></li>
 <code>&lt;p&gt;texto com a &lt;del&gt;<del>fonte rabiscada</del>&lt;/del&gt;&lt;p&gt;</code>
 <li><p><b>&lt;blockquote&gt;</b> elemento que tem como função exibir o texto indicando de qual referência foi retirado (citação).</p></li>
@@ -488,6 +485,9 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <p>Além dos atributos citados, existe o <code>target=""</code> que possui a função de opção da abertura do link. Os valores do <code>target=""</code> podem ser:</p>
 <ul>
   <li><code>_blank</code> abre o link em uma nova guia no navegador.</li>
+  <li><code>_self</code> abre o documento na mesma janela (esse é o padrão).</li> 
+  <li><code>_parent</code> abre o documento na armação parente.</li>
+  <li><code>_top</code> abre o documento no corpo todo da janela.</li>
 </ul>
 
 ## Exemplo:
