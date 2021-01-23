@@ -1778,13 +1778,18 @@ Segundo uma pesquisa feita pelo ashleynola.co.uk, o Sass é utilizado por pelo m
 No Google Trends, se procurarmos por “Less” e “Sass”, veremos que o Sass é bem mais pesquisado. Ambos são ótimos pré-processadores e normalmente a escolha dependerá do gosto da equipe que estiver desenvolvendo o sistema.
 
 ## Sass ou Scss?
-Quando começamos a ler sobre Sass, encontramos também o termo “SCSS”. Afinal, qual a diferença?
+Quando começamos a ler sobre Sass, encontramos também o termo "SCSS". Afinal, qual a diferença?
 
-Sass é o nome do pré-processador, originalmente criado em Ruby. No começo, era necessário instalar o Ruby em sua máquina para poder gerar o CSS.
+**Sass** é o nome do pré-processador, originalmente criado em **Ruby**(A linguagem de programação Ruby). No começo, era necessário instalar o Ruby em sua máquina para poder gerar o CSS.
 
+A sintaxe era bem diferente do CSS comum:
 
-
-
+<pre>
+  #my-div
+  color: red
+  &:hover
+  color: green
+</pre>
 
 
 
