@@ -1543,6 +1543,12 @@ div.rotate_left{
 <h1 align="center">Cap 15: 📙📘 Responsive Layout 📱💻🖥️</h1>
 <div align="center"><img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/></div>
 
+## 📙 Unidades de resolução responsivas 📘
+<code>vh</code>, <code>%</code>, <code>em</code>
+
+## 📙 Viewport 🖥️💻📱
+<p></p>
+
 ## 📘 Utilizando Media Queries 🖥️💻📱
 <p>Podemos definir <b>media queries</b> como a maneira que o navegador define que formatação de página vai apresentar a cada tipo de dispositivo.
 
