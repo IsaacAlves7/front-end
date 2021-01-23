@@ -1773,8 +1773,14 @@ Possui uma grande comunidade e é utilizado por grandes frameworks, como o **Boo
 
 Segundo uma pesquisa feita pelo ashleynola.co.uk, o Sass é utilizado por pelo menos 66% dos desenvolvedores.
 
+![image](https://user-images.githubusercontent.com/61624336/105579647-77081d80-5d66-11eb-8b02-ec826c1eb24b.png)
 
+No Google Trends, se procurarmos por “Less” e “Sass”, veremos que o Sass é bem mais pesquisado. Ambos são ótimos pré-processadores e normalmente a escolha dependerá do gosto da equipe que estiver desenvolvendo o sistema.
 
+## Sass ou Scss?
+Quando começamos a ler sobre Sass, encontramos também o termo “SCSS”. Afinal, qual a diferença?
+
+Sass é o nome do pré-processador, originalmente criado em Ruby. No começo, era necessário instalar o Ruby em sua máquina para poder gerar o CSS.
 
 
 
