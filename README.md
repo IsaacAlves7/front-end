@@ -73,25 +73,27 @@
 <b>All topics:</b>
 
 <ol>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-02-%EF%B8%8F-client-side--and-server-side-%EF%B8%8F">🖥️ Client-side 🔄 and Server-side 🗄️🌐</a></li>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-03--html5-and-css3-">📙 HTML5 and CSS3 📘</a></li>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-04--tags-html-">📙 TAGs HTML 📚</a></li> 
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-04--tags-html-">📙 TAGs de Listas 📑</a></li> 
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-04--tags-html-">📙 TAGs de Multimidia 🔊▶️</a></li> 
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-04--tags-html-">📙 TAGs de Tabelas ⬜🔲</a></li> 
-  <li><a href="#">📙 Tags de Formulários 📋</a></li>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#6--html-semantic-">📙 HTML5 Semantic 📰</a></li>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#6--html-semantic-">📙 HTML5 Iframe 🎞️</a></li>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#6--html-semantic-">📙 HTML5 Maps 🗺️</a></li>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-06--revisando-o-css-">📘 Revisando o CSS 📄</a></li>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-06--revisando-o-css-">📘 Box Model 📄</a></li>
+  <li><a href="">🖥️ Client-side and Server-side 🗄️🌐</a></li>
+  <li><a href="">📙 HTML5 and CSS3 📘</a></li>
+  <li><a href="">📙 TAGs HTML 📚</a></li> 
+  <li><a href="">📙 TAGs de Listas 📑</a></li> 
+  <li><a href="">📙 TAGs de Multimidia 🔊▶️</a></li> 
+  <li><a href="">📙 TAGs de Tabelas ⬜🔲</a></li> 
+  <li><a href="">📙 Tags de Formulários 📋</a></li>
+  <li><a href="">📙 HTML5 Semantic 📰</a></li>
+  <li><a href="">📙 HTML5 Iframe 🎞️</a></li>
+  <li><a href="">📙 HTML5 Maps 🗺️</a></li>
+  <li><a href="">📘 Revisando o CSS 📄</a></li>
+  <li><a href="">📘 Box Model 📄</a></li>
   <li><a href="">📘 Foreground e Background 🖼️🟦</a></li>
+  <li><a href="">📘 Transition 🌱🌲</a></li>
+  <li><a href="">📘 Transform 🌱🌲</a></li>
   <li><a href="">📕 Pré-processador Sass 👄💄</a></li>
   <li><a href="">📕 Primeiros passos com o Sass e configurando o ambiente 🟩</a></li>
 </ol>
 <hr>
 
-<div align="center"><h1>Cap 01: 🖥️ Client-side 🔄 and Server-side 🗄️🌐</h1></div>
+<div align="center"><h1>Cap 01: 🖥️ Client-side and Server-side 🗄️🌐</h1></div>
 <div align="center"><img src="https://nickjanetakis.com/assets/blog/cards/server-side-templates-vs-rest-api-and-javascript-front-end-374a74c142bfb09344b9635c3c444b6a152a3c90952e79df1ae013081af5f53e.jpg" height="270"/></div>
 <p>Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web.
   
@@ -1168,7 +1170,7 @@ body{
 <p><strong>attachment</strong> fixa a imagem e <b>position</b> determina a sua localização. O resultado é a imagem totalmente centralizada na página.</p>
 <hr>
 
-<h1 align="center">Cap 13: 📘 Trabalhando com FONTE no CSS 🔤🔠</h1>
+<h1 align="center">Cap 13: 📘 Trabalhando com textos no CSS 🔤🔠</h1>
 <p>Uma das novidades do CSS 3 é o uso de fontes da própria internet, podemos agora usar fontes livres que são disponíveis na internet, sem que tenha a necessidade de estar instalada na máquina do usuário.
 
 O site do Google disponibiliza uma quantidade grande de fontes livres. No endereço https://fonts.google.com/ encontramos as fontes e a forma de como colocar no nosso código.
@@ -1348,9 +1350,9 @@ body {
 </pre>
 <hr>
 
-<h1 align="center">Cap: 📘 Propriedades de Transição 🚘🚦</h1>
+<h1 align="center">Cap: 📘 Transition 🚘🚦</h1>
 <hr>
-<h1 align="center">Cap: 📘 Propriedades de Transformação 🌱🌲</h1>
+<h1 align="center">Cap: 📘 Transform 🌱🌲</h1>
 <p>O <b>CSS3</b> em conjunto com o <b>JavasScript</b> e o <b>HTML5</b> passaram a dar suporte a transformações em tempo real, de objetos HTML.
 
 Podemos modificar posição, rotacionar, aumentar e diminuir, tudo isso dentro de todos os eixos gráficos disponíveis na sua tela.
