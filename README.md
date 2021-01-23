@@ -431,10 +431,10 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <pre>&lt;b&gt;negrito&lt;/b&gt;
      &lt;strong&gt;negrito&lt;/strong&gt;</pre>
 <li><p><code>&lt;pre&gt;</code> elemento que apresenta um bloco de texto pré-formatado, preservando seu conteúdo.<b></b>.</p></li>
-<code>&lt;pre&gt;Bloco de texto pré-formatado.&lt;/pre&gt;</code>
-<li><p><b>&lt;br&gt;</b> elemento que representam o texto do estilo do tipo <b></b>.</p></li>
+<pre>&lt;pre&gt;Bloco de texto pré-formatado.&lt;/pre&gt;</pre>
+<li><p><code>&lt;br&gt;</code> elemento que serve para quebrar uma linha da página.</p></li>
 <code>&lt;br&gt;</code>
-<li><p><b>&lt;hr&gt;</b> elemento que representam o texto do estilo do tipo <b></b>.</p></li>
+<li><p><b>&lt;hr&gt;</b> elemento que possui uma forma linha horizontal com a função para dividir os elementos da página.</p></li>
 <code>&lt;hr&gt;</code>
 <li><p><b>&lt;wbr&gt;</b> elemento que dá uma oportunidade de quebra de linha, se necessário.<b></b>.</p></li>
 <code>&lt;wbr&gt;</code>
