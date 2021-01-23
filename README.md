@@ -1520,8 +1520,10 @@ background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
 .box2 {
 background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 </pre>
-
-## CSS3 Propriedades de Transformação 📘🌱🌲
+<hr>
+<h1 align="center">Cap: 📘 Propriedades de Transição 🚘</h1>
+<hr>
+<h1 align="center">Cap: 📘 Propriedades de Transformação 🌱🌲</h1>
 <p>O <b>CSS3</b> em conjunto com o <b>JavasScript</b> e o <b>HTML5</b> passaram a dar suporte a transformações em tempo real, de objetos HTML.
 
 Podemos modificar posição, rotacionar, aumentar e diminuir, tudo isso dentro de todos os eixos gráficos disponíveis na sua tela.
@@ -1723,6 +1725,20 @@ div.rotate_left{
     transform: rotate(-8deg);
 }
 </pre>
+<hr>
+
+<h1 align="center">Cap 14: 📘 displays 🔃</h1>
+<hr>
+
+<h1 align="center">Cap 08: 📘 Flexbox Layout 🥡</h1>
+<div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/></div>
+<hr>
+
+<h1 align="center">Cap 09: 📘 Grid Layout 🍱</h1>
+<div align="center"><img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="200"/></div>
+<hr>
+
+<h1 align="center">Cap 06: 📕 Pré-processador Sass 👄💄</h1>
 
 
 
@@ -1774,16 +1790,3 @@ div.rotate_left{
 
 
 
-
-<!--
-<div align="center"><h1>Cap 06: 📕 Pré-processador Sass 👄💄</h1></div>
-<div align="center"><h1>Cap 07: 📙📘 Responsive Layout 📱💻🖥️</h1></div>
-<div align="center"><img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/></div>
-<p>The</p>
-<div align="center"><h1>Cap 08: 📘 Flexbox Layout 🥡</h1></div>
-<div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/></div><br>
-<p>The</p>
-<div align="center"><h1>Cap 09: 📘 Grid Layout 🍱</h1></div>
-<div align="center"><img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="200"/></div><br>
-<p>The</p>
- -->
