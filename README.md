@@ -263,7 +263,7 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 </ul>
 
 
-### Eventos de uma TAG (Atributos HTML5 + Chamadas de funções JavaScript) 📙📋📚+📒📜
+### Eventos de uma TAG (Métodos HTML5 + JavaScript) 📙 + 📒
 [![JS](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)](https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-16--eventos-)
 
 <pre>&lt;img src="1.jpg" onclick="functionClick()"/&gt;</pre>
