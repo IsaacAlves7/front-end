@@ -362,10 +362,16 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 <p>No <b>&lt;head&gt;</b> encontramos:
   <ul>
   <li><code>&lt;title&gt;</code> que representa o título do documento da página HTML:</li>
+    
+  [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   <pre><code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code></pre>
   <li><code>&lt;link&gt;</code> que representa ligação com os arquivos css externos:</li>
+    
+  [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   <pre>&lt;link rel="stylesheet" href="style.css"&gt;</pre>
   <li><code>&lt;meta&gt;</code> que representa comandos para definições globais da página:</li>
+  
+  [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   <pre>
    <code>&lt;meta charset="utf-8"&gt;</code>
    <code>&lt;meta name="description" content="Free Web Tutorials"&gt;</code>
