@@ -90,6 +90,8 @@
   <li><a href="">📘 Keyframes 🚶‍♂️🏃‍♂️💨</a></li>
   <li><a href="">📘 Transition 🚘🚦</a></li>
   <li><a href="">📘 Transform 🌱🌲</a></li>
+  <li><a href="">📘 Flexbox Layout 🥡</a></li>
+  <li><a href="">📘 Grid Layout 🍱</a></li>
   <li><a href="">📙🌌 Parallax 🌌📘</a></li>
   <li><a href="">📕 Pré-processador Sass 👄💄</a></li>
   <li><a href="">📕 Primeiros passos com o Sass e configurando o ambiente 🟩</a></li>
