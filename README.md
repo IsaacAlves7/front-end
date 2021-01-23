@@ -434,17 +434,17 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <pre>&lt;pre&gt;Bloco de texto pré-formatado.&lt;/pre&gt;</pre>
 <li><p><code>&lt;br&gt;</code> elemento que serve para quebrar uma linha da página.</p></li>
 <code>&lt;br&gt;</code>
-<li><p><b>&lt;hr&gt;</b> elemento que possui uma forma linha horizontal com a função para dividir os elementos da página.</p></li>
+<li><p><code>&lt;hr&gt;</code> elemento que possui uma forma linha horizontal com a função para dividir os elementos da página.</p></li>
 <code>&lt;hr&gt;</code>
-<li><p><b>&lt;wbr&gt;</b> elemento que dá uma oportunidade de quebra de linha, se necessário.<b></b>.</p></li>
+<li><p><code>&lt;wbr&gt;</code> elemento que dá uma oportunidade de quebra de linha, se necessário.<b></b>.</p></li>
 <code>&lt;wbr&gt;</code>
-<li><p><b>&lt;sub&gt;</b> elemento que representam o texto do estilo do tipo sobscrito.</p></li>
+<li><p><code>&lt;sub&gt;</code> elemento que representam o texto do estilo do tipo sobscrito.</p></li>
 <code>&lt;sub&gt;texto sobscrito&lt;/sub&gt;</code>
-<li><p><b>&lt;sup&gt;</b> elemento que representam o texto do estilo do tipo sobrescrito.</p></li>
+<li><p><code>&lt;sup&gt;</code> elemento que representam o texto do estilo do tipo sobrescrito.</p></li>
 <code>&lt;sup&gt;texto sobrescrito&lt;/sup&gt;</code>
-<li><p><b>&lt;big&gt;</b> elemento que representa o texto com fonte maior que o padrão.</p></li>
+<li><p><code>&lt;big&gt;</code> elemento que representa o texto com fonte maior que o padrão.</p></li>
 <code>&lt;big&gt;texto com fonte maior do que o padrão&lt;/big&gt;</code>
-<li><p><b>&lt;small&gt;</b> elemento que representa o texto com fonte menor que o padrão.</p></li>
+<li><p><code>&lt;small&gt;</code> elemento que representa o texto com fonte menor que o padrão.</p></li>
 <code>&lt;small&gt;texto com fonte menor do que o padrão&lt;/small&gt;</code>
 
 <p>Além do atributo <b>href=""</b>, outro atributo muito utilizado é o <b>target=""</b> que possui o valor da forma como o endereço vai ser aberto, <b>target="_blank"</b> abre o endereço em uma nova página no navegador, <b>target="_self"</b> abre o documento na mesma janela (esse é o padrão), <b>target="_parent"</b> abre o documento na armação parente, <b>target="_top"</b> abre o documento no corpo todo da janela.</p>
