@@ -1740,7 +1740,7 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 <hr>
 
 <h1 align="center">Cap 06: 📕 Pré-processador Sass 👄💄</h1>
-
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="200"></div>
 
 
 
