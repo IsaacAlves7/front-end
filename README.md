@@ -445,9 +445,6 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <code>&lt;big&gt;texto com fonte maior do que o padrão&lt;/big&gt;</code>
 <li><p><b>&lt;small&gt;</b> elemento que representa o texto com fonte menor que o padrão.</p></li>
 <code>&lt;small&gt;texto com fonte menor do que o padrão&lt;/small&gt;</code>
-<li><p><b>&lt;a&gt;</b> elemento que representa uma âncora de endereço. Você pode inclusive criar links da sua página html. Com o atributo para renderizar endereços <b>href=""</b>você pode barrar o endereço como <b>href="#"</b> , apenas com o <b>#</b>, ou colocar o endereço da sua página html, uma URL ou até mesmo seu email com <b>href="mailto:webmaster@example.com"</b>.</p></li>  
-  
-<code>&lt;a href="https://www.google.com/" target="_blank"&gt;Clique no endereço&lt;/a&gt;</code>
 
 <p>Além do atributo <b>href=""</b>, outro atributo muito utilizado é o <b>target=""</b> que possui o valor da forma como o endereço vai ser aberto, <b>target="_blank"</b> abre o endereço em uma nova página no navegador, <b>target="_self"</b> abre o documento na mesma janela (esse é o padrão), <b>target="_parent"</b> abre o documento na armação parente, <b>target="_top"</b> abre o documento no corpo todo da janela.</p>
 
@@ -485,6 +482,11 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <hr>
 
 <h1 align="center">Cap 05: 📙 TAG de Âncora 🔗</h1>
+<p><code>&lt;a&gt;</code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <b>href="mailto:webmaster@example.com"</b> que irá enviar uma mensagem para seu email.</p>  
+
+<p>Além dos atributos citados, existe o <code>target=""</code> que possui a função de opção da abertura do link. Os valores do <code>target=""</code> podem ser:</p>
+
+<pre>&lt;a href="https://www.google.com/" target="_blank"&gt;Clique no endereço&lt;/a&gt;</pre>
 <hr>
 
 <h1 align="center">Cap: 📙 TAG de Imagem 🖼️</h1>
