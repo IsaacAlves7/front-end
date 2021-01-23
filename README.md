@@ -553,7 +553,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <code>&lt;pre&gt;&lt;code&gt;console.log('Hello, World!');&lt;/code&gt;&lt;/pre&gt;</code>
 </ul>
 
-### Tag de Listas 📙📑🎋🔖
+<h1 align="center">Cap 05: 📙 Tag de Listas 📑</h1>
 <p>As listas são importantes para a organização do texto e orientação do usuário.</p>
 <ul>
  <li><p><b>&lt;li&gt;</b> elemento que representa um os itens das listas.</p></li>
@@ -588,7 +588,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
  <code>&lt;/dl&gt;</code><br>
  </ul>
 
-### Tags de Multimidia 📙🔊🎵🎬▶️
+<h1 align="center">Cap 06: 📙 Tags de Multimidia 🔊▶️</h1>
 <p>O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os
 navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
 
@@ -626,7 +626,7 @@ O elemento <b>&lt;source&gt;</b> pode ser usado múltiplas vezes e permite defin
 <p>Existem diversos <b>codecs</b>, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior. Obs: Codecs são programas utilizados para codificar e decodificar arquivos de mídia. Eles compactam o formato original, favorecendo o armazenamento, e descompactam na hora da reprodução, transformando novamente em imagem ou áudio.</p>
 
 
-### Tags de Tabelas 📙🔳⬜🔲
+<h1 align="center">Cap 07: 📙 Tags de Tabelas ⬜🔲</h1>
 <p>Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
 
 Entretanto, hoje, o uso de tabelas está, de fato, interferindo na construção de sites melhores, mais acessíveis, flexíveis e funcionais, principalmente para as novas mídias, como os celulares, tablets etc.
@@ -711,7 +711,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <pre><code>&lt;table border rules="groups"6&gt;</code></pre>
 <pre><code>&lt;table border rules="rows"6&gt;</code></pre>
 
-### Tags de Formulários 📙🏷️📛🗳️✔️✅🆗🔎🔘🎚️🎛️
+<h1 align="center">Cap 08: 📙 Tags de Formulários 📋</h1>
 <p>A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:</p>
 <ul>
   <li></li>
