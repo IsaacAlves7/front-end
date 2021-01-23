@@ -1829,7 +1829,12 @@ Para uma lista completa, acesse: http://sass-lang.com/libsass
 
 <h1 align="center">Cap: 📕 Primeiros passos com o Sass e configurando o ambiente 🟩</h1>
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" height="200"/></div>
-<p>Como foi dito, não é mais preciso obter o Ruby em nossa máquina para poder utilizar o Sass. Podemos compilar o Sass a partir de C, Go, Java, Node.js, PHP, Python, etc. Vamos aprender como configurar e rodar o Sass no ambiente Node.js:</p>
+<p>Como foi dito, não é mais preciso obter o Ruby em nossa máquina para poder utilizar o Sass. Podemos compilar o Sass a partir de C, Go, Java, Node.js, PHP, Python, etc. Vamos aprender como configurar e rodar o Sass no ambiente Node.js:
+
+Como a maioria dos desenvolvedores front-end usam o Node.js atualmente, veremos como configurá-lo para compilar nosso Sass para CSS.
+Primeiro, obtenha o Node.js em: https://nodejs.org/
+
+Após instalar o Node.js em sua máquina, criaremos um diretório chamado Sass.</p>
 
 
 
