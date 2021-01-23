@@ -425,7 +425,10 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 </ul>
 <hr>
 
-<h1 align="center">Cap 05: 📙 Tag de Listas 📑</h1>
+<h1 align="center">Cap 05: 📙 TAG de Âncora 🔗</h1>
+<hr>
+
+<h1 align="center">Cap 05: 📙 TAG de Listas 📑</h1>
 <p>As listas são importantes para a organização do texto e orientação do usuário.</p>
 <ul>
  <li><p><b>&lt;li&gt;</b> elemento que representa um os itens das listas.</p></li>
@@ -1525,7 +1528,7 @@ div.rotate_left{
 </pre>
 <hr>
 
-<h1 align="center">Cap 14: 📘 displays 🔃</h1>
+<h1 align="center">Cap 14: 📘 displays 📺</h1>
 <hr>
 
 <h1 align="center">Cap 08: 📘 Flexbox Layout 🥡</h1>
