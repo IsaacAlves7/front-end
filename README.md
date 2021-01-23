@@ -1831,7 +1831,7 @@ Para uma lista completa, acesse: http://sass-lang.com/libsass
 <hr>
 
 <h1 align="center">Cap: 📕 Primeiros passos com o Sass e configurando o ambiente 🟩</h1>
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" heigth="200"/></div>
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" heigth="100"/></div>
 
 
 
