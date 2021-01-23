@@ -1601,7 +1601,7 @@ div.rotate_left{
 </pre>
 <hr>
 
-<h1 align="center">Cap 14: 📘 displays 📺</h1>
+<h1 align="center">Cap 14: 📘 Displays 📺</h1>
 <hr>
 
 <h1 align="center">Cap 08: 📘 Flexbox Layout 🥡</h1>
