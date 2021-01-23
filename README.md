@@ -333,22 +333,9 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 
 <p> O <b>index.html</b> é o padrão da Web de ser o primeiro arquivo processado pelo navegador, geralmente é usado para uma áreas de Login ou a Home da página, e o <b>style.css</b> é o padrão para editar um ou mais arquivos HTML.</p>
 
-<pre>
-<h2>📝 index.html</h2>
-<code>&lt;!Doctype html&gt;</code>
-<code>&lt;html lang="pt-br"&gt;</code>
-<code>&lt;head&gt;</code>
-  <code>&lt;meta charset="utf-8"&gt;</code>
-  <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
-  <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
-<code>&lt;/head&gt;</code>
-<code>&lt;body&gt;</code>
-   <code>&lt;h1&gt;Hello, World!&lt;/h1&gt;</code>
-<code>&lt;/body&gt;</code>
-<code>&lt;/html&gt;</code>
-</pre>
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/105612417-dd0e9800-5d9a-11eb-9ca4-6733559a200c.jpg)
 
-<p>Basicamente, a estrutura do documento html se baseia em <b>&lt;!Doctype html&gt;</b>, <b>&lt;html&gt;</b>, <b>&lt;head&gt;</b>, <b>&lt;body&gt;</b>. Observe a tag  muito cuidadosamente. Aqueles acostumados a escrever XHTML perceberam três estranhezas. A primeira é que a tag  está muito mais curta do que costumava ser até então - estávamos acostumados a utilizar:</b></p>
+<p>Basicamente, a estrutura do documento html se baseia em <code>&lt;!Doctype html&gt;</code>, <code>&lt;html&gt;</code>, <code>&lt;head&gt;</code>, <code>&lt;body&gt;</code>. Observe a tag  muito cuidadosamente. Aqueles acostumados a escrever XHTML perceberam três estranhezas. A primeira é que a tag está muito mais curta do que costumava ser até então - estávamos acostumados a utilizar:</b></p>
 
 <pre>&lt;meta http-equiv="Content-Type" content="text/html;charset=UTF-8"&gt;</pre>
 
