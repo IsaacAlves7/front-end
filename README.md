@@ -1828,8 +1828,9 @@ A nova sintaxe do Sass utiliza a extensão "**.scss**", diferente da antiga que 
 Além disso, pela popularização do Sass, hoje em dia não somos mais obrigados a ter o Ruby em nossa máquina para usá-lo. Podemos compilar o Sass a partir de C, Go, Java, Node.js, PHP, Python, etc.
 
 Para uma lista completa, acesse: http://sass-lang.com/libsass
+<hr>
 
-<h1 align="center">📕 Primeiros passos com o Sass e configurando o ambiente 🟩</h1>
+<h1 align="center">Cap: 📕 Primeiros passos com o Sass e configurando o ambiente 🟩</h1>
 <div align="center><img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" heigth="200"></div>
 
 
