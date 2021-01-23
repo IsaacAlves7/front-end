@@ -1283,22 +1283,35 @@ No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
   <tr>
      <td><strong>Propriedade</strong></td>
      <td><strong>Função da propriedade</strong></td>
-     <td><b>valores</b></td>
-     <td><b>Função dos valores</b></td>
   </tr>
   <tr>
      <td><code>font-size</code></td>
      <td>Define o tamanho da fonte</td>
-     <td></td>
   </tr>
-
-
-  <li><code>font-style</code> que define o estilo da fonte.</li>
-  <li><code>font-variant</code> que define a caixa da fonte.</li>
-  <li><code>font-weight</code> que define o corpo da fonte.</li>
-  <li><code>letter-spacing</code> que define o espaçamento das letras da fonte.</li>
-  <li><code>text-transform</code> alterna o texto entre maiúsculas e minúsculas.</li>
-  <li><code>text-decoration</code> adiciona destaque a um texto.</li>
+  <tr>
+     <td><code>font-style</code></td>
+     <td>Define o estilo da fonte</td>
+  </tr>
+  <tr>
+     <td><code>font-variant</code></td>
+     <td>Define a caixa da fonte</td>
+  </tr>
+  <tr>
+     <td><code>font-variant</code></td>
+     <td>Define o corpo da fonte</td>
+  </tr>
+  <tr>
+     <td><code>letter-spacing</code></td>
+     <td>Define o espaçamento das letras da fonte</td>
+  </tr>
+  <tr>
+     <td><code>text-transform</code></td>
+     <td>Alterna o texto entre maiúsculas e minúsculas</td>
+  </tr>
+  <tr>
+     <td><code>text-decoration</code></td>
+     <td>Adiciona destaque a um texto (linhas)</td>
+  </tr>
 </table>
 <p>Exemplos:</p>
 <pre>
