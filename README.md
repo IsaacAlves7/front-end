@@ -505,9 +505,11 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <p>As listas são importantes para a organização do texto e orientação do usuário.</p>
 <ul>
  <li><p><code>&lt;li&gt;</code> elemento que representa um os itens das listas.</p></li>
- <pre>&lt;li&gt;exemplo 1&lt;/li&gt;
-      &lt;li&gt;exemplo 2&lt;/li&gt;
-      &lt;li&gt;exemplo 3&lt;/li&gt;</pre>
+ <pre>
+ &lt;li&gt;exemplo 1&lt;/li&gt;
+ &lt;li&gt;exemplo 2&lt;/li&gt;
+ &lt;li&gt;exemplo 3&lt;/li&gt;
+ </pre>
   
  <li><p><code>&lt;ol&gt;</code> define uma lista numerada (ordenada).</p></li>
  <code>&lt;ol&gt;</code><br>
