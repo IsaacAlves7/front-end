@@ -421,7 +421,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
   <code>&lt;h6&gt;título 6&lt;/h6&gt;</code>
 <code>&lt;/hgroup&gt;</code>
 </pre>
-<li><p><b>&lt;p&gt;</b> elemento que representa um parágrafo:</p></li>
+<li><p><code>&lt;p&gt;</code> elemento que representa um parágrafo:</p></li>
 <pre><code>&lt;p&gt;parágrafo&lt;/p&gt;</code></pre>
 <li><p><b>&lt;i&gt;</b> e <b>&lt;em&gt;</b> elementos que representam o texto do estilo do tipo <em>itálico</em>.</p></li>
 <pre><code>&lt;i&gt;itálico&lt;/i&gt;</code>
@@ -493,12 +493,14 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <h1 align="center">Cap 05: 📙 TAG de Listas 📑</h1>
 <p>As listas são importantes para a organização do texto e orientação do usuário.</p>
 <ul>
- <li><p><b>&lt;li&gt;</b> elemento que representa um os itens das listas.</p></li>
- <code>&lt;li&gt;exemplo 1&lt;/li&gt;</code><br>
- <code>&lt;li&gt;exemplo 2&lt;/li&gt;</code><br>
- <code>&lt;li&gt;exemplo 3&lt;/li&gt;</code><br>
+ <li><p><code>&lt;li&gt;</code> elemento que representa um os itens das listas.</p></li>
+ <pre>
+      &lt;li&gt;exemplo 1&lt;/li&gt;
+      &lt;li&gt;exemplo 2&lt;/li&gt;
+      &lt;li&gt;exemplo 3&lt;/li&gt;
+  </pre>
   
- <li><p><b>&lt;ol&gt;</b> define uma lista numerada (ordenada).</p></li>
+ <li><p><code>&lt;ol&gt;</code> define uma lista numerada (ordenada).</p></li>
  <code>&lt;ol&gt;</code><br>
   <code>&lt;li&gt;exemplo 1&lt;/li&gt;</code><br>
   <code>&lt;li&gt;exemplo 2&lt;/li&gt;</code><br>
