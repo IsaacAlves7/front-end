@@ -75,8 +75,9 @@
 <ol>
   <li><a href="">🖥️ Client-side and Server-side 🗄️🌐</a></li>
   <li><a href="">📙 HTML5 and CSS3 📘</a></li>
-  <li><a href="">📙 TAGs HTML 📚</a></li> 
+  <li><a href="">📙 TAGs essenciais do HTML 📚</a></li> 
   <li><a href="">📙 TAG de Âncora 🔗</a></li>
+  <li><a href="">📙 TAG de Imagem 🖼️</a></li>
   <li><a href="">📙 TAGs de Listas 📑</a></li> 
   <li><a href="">📙 TAGs de Multimidia 🔊▶️</a></li> 
   <li><a href="">📙 TAGs de Tabelas ⬜🔲</a></li> 
@@ -210,7 +211,7 @@ Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas
 Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  &lt;font&gt;, &lt;center&gt; e outras novas, pois milhões de páginas web as utilizam.</p>
 <hr>
 
-<div align="center"><h1>Cap 04: 📙 TAGs HTML 📚</h1></div>
+<div align="center"><h1>Cap 04: 📙 TAGs essenciais do HTML 📚</h1></div>
 <img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
 <p>É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: &lt;meta&gt;, &lt;h1&gt;, &lt;img&gt; etc. 
 
@@ -466,6 +467,9 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <h1 align="center">Cap 05: 📙 TAG de Âncora 🔗</h1>
 <hr>
 
+<h1 align="center">Cap: 📙 TAG de Imagem 🖼️</h1>
+<hr>
+
 <h1 align="center">Cap 05: 📙 TAG de Listas 📑</h1>
 <p>As listas são importantes para a organização do texto e orientação do usuário.</p>
 <ul>
@@ -500,9 +504,6 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
   <code>&lt;dd&gt;Yamaha&lt;/dd&gt;</code><br>
  <code>&lt;/dl&gt;</code><br>
  </ul>
-<hr>
-
-<h1 align="center">Cap: 📙 TAG de Imagem 🖼️</h1>
 <hr>
 
 <h1 align="center">Cap 06: 📙 TAGs de Multimidia 🔊▶️</h1>
