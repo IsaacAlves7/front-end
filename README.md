@@ -1239,8 +1239,9 @@ No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
    letter-spacing: 2px;
  }
 </pre>
+<hr>
 
-## O posicionamento de blocos no CSS 📘🔃
+<h1 align="center">Cap 14: 📘 O posicionamento de blocos no CSS 🔃</h1>
 <p>As propriedades CSS <strong>position</strong> e <strong>float</strong> determinam como um box será posicionado no modelo visual de formatação de um documento. Esse box pode conter imagens, textos, listas, entre outros e, com isso, podemos montar layouts com a mesma qualidade de um programa gráfico feito para este fim.
 
 As recomendações do W3C para as CSS 3 preveem a existência de três esquemas de posicionamento:</p>
