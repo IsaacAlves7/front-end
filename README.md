@@ -326,6 +326,8 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
+[![JS](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](#)
+[![CSS3](https://img.shields.io/badge/-image.svg-000000?style=social&logo=SVG&logoColor=FFB13B)](#)
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105612147-e860c400-5d98-11eb-97a3-2775e77b7827.jpg)
 
