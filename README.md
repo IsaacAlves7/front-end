@@ -100,7 +100,7 @@
   <li><a href="">📘 Grid Layout 🍱</a></li>
   <li><a href="">📙📘 Responsive Layout 📱💻🖥️</a></li>
   <li><a href="">📙🌌 Parallax 🌌📘</a></li>
-  <li><a href="">📕 Pré-processador Sass 👄💄</a></li>
+  <li><a href="">📕 Pré-processador Sass 👓</a></li>
   <li><a href="">📕 Primeiros passos com o Sass e configurando o ambiente 🟩</a></li>
 </ol>
 <hr>
@@ -1829,7 +1829,7 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 </pre>
 <hr>
 
-<h1 align="center">Cap 06: 📕 Pré-processador Sass 👄💄</h1>
+<h1 align="center">Cap 06: 📕 Pré-processador Sass 👓</h1>
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="200"></div>
 
 [![Sass](https://img.shields.io/badge/-style.scss-000?style=social&logo=Sass&logoColor=safira)](#)
