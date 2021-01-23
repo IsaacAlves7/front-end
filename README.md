@@ -85,6 +85,7 @@
   <li><a href="">📙 HTML5 Semantic 📰</a></li>
   <li><a href="">📙 HTML5 Iframe 🎞️</a></li>
   <li><a href="">📙 HTML5 Maps 🗺️</a></li>
+  <li><a href="">📙 HTML5 Canvas 🎥</a></li>
   <li><a href="">📘 Revisando o CSS 📄</a></li>
   <li><a href="">📘 Box Model 📦⬆️➡️⬇️⬅️</a></li>
   <li><a href="">📘 Foreground e Background 🖼️🟦</a></li>
