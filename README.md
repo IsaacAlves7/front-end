@@ -315,7 +315,7 @@ Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no 
 </table>
 
 ### Eventos de uma TAG (Métodos HTML5 + JavaScript) 📙 + 📒
-[![JS](https://img.shields.io/badge/-Repositorio:‍‍Eventos‍‍JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)](https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-16--eventos-)
+[![JS](https://img.shields.io/badge/-Repositorio:‍‍Eventos‍‍JavaScript‍‍🎪-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)](https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-16--eventos-)
 
 <pre>&lt;img src="1.jpg" onclick="functionClick()"/&gt;</pre>
 <p>O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando uma função JavaScript quando o usuário interage em um elemento. Devido a extensão desse conteúdo criei um repositório mais focado no desenvolvimento JavaScript, clique no badge acima para saber mais sobre os Eventos!</p>
