@@ -1087,17 +1087,17 @@ h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
 Exemplo de utilização:</p>
 <pre>#xy34 { border-style: solid dotted }</pre>
 
-## Foreground e Background 📘🖼️🟦
+<h1 align="center">Cap: 📘 Foreground e Background 🖼️🟦</h1>
 <p>O CSS permite alterar as cores de primeiro plano (<em>foreground</em>) e plano de fundo (<em>background</em>) dos elementos. O W3C recomenda que a regra background seja utilizado no elemento <em>body</em>.
 
 Sempre que pensamos em criar um layout, devemos configurar a cor de fundo (background) para que a página que será aberta apresente a mesma cor em qualquer navegador. Caso não seja definida, corre o risco do usuário ter modificado a cor padrão da máquina e como não está configurada no HTML, a página vai mostrar a cor padrão, alterando, assim, o que foi definido no layout.
 
 O mesmo caso acontece com a cor da fonte (foreground) que deve ser definida da mesma forma. O W3C recomenda sempre que o body contenha essas definições para que todas as páginas apresentem uma formatação.</p>
 
-### Background 🖼️🟦
+## Background 🖼️🟦
 <p>Para alterar a cor de fundo de uma página HTML, usando atributos do CSS, devemos usar conforme o exemplo:</p>
 
-#### Modificando a cor do plano de fundo (background):
+### Modificando a cor do plano de fundo (background):
 <p>Dentro da Tag &lt;body&gt;, alteramos o atributo <b>background-color</b> com a cor desejada.</p>
 
 <pre>
@@ -1150,8 +1150,9 @@ body{
 </pre>
 
 <p><strong>attachment</strong> fixa a imagem e <b>position</b> determina a sua localização. O resultado é a imagem totalmente centralizada na página.</p>
+<hr>
 
-## Trabalhando com FONTE no CSS 📘🔤🔠
+<h1 align="center">Cap 13: 📘 Trabalhando com FONTE no CSS 🔤🔠</h1>
 <p>Uma das novidades do CSS 3 é o uso de fontes da própria internet, podemos agora usar fontes livres que são disponíveis na internet, sem que tenha a necessidade de estar instalada na máquina do usuário.
 
 O site do Google disponibiliza uma quantidade grande de fontes livres. No endereço https://fonts.google.com/ encontramos as fontes e a forma de como colocar no nosso código.
