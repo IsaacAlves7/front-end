@@ -1829,8 +1829,8 @@ Além disso, pela popularização do Sass, hoje em dia não somos mais obrigados
 
 Para uma lista completa, acesse: http://sass-lang.com/libsass
 
-
-
+<h1 align="center">📕 Primeiros passos com o Sass e configurando o ambiente 🟩</h1>
+<div align="center><img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" heigth="200"></div>
 
 
 
