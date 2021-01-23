@@ -187,14 +187,6 @@ Todos os interessados podem ter voz no desenvolvimento do W3C, incluindo filiado
   <li>Propor políticas e procedimentos relativos à regulamentação do uso da Internet, em cumprimento das responsabilidades do NIC.br para o Comitê Gestor da Internet no Brasil.</li>
   <li>Recomendar padrões técnicos e procedimentos operacionais para o desenvolvimento da Web no Brasil, em cumprimento das responsabilidades do NIC.br para o Comitê Gestor da Internet no Brasil.</li>
 </ul>
-
-# 🔍 How does internet browsing work? 🌐
-
-## What are URL, URN and URI?
-## Internet Protocols
-### http
-### https
-### 
 <hr>
 
 <div align="center"><h1>Cap 02: 🖥️ Client-side 🔄 and Server-side 🗄️🌐</h1></div>
@@ -553,6 +545,7 @@ O <b>&lt;body&gt;</b> localizado no mesmo nível do <b>&lt;head&gt;</b>, este el
 <li><p><b>&lt;code&gt;</b> elemento que representa um fragmento de código de computador.</p></li>
 <code>&lt;pre&gt;&lt;code&gt;console.log('Hello, World!');&lt;/code&gt;&lt;/pre&gt;</code>
 </ul>
+<hr>
 
 <h1 align="center">Cap 05: 📙 Tag de Listas 📑</h1>
 <p>As listas são importantes para a organização do texto e orientação do usuário.</p>
