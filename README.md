@@ -86,6 +86,7 @@
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-06--revisando-o-css-">📘 Revisando o CSS 📄</a></li>
   <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-06--revisando-o-css-">📘 Box Model 📄</a></li>
   <li><a href="">📕 Pré-processador Sass 👄💄</a></li>
+  <li><a href="">📕 Primeiros passos com o Sass e configurando o ambiente 🟩</a></li>
 </ol>
 <hr>
 
