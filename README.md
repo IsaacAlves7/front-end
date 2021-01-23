@@ -1767,6 +1767,11 @@ Há vários pré-processadores, não só para CSS, mas também para HTML e JavaS
 Para CSS, os mais famosos são **Sass**, **Less** e **Stylus**.
 
 ## Por que usar Sass?
+O Sass possui uma sintaxe muito parecida com o CSS comum. Isso significa que qualquer código CSS é interpretado pelo Sass!
+
+Possui uma grande comunidade e é utilizado por grandes frameworks, como o **Bootstrap** (que antigamente usava o Less), também possui um código bem maduro, com um desenvolvimento ativo há mais de 9 anos.
+
+Segundo uma pesquisa feita pelo ashleynola.co.uk, o Sass é utilizado por pelo menos 66% dos desenvolvedores.
 
 
 
