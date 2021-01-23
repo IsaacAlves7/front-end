@@ -254,12 +254,30 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
     <td><code>type=""</code></td>
     <td>Especifica o tipo do documento</td>
   </tr>
-  <li><b>alt=""</b> mostra o texto quando a aparência não renderiza.</li>
-  <li><b>target=""</b> especifica o modo de abrir o link em janela.</li>
-  <li><b>width=""</b> especifica a largura do elemento.</li> 
-  <li><b>height=""</b> especifica a altura do elemento.</li>
-  <li><b>name=""</b> especifica o nome do elemento.</li>
-  <li><b>value=""</b> especifica o valor do elemento.</li>
+  <tr>
+    <td><code>alt=""</code></td>
+    <td>Mostra o texto quando a aparência não renderiza</td>
+  </tr>
+  <tr>
+    <td><code>target=""</code></td>
+    <td>Especifica o modo de abrir o link em janela</td>
+  </tr>
+  <tr>
+    <td><code>width=""</code></td>
+    <td>Especifica a largura do elemento</td>
+  </tr>
+  <tr>
+    <td><code>height=""</code></td>
+    <td>Especifica a altura do elemento</td>
+  </tr>
+  <tr>
+    <td><code>name=""</code></td>
+    <td>Especifica o nome do elemento</td>
+  </tr>
+  <tr>
+    <td><code>value=""</code></td>
+    <td>Especifica o valor do elemento</td>
+  </tr>
 </table>
 
 ### Atributos Globais de uma TAG 📙📋📚🌎
