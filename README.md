@@ -1805,7 +1805,7 @@ Depois de um tempo, o Sass passou por uma mudança. Sua sintaxe passou a ser mai
 }
 </pre>
 
-#### Similar a:
+### Similar ao:
 
 [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
 
