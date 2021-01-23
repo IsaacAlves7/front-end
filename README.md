@@ -1432,8 +1432,11 @@ body {
      background-color: black;
 }
 </pre>
+<hr>
 
-## Utilizando Media Queries 📘🖥️💻📱
+<h1 align="center">Cap 15: 📙📘 Responsive Layout 📱💻🖥️</h1>
+
+## 📘 Utilizando Media Queries 🖥️💻📱
 <p>Podemos definir <b>media queries</b> como a maneira que o navegador define que formatação de página vai apresentar a cada tipo de dispositivo.
 
 Os <strong>media types</strong> são definidos para cada tipo de media recebendo um certo código CSS, fazendo com que o navegador direcione a abertura da página de uma certa forma. O HTML foi gerado para ser portátil, ou seja, lido e interpretado por qualquer tipo de dispositivo. Só que cada dispositivo exibe o HTML de uma maneira, devido a fatores como, por exemplo, as dimensões da tela.
