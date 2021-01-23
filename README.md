@@ -391,17 +391,20 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
          document.getElementById("demo").innerHTML = "Hello JavaScript!";
      }
 &lt;/script&gt;
-<code>&lt;script type="script/javascript" src="main.js"&gt;&lt;/script&gt;
+&lt;script type="script/javascript" src="main.js"&gt;&lt;/script&gt;
 </pre>
+
 <li><code>&lt;style&gt;</code> comando para estilização do CSS do tipo interno:</li>
-  <pre><code>&lt;style&gt;
+
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+
+  <pre>&lt;style&gt;
     h1 {
     color: blue;
     font-size: 200px;
     }
-&lt;/style&gt;</code>
+&lt;/style&gt;
 </pre>
-    
   </p>
 </ul>
 <h2>&lt;body&gt;</h2>
