@@ -1812,6 +1812,9 @@ A nova sintaxe do Sass utiliza a extensão "**.scss**", diferente da antiga que 
 
 <blockquote><b>Resumindo:</b> “sass” e “scss” são as duas sintaxes do Sass. Você ainda pode utilizar a sintaxe .sass, mas o mais recomendado é usar a sintaxe <b>.scss</b>, por ser mais parecido com o CSS comum.</blockquote>
 
+Além disso, pela popularização do Sass, hoje em dia não somos mais obrigados a ter o Ruby em nossa máquina para usá-lo. Podemos compilar o Sass a partir de C, Go, Java, Node.js, PHP, Python, etc.
+
+Para uma lista completa, acesse: http://sass-lang.com/libsass
 
 
 
