@@ -246,8 +246,14 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
     <td><code>rel=""</code></td>
     <td>Especifica o relacionamento entre o documento atual e o documento linkado</td>
   </tr>
-  <li><b>src=""</b> especifica a URL do arquivo de mídia.</li>
-  <li><b>type=""</b> especifica o tipo do documento.</li>
+  <tr>
+    <td><code>src=""</code></td>
+    <td>Especifica a URL do arquivo de mídia</td>
+  </tr>
+  <tr>
+    <td><code>type=""</code></td>
+    <td>Especifica o tipo do documento</td>
+  </tr>
   <li><b>alt=""</b> mostra o texto quando a aparência não renderiza.</li>
   <li><b>target=""</b> especifica o modo de abrir o link em janela.</li>
   <li><b>width=""</b> especifica a largura do elemento.</li> 
