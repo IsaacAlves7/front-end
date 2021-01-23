@@ -291,12 +291,24 @@ Como pode ver o atributo <b>rel=""</b> indica o valor da conexão, que no caso �
 </table>
 
 ### Atributos Globais de uma TAG 📙📋📚🌎
-<ul>
-  <li><b>title=""</b> especifica a informação extra sobre o elemento, como um balãosinho de texto.</li>  
-  <li><b>class=""</b> especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS).</li>  
-  <li><b>id=""</b> especifica uma unica id para um elemento (referência de id para o CSS).</li>  
-</ul>
-
+<table>
+  <tr>
+    <td><strong>Atributo</strong></td>
+    <td><strong>Função do atributo</strong></td>
+  </tr>
+  <tr>
+    <td><code>title=""</code></td>
+    <td>Especifica a informação extra sobre o elemento, como um balãosinho de texto</td>
+  </tr>
+  <tr>
+    <td><code>class=""</code></td>
+    <td>Especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS)</td>
+  </tr>
+    <tr>
+    <td><code>id=""</code></td>
+    <td>Especifica uma unica id para um elemento (referência de id para o CSS)</td>
+  </tr>
+</table>
 
 ### Eventos de uma TAG (Métodos HTML5 + JavaScript) 📙 + 📒
 [![JS](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)](https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-16--eventos-)
