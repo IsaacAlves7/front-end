@@ -1546,6 +1546,11 @@ div.rotate_left{
 ## 📙 Unidades de resolução responsivas 📘
 <code>vh</code>, <code>%</code>, <code>em</code>
 
+### Padrão para tela inteira responsiva (Responsive Landing Page)
+<pre>section {
+      width: 100%; height: 100vh;
+     }</pre>
+
 ## 📙 Viewport 🖥️💻📱
 <p></p>
 
