@@ -1784,6 +1784,8 @@ Quando começamos a ler sobre Sass, encontramos também o termo "SCSS". Afinal, 
 
 A sintaxe era bem diferente do CSS comum:
 
+[![Sass](https://img.shields.io/badge/-style.sass-000?style=social&logo=Sass&logoColor=safira)](#)
+
 <pre>
   #my-div
   color: red
@@ -1795,9 +1797,18 @@ Veja que, diferente do CSS comum, não há “<code>;</code>“ nem “<code>{ }
 
 Depois de um tempo, o Sass passou por uma mudança. Sua sintaxe passou a ser mais parecida com o CSS comum:
 
+[![Sass](https://img.shields.io/badge/-style.scss-000?style=social&logo=Sass&logoColor=safira)](#)
 
+<pre>
+  	#my-div{
+  	color: red;
+  	&:hover{
+  	color: green;
+  	  }
+  	}
+</pre>
 
-
+A nova sintaxe do Sass utiliza a extensão "**.scss**", diferente da antiga que utilizava a extensão ".sass".
 
 
 
