@@ -443,19 +443,19 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <li><p><code>&lt;wbr&gt;</code> elemento que dá uma oportunidade de quebra de linha, se necessário.<b></b>.</p></li>
 <code>&lt;wbr&gt;</code>
 <li><p><code>&lt;sub&gt;</code> elemento que representam o texto do estilo do tipo sobscrito.</p></li>
-<code>&lt;sub&gt;texto sobscrito&lt;/sub&gt;</code>
+<pre>&lt;sub&gt;texto sobscrito&lt;/sub&gt;</pre>
 <li><p><code>&lt;sup&gt;</code> elemento que representam o texto do estilo do tipo sobrescrito.</p></li>
-<code>&lt;sup&gt;texto sobrescrito&lt;/sup&gt;</code>
+<pre>&lt;sup&gt;texto sobrescrito&lt;/sup&gt;</pre>
 <li><p><code>&lt;big&gt;</code> elemento que representa o texto com fonte maior que o padrão.</p></li>
-<code>&lt;big&gt;texto com fonte maior do que o padrão&lt;/big&gt;</code>
+<pre>&lt;big&gt;texto com fonte maior do que o padrão&lt;/big&gt;</pre>
 <li><p><code>&lt;small&gt;</code> elemento que representa o texto com fonte menor que o padrão.</p></li>
-<code>&lt;small&gt;texto com fonte menor do que o padrão&lt;/small&gt;</code>
-<li><p><b>&lt;del&gt;</b> elemento que representa o texto com a fonte rabiscada.</p></li>
-<code>&lt;p&gt;texto com a &lt;del&gt;<del>fonte rabiscada</del>&lt;/del&gt;&lt;p&gt;</code>
-<li><p><b>&lt;blockquote&gt;</b> elemento que tem como função exibir o texto indicando de qual referência foi retirado (citação).</p></li>
-<code>&lt;bloquote cite="http://www.quote.com/sample.html"&gt;
+<pre>&lt;small&gt;texto com fonte menor do que o padrão&lt;/small&gt;</pre>
+<li><p><code>&lt;del&gt;</code> elemento que representa o texto com a fonte rabiscada.</p></li>
+<pre>&lt;p&gt;texto com a &lt;del&gt;<del>fonte rabiscada</del>&lt;/del&gt;&lt;p&gt;</pre>
+<li><p><code>&lt;blockquote&gt;</code> elemento que tem como função exibir o texto indicando de qual referência foi retirado (citação).</p></li>
+<pre>&lt;bloquote cite="http://www.quote.com/sample.html"&gt;
     &lt;p&gt;Elemento textual.&lt;/p&gt;
-  &lt;/blockquote&gt;</code>
+  &lt;/blockquote&gt;</pre>
   
 <li><p><code>&lt;figure&gt;</code> elemento que permite definir logicamente as informações de uma imagem. Trabalha com <code>&lt;figcaption&gt;</code>, que permite dar um título a uma imagem, e <code>&lt;img&gt;</code> elemento que exibe a imagem.</p></li>
 <pre>&lt;figure&gt;
@@ -464,22 +464,22 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
   &lt;/figure&gt;</pre>
   
 <li><p><code>&lt;div&gt;</code> elemento que representa um bloco de texto. As TAGs <code>&lt;body&gt;</code>, <code>&lt;header&gt;</code>, <code>&lt;footer&gt;</code> etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da <code>&lt;div&gt;</code>. A <code>&lt;div&gt;</code> é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a <code>&lt;div&gt;</code> é usada para diagramar o layout de um site.</p></li>
-<code>&lt;div&gt;teste&lt;/div&gt;&lt;</code>
+<pre>&lt;div&gt;teste&lt;/div&gt;&lt;</pre>
 
-<li><p><code>&lt;span&gt;</code> elemento que possui uma utilização genérica semelhante ao elemento &lt;div&gt;.</p></li>
+<li><p><code>&lt;span&gt;</code> elemento que possui uma utilização genérica semelhante ao elemento <code>&lt;div&gt;</code>.</p></li>
 <pre>&lt;span&gt;texto de exemplo&lt;/span&gt;</pre>
 
 <li><p><code>&lt;s&gt;</code> elemento que transforma o texto em um conteúdo não relevante.</p></li>
-<code>&lt;p&gt;O texto é &lt;s&gt;irrelevante&lt;/s&gt;&lt;/p&gt;</code>
+<pre>&lt;p&gt;O texto é &lt;s&gt;irrelevante&lt;/s&gt;&lt;/p&gt;</pre>
 
 <li><p><code>&lt;cite&gt;</code> elemento que transforma o texto em uma citação.</p></li>
-<code>&lt;p&gt;O texto é do &lt;cite&gt;star wars&lt;/cite&gt;&lt;/p&gt;</code>
+<pre>&lt;p&gt;O texto é do &lt;cite&gt;star wars&lt;/cite&gt;&lt;/p&gt;</pre>
 
-<li><p><b>&lt;q&gt;</b> elemento que coloca aspas em um bloco de texto.</p></li>
-<code>&lt;p&gt;O texto é do &lt;q&gt;star wars&lt;/q&gt;&lt;/p&gt;</code>
+<li><p><code>&lt;q&gt;</code> elemento que coloca aspas em um bloco de texto.</p></li>
+<pre>&lt;p&gt;O texto é do &lt;q&gt;star wars&lt;/q&gt;&lt;/p&gt;</pre>
 
-<li><p><b>&lt;code&gt;</b> elemento que representa um fragmento de código de computador.</p></li>
-<code>&lt;pre&gt;&lt;code&gt;console.log('Hello, World!');&lt;/code&gt;&lt;/pre&gt;</code>
+<li><p><code>&lt;code&gt;</code> elemento que representa um fragmento de código de computador.</p></li>
+<pre>&lt;pre&gt;&lt;code&gt;console.log('Hello, World!');&lt;/code&gt;&lt;/pre&gt;</pre>
 </ul>
 <hr>
 
@@ -505,11 +505,9 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <p>As listas são importantes para a organização do texto e orientação do usuário.</p>
 <ul>
  <li><p><code>&lt;li&gt;</code> elemento que representa um os itens das listas.</p></li>
- <pre>
-      &lt;li&gt;exemplo 1&lt;/li&gt;
+ <pre>&lt;li&gt;exemplo 1&lt;/li&gt;
       &lt;li&gt;exemplo 2&lt;/li&gt;
-      &lt;li&gt;exemplo 3&lt;/li&gt;
-  </pre>
+      &lt;li&gt;exemplo 3&lt;/li&gt;</pre>
   
  <li><p><code>&lt;ol&gt;</code> define uma lista numerada (ordenada).</p></li>
  <code>&lt;ol&gt;</code><br>
