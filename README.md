@@ -423,13 +423,13 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 </pre>
 <li><p><code>&lt;p&gt;</code> elemento que representa um parágrafo:</p></li>
 <pre><code>&lt;p&gt;parágrafo&lt;/p&gt;</code></pre>
-<li><p><b>&lt;i&gt;</b> e <b>&lt;em&gt;</b> elementos que representam o texto do estilo do tipo <em>itálico</em>.</p></li>
-<pre><code>&lt;i&gt;itálico&lt;/i&gt;</code>
-<code>&lt;em&gt;itálico&lt;/em&gt;</code></pre>
-<li><p><b>&lt;b&gt;</b> e <b>&lt;strong&gt;</b> elementos que representam o texto do estilo do tipo <b>negrito</b>.</p></li>
-<pre><code>&lt;b&gt;negrito&lt;/b&gt;</code>
-<code>&lt;strong&gt;negrito&lt;/strong&gt;</code></pre>
-<li><p><b>&lt;pre&gt;</b> elemento que apresenta um bloco de texto pré-formatado, preservando seu conteúdo.<b></b>.</p></li>
+<li><p><code>&lt;i&gt;</code> e <code>&lt;em&gt;</code> elementos que representam o texto do estilo do tipo <em>itálico</em>.</p></li>
+<pre>&lt;i&gt;itálico&lt;/i&gt;
+     &lt;em&gt;itálico&lt;/em&gt;</pre>
+<li><p><code>&lt;b&gt;</code> e <code>&lt;strong&gt;</code> elementos que representam o texto do estilo do tipo <b>negrito</b>.</p></li>
+<pre>&lt;b&gt;negrito&lt;/b&gt;
+     &lt;strong&gt;negrito&lt;/strong&gt;</pre>
+<li><p><code>&lt;pre&gt;</code> elemento que apresenta um bloco de texto pré-formatado, preservando seu conteúdo.<b></b>.</p></li>
 <code>&lt;pre&gt;Bloco de texto pré-formatado.&lt;/pre&gt;</code>
 <li><p><b>&lt;br&gt;</b> elemento que representam o texto do estilo do tipo <b></b>.</p></li>
 <code>&lt;br&gt;</code>
