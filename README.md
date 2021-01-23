@@ -1015,8 +1015,9 @@ O <b>a:hover</b> do exemplo significa que a âncora também terá essa aparênci
 
 ## Pseudo-Elementos 📘🤞📚
 <p>Os <strong>pseudo-elementos</strong> são</p>
+<hr>
 
-## Box Model 📘📦 ⬆️➡️⬇️⬅️
+<h1 align="center">📘 Box Model 📦⬆️➡️⬇️⬅️</h1>
 <p>Look from this images bellow:</p>
 
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><br>
@@ -1086,6 +1087,7 @@ h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
 
 Exemplo de utilização:</p>
 <pre>#xy34 { border-style: solid dotted }</pre>
+<hr>
 
 <h1 align="center">Cap: 📘 Foreground e Background 🖼️🟦</h1>
 <p>O CSS permite alterar as cores de primeiro plano (<em>foreground</em>) e plano de fundo (<em>background</em>) dos elementos. O W3C recomenda que a regra background seja utilizado no elemento <em>body</em>.
