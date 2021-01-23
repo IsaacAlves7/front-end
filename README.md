@@ -364,14 +364,17 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
   <li><code>&lt;title&gt;</code> que representa o título do documento da página HTML:</li>
     
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+  
   <pre><code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code></pre>
   <li><code>&lt;link&gt;</code> que representa ligação com os arquivos css externos:</li>
     
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+  
   <pre>&lt;link rel="stylesheet" href="style.css"&gt;</pre>
   <li><code>&lt;meta&gt;</code> que representa comandos para definições globais da página:</li>
   
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+  
   <pre>
    <code>&lt;meta charset="utf-8"&gt;</code>
    <code>&lt;meta name="description" content="Free Web Tutorials"&gt;</code>
@@ -380,12 +383,15 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
    <code>&lt;meta http-equiv="refresh" content="30"&gt;</code>
   </pre>
   <li><code>&lt;script&gt;</code> comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:</li>
-  <pre><code>&lt;script&gt;
+  
+  [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+  
+  <pre>&lt;script&gt;
      function myFunction {
          document.getElementById("demo").innerHTML = "Hello JavaScript!";
      }
-&lt;/script&gt;</code><br>
-<code>&lt;script type="script/javascript" src="main.js"&gt;&lt;/script&gt;</code>
+&lt;/script&gt;
+<code>&lt;script type="script/javascript" src="main.js"&gt;&lt;/script&gt;
 </pre>
 <li><code>&lt;style&gt;</code> comando para estilização do CSS do tipo interno:</li>
   <pre><code>&lt;style&gt;
