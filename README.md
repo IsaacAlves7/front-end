@@ -1076,6 +1076,10 @@ O <b>a:hover</b> do exemplo significa que a âncora também terá essa aparênci
 
 ## 📘 Pseudo-Elementos 🤞🏷️
 <p>Os <strong>pseudo-elementos</strong> são</p>
+
+## 📘 Variáveis no CSS 📥
+
+## 📘 Cálculos no CSS 🔢
 <hr>
 
 <h1 align="center">📘 Box Model 📦⬆️➡️⬇️⬅️</h1>
