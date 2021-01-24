@@ -530,13 +530,19 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <p>Além dos atributos citados, existe o <code>target=""</code> que possui a função de opção da abertura do link. Os valores do <code>target=""</code> podem ser:</p>
 <ul>
   <li><code>_blank</code> abre o link em uma nova guia no navegador.</li>
-  <li><code>_self</code> abre o documento na mesma janela (esse é o padrão).</li> 
+  <li><code>_self</code> abre o documento na mesma janela (esse é o padrão, portanto não é obrigatório!).</li> 
   <li><code>_parent</code> abre o documento na armação parente.</li>
   <li><code>_top</code> abre o documento no corpo todo da janela.</li>
 </ul>
 
-## Exemplo:
+### Exemplo 1: Abrindo o link em uma nova guia
 <pre>&lt;a href="https://www.google.com/" target="_blank"&gt;Clique no endereço&lt;/a&gt;</pre>
+
+### Exemplo 2: Linkando dentro das imagens
+<pre>&lt;a href="https://www.google.com/" target="_self"&gt;&lt;img src="/assets/public/images/img.svg" height="100"&gt;&lt;/a&gt;</pre>
+
+### Exemplo 3: Enviando mensagem para o email
+<pre>&lt;a href="mailto:webmaster07@gmail.com"&gt;Enviar email&lt;/a&gt;</pre>
 <hr>
 
 <h1 align="center">Cap 06: 📙 TAGs de Multimedia 🔊▶️</h1>
