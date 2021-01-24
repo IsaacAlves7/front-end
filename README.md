@@ -525,6 +525,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <hr>
 
 <h1 align="center">Cap 05: 📙 TAG de Âncora 🔗</h1>
+<div align="center"><img src="https://www.computerhope.com/jargon/h/html-tag.gif"></div>
 <p><code>&lt;a&gt;</code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <code><b>href="mailto:webmaster@example.com"</b></code> que irá enviar uma mensagem para seu email.</p>  
 
 <p>Além dos atributos citados, existe o <code>target=""</code> que possui a função de opção da abertura do link. Os valores do <code>target=""</code> podem ser:</p>
