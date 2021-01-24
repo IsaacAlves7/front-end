@@ -676,6 +676,9 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <p>A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:</p>
 
 ## ✅ Tipos de input 🔘
+
+## 📙 A diferença entre anchor, input and button 📘🆗
+<div align="center"><img src="https://davidwalsh.name/demo/html5-buttons.png"></div>
 <hr>
 
 <div align="center"><h1>Cap 09: 📙 HTML Semantic 📰</h1></div>
