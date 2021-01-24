@@ -497,12 +497,12 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
  </pre>
   
  <li><p><code>&lt;ol&gt;</code> define uma lista numerada (ordenada).</p></li>
- <code>&lt;ol&gt;</code><br>
-  <code>&lt;li&gt;exemplo 1&lt;/li&gt;</code><br>
-  <code>&lt;li&gt;exemplo 2&lt;/li&gt;</code><br>
-  <code>&lt;li&gt;exemplo 3&lt;/li&gt;</code><br>
-  <code>&lt;li&gt;exemplo 4&lt;/li&gt;</code><br>
- <code>&lt;/ol&gt;</code><br>
+ <pre>&lt;ol&gt;
+  &lt;li&gt;exemplo 1&lt;/li&gt;
+  &lt;li&gt;exemplo 2&lt;/li&gt;
+  &lt;li&gt;exemplo 3&lt;/li&gt;
+  &lt;li&gt;exemplo 4&lt;/li&gt;
+  &lt;/ol&gt;</pre>
  
   <li><p><b>&lt;ul&gt;</b> define uma lista comum, não-numerada (não-ordenada).</p></li>
  <code>&lt;ul&gt;</code><br>
