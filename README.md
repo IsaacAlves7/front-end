@@ -1224,7 +1224,7 @@ body{
 
 O site do Google disponibiliza uma quantidade grande de fontes livres. No endereço https://fonts.google.com/ encontramos as fontes e a forma de como colocar no nosso código.
 
-Para colocar no código da página, escolhemos a fonte e depois copiamos o código que vai ser colocado no HEAD da página.</p>
+Para colocar no código da página, escolhemos a fonte e depois copiamos o código que vai ser colocado no <code>&lt;head&gt;</code> da página.</p>
 <pre>
  &lt;head&gt;
   &lt;link href="https://fonts.googleapis.com/css?family=Abhaya+Libre|Bungee+Inline" rel="stylesheet"&gt;
@@ -1307,6 +1307,9 @@ No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
    letter-spacing: 2px;
  }
 </pre>
+
+## Estilizando listas
+
 <hr>
 
 <h1 align="center">Cap 14: 📘 Positions and dimensions 🟧🟦</h1>
