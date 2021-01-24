@@ -483,21 +483,6 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 </ul>
 <hr>
 
-<h1 align="center">Cap 05: 📙 TAG de Âncora 🔗</h1>
-<p><code>&lt;a&gt;</code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <code><b>href="mailto:webmaster@example.com"</b></code> que irá enviar uma mensagem para seu email.</p>  
-
-<p>Além dos atributos citados, existe o <code>target=""</code> que possui a função de opção da abertura do link. Os valores do <code>target=""</code> podem ser:</p>
-<ul>
-  <li><code>_blank</code> abre o link em uma nova guia no navegador.</li>
-  <li><code>_self</code> abre o documento na mesma janela (esse é o padrão).</li> 
-  <li><code>_parent</code> abre o documento na armação parente.</li>
-  <li><code>_top</code> abre o documento no corpo todo da janela.</li>
-</ul>
-
-## Exemplo:
-<pre>&lt;a href="https://www.google.com/" target="_blank"&gt;Clique no endereço&lt;/a&gt;</pre>
-<hr>
-
 <h1 align="center">Cap: 📙 TAG de Imagem 🖼️</h1>
 <hr>
 
@@ -528,15 +513,30 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
  <code>&lt;/ul&gt;</code><br>
  
  <li><p><b>&lt;dl&gt;</b> elemento textual que exibe uma lista de definições, com termos específicos. Trabalha com as tags &lt;dt&gt; termo a ser exibido e &lt;dd&gt; elementos do termo.</p></li>
- <code>&lt;dl&gt;</code><br>
-  <code>&lt;dt&gt;Carro&lt;/dt&gt;</code><br>
-  <code>&lt;dd&gt;Uno&lt;/dd&gt;</code><br>
-  <code>&lt;dd&gt;Gol&lt;/dd&gt;</code><br>
-  <code>&lt;dt&gt;Moto&lt;/dt&gt;</code><br>
-  <code>&lt;dd&gt;Honda&lt;/dd&gt;</code><br>
-  <code>&lt;dd&gt;Yamaha&lt;/dd&gt;</code><br>
- <code>&lt;/dl&gt;</code><br>
+ <pre>&lt;dl&gt;
+  &lt;dt&gt;Carro&lt;/dt&gt;
+  &lt;dd&gt;Uno&lt;/dd&gt;
+  &lt;dd&gt;Gol&lt;/dd&gt;
+  &lt;dt&gt;Moto&lt;/dt&gt;
+  &lt;dd&gt;Honda&lt;/dd&gt;
+  &lt;dd&gt;Yamaha&lt;/dd&gt;
+  &lt;/dl&gt;</pre>
  </ul>
+<hr>
+
+<h1 align="center">Cap 05: 📙 TAG de Âncora 🔗</h1>
+<p><code>&lt;a&gt;</code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <code><b>href="mailto:webmaster@example.com"</b></code> que irá enviar uma mensagem para seu email.</p>  
+
+<p>Além dos atributos citados, existe o <code>target=""</code> que possui a função de opção da abertura do link. Os valores do <code>target=""</code> podem ser:</p>
+<ul>
+  <li><code>_blank</code> abre o link em uma nova guia no navegador.</li>
+  <li><code>_self</code> abre o documento na mesma janela (esse é o padrão).</li> 
+  <li><code>_parent</code> abre o documento na armação parente.</li>
+  <li><code>_top</code> abre o documento no corpo todo da janela.</li>
+</ul>
+
+## Exemplo:
+<pre>&lt;a href="https://www.google.com/" target="_blank"&gt;Clique no endereço&lt;/a&gt;</pre>
 <hr>
 
 <h1 align="center">Cap 06: 📙 TAGs de Multimedia 🔊▶️</h1>
