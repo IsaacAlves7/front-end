@@ -464,7 +464,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
   &lt;/figure&gt;</pre>
   
 <li><p><code>&lt;div&gt;</code> elemento que representa um bloco de texto. As TAGs <code>&lt;body&gt;</code>, <code>&lt;header&gt;</code>, <code>&lt;footer&gt;</code> etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da <code>&lt;div&gt;</code>. A <code>&lt;div&gt;</code> é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a <code>&lt;div&gt;</code> é usada para diagramar o layout de um site.</p></li>
-<pre>&lt;div&gt;teste&lt;/div&gt;&lt;</pre>
+<pre>&lt;div&gt;teste&lt;/div&gt;</pre>
 
 <li><p><code>&lt;span&gt;</code> elemento que possui uma utilização genérica semelhante ao elemento <code>&lt;div&gt;</code>.</p></li>
 <pre>&lt;span&gt;texto de exemplo&lt;/span&gt;</pre>
@@ -501,7 +501,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <h1 align="center">Cap: 📙 TAG de Imagem 🖼️</h1>
 <hr>
 
-<h1 align="center">Cap 05: 📙 TAG de Listas 📑</h1>
+<h1 align="center">Cap 05: 📙 TAGs de Listas 📑</h1>
 <p>As listas são importantes para a organização do texto e orientação do usuário.</p>
 <ul>
  <li><p><code>&lt;li&gt;</code> elemento que representa um os itens das listas.</p></li>
@@ -578,7 +578,7 @@ O elemento <b>&lt;source&gt;</b> pode ser usado múltiplas vezes e permite defin
 <p>Existem diversos <b>codecs</b>, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior. Obs: Codecs são programas utilizados para codificar e decodificar arquivos de mídia. Eles compactam o formato original, favorecendo o armazenamento, e descompactam na hora da reprodução, transformando novamente em imagem ou áudio.</p>
 <hr>
 
-<h1 align="center">Cap 07: 📙 Tags de Tabelas ⬜🔲</h1>
+<h1 align="center">Cap 07: 📙 TAGs de Tabelas ⬜🔲</h1>
 <div align="center"><img src="https://cdn.educba.com/academy/wp-content/uploads/2019/10/Create-Tables-in-HTML.png"></div>
 <p>Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
 
@@ -665,7 +665,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <pre><code>&lt;table border rules="rows"6&gt;</code></pre>
 <hr>
 
-<h1 align="center">Cap 08: 📙 Tags de Formulários 📋</h1>
+<h1 align="center">Cap 08: 📙 TAGs de Formulários 📋</h1>
 <p>A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:</p>
 
 ## ✅ Tipos de input 🔘
@@ -1078,7 +1078,6 @@ O <b>a:hover</b> do exemplo significa que a âncora também terá essa aparênci
 <p>Os <strong>pseudo-elementos</strong> são</p>
 <hr>
 
-## 
 <h1 align="center">📘 Box Model 📦⬆️➡️⬇️⬅️</h1>
 <p>Look from this images bellow:</p>
 
