@@ -93,7 +93,7 @@
   <li><a href="">📘 Foreground e Background 🖼️🟦</a></li>
   <li><a href="">📘 Trabalhando com textos no CSS 🔤🔠</a></li>
   <li><a href="">📘 Keyframes 🚶‍♂️🏃‍♂️💨</a></li>
-  <li><a href="">📘 Animation ☕</a></li>
+  <li><a href="">📘 Animation 🚀</a></li>
   <li><a href="">📘 Transition 🚘🚦</a></li>
   <li><a href="">📘 Transform 🌱🌲</a></li>
   <li><a href="">📘 Positions and dimensions 🟧🟦</a></li>
