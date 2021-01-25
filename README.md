@@ -748,33 +748,8 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736626-c63f8100-5f13-11eb-81b8-f6c3e341ea4b.jpg)
 
 <li><p>O elemento <code>&lt;header&gt;</code> (cabeçalho) utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.</p></li>
-<pre>  
-<code>&lt;!Doctype html&gt;</code>
-<code>&lt;html lang="pt-br"&gt;</code>
-<code>&lt;head&gt;</code>
-  <code>&lt;meta charset="utf-8"&gt;</code>
-  <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
-  <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
-<code>&lt;/head&gt;</code>
-<code>&lt;body&gt;</code>
-  <code>&lt;header&gt;
-  &lt;hgroup&gt;
-     &lt;h1&gt;Título da seção&lt;/h1&gt;
-     &lt;h2&gt;Segundo título&lt;/h2&gt;
-  &lt;/hgroup&gt;
-  &lt;p&gt;O curso de HTML é muito importante&lt;/p&gt;
-  &lt;/header&gt;</code>
-  <code>&lt;section&gt;
-     &lt;h1&gt;Título da seção&lt;/h1&gt;
-     &lt;p&gt;Primeiro parágrafo&lt;/p&gt;
-  &lt;/section&gt;</code>
-  <code>&lt;section&gt;
-     &lt;h1&gt;Título da segunda seção&lt;/h1&gt;
-     &lt;p&gt;Segundo parágrafo&lt;/p&gt;
-  &lt;/section&gt;</code>
-<code>&lt;/body&gt;</code>
-<code>&lt;/html&gt;</code>
-</pre>
+
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736972-28988180-5f14-11eb-83c6-bbceb25bf757.jpg)
 
 <li><p><code>&lt;nav&gt;</code> (navegação) este elemento é a seção onde ficam as informações de de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.</p></li>
 <pre>
