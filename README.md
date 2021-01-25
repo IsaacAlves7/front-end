@@ -607,6 +607,11 @@ O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite
 <p>Existem diversos <b>codecs</b>, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior.</p>
 
 <blockquote><b>Obs:</b> Codecs são programas utilizados para codificar e decodificar arquivos de mídia. Eles compactam o formato original, favorecendo o armazenamento, e descompactam na hora da reprodução, transformando novamente em imagem ou áudio.</blockquote>
+
+<p>Todos os exemplos de audio e video citados são importados via documento no diretório. E a dúvida é, como faço para importar um vídeo já hospedado em um site como o YouTube ou o Vimeo? E qual das duas soluções (Via documento ou via server) é a mais vantajosa?</p>
+
+## Importando video ▶️🌐
+<p>Vamos ver como importar videos do YouTube e do Vimeo, passo a passo!</p>
 <hr>
 
 <h1 align="center">Cap 07: 📙 TAGs de Tabelas ⬜🔲</h1>
@@ -619,9 +624,9 @@ Essas tabelas ainda continuam existindo no HTML 5 como recurso para exibição d
 
 O comando tabela não foi retirado da linguagem, mas ficou restrito o seu uso. Em contrapartida, ainda temos vários sites que utilizam esse recurso, portanto, é importante entendermos como funciona até para poder, se for necessário, dar manutenção nesse tipo de página.
 
-O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha</b>, devemos introduzir a tag &lt;tr&gt; e para uma <b>célula</b> &lt;td&gt;, que divide a linha da tabela. &lt;th&gt; divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como &lt;/table&gt;, &lt;/tr&gt; e &lt;/td&gt; respectivamente.</p>
+O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha</b>, devemos introduzir a tag <code>&lt;tr&gt;</code> e para uma <b>célula</b> <code>&lt;td&gt;</code>, que divide a linha da tabela. <code>&lt;th&gt;</code> divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como &lt;/table&gt;, <code>&lt;/tr&gt;</code> e <code>&lt;/td&gt;</code> respectivamente.</p>
 
-<pre>
+<pre>&lt;!Doctype html&gt;
 <code>&lt;html lang="pt-br"&gt;</code>
 <code>&lt;head&gt;</code>
   <code>&lt;meta charset="utf-8"&gt;</code>
