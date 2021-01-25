@@ -586,15 +586,16 @@ Devido a tudo isso, o HTML 5 vem com um novo suporte, nativo na linguagem, para 
 
 O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.</p>
 
-## Para video
+## Para video ▶️
 <pre>
-&lt;video width="426" height="240"&gt;
+&lt;video width="426" height="240" controls&gt;
  &lt;source src="video.mp4" type="video/mp4"&gt;
  &lt;source src="video.webm" type="video/webm"&gt;
+ &lt;source src="video.ogg" type="video/ogg"&gt;
 &lt;/video&gt;
 </pre>
 
-## Para audio
+## Para audio 🔊
 <pre>
 &lt;audio controls&gt;
  &lt;source src="audio.mp3" type="audio/mpeg"&gt;
@@ -603,7 +604,9 @@ O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite
 &lt;/audio&gt;
 </pre>
 
-<p>Existem diversos <b>codecs</b>, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior. Obs: Codecs são programas utilizados para codificar e decodificar arquivos de mídia. Eles compactam o formato original, favorecendo o armazenamento, e descompactam na hora da reprodução, transformando novamente em imagem ou áudio.</p>
+<p>Existem diversos <b>codecs</b>, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior.</p>
+
+<blockquote><b>Obs:</b> Codecs são programas utilizados para codificar e decodificar arquivos de mídia. Eles compactam o formato original, favorecendo o armazenamento, e descompactam na hora da reprodução, transformando novamente em imagem ou áudio.</blockquote>
 <hr>
 
 <h1 align="center">Cap 07: 📙 TAGs de Tabelas ⬜🔲</h1>
