@@ -756,30 +756,8 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105737577-defc6680-5f14-11eb-8363-9b10b09089a6.jpg)
 
 <li><p><code>&lt;article&gt;</code> (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento <code>&lt;section&gt;</code>. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento <code>&lt;header&gt;</code> que é o título e um elemento <code>&lt;footer&gt;</code> que é o rodapé do elemento.</p></li>
-<pre>
- <code>&lt;!Doctype html&gt;</code>
-<code>&lt;html lang="pt-br"&gt;</code>
-<code>&lt;head&gt;</code>
-  <code>&lt;meta charset="utf-8"&gt;</code>
-  <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
-  <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
-<code>&lt;/head&gt;</code>
-<code>&lt;body&gt;</code>
-     <code>&lt;p&gt;O básico de HTML&lt;/p&gt;</code>
-  <code>&lt;article&gt;
-     <code>&lt;header&gt;
-     <code>&lt;h1&gt;Nova Vitória!&lt;/h1&gt;</code>     
-     <code>&lt;p&gt;2020&lt;/p&gt;</code>        
-    &lt;/header&gt;</code>
-     <code>&lt;p&gt;Ganhou novamente&lt;/p&gt;</code>
-     <code>&lt;p&gt;...&lt;/p&gt;</code>     
-     <code>&lt;footer&gt;
-       <code>&lt;a href="?comments=1"&gt;Comentários&lt;/a&gt;</code>    
-     &lt;/footer&gt;</code>    
-  &lt;/article&gt;</code>
-<code>&lt;/body&gt;</code>
-<code>&lt;/html&gt;</code>
-</pre>
+
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/105737941-461a1b00-5f15-11eb-8528-d9bf452796ab.jpg)
 
 <li><p><code>&lt;footer&gt;</code> (rodapé) este elemento é um que contém basicamente as informações sobre o conteúdo da seção, como, por exemplo, o autor, links relacionados etc.</p></li>
 <pre>
