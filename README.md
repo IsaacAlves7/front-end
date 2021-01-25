@@ -658,11 +658,20 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
   </tr>
   <tr>
     <td><code>bgcolor=""</code></td> 
-    <td>determina a cor da tabela.</td>
+    <td>determina a cor da tabela</td>
   </tr>
-  <li><code>border=""</code> determina o tamanho da borda, se for zero não mostra a borda.</li>
-  <li><code>cellspacing=""</code> determina o espaçamento entre células.</li>
-  <li><code>cellpadding=""</code> determina o espaçamento entre o texto e a borda da célula.</li>  
+  <tr>
+    <td><code>border=""</code></td> 
+    <td>determina o tamanho da borda, se for zero não mostra a borda</td>
+  </tr>
+  <tr>
+    <td><code>cellspacing=""</code></td>
+    <td>determina o espaçamento entre células</td>
+  </tr>
+  <tr>
+    <td><code>cellpadding=""</code></td>
+    <td>determina o espaçamento entre o texto e a borda da célula</td>
+  </tr>
 </table>
 <p><code>&lt;caption&gt;</code> exibe um texto centralizado em relação à tabela, como se fosse uma legenda.</p>
 <pre>
@@ -692,10 +701,19 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 
 ### Atributo Rules 📖🔳⬜🔲
 <p>Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo <code>RULES</code>, dentro da tag . Os complementos desse atributo são:</p>
-<ul>
-  <li><code>none</code> nenhuma linha inteira.</li>
-  <li><code>all</code> para mostrar todas as linhas entre cada coluna e linha na tabela (default).</li>
-  <li><code>rows</code> para as linhas horizontais entre cada linha da tabela.</li>  
+<table>
+  <tr>
+    <td><code>none</code></td>
+    <td>nenhuma linha inteira.</td>
+  </tr>
+  <tr>
+    <td><code>all</code></td>
+    <td>para mostrar todas as linhas entre cada coluna e linha na tabela (default)</td>
+  </tr>
+  <tr>
+    <td><code>rows</code></td>
+    <td>para as linhas horizontais entre cada linha da tabela.</td>
+  </tr>
   <li><code>cols</code> para as linhas verticais entre cada coluna da tabela.</li>
   <li><code>groups</code> para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como <code>&lt;colgroup&gt;</code> e <code>&lt;thead&gt;</code>.</li>  
 </ul><br>
@@ -713,7 +731,7 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 ## ✅ Tipos de input 🔘
 
 ## 📙 A diferença entre anchor, input and button 📘🆗
-<div align="center"><img src="https://davidwalsh.name/demo/html5-buttons.png"></div>
+<div align="center"><img src="https://davidwalsh.name/demo/html5-buttons.png" height="200"></div>
 <hr>
 
 <div align="center"><h1>Cap 09: 📙 HTML Semantic 📰</h1></div>
