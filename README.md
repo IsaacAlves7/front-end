@@ -506,7 +506,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 &lt;/ol&gt;
 </pre>
  
-  <li><p><b>&lt;ul&gt;</b> define uma lista comum, não-numerada (não-ordenada).</p></li>
+  <li><p><code>&lt;ul&gt;</code> define uma lista comum, não-numerada (não-ordenada).</p></li>
  <pre>
  &lt;ul&gt;
    &lt;li&gt;exemplo 1&lt;/li&gt;
@@ -516,7 +516,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
  &lt;/ul&gt;
  </pre>
  
- <li><p><b>&lt;dl&gt;</b> elemento textual que exibe uma lista de definições, com termos específicos. Trabalha com as tags &lt;dt&gt; termo a ser exibido e &lt;dd&gt; elementos do termo.</p></li>
+ <li><p><code>&lt;dl&gt;</code> elemento textual que exibe uma lista de definições, com termos específicos. Trabalha com as tags &lt;dt&gt; termo a ser exibido e &lt;dd&gt; elementos do termo.</p></li>
  <pre>
  &lt;dl&gt;
   &lt;dt&gt;Carro&lt;/dt&gt;
@@ -624,7 +624,7 @@ Essas tabelas ainda continuam existindo no HTML 5 como recurso para exibição d
 
 O comando tabela não foi retirado da linguagem, mas ficou restrito o seu uso. Em contrapartida, ainda temos vários sites que utilizam esse recurso, portanto, é importante entendermos como funciona até para poder, se for necessário, dar manutenção nesse tipo de página.
 
-O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha</b>, devemos introduzir a tag <code>&lt;tr&gt;</code> e para uma <b>célula</b> <code>&lt;td&gt;</code>, que divide a linha da tabela. <code>&lt;th&gt;</code> divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como &lt;/table&gt;, <code>&lt;/tr&gt;</code> e <code>&lt;/td&gt;</code> respectivamente.</p>
+O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar uma <b>linha</b>, devemos introduzir a tag <code>&lt;tr&gt;</code> e para uma <b>célula</b> <code>&lt;td&gt;</code>, que divide a linha da tabela. <code>&lt;th&gt;</code> divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como <code>&lt;/table&gt;</code>, <code>&lt;/tr&gt;</code> e <code>&lt;/td&gt;</code> respectivamente.</p>
 
 <pre>&lt;!Doctype html&gt;
 <code>&lt;html lang="pt-br"&gt;</code>
@@ -650,15 +650,15 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <code>&lt;/html&gt;</code>
 </pre>
 
-<p>O comando &lt;table&gt; tem uma série de atributos que ajudam na formatação da tabela. Os principais são:</p>
+<p>O comando <code>&lt;table&gt;</code> tem uma série de atributos que ajudam na formatação da tabela. Os principais são:</p>
 <ul>
-  <li><b>align=""</b> alinha a tabela nas três posições: <b>center</b>, <b>left</b>, <b>right</b> e <b>justify</b>.</li>
-  <li><b>bgcolor=""</b> determina a cor da tabela.</li>
-  <li><b>border=""</b> determina o tamanho da borda, se for zero não mostra a borda.</li>
-  <li><b>cellspacing=""</b> determina o espaçamento entre células.</li>
-  <li><b>cellpadding=""</b> determina o espaçamento entre o texto e a borda da célula.</li>  
+  <li><code>align=""</code> alinha a tabela nas três posições: <code>center</code>, <b>left</code>, <b>right</code> e <code>justify</code>.</li>
+  <li><code>bgcolor=""</code> determina a cor da tabela.</li>
+  <li><code>border=""</code> determina o tamanho da borda, se for zero não mostra a borda.</li>
+  <li><code>cellspacing=""</code> determina o espaçamento entre células.</li>
+  <li><code>cellpadding=""</code> determina o espaçamento entre o texto e a borda da célula.</li>  
 </ul>
-<p><b>&lt;caption&gt;</b> exibe um texto centralizado em relação à tabela, como se fosse uma legenda.</p>
+<p><code>&lt;caption&gt;</code> exibe um texto centralizado em relação à tabela, como se fosse uma legenda.</p>
 <pre>
 <code>&lt;html lang="pt-br"&gt;</code>
 <code>&lt;head&gt;</code>
@@ -685,10 +685,10 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 </pre>
 
 ### Atributo Rules 📖🔳⬜🔲
-<p>Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo RULES, dentro da tag . Os complementos desse atributo são:</p>
+<p>Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo <code>RULES</code>, dentro da tag . Os complementos desse atributo são:</p>
 <ul>
-  <li><b>none</b> nenhuma linha inteira.</li>
-  <li><b>all</b> para mostrar todas as linhas entre cada coluna e linha na tabela (default).</li>
+  <li><code>none</code> nenhuma linha inteira.</li>
+  <li><code>all</code> para mostrar todas as linhas entre cada coluna e linha na tabela (default).</li>
   <li><b>rows</b> para as linhas horizontais entre cada linha da tabela.</li>  
   <li><b>cols</b> para as linhas verticais entre cada coluna da tabela.</li>
   <li><b>groups</b> para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como COLGROUP e THEAD.</li>  
@@ -717,7 +717,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <p>Até a versão 4 do HTML as <b>divs</b> eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma <b>folha de jornal</b>, pois ambas contém cabeçalhos, rodapés, artigos e seções.</p>
 <div align="center"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" height="257"/> <img src="https://www.w3schools.com/html/img_sem_elements.gif"/></div>
 <ul>
-<li><p>O elemento <b>&lt;section&gt;</b> (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.</p></li>
+<li><p>O elemento <code>&lt;section&gt;</code> (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.</p></li>
 <pre>  
 <code>&lt;!Doctype html&gt;</code>
 <code>&lt;html lang="pt-br"&gt;</code>
@@ -738,7 +738,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <code>&lt;/body&gt;</code>
 <code>&lt;/html&gt;</code>
 </pre>
-<li><p>O elemento <b>&lt;header&gt;</b> (cabeçalho) utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.</p></li>
+<li><p>O elemento <code>&lt;header&gt;</code> (cabeçalho) utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.</p></li>
 <pre>  
 <code>&lt;!Doctype html&gt;</code>
 <code>&lt;html lang="pt-br"&gt;</code>
@@ -767,7 +767,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <code>&lt;/html&gt;</code>
 </pre>
 
-<li><p><b>&lt;nav&gt;</b> (navegação) este elemento é a seção onde ficam as informações de de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.</p></li>
+<li><p><code>&lt;nav&gt;</code> (navegação) este elemento é a seção onde ficam as informações de de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.</p></li>
 <pre>
  <code>&lt;!Doctype html&gt;</code>
 <code>&lt;html lang="pt-br"&gt;</code>
@@ -798,7 +798,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <code>&lt;/html&gt;</code>
 </pre>
 
-<li><p><b>&lt;article&gt;</b> (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento  &lt;section&gt;. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento &lt;header&gt; que é o título e um elemento &lt;footer&gt; que é o rodapé do elemento.</p></li>
+<li><p><code>&lt;article&gt;</code> (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento  &lt;section&gt;. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento &lt;header&gt; que é o título e um elemento &lt;footer&gt; que é o rodapé do elemento.</p></li>
 <pre>
  <code>&lt;!Doctype html&gt;</code>
 <code>&lt;html lang="pt-br"&gt;</code>
@@ -824,7 +824,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <code>&lt;/html&gt;</code>
 </pre>
 
-<li><p><b>&lt;footer&gt;</b> (rodapé) este elemento é um que contém basicamente as informações sobre o conteúdo da seção, como, por exemplo, o autor, links relacionados etc.</p></li>
+<li><p><code>&lt;footer&gt;</code> (rodapé) este elemento é um que contém basicamente as informações sobre o conteúdo da seção, como, por exemplo, o autor, links relacionados etc.</p></li>
 <pre>
  <code>&lt;!Doctype html&gt;</code>
 <code>&lt;html lang="pt-br"&gt;</code>
@@ -853,7 +853,7 @@ O comando para se inserir uma tabela é &lt;table&gt;. Para iniciar uma <b>linha
 <code>&lt;/html&gt;</code>
 </pre>
 
-<li><p><b>&lt;aside&gt;</b> (de lado) neste elemento estão contidas as informações que não estão relacionadas diretamente com o texto. Por exemplo: comerciais pagos, links promocionais etc.</p></li>
+<li><p><code>&lt;aside&gt;</code> (de lado) neste elemento estão contidas as informações que não estão relacionadas diretamente com o texto. Por exemplo: comerciais pagos, links promocionais etc.</p></li>
 <pre>
 <code>&lt;!Doctype html&gt;</code>
 <code>&lt;html lang="pt-br"&gt;</code>
