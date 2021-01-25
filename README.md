@@ -483,7 +483,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 </ul>
 <hr>
 
-<h1 align="center">Cap: 📙 TAG de Imagem 🖼️</h1>
+<h1 align="center">Cap 04: 📙 TAG de Imagem 🖼️</h1>
 <hr>
 
 <h1 align="center">Cap 05: 📙 TAGs de Listas 📑</h1>
@@ -516,7 +516,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
  &lt;/ul&gt;
  </pre>
  
- <li><p><code>&lt;dl&gt;</code> elemento textual que exibe uma lista de definições, com termos específicos. Trabalha com as tags &lt;dt&gt; termo a ser exibido e &lt;dd&gt; elementos do termo.</p></li>
+ <li><p><code>&lt;dl&gt;</code> elemento textual que exibe uma lista de definições, com termos específicos. Trabalha com as tags <code>&lt;dt&gt;</code> termo a ser exibido e <code>&lt;dd&gt;</code> elementos do termo.</p></li>
  <pre>
  &lt;dl&gt;
   &lt;dt&gt;Carro&lt;/dt&gt;
@@ -530,7 +530,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
  </ul>
 <hr>
 
-<h1 align="center">Cap 05: 📙 TAG de Âncora 🔗</h1>
+<h1 align="center">Cap 06: 📙 TAG de Âncora 🔗</h1>
 <div align="center"><img src="https://www.computerhope.com/jargon/h/html-tag.gif"></div>
 <p><code>&lt;a&gt;</code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <code><b>href="mailto:webmaster@example.com"</b></code> que irá enviar uma mensagem para seu email.</p>  
 
@@ -552,7 +552,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <pre>&lt;a href="mailto:webmaster07@gmail.com"&gt;Enviar email&lt;/a&gt;</pre>
 <hr>
 
-<h1 align="center">Cap 06: 📙 TAGs de Multimedia 🔊▶️</h1>
+<h1 align="center">Cap 07: 📙 TAGs de Multimedia 🔊▶️</h1>
 <div align="center"><img src="https://jibigit.github.io/cheat-html/images/media.png"></div>
 
 ## Flash Player
@@ -651,13 +651,19 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 </pre>
 
 <p>O comando <code>&lt;table&gt;</code> tem uma série de atributos que ajudam na formatação da tabela. Os principais são:</p>
-<ul>
-  <li><code>align=""</code> alinha a tabela nas três posições: <code>center</code>, <code>left</code>, <code>right</code> e <code>justify</code>.</li>
-  <li><code>bgcolor=""</code> determina a cor da tabela.</li>
+<table>
+  <tr>
+    <td><code>align=""</code></td>
+    <td>alinha a tabela nas três posições: <code>center</code>, <code>left</code>, <code>right</code> e <code>justify</code></td>
+  </tr>
+  <tr>
+    <td><code>bgcolor=""</code></td> 
+    <td>determina a cor da tabela.</td>
+  </tr>
   <li><code>border=""</code> determina o tamanho da borda, se for zero não mostra a borda.</li>
   <li><code>cellspacing=""</code> determina o espaçamento entre células.</li>
   <li><code>cellpadding=""</code> determina o espaçamento entre o texto e a borda da célula.</li>  
-</ul>
+</table>
 <p><code>&lt;caption&gt;</code> exibe um texto centralizado em relação à tabela, como se fosse uma legenda.</p>
 <pre>
 <code>&lt;html lang="pt-br"&gt;</code>
