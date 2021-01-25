@@ -752,35 +752,8 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736972-28988180-5f14-11eb-83c6-bbceb25bf757.jpg)
 
 <li><p><code>&lt;nav&gt;</code> (navegação) este elemento é a seção onde ficam as informações de de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.</p></li>
-<pre>
- <code>&lt;!Doctype html&gt;</code>
-<code>&lt;html lang="pt-br"&gt;</code>
-<code>&lt;head&gt;</code>
-  <code>&lt;meta charset="utf-8"&gt;</code>
-  <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
-  <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
-<code>&lt;/head&gt;</code>
-<code>&lt;body&gt;</code>
-  <code>&lt;header&gt;
-  &lt;nav&gt;
-     &lt;h1&gt;Menu principal&lt;/h1&gt;
-     &lt;ul&gt;
-       &lt;li&gt;&lt;a href="article.html"&gt;índices de artigos&lt;/a&gt;&lt;/li&gt;
-       &lt;li&gt;&lt;a href="#"&gt;Link bloqueado&lt;/a&gt;&lt;/li&gt;
-     &lt;/ul&gt;
-  &lt;/nav&gt;
-  &lt;/header&gt;</code>
-  <code>&lt;section&gt;
-     &lt;h1&gt;Título da seção&lt;/h1&gt;
-     &lt;p&gt;Primeiro parágrafo&lt;/p&gt;
-  &lt;/section&gt;</code>
-  <code>&lt;section&gt;
-     &lt;h1&gt;Título da segunda seção&lt;/h1&gt;
-     &lt;p&gt;Segundo parágrafo&lt;/p&gt;
-  &lt;/section&gt;</code>
-<code>&lt;/body&gt;</code>
-<code>&lt;/html&gt;</code>
-</pre>
+
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/105737577-defc6680-5f14-11eb-8363-9b10b09089a6.jpg)
 
 <li><p><code>&lt;article&gt;</code> (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento <code>&lt;section&gt;</code>. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento <code>&lt;header&gt;</code> que é o título e um elemento <code>&lt;footer&gt;</code> que é o rodapé do elemento.</p></li>
 <pre>
