@@ -961,35 +961,45 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
 
 ## 📘 Pseudo-Classes 🤞🆑
 <p>E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento.
+  
+### Syntax
 <pre>
- a:hover { 
-    color: #fff;
+ seletor:pseudo-class { 
+    property: value;
    }
 </pre>
 
-O <b>a:hover</b> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
+O <code>a:hover</code> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
 
 ### 📘 Tipos de Pseudo-Classes 🤞🆑
 <table>
   <tr>
-    <td>Pseudo-classe</td>
-    <td>Definição</td>
+    <td><b>Pseudo-classe</b></td>
+    <td><b>Definição</b></td>
   </tr>
   <tr>
-    <td>seletor<strong>:hover<strong></td>
+    <td><code>:hover</code></td>
     <td>Altera o elemento por passar o mouse por cima.</td>
   </tr>  
   <tr>
-    <td>seletor<strong>:active<strong></td>
+    <td><code>:active</code></td>
     <td>Altera o elemento por clica-lo.</td>
   </tr>
    <tr>
-    <td>seletor<strong>:link<strong></td>
-    <td>Altera o elemento por clica-lo.</td>
+    <td><code>:link</code></td>
+    <td>Altera todos os links não visitados.</td>
   </tr>
    <tr>
-    <td>seletor<strong>:visited<strong></td>
-    <td>Altera o elemento por clica-lo.</td>
+    <td><code>:visited</code></td>
+    <td>Altera todos os links visitados.</td>
+  </tr>
+  <tr>
+    <td><code>:focus</code></td>
+    <td>Altera o elemento <code>&lt;input&gt;</code> que tem o foco.</td>
+  </tr>
+  <tr>
+    <td><code>:checked</code></td>
+    <td>Altera cada elemento <code>&lt;input&gt;</code> marcado.</td>
   </tr>
 </table>
 
