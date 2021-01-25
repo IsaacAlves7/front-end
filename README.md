@@ -1144,7 +1144,7 @@ O <b>a:hover</b> do exemplo significa que a âncora também terá essa aparênci
 ## 📘 Cálculos no CSS 🔢
 <hr>
 
-<h1 align="center">📘 Box Model 📦⬆️➡️⬇️⬅️</h1>
+<h1 align="center">Cap: 📘 Box Model 📦⬆️➡️⬇️⬅️</h1>
 <p>Look from this images bellow:</p>
 
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><br>
