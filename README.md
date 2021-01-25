@@ -798,7 +798,7 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 <code>&lt;/html&gt;</code>
 </pre>
 
-<li><p><code>&lt;article&gt;</code> (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento  &lt;section&gt;. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento &lt;header&gt; que é o título e um elemento &lt;footer&gt; que é o rodapé do elemento.</p></li>
+<li><p><code>&lt;article&gt;</code> (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento <code>&lt;section&gt;</code>. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento <code>&lt;header&gt;</code> que é o título e um elemento <code>&lt;footer&gt;</code> que é o rodapé do elemento.</p></li>
 <pre>
  <code>&lt;!Doctype html&gt;</code>
 <code>&lt;html lang="pt-br"&gt;</code>
