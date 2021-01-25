@@ -716,9 +716,13 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
     <td><code>rows</code></td>
     <td>para as linhas horizontais entre cada linha da tabela.</td>
   </tr>
-  <li><code>cols</code> para as linhas verticais entre cada coluna da tabela.</li>
-  <li><code>groups</code> para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como <code>&lt;colgroup&gt;</code> e <code>&lt;thead&gt;</code>.</li>  
-</ul><br>
+  <tr>
+    <td><code>cols</code></td>
+    <td>para as linhas verticais entre cada coluna da tabela.</td>
+    <td><code>groups</code></td>
+    <td>para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como <code>&lt;colgroup&gt;</code> e <code>&lt;thead&gt;</code></td>
+  </tr>  
+</table>
 <p>Veja alguns exemplos:</p>
 <pre><code>&lt;table border rules="all"6&gt;</code></pre>
 <pre><code>&lt;table border rules="none"6&gt;</code></pre>
