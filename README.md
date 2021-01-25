@@ -744,26 +744,9 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 <div align="center"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" height="257"/> <img src="https://www.w3schools.com/html/img_sem_elements.gif"/></div>
 <ul>
 <li><p>O elemento <code>&lt;section&gt;</code> (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.</p></li>
-<pre>  
-<code>&lt;!Doctype html&gt;</code>
-<code>&lt;html lang="pt-br"&gt;</code>
-<code>&lt;head&gt;</code>
-  <code>&lt;meta charset="utf-8"&gt;</code>
-  <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
-  <code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code>
-<code>&lt;/head&gt;</code>
-<code>&lt;body&gt;</code>
-  <code>&lt;section&gt;
-     &lt;h1&gt;Título da seção&lt;/h1&gt;
-     &lt;p&gt;Primeiro parágrafo&lt;/p&gt;
-  &lt;/section&gt;</code>
-  <code>&lt;section&gt;
-     &lt;h1&gt;Título da segunda seção&lt;/h1&gt;
-     &lt;p&gt;Segundo parágrafo&lt;/p&gt;
-  &lt;/section&gt;</code>
-<code>&lt;/body&gt;</code>
-<code>&lt;/html&gt;</code>
-</pre>
+
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736626-c63f8100-5f13-11eb-81b8-f6c3e341ea4b.jpg)
+
 <li><p>O elemento <code>&lt;header&gt;</code> (cabeçalho) utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.</p></li>
 <pre>  
 <code>&lt;!Doctype html&gt;</code>
