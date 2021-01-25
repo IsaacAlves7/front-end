@@ -554,6 +554,8 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 
 <h1 align="center">Cap 06: 📙 TAGs de Multimedia 🔊▶️</h1>
 <div align="center"><img src="https://jibigit.github.io/cheat-html/images/media.png"></div>
+
+## Flash Player
 <p>O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os
 navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
 
@@ -574,14 +576,15 @@ height="240"&gt;</code>
 <code>&lt;/embed&gt;</code>
 <code>&lt;/object&gt;</code>
 </pre>
-<p>Em virtude das inconsistências dos navegadores, era preciso adicionar tanto o comando &lt;object&gt; quanto o comando &lt;embed&gt;, comandos específicos para utilização do plugin, duplicando muitos atributos. Isso sem falar que plugins como o Flash causam muitas instabilidades, ocasionando erros que levam até ao fechamento do navegador.
+
+<p>Em virtude das inconsistências dos navegadores, era preciso adicionar tanto o comando <code>&lt;object&gt</code>; quanto o comando <code>&lt;embed&gt</code>;, comandos específicos para utilização do plugin, duplicando muitos atributos. Isso sem falar que plugins como o Flash causam muitas instabilidades, ocasionando erros que levam até ao fechamento do navegador.
 
 Devido a tudo isso, o HTML 5 vem com um novo suporte, nativo na linguagem, para evitar o uso de plugins e comandos desnecessários. Atualmente, basta colocar a chamada simples, como se fosse uma imagem e o arquivo é acionado.</p>
-<pre><code>&lt;video controls src="video.mp4" width="426" height="240"&gt;&lt;/video&gt;</code></pre>
+<pre>&lt;video controls src="video.mp4" width="426" height="240"&gt;&lt;/video&gt;</pre>
 
-<p>O problema apresentado pelo novo comando é o uso do atributo <b>src</b> que não funciona bem em alguns navegadores. E se pretendemos que todos possam abrir a página, com qualquer navegador, é necessário usar outro tipo de atributo. Por isso, é comum o uso do atributo <b>&lt;source&gt;</b> na tag &lt;video&gt;.
+<p>O problema apresentado pelo novo comando é o uso do atributo <code>src</code> que não funciona bem em alguns navegadores. E se pretendemos que todos possam abrir a página, com qualquer navegador, é necessário usar outro tipo de atributo. Por isso, é comum o uso do atributo <code>&lt;source&gt;</code> na tag <code>&lt;video&gt;</code>.
 
-O elemento <b>&lt;source&gt;</b> pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.</p>
+O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.</p>
 <pre>
  <code>&lt;video width="426" height="240"&gt;</code>
  <code>&lt;source src="video.mp4" type="video/mp4"&gt;</code>
