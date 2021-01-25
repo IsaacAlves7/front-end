@@ -689,9 +689,9 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 <ul>
   <li><code>none</code> nenhuma linha inteira.</li>
   <li><code>all</code> para mostrar todas as linhas entre cada coluna e linha na tabela (default).</li>
-  <li><b>rows</b> para as linhas horizontais entre cada linha da tabela.</li>  
-  <li><b>cols</b> para as linhas verticais entre cada coluna da tabela.</li>
-  <li><b>groups</b> para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como COLGROUP e THEAD.</li>  
+  <li><code>rows</code> para as linhas horizontais entre cada linha da tabela.</li>  
+  <li><code>cols</code> para as linhas verticais entre cada coluna da tabela.</li>
+  <li><code>groups</code> para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como <code>&lt;colgroup&gt;</code> e <code>&lt;thead&gt;</code>.</li>  
 </ul><br>
 <p>Veja alguns exemplos:</p>
 <pre><code>&lt;table border rules="all"6&gt;</code></pre>
@@ -890,8 +890,7 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 
 <div align="center"><h1>Cap 10: 📘 Revisando o CSS 📄</h1></div>
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="270"/></div>
-<p>Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecanismo simples
-para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos
+<p>Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecanismo simples para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos
 da Web.
 
 O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5.</p>
