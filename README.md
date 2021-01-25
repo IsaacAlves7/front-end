@@ -87,11 +87,13 @@
   <li><a href="">📙 HTML5 Maps 🗺️</a></li>
   <li><a href="">📙 HTML5 Canvas 🎥</a></li>
   <li><a href="">📙 HTML5 SVG 🖼️🌐</a></li>
+  <li><a href="">📙 Importando o Google Maps 🧭📍</a></li>
   <li><a href="">📘 Revisando o CSS 📄</a></li>
   <li><a href="">📘 Box Model 📦⬆️➡️⬇️⬅️</a></li>
   <li><a href="">📘 Foreground e Background 🖼️🟦</a></li>
   <li><a href="">📘 Trabalhando com textos no CSS 🔤🔠</a></li>
   <li><a href="">📘 Keyframes 🚶‍♂️🏃‍♂️💨</a></li>
+  <li><a href="">📘 Animation ☕</a></li>
   <li><a href="">📘 Transition 🚘🚦</a></li>
   <li><a href="">📘 Transform 🌱🌲</a></li>
   <li><a href="">📘 Positions and dimensions 🟧🟦</a></li>
