@@ -1255,9 +1255,11 @@ ul {
 </pre>
 
 ### Exemplo: Estilizando a lista com imagem
+<pre>
 ul {
   list-style-type: url('rocket.png');
 }
+</pre>
 <hr>
 
 <h1 align="center">Cap 14: 📘 Positions and dimensions 🟧🟦</h1>
