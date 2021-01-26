@@ -1124,22 +1124,20 @@ selector::pseudo-element {
 
 ### Exemplo 1:
 <pre>
-<!DOCTYPE html>
-<html>
-<head>
-<style>
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;style&gt;
 p::after { 
   content: " - Remember this";
 }
-</style>
-</head>
-<body>
-
-<p>My name is Donald</p>
-<p>I live in Ducksburg</p>
-
-</body>
-</html>
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p&gt;My name is Donald&lt;/p&gt;
+&lt;p&gt;I live in Ducksburg&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
 </pre>
 
 ## 📘 Variáveis no CSS 📥
