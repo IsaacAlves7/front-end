@@ -559,7 +559,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <h1 align="center">Cap 07: 📙 TAGs de Multimedia 🔊▶️</h1>
 <div align="center"><img src="https://jibigit.github.io/cheat-html/images/media.png"></div>
 
-## Flash Player
+## ▶️ Flash Player 🔊
 <p>O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os
 navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
 
