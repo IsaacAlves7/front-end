@@ -88,6 +88,7 @@
   <li><a href="">📙 HTML5 Canvas 🎥</a></li>
   <li><a href="">📙 HTML5 SVG 🖼️🌐</a></li>
   <li><a href="">📙 Importando o Google Maps 🧭📍</a></li>
+  <li><a href="">📙 HTML5 symbols 🔣✝️</a></li>
   <li><a href="">📘 Revisando o CSS 📄</a></li>
   <li><a href="">📘 Box Model 📦⬆️➡️⬇️⬅️</a></li>
   <li><a href="">📘 Foreground e Background 🖼️🟦</a></li>
@@ -486,7 +487,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <hr>
 
 <h1 align="center">Cap 04: 📙 TAG de Imagem 🖼️</h1>
-<pre>img src="/assets/public/img/img.svg"</pre>
+<pre>&lt;img src="/assets/public/img/img.svg"&gt;</pre>
 <hr>
 
 <h1 align="center">Cap 05: 📙 TAGs de Listas 📑</h1>
