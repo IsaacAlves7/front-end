@@ -654,30 +654,8 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
   </tr>
 </table>
 <p><code>&lt;caption&gt;</code> exibe um texto centralizado em relação à tabela, como se fosse uma legenda.</p>
-<pre>
-<code>&lt;html lang="pt-br"&gt;</code>
-<code>&lt;head&gt;</code>
-  <code>&lt;meta charset="utf-8"&gt;</code>
-  <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
-  <code>&lt;title&gt;HTML Tables&lt;/title&gt;</code>
-<code>&lt;/head&gt;</code>
-<code>&lt;body&gt;</code>
-   <code>&lt;table border="1" cellspacing=2 cellpadding=6&gt; &lt;!--Esta linha inicia a tabela com borda de espessura 1 (border), espaço entre as células 2 (Cellspacing) e espaço dentro da célula 6 (Cellpadding)--&gt;
-   <code>&lt;caption&gt;Legenda&lt;/caption&gt;</code> &lt;!--Adiciona a legenda na tabela--&gt;
-       <code>&lt;tr&gt; &lt;!--Primeira coluna--&gt; 
-          <code>&lt;td&gt;Primeira coluna&lt;/td&gt;</code> &lt;!--Primeira célula--&gt; 
-          <code>&lt;td&gt;Segunda coluna&lt;/td&gt;</code>
-          <code>&lt;td&gt;Terceira coluna&lt;/td&gt;</code>
-       &lt;/tr&gt;</code>
-       <code>&lt;tr&gt; &lt;!--Segunda coluna--&gt; 
-          <code>&lt;td&gt;Primeira coluna&lt;/td&gt;</code>
-          <code>&lt;td&gt;Segunda coluna&lt;/td&gt;</code>
-          <code>&lt;td&gt;Terceira coluna&lt;/td&gt;</code>
-       &lt;/tr&gt;</code>
-   &lt;/table&gt;</code>
-<code>&lt;/body&gt;</code>
-<code>&lt;/html&gt;</code>
-</pre>
+
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/105891443-6ae2c100-5fef-11eb-86d0-e66401b98812.jpg)
 
 ### Atributo Rules 📖🔳⬜🔲
 <p>Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo <code>RULES</code>, dentro da tag . Os complementos desse atributo são:</p>
