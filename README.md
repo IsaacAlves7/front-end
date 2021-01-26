@@ -1108,7 +1108,39 @@ selector::pseudo-element {
     <td><b>Pseudo-elemento</b></td>
     <td><b>Definição</b></td>
   </tr>
+  <tr>
+    <td><code>::after</code></td>
+    <td>Insire algo após o conteúdo de cada elemento.</td>
+  </tr>
+  <tr>
+    <td><code>::before</code></td>
+    <td>Insire algo anted do conteúdo de cada elemento.</td>
+  </tr>
+  <tr>
+    <td><code>::before</code></td>
+    <td>Insire algo anted do conteúdo de cada elemento.</td>
+  </tr>
 </table>
+
+### Exemplo 1:
+<pre>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p::after { 
+  content: " - Remember this";
+}
+</style>
+</head>
+<body>
+
+<p>My name is Donald</p>
+<p>I live in Ducksburg</p>
+
+</body>
+</html>
+</pre>
 
 ## 📘 Variáveis no CSS 📥
 <p>As <strong>variáveis no CSS</strong> servem para definir um padrão para a maioria dos elementos HTML5, poupando assim muitas linhas de código na folha de estilo. É muito comum usar as variáveis para fazer uma paleta de cores para uma página web mais complexa.</p>
@@ -1125,7 +1157,7 @@ selector::pseudo-element {
   <li><b>margin</b> - São os espaçamentos entre elementos (transparente).</li>
   <li><b>border</b> - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura, cor e forma.</li>
   <li><b>padding</b> - Espaçamento entre a borda e o conteúdo.</li>
-  <li><b>content</b> - O elemento ou conteúdo HTML.</li>
+  <li><b>content</b> - O conteúdo inserido no elemento HTML.</li>
 </ol>
 <p>Besides that, the Box model have his positions:<p>
 <ul>
