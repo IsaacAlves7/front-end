@@ -486,6 +486,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <hr>
 
 <h1 align="center">Cap 04: 📙 TAG de Imagem 🖼️</h1>
+<pre>img src="/assets/public/img/img.svg"</pre>
 <hr>
 
 <h1 align="center">Cap 05: 📙 TAGs de Listas 📑</h1>
