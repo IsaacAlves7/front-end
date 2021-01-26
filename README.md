@@ -985,6 +985,22 @@ O <code>a:hover</code> do exemplo significa que a âncora também terá essa apa
     <td><code>:enabled</code></td>
     <td>Altera cada elemento <code>&lt;input&gt;</code> habilitado.</td>
   </tr>
+  <tr>
+    <td><code>:first-child</code></td>
+    <td>Altera cada elemento <code>&lt;p&gt;</code> que é primeiro filho do elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:first-of-type</code></td>
+    <td>Altera cada elemento <code>&lt;p&gt;</code> que é o primeiro elemento <code>&lt;p&gt;</code> de seu elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:in-range</code></td>
+    <td>Altera elementos <code>&lt;input&gt;</code> com um valor dentro de um intervalo especificado.</td>
+  </tr>
+  <tr>
+    <td><code>:invalid</code></td>
+    <td>Altera todos os elementos <code>&lt;input&gt;</code> com um valor inválido.</td>
+  </tr>
 </table>
 
 
