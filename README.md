@@ -1027,7 +1027,11 @@ O <code>a:hover</code> do exemplo significa que a âncora também terá essa apa
   </tr>
   <tr>
     <td><code>:nth-last-child(n)</code></td>
-    <td>Altera cada elemento que é ordenado do seu elemento pai, contando a partir do último filho.</td>
+    <td>Altera cada elemento &lt;p&gt; que é ordenado do seu elemento pai, contando a partir do último filho.</td>
+  </tr>
+  <tr>
+    <td><code>:nth-last-of-type(n)</code></td>
+    <td>Altera cada elemento &lt;p&gt; que é o segundo elemento &lt;p&lt; de seu pai, contando a partir do último filho.</td>
   </tr>
 </table>
 
