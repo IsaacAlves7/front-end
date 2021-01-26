@@ -1039,7 +1039,39 @@ O <code>a:hover</code> do exemplo significa que a âncora também terá essa apa
   </tr>
   <tr>
     <td><code>:only-of-type</code></td>
-    <td>Altera cada elemento &lt;p&gt; que é o único elemento &lt;p&gt; de seu elemento pai.</td>
+    <td>Altera o elemento &lt;p&gt; que é o único elemento &lt;p&gt; de seu elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:only-child</code></td>
+    <td>Altera cada elemento &lt;p&gt; que é o único filho de seu elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:optional</code></td>
+    <td>Altera os elementos &lt;input&gt; sem atributo "obrigatório".</td>
+  </tr>
+  <tr>
+    <td><code>:out-of-range</code></td>
+    <td>Altera os elementos &lt;input&gt; com um atributo "somente leitura" especificado.</td>
+  </tr>
+  <tr>
+    <td><code>:read-write</code></td>
+    <td>Altera os elementos &lt;input&gt; sem o atributo "somente escrita" especificado.</td>
+  </tr>
+  <tr>
+    <td><code>:required</code></td>
+    <td>Altera os elementos &lt;input&gt; com um atributo "obrigatório" especificado.</td>
+  </tr>
+  <tr>
+    <td><code>:root</code></td>
+    <td>Altera o elemento raiz do documento.</td>
+  </tr>
+  <tr>
+    <td><code>:target</code></td>
+    <td>Altera o elemento ativo atual (clicado em um URL contendo o nome da âncora).</td>
+  </tr>
+  <tr>
+    <td><code>:valid</code></td>
+    <td>Altera todos os elementos <code>&lt;input&gt;</code> com um valor válido.</td>
   </tr>
 </table>
 
