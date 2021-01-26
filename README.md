@@ -1075,10 +1075,40 @@ O <code>a:hover</code> do exemplo significa que a âncora também terá essa apa
   </tr>
 </table>
 
+### Exemplo 1:
+<pre>
+p:first-child {
+  color: blue;
+}
+</pre>
+<pre>
+p i:first-child {
+  color: blue;
+}
+</pre>
+<pre>
+p:first-child i {
+  color: blue;
+}
+</pre>
 
 ## 📘 Pseudo-Elementos 🤞🏷️
 <p>Os <strong>pseudo-elementos</strong> são usados para estilizar partes específicas de um elemento. Como por exemplo: a primeira letra ou linha de um elemento; Insirir conteúdo antes ou depois do conteúdo de um elemento</p>
 
+### Syntax
+<pre>
+selector::pseudo-element {
+  property: value;
+}
+</pre>
+
+### 📘 Tipos de Pseudo-Elementos 🤞🏷️
+<table>
+  <tr>
+    <td>Pseudo-elemento</td>
+    <td>Definição</td>
+  </tr>
+</table>
 ## 📘 Variáveis no CSS 📥
 <p>As <strong>variáveis no CSS</strong> servem para definir um padrão para a maioria dos elementos HTML5, poupando assim muitas linhas de código na folha de estilo. É muito comum usar as variáveis para fazer uma paleta de cores para uma página web mais complexa.</p>
 
