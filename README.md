@@ -711,7 +711,7 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 <pre><code>&lt;table border rules="rows"6&gt;</code></pre>
 <hr>
 
-<h1 align="center">Cap 08: 📙 TAGs de Formulários 📋</h1>
+<h1 align="center">Cap 15: 📙 TAGs de Formulários 📋</h1>
 <p>A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:</p>
 
 ## ✅ Tipos de input 🔘
@@ -754,7 +754,7 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 </ul>
 <hr>
 
-<div align="center"><h1>Cap 10: 📘 Revisando o CSS 📄</h1></div>
+<div align="center"><h1>Cap 16: 📘 Revisando o CSS 📄</h1></div>
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="270"/></div>
 <p>Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecanismo simples para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos
 da Web.
