@@ -1013,13 +1013,30 @@ O <code>a:hover</code> do exemplo significa que a âncora também terá essa apa
     <td><code>:last-of-type</code></td>
     <td>Altera todos os elementos <code>&lt;p&gt;</code> que é o último elemento <code>&lt;p&gt;</code> de seu elemento pai.</td>
   </tr>
+  <tr>
+    <td><code>:link</code></td>
+    <td>Altera todos os links não visitados.</td>
+  </tr>
+  <tr>
+    <td><code>:not(selector)</code></td>
+    <td>Altera cada elemento que não é o elemento <code>&lt;p&gt;</code>.</td>
+  </tr>
+  <tr>
+    <td><code>:nth-child(n)</code></td>
+    <td>Altera cada elemento que é ordenado do seu elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:nth-last-child(n)</code></td>
+    <td>Altera cada elemento que é ordenado do seu elemento pai, contando a partir do último filho.</td>
+  </tr>
 </table>
 
 
 ## 📘 Pseudo-Elementos 🤞🏷️
-<p>Os <strong>pseudo-elementos</strong> são</p>
+<p>Os <strong>pseudo-elementos</strong> são usados para estilizar partes específicas de um elemento. Como por exemplo: a primeira letra ou linha de um elemento; Insirir conteúdo antes ou depois do conteúdo de um elemento</p>
 
 ## 📘 Variáveis no CSS 📥
+<p>As <strong>variáveis no CSS</strong> servem para definir um padrão para a maioria dos elementos HTML5, poupando assim muitas linhas de código na folha de estilo. É muito comum usar as variáveis para fazer uma paleta de cores para uma página web mais complexa.</p>
 
 ## 📘 Cálculos no CSS 🔢
 <hr>
