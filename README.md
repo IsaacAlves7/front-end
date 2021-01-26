@@ -924,7 +924,7 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
 
 
 ## 📘 Pseudo-Classes 🤞🆑
-<p>E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento.
+<p>E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento. As pseudo-classes são bem parecidas com os eventos do JavaScript, porém não possuem o mesmo poder de manipular os elementos.
   
 ### Syntax
 <pre>
@@ -1032,6 +1032,14 @@ O <code>a:hover</code> do exemplo significa que a âncora também terá essa apa
   <tr>
     <td><code>:nth-last-of-type(n)</code></td>
     <td>Altera cada elemento &lt;p&gt; que é o segundo elemento &lt;p&gt; de seu pai, contando a partir do último filho.</td>
+  </tr>
+  <tr>
+    <td><code>:nth-of-type(n)</code></td>
+    <td>Altera cada elemento &lt;p&gt; que é o segundo elemento &lt;p&gt; de seu elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:only-of-type</code></td>
+    <td>Altera cada elemento &lt;p&gt; que é o único elemento &lt;p&gt; de seu elemento pai.</td>
   </tr>
 </table>
 
