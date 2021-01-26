@@ -1001,6 +1001,18 @@ O <code>a:hover</code> do exemplo significa que a âncora também terá essa apa
     <td><code>:invalid</code></td>
     <td>Altera todos os elementos <code>&lt;input&gt;</code> com um valor inválido.</td>
   </tr>
+  <tr>
+    <td><code>:lang(language)</code></td>
+    <td>Altera cada elemento <code>&lt;p&gt;</code> com um valor de atributo lang começando com "<code>it</code>".</td>
+  </tr>
+  <tr>
+    <td><code>:last-child</code></td>
+    <td>Altera todos os elementos <code>&lt;p&gt;</code> que são os últimos filhos de seu elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:last-of-type</code></td>
+    <td>Altera todos os elementos <code>&lt;p&gt;</code> que é o último elemento <code>&lt;p&gt;</code> de seu elemento pai.</td>
+  </tr>
 </table>
 
 
