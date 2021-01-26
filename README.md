@@ -886,7 +886,7 @@ h1 em { color: blue } /* indica que os elementos em contidos em um elemento h1 p
 
 ### Seletores filhos
 <p>Um elemento filho é caraterizado quando os elementos são separados por “&gt;".</p>
-<pre>div ol&gt;li p {color: green }</pre>
+<pre>div ol &gt; li p {color: green }</pre>
 
 <p>Este exemplo, todos os elementos <strong>p</strong> serão de cor verde quando estiverem dentro de um elemento item &lt;li&gt;, filho de uma lista &lt;ol&gt; dentro de uma &lt;div&gt;.</p>
 
@@ -983,7 +983,19 @@ O <code>a:hover</code> do exemplo significa que a âncora também terá essa apa
   </tr>
   <tr>
     <td><code>:checked</code></td>
-    <td>Altera cada elemento <code>&lt;input&gt;</code> marcado.</td>
+    <td>Altera todos os elementos <code>&lt;input&gt;</code> marcados.</td>
+  </tr>
+  <tr>
+    <td><code>:disable</code></td>
+    <td>Altera todos os elementos <code>&lt;input&gt;</code> desativados.</td>
+  </tr>
+  <tr>
+    <td><code>:empty</code></td>
+    <td>Altera todos os elementos <code>&lt;p&gt;</code> que não têm filhos.</td>
+  </tr>
+   <tr>
+    <td><code>:enabled</code></td>
+    <td>Altera cada elemento <code>&lt;input&gt;</code> habilitado.</td>
   </tr>
 </table>
 
