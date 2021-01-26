@@ -1114,12 +1114,20 @@ selector::pseudo-element {
   </tr>
   <tr>
     <td><code>::before</code></td>
-    <td>Insire algo anted do conteúdo de cada elemento.</td>
+    <td>Insire algo antes do conteúdo de cada elemento.</td>
   </tr>
   <tr>
-    <td><code>::before</code></td>
-    <td>Insire algo anted do conteúdo de cada elemento.</td>
+    <td><code>::first-letter</code></td>
+    <td>Seleciona a primeira letra de cada elemento.</td>
   </tr>
+   <tr>
+    <td><code>::first-line</code></td>
+    <td>Seleciona a primeira linha de cada elemento.</td>
+  </tr>
+  <tr>
+    <td><code>::selection</code></td>
+    <td>Seleciona a parte de um elemento que é selecionado por um usuário (A mancha/ marca da seleção nos contents).</td>
+  </tr> 
 </table>
 
 ### Exemplo 1:
@@ -1138,6 +1146,12 @@ p::after {
 &lt;p&gt;I live in Ducksburg&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
+</pre>
+<pre>
+::selection {
+  color: red;
+  background: yellow;
+}
 </pre>
 
 ## 📘 Variáveis no CSS 📥
