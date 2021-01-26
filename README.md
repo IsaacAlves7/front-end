@@ -1193,7 +1193,8 @@ No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
      <td>Adiciona destaque a um texto (linhas)</td>
   </tr>
 </table>
-<p>Exemplos:</p>
+
+### Exemplo:
 <pre>
  h1{
    font-size: 250%;
@@ -1249,9 +1250,14 @@ ol {
 }
 
 ul {
-  list-style-type: "\1F44D";
+  list-style-type: "\1F44D"; /*Código do Emoji de um joinha*/
 }
 </pre>
+
+### Exemplo: Estilizando a lista com imagem
+ul {
+  list-style-type: url('rocket.png');
+}
 <hr>
 
 <h1 align="center">Cap 14: 📘 Positions and dimensions 🟧🟦</h1>
