@@ -1105,10 +1105,11 @@ selector::pseudo-element {
 ### 📘 Tipos de Pseudo-Elementos 🤞🏷️
 <table>
   <tr>
-    <td>Pseudo-elemento</td>
-    <td>Definição</td>
+    <td><b>Pseudo-elemento</b></td>
+    <td><b>Definição</b></td>
   </tr>
 </table>
+
 ## 📘 Variáveis no CSS 📥
 <p>As <strong>variáveis no CSS</strong> servem para definir um padrão para a maioria dos elementos HTML5, poupando assim muitas linhas de código na folha de estilo. É muito comum usar as variáveis para fazer uma paleta de cores para uma página web mais complexa.</p>
 
