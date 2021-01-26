@@ -1227,7 +1227,31 @@ No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
 </pre>
 
 ## Estilizando listas
+<table>
+  <tr>
+    <td>Propriedade</td>
+    <td>Função da propriedade</td>
+  </tr>
+  <tr>
+    <td><code>list-style-type</code></td>
+    <td>Altera o marcador da lista</td>
+  </tr>
+</table>
 
+### Exemplo:
+<pre>
+ul {
+  list-style-type: square;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+ul {
+  list-style-type: "\1F44D";
+}
+</pre>
 <hr>
 
 <h1 align="center">Cap 14: 📘 Positions and dimensions 🟧🟦</h1>
