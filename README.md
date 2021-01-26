@@ -628,29 +628,7 @@ O comando tabela não foi retirado da linguagem, mas ficou restrito o seu uso. E
 
 O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar uma <b>linha</b>, devemos introduzir a tag <code>&lt;tr&gt;</code> e para uma <b>célula</b> <code>&lt;td&gt;</code>, que divide a linha da tabela. <code>&lt;th&gt;</code> divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como <code>&lt;/table&gt;</code>, <code>&lt;/tr&gt;</code> e <code>&lt;/td&gt;</code> respectivamente.</p>
 
-<pre>&lt;!Doctype html&gt;
-<code>&lt;html lang="pt-br"&gt;</code>
-<code>&lt;head&gt;</code>
-  <code>&lt;meta charset="utf-8"&gt;</code>
-  <code>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</code>
-  <code>&lt;title&gt;HTML Tables&lt;/title&gt;</code>
-<code>&lt;/head&gt;</code>
-<code>&lt;body&gt;</code>
-   <code>&lt;table border="1"&gt;
-       <code>&lt;tr&gt; &lt;!--Primeira coluna--&gt; 
-          <code>&lt;td&gt;Primeira coluna&lt;/td&gt;</code> &lt;!--Primeira célula--&gt; 
-          <code>&lt;td&gt;Segunda coluna&lt;/td&gt;</code>
-          <code>&lt;td&gt;Terceira coluna&lt;/td&gt;</code>
-       &lt;/tr&gt;</code>
-       <code>&lt;tr&gt; &lt;!--Segunda coluna--&gt; 
-          <code>&lt;td&gt;Primeira coluna&lt;/td&gt;</code>
-          <code>&lt;td&gt;Segunda coluna&lt;/td&gt;</code>
-          <code>&lt;td&gt;Terceira coluna&lt;/td&gt;</code>
-       &lt;/tr&gt;</code>
-   &lt;/table&gt;</code>
-<code>&lt;/body&gt;</code>
-<code>&lt;/html&gt;</code>
-</pre>
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/105789912-03cafb00-5f62-11eb-98dc-9344c4085708.jpg)
 
 <p>O comando <code>&lt;table&gt;</code> tem uma série de atributos que ajudam na formatação da tabela. Os principais são:</p>
 <table>
