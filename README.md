@@ -1093,7 +1093,7 @@ p:first-child i {
 </pre>
 
 ## 📘 Pseudo-Elementos 🤞🏷️
-<p>Os <strong>pseudo-elementos</strong> são usados para estilizar partes específicas de um elemento. Como por exemplo: a primeira letra ou linha de um elemento; Insirir conteúdo antes ou depois do conteúdo de um elemento</p>
+<p>Os <strong>pseudo-elementos</strong> são usados para estilizar partes específicas de um elemento. Como por exemplo: a primeira letra ou linha de um elemento ou talvez inserir um conteúdo antes ou depois do conteúdo de um elemento.</p>
 
 ### Syntax
 <pre>
