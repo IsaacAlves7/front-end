@@ -969,11 +969,19 @@ O <code>a:hover</code> do exemplo significa que a âncora também terá essa apa
     <td><code>:disable</code></td>
     <td>Altera todos os elementos <code>&lt;input&gt;</code> desativados.</td>
   </tr>
+   <tr>
+    <td><code>:enabled</code></td>
+    <td>Altera todos os elementos <code>&lt;input&gt;</code> habilitados.</td>
+  </tr>
   <tr>
     <td><code>:empty</code></td>
     <td>Altera todos os elementos <code>&lt;p&gt;</code> que não têm filhos.</td>
   </tr>
-   <tr>
+  <tr>
+    <td><code>:first-child</code></td>
+    <td>Altera cada elemento <code>&lt;input&gt;</code> habilitado.</td>
+  </tr>
+  <tr>
     <td><code>:enabled</code></td>
     <td>Altera cada elemento <code>&lt;input&gt;</code> habilitado.</td>
   </tr>
