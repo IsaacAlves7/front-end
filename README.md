@@ -1170,13 +1170,11 @@ p::after {
 ### Syntax
 <pre>
 :root{
-    --red: #ec3434;
-    --black: #141414;
-    --white: #f9f6f6;
+    --nome da variável: #141414;
 }
 
 .bg{
-  background-color: var(--black);
+  background-color: var(--nome da variável);
 }
 </pre>
 
