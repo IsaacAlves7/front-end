@@ -1167,6 +1167,21 @@ p::after {
 ## 📘 Variáveis no CSS 📥
 <p>As <strong>variáveis no CSS</strong> servem para definir um padrão para a maioria dos elementos HTML5, poupando assim muitas linhas de código na folha de estilo. É muito comum usar as variáveis para fazer uma paleta de cores para uma página web mais complexa.</p>
 
+### Syntax
+<pre>
+:root{
+    --red: #ec3434;
+    --black: #141414;
+    --white: #f9f6f6;
+}
+
+.bg{
+  background-color: var(--black);
+}
+</pre>
+
+<p>Basta utilizarmos a pseudo-classe <code>:root</code> e inserirmos os seletores <code>--nome da variável</code> para podermos atribuir os valores. Para chama-la é simples, basta somente utilizar o seletor desejável e o valor <code>var(--nome da variável)</code>.</p>
+
 ## 📘 Cálculos no CSS 🔢
 <hr>
 
