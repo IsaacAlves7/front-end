@@ -374,11 +374,21 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
   <pre><code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code></pre>
-  <li><code>&lt;link&gt;</code> que representa ligação com os arquivos css externos:</li><br/>
-    
-  [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+  <li><code>&lt;link&gt;</code> que representa ligação com os arquivos externos:</li><br/>
   
-  <pre>&lt;link rel="stylesheet" href="style.css"&gt;</pre>
+  ### Chamando uma folha de estilo externa
+ 
+ [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+ [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
+ 
+ <pre>&lt;link rel="stylesheet" href="style.css"&gt;</pre>
+ 
+ ### Chamando uma ícone para a guia do navegador
+ 
+ [![SVG](https://img.shields.io/badge/-icon.svg-000000?style=social&logo=SVG&logoColor=FFB13B)](#)
+ 
+ <pre>&lt;link rel="shortcut icon" href="icon.svg"&gt;</pre>
+ 
   <li><code>&lt;meta&gt;</code> que representa comandos para definições globais da página:</li><br/>
   
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
