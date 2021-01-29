@@ -2072,7 +2072,7 @@ Após instalar o Node.js em sua máquina, criaremos um diretório chamado Sass.<
 
 <h1 align="center">Cap: 🅱️ Bootstrap 🟪</h1>
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="170"></div>
-<p>Se trata de um framework para desenvolvimento de sites responsivos. Possui uma vasta biblioteca de componentes que facilita a agiliza o desenvolvimento de páginas web.</p>
+<p>Se trata de um framework para desenvolvimento de sites responsivos. Possui uma vasta biblioteca de componentes que facilita a agiliza o desenvolvimento de páginas web. É um dos frameworks mais conhecidos e usados para desenvolvimento front-end.</p>
 
 
 
