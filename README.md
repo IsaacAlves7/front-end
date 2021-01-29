@@ -105,7 +105,7 @@
   <li><a href="">📙🌌 Parallax 🌌📘</a></li>
   <li><a href="">📕 Pré-processador Sass 👓</a></li>
   <li><a href="">📕 Primeiros passos com o Sass e configurando o ambiente 🟩</a></li>
-  <li><a href="">🅱️ Bootstrap 🟪</a></li>
+  <li><a href="">🅱️ Framework Bootstrap 🟪</a></li>
 </ol>
 <hr>
 
@@ -2070,7 +2070,7 @@ Primeiro, obtenha o Node.js em: https://nodejs.org/
 Após instalar o Node.js em sua máquina, criaremos um diretório chamado Sass.</p>
 <hr>
 
-<h1 align="center">Cap: 🅱️ Bootstrap 🟪</h1>
+<h1 align="center">Cap: 🅱️ Framework Bootstrap 🟪</h1>
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="170"></div>
 <p>Se trata de um framework para desenvolvimento de sites responsivos. Possui uma vasta biblioteca de componentes que facilita a agiliza o desenvolvimento de páginas web. É um dos frameworks mais conhecidos e usados para desenvolvimento front-end.</p>
 
