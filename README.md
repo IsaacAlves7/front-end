@@ -1315,6 +1315,8 @@ body{
    background-attachment: fixed;
    background-position: center;
 }
+
+## Gradientes 
 </pre>
 
 <p><strong>attachment</strong> fixa a imagem e <b>position</b> determina a sua localização. O resultado é a imagem totalmente centralizada na página.</p>
