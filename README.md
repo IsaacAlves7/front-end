@@ -182,7 +182,7 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 </p>
 
 ## JavaScript (JS) 📒📜
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Repositório do JavaScript"/></a><br></div><br>
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
 
 Com o JavaScript podemos criar efeitos especiais para nossas páginas na Web, além de podermos proporcionar maior interatividade com nossos usuários.
