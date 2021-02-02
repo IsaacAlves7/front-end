@@ -106,7 +106,7 @@
   <li><a href="">📕 Pré-processador Sass 👓</a></li>
   <li><a href="">📕 Primeiros passos com o Sass e configurando o ambiente 🟩</a></li>
   <li><a href="">☂️ Framework Bootstrap ☔</a></li>
-  <li><a href="">🌸 Framework MaterializeCSS 🎀</a></li>
+  <li><a href="">🌸 Framework Materialize CSS 🎀</a></li>
 </ol>
 <hr>
 
