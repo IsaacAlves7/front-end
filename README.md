@@ -405,7 +405,7 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
   
   <b>Atualizar a página depois de 1 segundo sem JavaScript!</b>
   <pre>
-      <meta http-equiv="refresh" content="1;url=index.html">
+      &lt;meta http-equiv="refresh" content="1;url=index.html"&gt;
   </pre>
   
   <li><code>&lt;script&gt;</code> comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:</li><br/>
