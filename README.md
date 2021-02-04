@@ -1245,6 +1245,8 @@ ul {
 
 <blockquote>OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.</blockquote>
 
+## Border (A Borda do elemento)
+
 <p>No entanto, a <strong>border</strong> é diferente da <strong>margin</strong> e do <strong>padding</strong>: 'border-top-width', 'border-right-width', 'border-bottom-width', e 'border-left-width‘.
 &nbsp;
 Exemplo de utilização:
@@ -1259,6 +1261,12 @@ h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
 
 Exemplo de utilização:</p>
 <pre>#xy34 { border-style: solid dotted }</pre>
+
+### Tipos de Borda
+
+### Personalizando a Borda
+
+## Content (O Conteúdo do Elemento)
 <hr>
 
 <h1 align="center">Cap: 📘 Foreground e Background 🖼️🟦</h1>
