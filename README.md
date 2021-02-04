@@ -402,6 +402,12 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
    <code>&lt;meta name="author" content="Hege Refsnes"&gt;</code>
    <code>&lt;meta http-equiv="refresh" content="30"&gt;</code>
   </pre>
+  
+  <b>Atualizar a página depois de 1 segundo sem JavaScript!</b>
+  <pre>
+      <meta http-equiv="refresh" content="1;url=index.html">
+  </pre>
+  
   <li><code>&lt;script&gt;</code> comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:</li><br/>
   
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
