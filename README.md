@@ -1265,7 +1265,8 @@ Exemplo de utilização:</p>
 
 ### Tipos de Borda
 
-### Personalizando a Borda
+### Como fazer Bordas de Triângulos
+![como fazer triângulos com bordas](https://user-images.githubusercontent.com/61624336/107122854-0ccc9e00-6879-11eb-9ec0-9f604afc59c8.gif)
 
 ## Content (O Conteúdo do Elemento)
 <hr>
