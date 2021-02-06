@@ -1264,7 +1264,7 @@ Exemplo de utilização:</p>
 <pre>#xy34 { border-style: solid dotted }</pre>
 
 ### Tipos de Borda
-
+![Cssed_borderstyles](https://user-images.githubusercontent.com/61624336/107123954-561fec00-687f-11eb-8303-94956c19f434.png)
 
 ### 🔺 Como fazer Bordas de Triângulos 🔻
 ![como fazer triângulos com bordas](https://user-images.githubusercontent.com/61624336/107122854-0ccc9e00-6879-11eb-9ec0-9f604afc59c8.gif)
