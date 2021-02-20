@@ -1265,6 +1265,7 @@ Exemplo de utilização:</p>
 
 ### Tipos de Borda
 ![Cssed_borderstyles](https://user-images.githubusercontent.com/61624336/107123954-561fec00-687f-11eb-8303-94956c19f434.png)
+![Tipos de bordas](https://user-images.githubusercontent.com/61624336/108574726-eb4ac800-72f6-11eb-9906-b8f8e1ca5d5c.png)
 
 ### 🔺 Como fazer Bordas de Triângulos 🔻
 ![como fazer triângulos com bordas](https://user-images.githubusercontent.com/61624336/107122854-0ccc9e00-6879-11eb-9ec0-9f604afc59c8.gif)
