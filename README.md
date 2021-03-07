@@ -1,4 +1,4 @@
-# <img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" height="27"><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" height="30">  It's a repository of HTML5 & CSS3 Development 🌐
+# <img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" height="37"><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" height="37">  It's a repository of HTML5 & CSS3 Development 🌐
 
 <p>I created this repository for my Web Development learning using HTML5 and CSS3. It's a repository with static pages, responsive layouts, pre-processors, frameworks and modern techniques about that languages.</p>
 
