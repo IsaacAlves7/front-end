@@ -69,46 +69,6 @@
   <li>https://cssgridgarden.com/</li>
   <li>https://gridcritters.com/</li>
 </ul>
-
-## 📙 Main menu - Fundamentals about the HTML5 & CSS3 Development 📘:
-<b>All topics:</b>
-
-<ol>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-01-%EF%B8%8F-client-side-and-server-side-%EF%B8%8F">🖥️ Client-side and Server-side 🗄️🌐</a></li>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-02--html5-and-css3-">📙 HTML5 and CSS3 📘</a></li>
-  <li><a href="https://github.com/IsaacAlves7/html5-and-css3-development/blob/master/README.md#cap-03--tags-essenciais-do-html-%EF%B8%8F">📙 TAGs essenciais do HTML 🏷️</a></li> 
-  <li><a href="">📙 TAG de Imagem 🖼️</a></li>
-  <li><a href="">📙 TAGs de Listas 📑</a></li> 
-  <li><a href="">📙 TAG de Âncora 🔗</a></li>
-  <li><a href="">📙 TAGs de Multimedia 🔊▶️</a></li> 
-  <li><a href="">📙 TAGs de Tabelas ⬜🔲</a></li> 
-  <li><a href="">📙 TAGs de Formulários 📋</a></li>
-  <li><a href="">📙 HTML5 Semantic 📰</a></li>
-  <li><a href="">📙 HTML5 Iframe 🎞️</a></li>
-  <li><a href="">📙 HTML5 Maps 🗺️</a></li>
-  <li><a href="">📙 HTML5 Canvas 🎥</a></li>
-  <li><a href="">📙 HTML5 SVG 🖼️🌐</a></li>
-  <li><a href="">📙 Importando o Google Maps 🧭📍</a></li>
-  <li><a href="">📙 HTML5 symbols 🔣✝️</a></li>
-  <li><a href="">📘 Revisando o CSS 📄</a></li>
-  <li><a href="">📘 Box Model 📦⬆️➡️⬇️⬅️</a></li>
-  <li><a href="">📘 Foreground e Background 🖼️🟦</a></li>
-  <li><a href="">📘 Trabalhando com textos no CSS 🔤🔠</a></li>
-  <li><a href="">📘 Keyframes 🚶‍♂️🏃‍♂️💨</a></li>
-  <li><a href="">📘 Animation 🚀</a></li>
-  <li><a href="">📘 Transition 🚘🚦</a></li>
-  <li><a href="">📘 Transform 🌱🌲</a></li>
-  <li><a href="">📘 Positions and dimensions 🟧🟦</a></li>
-  <li><a href="">📘 Displays 📺</a></li>
-  <li><a href="">📘 Flexbox Layout 🥡</a></li>
-  <li><a href="">📘 Grid Layout 🍱</a></li>
-  <li><a href="">📙📘 Responsive Layout 📱💻🖥️</a></li>
-  <li><a href="">📙🌌 Parallax 🌌📘</a></li>
-  <li><a href="">📕 Pré-processador Sass 👓</a></li>
-  <li><a href="">📕 Primeiros passos com o Sass e configurando o ambiente 🟩</a></li>
-  <li><a href="">☂️ Framework Bootstrap ☔</a></li>
-  <li><a href="">🌸 Framework Materialize CSS 🎀</a></li>
-</ol>
 <hr>
 
 <div align="center"><h1>Cap 01: 🖥️ Client-side and Server-side 🗄️🌐</h1></div>
