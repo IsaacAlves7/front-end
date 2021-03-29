@@ -1055,6 +1055,16 @@ O <code>a:hover</code> do exemplo significa que a âncora também terá essa apa
   </tr>
 </table>
 
+### Aplicações:
+![img11](https://user-images.githubusercontent.com/61624336/112897063-8a609d80-90b5-11eb-84a6-977c76e21cf2.jpg)
+![img12](https://user-images.githubusercontent.com/61624336/112897068-8b91ca80-90b5-11eb-9683-751146a318d6.jpg)
+![img13](https://user-images.githubusercontent.com/61624336/112897072-8d5b8e00-90b5-11eb-9961-9fa0e8dc799a.jpg)
+![img14](https://user-images.githubusercontent.com/61624336/112897086-90567e80-90b5-11eb-8d76-541b90de78e5.jpg)
+![img15](https://user-images.githubusercontent.com/61624336/112897092-92204200-90b5-11eb-9319-883412d62ee9.jpg)
+![img16](https://user-images.githubusercontent.com/61624336/112897098-93ea0580-90b5-11eb-8f98-01cce0f8eb4f.jpg)
+![img17](https://user-images.githubusercontent.com/61624336/112897107-964c5f80-90b5-11eb-97f4-eec02f0f0bcd.jpg)
+
+
 ### Exemplo 1:
 <pre>
 p:first-child {
