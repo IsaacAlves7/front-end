@@ -2076,6 +2076,9 @@ Após instalar o Node.js em sua máquina, criaremos um diretório chamado Sass.<
 <p>O Bootstrap já possui um padrão para containers, divs e entre outras tags, como se fossem uma espécie de caixa, todas elas são chamadas pelos atributos <code>class</code>. Uma desvantagem do Bootstrap é a quantidade de linhas e classes no arquivo html, tornando o código mais longo do que estilizado pelo CSS puro. No entanto, é possível utilizar o Framework Bootstrap junto com a folha de Estilo, basta somente usar outros nomes para os seletores.</p>
 <hr>
 
+# Dia do Programador
+![html](https://user-images.githubusercontent.com/61624336/112908980-e08a0c80-90c6-11eb-9d73-73b0b8aedde7.jpg)
+
 
 
 
