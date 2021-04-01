@@ -1480,6 +1480,9 @@ body, p, img {
 }
 </pre>
 
+### 4. Esquema Relativo 📘
+![EuKdtFOVcAIac3j](https://user-images.githubusercontent.com/61624336/113332439-8de36700-92f7-11eb-9e31-7a356f8d03cf.jpg)
+
 ### 3. Esquema Absoluto 📘🤴
 <p>Definido pela regra position com valores <b>absolute</b> e <b>fixed</b>. O box é removido do fluxo completamente sem impactar nos elementos posteriores.
 
