@@ -1,6 +1,6 @@
 # <img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" height="37"><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" height="37">  It's a repository of HTML5 & CSS3 Development 🌐
 
-<p>I created this repository for my Web Development learning using HTML5 and CSS3. It's a repository with static pages, responsive layouts, pre-processors, frameworks and modern techniques about that languages.</p>
+<blockquote>I created this repository for my Web Development learning using HTML5 and CSS3. It's a repository with static pages, responsive layouts, pre-processors, frameworks and modern techniques about that languages.</blockquote>
 
 <a href="https://github.com/IsaacAlves7/html5-and-css3-development"><img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/></a>
 
@@ -32,7 +32,7 @@
 </ul>
 <hr>
 
-<div align="center"><h1>Cap 01: 🖥️ Client-side and Server-side 🗄️🌐</h1></div>
+# 💻 Client-side and Server-side 🖥️
 <div align="center"><img src="https://nickjanetakis.com/assets/blog/cards/server-side-templates-vs-rest-api-and-javascript-front-end-374a74c142bfb09344b9635c3c444b6a152a3c90952e79df1ae013081af5f53e.jpg" height="270"/></div>
 <p>Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web.
   
@@ -40,28 +40,27 @@ Em desenvolvimento para a Web sempre separamos dois setores: a parte do servidor
   
 O <strong>cliente</strong> é o computador do usuário, assim como o seu. É utilizado pelas pessoas para acessar sites ou sistemas a partir de um endereço (Google Chrome, Internet Explorer, Safari, Mozilla Firefox e etc). Os arquivos vindos por esse endereço são disponibilizados por um outro computador que serve estes arquivos. Estes computadores que estão em algum lugar do mundo que servem arquivos e outros serviços são chamados de servidores (Apache, IIS, Glassfish e etc).</p>
 
-## 🏙️🏦 What's Front-end, Back-end and Full-Stack Development? 🏬🌐
+## What's Front-end, Back-end and Full-Stack Development?
 <div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div>
 <p>Nos <strong>servidores</strong> programamos com linguagens como <b>PHP</b>, <b>Java</b>, <b>C#</b>, <b>Ruby</b>, <b>Python</b> entre outros. E também gerenciamos <b>bancos de dados</b> (MySQL, SQ Lite, Mongo DB, SQL Server e etc), onde chamamos essa parte de <b>back-end</b>. Quando há acesso ao banco de dados, o servidor trabalha de uma forma diferenciada, pois a implementação de um servidor web é um serviço diferente à implementação de um servidor banco de dados.
   
 Os <b>clientes</b>, que podem ser qualquer dispositivo conectado à Internet como smartphones, notebooks, tablets e smarttvs, recebem arquivos desses servidores, como imagens, vídeos, arquivos HTML, CSS e JavaScript. Chamamos essa parte de <b>front-end</b>.</p>
 
 <p>Já o <b>Full-Stack</b> engloba os conhecimentos tanto de front-end como back-end, ou seja, é um profissional bem mais completo e que se destaca muito no mercado de trabalho.</p>
-<hr>
 
-<div align="center"><h1>Cap 02: 📙 HTML5 and CSS3 📘</h1></div>
+## HTML5 and CSS3
 <div align="center"><img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" height="200"/></div><br>
 <p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.</p>
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 
-## HTML5 - Hypertext Makup Language 5 📙🌐
+# 📙 HTML5 - Hypertext Makup Language 5 📃
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="200"/></div>
 <p>A linguagem de formatação de documentos com a capacidade de links de hipertexto (termo que remete a um texto ao qual se agregam outros conjuntos de informação na forma de blocos de textos, palavras, imagens ou sons, cujo acesso ocorre através de referências específicas, no meio digital, denominadas hiperlinks, ou simplesmente links) e que tornou-se o formato básico para publicação na web.
 
 In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
 </p>
 
-### HTML Timeline 🕖📙
+### HTML Timeline
 <ol>
   <li>HTML é tornado público - 1989</li>
   <li>HTML - 1991</li>
@@ -82,14 +81,14 @@ In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by 
 <p>Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava convencido que o XML era o futuro para todos os autores web. Este grupo começou a desenvolver um trabalho separado, para criar uma nova forma de utilização dos antigos códigos HTML, principalmente ligado ao uso de formulários, sem deixar de atender às determinações básicas do XML. Aquela especificação eventualmente se tornou Web Forms 2.0 e, subsequentemente, foi incorporado na especificação HTML5.</p>
 <p>Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.</p>
 
-## CSS3 - Cascading Style Sheets 3 📘🌐
+# 📘 CSS3 - Cascading Style Sheets 3 📃
 <div align="center"><img src="https://logonoid.com/images/css3-logo.png" height="200"/></div>
 <p><b>CSS</b> (<i>Cascading Style Sheets</i>), is a "Stylesheets" composta for "camadas" and used to define the presentation (aparence) in internet pages that adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML). O CSS define como serão exibidos os elementos contidos no código 
 de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
 
 Há várias formas de inserir modificação no estilo com CSS. Com o CSS você pode especificar muitas propriedades de estilo para qualquer elemento HTML. Cada propriedade tem um nome e um valor, separados por dois pontos (:). Cada declaração de propriedade é separada por um ponto e vírgula (;).
 
-### Tipos de CSS 📘📃
+## Tipos de CSS
 <ul>
 <li><b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML.</li>
 <br><b>Exemplo de CSS interno:</b><br>
@@ -103,7 +102,7 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 </ul>
 </p>
 
-## JavaScript (JS) 📒📜
+# 📜 JavaScript (JS) 🔢
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
 
@@ -117,7 +116,7 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
 
 É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.</p>
 
-## Document Object Model (DOM) 🌳📙📘📒
+## Document Object Model (DOM) 
 <div align="center"><img src="https://www.kirupa.com/html5/images/DOM_js_72.png"/></div><br>
 <p>The <b>DOM</b> (<i>Document Object Model</i>) is a multiplataform convention and independent of language for representing and interacting with objects in <b>HTML</b>, <b>XHTML</b> e <b>XML</b> documents.
 
@@ -144,7 +143,7 @@ Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas
 Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  <code>&lt;font&gt;</code>, <code>&lt;center&gt;</code> e outras novas, pois milhões de páginas web as utilizam.</p>
 <hr>
 
-<div align="center"><h1>Cap 03: 📙 TAGs essenciais do HTML 🏷️</h1></div>
+# 📙 TAGs essenciais do HTML 🏷️
 <img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
 <p>É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code>&lt;meta&gt;</code>, <code>&lt;h1&gt;</code>, <code>&lt;img&gt;</code> etc. 
 
@@ -170,7 +169,7 @@ Uma TAG pode conter <b>atributos</b>, que são informações que alteram o compo
 Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o <b>CSS</b>, o <b>Javascript</b>.
 </p>
 
-## Atributos de uma TAG 📙🏷️
+## Atributos de uma TAG
 <p><b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
 
 Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <code>&lt;link&gt;</code>:
@@ -179,7 +178,7 @@ Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você 
 </pre>
 Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no caso é <code>rel="stylesheet"</code> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <code>href=""</code> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
 
-### Atributos Específicos de uma TAG 📙🏷️
+### Atributos Específicos de uma TAG
 <table>
   <tr>
     <td><strong>Atributo</strong></td>
@@ -223,7 +222,7 @@ Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no 
   </tr>
 </table>
 
-### Atributos Globais de uma TAG 📙🏷️🌎
+### Atributos Globais de uma TAG
 <table>
   <tr>
     <td><strong>Atributo</strong></td>
@@ -243,13 +242,13 @@ Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no 
   </tr>
 </table>
 
-### Eventos de uma TAG (Métodos HTML5 + JavaScript) 📜 + 📙🎪
+### Eventos de uma TAG (Métodos HTML5 + JavaScript)
 [![JS](https://img.shields.io/badge/-Repositorio:‍‍Eventos‍‍JavaScript‍‍📜📙🎪-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)](https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-16--eventos-)
 
 <pre>&lt;img src="1.jpg" onclick="functionClick()"/&gt;</pre>
 <p>O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando uma função JavaScript quando o usuário interage em um elemento. Devido a extensão desse conteúdo criei um repositório mais focado no desenvolvimento JavaScript, clique no badge acima para saber mais sobre os Eventos!</p>
 
-## Estrutura do HTML 📙📃🧱
+## Estrutura do HTML
 
 <p>Tudo começa com o diretório <b>/assets/</b>, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
 
