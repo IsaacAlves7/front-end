@@ -2049,6 +2049,11 @@ Após instalar o Node.js em sua máquina, criaremos um diretório chamado Sass.<
 
 # HTML + CSS + JS
 <div align="center"><a href="https://getbootstrap.com/"><img src="https://swifnix.com/wp-content/uploads/2020/10/banner_html_css.jpg"></a></div>
+<div align="center"><a href="https://getbootstrap.com/"><img src="https://eng.com.br/img_M/banners-html5-css3.jpg"></a></div>
+<div align="center"><a href="https://getbootstrap.com/"><img src="https://wallacesilva.com/blog/wp-content/uploads/2015/08/147949-html5-css3-javascript.png"></a></div>
+<div align="center"><a href="https://getbootstrap.com/"><img src="https://cursosciatec.com.br/home/wp-content/uploads/2018/11/BANNER-HTML5-CSS3-JAVASCRIPT-1.png"></a></div>
+<div align="center"><a href="https://getbootstrap.com/"><img src="https://coursework.vschool.io/content/images/2017/09/JavaScriptBanner.png"></a></div>
+<div align="center"><a href="https://getbootstrap.com/"><img src="https://coursework.vschool.io/content/images/2017/09/JavaScriptBanner.png"></a></div>
 
 
 
