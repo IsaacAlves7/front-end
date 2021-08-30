@@ -2,7 +2,7 @@
 
 <blockquote>I created this repository for my Web Development learning using HTML5 and CSS3. It's a repository with static pages, responsive layouts, pre-processors, frameworks and modern techniques about that languages.</blockquote>
 
-<a href="https://github.com/IsaacAlves7/html5-and-css3-development"><img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png" width="1000"/></a>
+<a href="https://github.com/IsaacAlves7/html5-and-css3-development"><img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png"></a>
 
 ## 🎒 Prerequisites and repositories 📚:
 <ul>
