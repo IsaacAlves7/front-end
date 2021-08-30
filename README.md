@@ -122,7 +122,7 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
 
 The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
 
-## Aplication Programming Interfaces (API's) 📙+📘+📒+🐘+🏦+🎲
+# API's - Aplication Programming Interfaces
 <div align="center"><img src="https://miro.medium.com/max/654/0*prut14lFoArZnPK5.jpg" height="400"/></div>
 <i>Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, <b>REST API</b>, também chamado de <b>RESTful API</b>.</i><br><br>
 
@@ -2047,8 +2047,8 @@ Após instalar o Node.js em sua máquina, criaremos um diretório chamado Sass.<
 ![html](https://user-images.githubusercontent.com/61624336/112908980-e08a0c80-90c6-11eb-9d73-73b0b8aedde7.jpg)
 
 
-
-
+# HTML + CSS + JS
+<div align="center"><a href="https://getbootstrap.com/"><img src="https://swifnix.com/wp-content/uploads/2020/10/banner_html_css.jpg"></a></div>
 
 
 
