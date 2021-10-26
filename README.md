@@ -557,7 +557,7 @@ O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite
 <p>Vamos ver como importar videos do YouTube e do Vimeo, passo a passo!</p>
 <hr>
 
-<h1 align="center">Cap 07: 📙 TAGs de Tabelas ⬜🔲</h1>
+# 📙 TAGs de Tabelas ⬜🔲
 <div align="center"><img src="https://cdn.educba.com/academy/wp-content/uploads/2019/10/Create-Tables-in-HTML.png"></div>
 <p>Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
 
@@ -745,7 +745,7 @@ Vamos usar um elemento HTML que vimos anteriormente, a âncora , para exemplific
 
 Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o <b>a</b>, então dentro de um par de chaves adicionamos as <strong>declarações</strong>, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as <b>declarações</b> são formadas por uma propriedade e um valor.</p>
 
-## Tipos de Seletores, Declarações, Propriedades e Valores 📘📃🧱
+# Tipos de Seletores, Declarações, Propriedades e Valores 📘📃🧱
 Uma regra CSS é representada por:
 <ul>
 <li><strong>Propriedade:</strong> Determina a modificação a ser feita.</li>
@@ -1104,7 +1104,7 @@ p::after {
 }
 </pre>
 
-## 📘 Variáveis no CSS 📥
+# 📘 Variáveis no CSS 📥
 <p>As <strong>variáveis no CSS</strong> servem para definir um padrão para a maioria dos elementos HTML5, poupando assim muitas linhas de código na folha de estilo. É muito comum usar as variáveis para fazer uma paleta de cores para uma página web mais complexa.</p>
 
 ### Syntax
@@ -1123,7 +1123,7 @@ p::after {
 ## 📘 Cálculos no CSS 🔢
 <hr>
 
-<h1 align="center">Cap: 📘 Box Model 📦⬆️➡️⬇️⬅️</h1>
+# 📘 Box Model 📦⬆️➡️⬇️⬅️
 <p>Look from this images bellow:</p>
 
 <div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><br>
@@ -1936,7 +1936,7 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 </pre>
 <hr>
 
-<h1 align="center">Cap 06: 📕 Pré-processador Sass 👓</h1>
+# 📕 Pré-processador Sass 👓💋
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="200"></div>
 
 [![Sass](https://img.shields.io/badge/-style.scss-000?style=social&logo=Sass&logoColor=safira)](#)
@@ -1956,7 +1956,7 @@ Há vários pré-processadores, não só para CSS, mas também para HTML e JavaS
 
 Para CSS, os mais famosos são **Sass**, **Less** e **Stylus**.
 
-## Por que usar Sass?
+## Por que usar o Sass?
 O Sass possui uma sintaxe muito parecida com o CSS comum. Isso significa que qualquer código CSS é interpretado pelo Sass!
 
 Possui uma grande comunidade e é utilizado por grandes frameworks, como o **Bootstrap** (que antigamente usava o Less), também possui um código bem maduro, com um desenvolvimento ativo há mais de 9 anos.
@@ -2020,7 +2020,7 @@ Além disso, pela popularização do Sass, hoje em dia não somos mais obrigados
 Para uma lista completa, acesse: http://sass-lang.com/libsass
 <hr>
 
-<h1 align="center">Cap: 📕 Primeiros passos com o Sass e configurando o ambiente 🟩</h1>
+# 📕 Primeiros passos com o Sass e configurando o ambiente 🟩
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" height="200"/></div>
 <p>Como foi dito, não é mais preciso obter o Ruby em nossa máquina para poder utilizar o Sass. Podemos compilar o Sass a partir de C, Go, Java, Node.js, PHP, Python, etc. Vamos aprender como configurar e rodar o Sass no ambiente Node.js:
 
@@ -2030,7 +2030,7 @@ Primeiro, obtenha o Node.js em: https://nodejs.org/
 Após instalar o Node.js em sua máquina, criaremos um diretório chamado Sass.</p>
 <hr>
 
-<h1 align="center">Cap: ☂️ Framework Bootstrap ☔</h1>
+# ☂️ Framework Front-End Bootstrap ☔
 <div align="center"><a href="https://getbootstrap.com/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="170" title="Clique para acessar o site do Bootstrap"></a></div>
 <p>Se trata de um framework para desenvolvimento de sites responsivos. Possui uma vasta biblioteca de componentes que facilita a agiliza o desenvolvimento de páginas web. É um dos frameworks mais conhecidos e usados para desenvolvimento front-end.</p>
 
@@ -2054,9 +2054,3 @@ Após instalar o Node.js em sua máquina, criaremos um diretório chamado Sass.<
 <div align="center"><a href="https://getbootstrap.com/"><img src="https://cursosciatec.com.br/home/wp-content/uploads/2018/11/BANNER-HTML5-CSS3-JAVASCRIPT-1.png"></a></div>
 <div align="center"><a href="https://getbootstrap.com/"><img src="https://coursework.vschool.io/content/images/2017/09/JavaScriptBanner.png"></a></div>
 <div align="center"><a href="https://getbootstrap.com/"><img src="https://coursework.vschool.io/content/images/2017/09/JavaScriptBanner.png"></a></div>
-
-
-
-
-
-
