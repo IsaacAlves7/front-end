@@ -4,24 +4,6 @@
 
 <blockquote>I created this repository for my Web Development learning using HTML5 and CSS3. It's a repository with static pages, responsive layouts, pre-processors, frameworks and modern techniques about that languages.</blockquote>
 
-## 🎒 Prerequisites and repositories 📚:
-<ul>
-  <li>Good domains in English;</li>
-  <li>Desire to learn.</li>
-</ul>
-
-<blockquote><b>⚠️ Warning:</b> It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Web development using HTML5 and CSS3, if you want to learn about JavaScript, PHP, JS Frameworks, etc; I recommend to access another repositories, click on links bellow!</blockquote>
-
-## 🔗 Links de Apoio 📚:
-[![Codepen](https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=CodePen&logoColor=white)]()
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000000?style=for-the-badge&logo=FreeCodeCamp&logoColor=white)](https://www.freecodecamp.org/learn/)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-f9f9f9?style=for-the-badge&logo=StackOverflow&logoColor=orange)](https://stackoverflow.com/)
-[![HTML5](https://img.shields.io/badge/-HTML5-6DB33F?style=for-the-badge&logo=HTML5&logoColor=white)](https://www.w3schools.com/html/default.asp) 
-[![Css3](https://img.shields.io/badge/-CSS3-6DB33F?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/default.asp)
-[![JS](https://img.shields.io/badge/-JavaScript-6DB33F?style=for-the-badge&logo=JavaScript&logoColor=white)]()
-[![Node Studio Treinamentos](https://img.shields.io/badge/-Node‍‍Studio‍‍Treinamentos-343434?style=for-the-badge&logo=React&logoColor=lime)](https://www.nodestudio.com.br/)
-[![Map](https://img.shields.io/badge/-Map-343434?style=for-the-badge&logo=React&logoColor=lime)](https://www.image-map.net/)
-
 ## 🐸 Para simulações de layout recomendo esses jogos educacionais 🥕:
 <ul>
   <li>https://flexboxfroggy.com/</li>
@@ -30,6 +12,7 @@
   <li>https://cssgridgarden.com/</li>
   <li>https://gridcritters.com/</li>
 </ul>
+
 <hr>
 
 # 💻 Client-side and Server-side 🖥️
