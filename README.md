@@ -1919,7 +1919,7 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 </pre>
 <hr>
 
-# 📕 Pré-processador Sass 👓💋
+# 💋 Sass
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="200"></div>
 
 [![Sass](https://img.shields.io/badge/-style.scss-000?style=social&logo=Sass&logoColor=safira)](#)
@@ -2013,7 +2013,7 @@ Primeiro, obtenha o Node.js em: https://nodejs.org/
 Após instalar o Node.js em sua máquina, criaremos um diretório chamado Sass.</p>
 <hr>
 
-# ☂️ Framework Front-End Bootstrap ☔
+# ☂️ Framework Bootstrap
 <div align="center"><a href="https://getbootstrap.com/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="170" title="Clique para acessar o site do Bootstrap"></a></div>
 <p>Se trata de um framework para desenvolvimento de sites responsivos. Possui uma vasta biblioteca de componentes que facilita a agiliza o desenvolvimento de páginas web. É um dos frameworks mais conhecidos e usados para desenvolvimento front-end.</p>
 
