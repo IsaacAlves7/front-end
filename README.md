@@ -4,7 +4,7 @@
 
 <blockquote>I created this repository for my Web Development learning using HTML5 and CSS3. It's a repository with static pages, responsive layouts, pre-processors, frameworks and modern techniques about that languages.</blockquote>
 
-## 🐸 Para simulações de layout recomendo esses jogos educacionais 🥕:
+# 🐸 Para simulações de layout recomendo esses jogos educacionais:
 <ul>
   <li>https://flexboxfroggy.com/</li>
   <li>https://courses.cs.washington.edu/courses/cse154/flexboxducky/</li>
