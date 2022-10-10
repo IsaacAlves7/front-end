@@ -15,7 +15,7 @@
 </ul>
 -->
 
-<div align="center"><img src="https://images.fineartamerica.com/images/artworkimages/medium/3/keep-calm-and-let-the-web-developer-handle-it-funny-gift-ideas-transparent.png"></div>
+<div align="center"><img src="https://images.fineartamerica.com/images/artworkimages/medium/3/keep-calm-and-let-the-web-developer-handle-it-funny-gift-ideas-transparent.png" height="177"></div>
 
 # 🎨 Web Design
 <img src="https://www.brainpulse.com/wp-content/uploads/2017/09/banner-web-design-2.png">
