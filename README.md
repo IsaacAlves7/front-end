@@ -109,6 +109,7 @@ Segundo Benyon (2011), A interface para um sistema interativo são todas as peç
 
 - **Fisicamente**: Fisicamente, podemos interagir com um dispositivo apertando botões ou movimentando alavancas, e o dispositivo interativo pode responder fornecendo retorno através da pressão do botão ou alavanca;
 - **Perceptivamente**: Perceptivamente, o dispositivo exibe coisas em uma tela que podemos ver, ou emite sons que podemos ouvir;
+- **Conceitualmente**: Conceitualmente, interagimos com um dispositivo tentando concluir o que ele faz e o que deveríamos estar fazendo. O dispositivo fornece mensagens e outros indicadores feitos para nos ajudar nesse sentido.
 
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
