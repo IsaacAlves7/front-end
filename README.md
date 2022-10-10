@@ -94,7 +94,7 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 </ul>
 </p>
 
-## IMPORTÂNCIA DA INTERFACE PARA WEBSITES
+## Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa.
 
 <img src="https://user-images.githubusercontent.com/61624336/194796066-6256d836-86ae-4249-a45b-898e85537a16.jpg" title="Interface gráfica">
@@ -110,6 +110,8 @@ Segundo Benyon (2011), A interface para um sistema interativo são todas as peç
 - **Fisicamente**: Fisicamente, podemos interagir com um dispositivo apertando botões ou movimentando alavancas, e o dispositivo interativo pode responder fornecendo retorno através da pressão do botão ou alavanca;
 - **Perceptivamente**: Perceptivamente, o dispositivo exibe coisas em uma tela que podemos ver, ou emite sons que podemos ouvir;
 - **Conceitualmente**: Conceitualmente, interagimos com um dispositivo tentando concluir o que ele faz e o que deveríamos estar fazendo. O dispositivo fornece mensagens e outros indicadores feitos para nos ajudar nesse sentido.
+
+> Uma interface deve oferecer meios para que um usuário possa passar instruções de forma simples, como também deverá informar ao usuário algum retorno, que pode ser uma informação, uma imagem, um aviso sonoro, uma animação ou até um filme.
 
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
