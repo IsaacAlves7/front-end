@@ -108,6 +108,7 @@ A forma pela qual a aplicação recebe essa informação do usuário pode ser co
 Segundo Benyon (2011), A interface para um sistema interativo são todas as peças do sistema com as quais as pessoas têm contato, física, perceptiva ou conceitualmente:
 
 - **Fisicamente**: Fisicamente, podemos interagir com um dispositivo apertando botões ou movimentando alavancas, e o dispositivo interativo pode responder fornecendo retorno através da pressão do botão ou alavanca;
+- **Perceptivamente**: Perceptivamente, o dispositivo exibe coisas em uma tela que podemos ver, ou emite sons que podemos ouvir;
 
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
