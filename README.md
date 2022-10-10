@@ -21,7 +21,7 @@
 
 Com o Web Design você precisa observar a importância da interface para o desenvolvimento de websites, evolução das tecnologias utilizadas na construção de páginas web ricas (web 1.0, web 2.0, web 3.0 e web 4.0), evolução das interfaces (mudanças estéticas, funcionais e estruturais).
 
-Portanto, você necessita compreender a importância da elaboração de interfaces ricas para a construção de um website, visando a melhor experiência de navegação e usabilidade para o usuário final, conhecendo algumas tecnologias utilizadas no passado para a construção de sítios online. A partir dessa visão, observar antigas tendências de mercado, assim como enxergar novas tendências na elaboração de interfaces.
+Portanto, você necessita compreender a importância da elaboração de interfaces ricas para a construção de um website, visando a melhor experiência de navegação e usabilidade para o usuário final, conhecendo algumas tecnologias utilizadas no passado para a construção de sites online. A partir dessa visão, observar antigas tendências de mercado, assim como enxergar novas tendências na elaboração de interfaces.
 
 # 🌐 Web Development
 <img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png">
