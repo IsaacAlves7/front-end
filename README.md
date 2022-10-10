@@ -33,14 +33,15 @@ Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos ar
   
 O <strong>cliente</strong> é o computador do usuário, assim como o seu. É utilizado pelas pessoas para acessar sites ou sistemas a partir de um endereço (Google Chrome, Internet Explorer, Safari, Mozilla Firefox e etc). Os arquivos vindos por esse endereço são disponibilizados por um outro computador que serve estes arquivos. Estes computadores que estão em algum lugar do mundo que servem arquivos e outros serviços são chamados de servidores (Apache, IIS, Glassfish e etc).</p>
 
-<div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div>
+<div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div><br />
+
 <p>Nos <strong>servidores</strong> programamos com linguagens como <b>PHP</b>, <b>Java</b>, <b>C#</b>, <b>Ruby</b>, <b>Python</b> entre outros. E também gerenciamos <b>bancos de dados</b> (MySQL, SQ Lite, Mongo DB, SQL Server e etc), onde chamamos essa parte de <b>back-end</b>. Quando há acesso ao banco de dados, o servidor trabalha de uma forma diferenciada, pois a implementação de um servidor web é um serviço diferente à implementação de um servidor banco de dados.
   
-Os <b>clientes</b>, que podem ser qualquer dispositivo conectado à Internet como smartphones, notebooks, tablets e smarttvs, recebem arquivos desses servidores, como imagens, vídeos, arquivos HTML, CSS e JavaScript. Chamamos essa parte de <b>front-end</b>.</p>
+Os <b>clientes</b>, que podem ser qualquer dispositivo conectado à Internet como smartphones, notebooks, tablets e smarttvs, recebem arquivos desses servidores, como imagens, vídeos, arquivos HTML, CSS e JavaScript. Chamamos essa parte de <b>front-end</b>.
 
-<p>Já o <b>Full-Stack</b> engloba os conhecimentos tanto de front-end como back-end, ou seja, é um profissional bem mais completo e que se destaca muito no mercado de trabalho.</p>
+Já o <b>Full-Stack</b> engloba os conhecimentos tanto de front-end como back-end, ou seja, é um profissional bem mais completo e que se destaca muito no mercado de trabalho.
 
-<div align="center"><img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" height="177"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" height="177"/></div><br />
 
 <p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.</p>
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
