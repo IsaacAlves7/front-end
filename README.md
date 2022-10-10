@@ -122,12 +122,6 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
 
 É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.</p>
 
-## Document Object Model (DOM) 
-<div align="center"><img src="https://www.kirupa.com/html5/images/DOM_js_72.png"/></div><br>
-<p>The <b>DOM</b> (<i>Document Object Model</i>) is a multiplataform convention and independent of language for representing and interacting with objects in <b>HTML</b>, <b>XHTML</b> e <b>XML</b> documents.
-
-The nós de cada documento são organizados em in tree structure, is called of <b>DOM tree</b>.</p>
-
 # API's - Aplication Programming Interfaces
 <div align="center"><img src="https://miro.medium.com/max/654/0*prut14lFoArZnPK5.jpg" height="400"/></div>
 <i>Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, <b>REST API</b>, também chamado de <b>RESTful API</b>.</i><br><br>
