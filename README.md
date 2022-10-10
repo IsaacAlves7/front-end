@@ -41,7 +41,6 @@ Os <b>clientes</b>, que podem ser qualquer dispositivo conectado à Internet com
 
 <p>Já o <b>Full-Stack</b> engloba os conhecimentos tanto de front-end como back-end, ou seja, é um profissional bem mais completo e que se destaca muito no mercado de trabalho.</p>
 
-## HTML5 and CSS3
 <div align="center"><img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" height="200"/></div><br>
 <p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.</p>
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
