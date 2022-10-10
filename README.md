@@ -113,6 +113,9 @@ Segundo Benyon (2011), A interface para um sistema interativo são todas as peç
 
 > Uma interface deve oferecer meios para que um usuário possa passar instruções de forma simples, como também deverá informar ao usuário algum retorno, que pode ser uma informação, uma imagem, um aviso sonoro, uma animação ou até um filme.
 
+<img src="https://user-images.githubusercontent.com/61624336/194799532-9908b16c-6394-47d8-a92e-7c563321bc5f.jpg" title="Interface gráfica nos smartphones">
+
+
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
