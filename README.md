@@ -1,6 +1,8 @@
-<a href="https://github.com/IsaacAlves7/html5-and-css3-development"><img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png"></a>
 
-# <img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" height="37"> It's a repository of HTML5 & CSS3 Development 🌐
+
+# It's a repository of HTML5 & CSS3 Development 🌐
+
+<a href="https://github.com/IsaacAlves7/html5-and-css3-development"><img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/html-css-banner.png"></a>
 
 <blockquote>I created this repository for my Web Development learning using HTML5 and CSS3. It's a repository with static pages, responsive layouts, pre-processors, frameworks and modern techniques about that languages.</blockquote>
 
@@ -12,8 +14,6 @@
   <li>https://cssgridgarden.com/</li>
   <li>https://gridcritters.com/</li>
 </ul>
-
-<hr>
 
 # 💻 Client-side and Server-side 🖥️
 <div align="center"><img src="https://nickjanetakis.com/assets/blog/cards/server-side-templates-vs-rest-api-and-javascript-front-end-374a74c142bfb09344b9635c3c444b6a152a3c90952e79df1ae013081af5f53e.jpg" height="270"/></div>
@@ -124,9 +124,8 @@ Ainda mais importante é a necessidade de um padrão aberto livre (para utilizar
 Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas tecnologias ou empresas, acreditamos que a Web seja uma plataforma vital à sociedade, comércio e comunicações para estar nas mãos de um fabricante.
 
 Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  <code>&lt;font&gt;</code>, <code>&lt;center&gt;</code> e outras novas, pois milhões de páginas web as utilizam.</p>
-<hr>
 
-# 📙 TAGs essenciais do HTML 🏷️
+# 📙 TAGs essenciais do HTML
 <img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
 <p>É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code>&lt;meta&gt;</code>, <code>&lt;h1&gt;</code>, <code>&lt;img&gt;</code> etc. 
 
@@ -611,7 +610,6 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 <pre><code>&lt;table border rules="cols"6&gt;</code></pre>
 <pre><code>&lt;table border rules="groups"6&gt;</code></pre>
 <pre><code>&lt;table border rules="rows"6&gt;</code></pre>
-<hr>
 
 <h1 align="center">Cap 15: 📙 TAGs de Formulários 📋</h1>
 <p>A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:</p>
@@ -621,7 +619,6 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 
 ## 📙 A diferença entre anchor, input and button 📘🆗
 <div align="center"><img src="https://davidwalsh.name/demo/html5-buttons.png" height="200"></div>
-<hr>
 
 <div align="center"><h1>Cap 09: 📙 HTML Semantic 📰</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
