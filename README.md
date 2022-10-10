@@ -145,6 +145,15 @@ Uma interface bem elaborada é um requisito fundamental de uma aplicação bem-s
 - **Qualidade externa**: O sistema é avaliado baseado no comportamento do software;
 - **Qualidade de uso**: Até que ponto o software atende às necessidades do usuário.
 
+## A evolução das interfaces nos sistemas computacionais
+À medida que avançamos no estudo da história dos computadores, podemos notar que a forma de interação entre o homem e a máquina evolui de um modo bem diferente comparado à evolução do poder de processamento dessas máquinas.
+
+No início da era da computação, os computadores consistiam em máquinas gigantescas que literalmente ocupavam uma sala inteira, chegando a pesar algo em torno de 30 toneladas! A operação dessas máquinas significava algo muito complexo e restrito apenas a alguns engenheiros ou técnicos com uma vasta experiência em sua utilização.
+
+A troca de informações entre o homem e a máquina era feita diretamente no próprio hardware através da manipulação de cabos e chaves. O resultado desse processamento se dava na forma de dados numéricos representados por luzes que piscavam. Como podemos imaginar, esse tipo de retorno não era muito produtivo, pois o responsável pela operação dessa máquina deveria saber interpretar corretamente o significado dessas luzes.
+
+Entretanto, podemos perceber que a manipulação dos cabos e chaves representava a interface de entrada e as luzes a interface de saída. Interface bastante limitada, porém, era o recurso existente na época e que limitava a utilização por pessoas especializadas.
+
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
