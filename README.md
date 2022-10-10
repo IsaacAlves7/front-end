@@ -469,10 +469,10 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <pre>&lt;pre&gt;&lt;code&gt;console.log('Hello, World!');&lt;/code&gt;&lt;/pre&gt;</pre>
 </ul>
 
-<h1 align="center">Cap 04: 📙 TAG de Imagem 🖼️</h1>
+<h1 align="center">📙 TAG de Imagem</h1>
 <pre>&lt;img src="/assets/public/img/img.svg"&gt;</pre>
 
-<h1 align="center">Cap 05: 📙 TAGs de Listas 📑</h1>
+<h1 align="center">📙 TAGs de Listas</h1>
 <p>As listas são importantes para a organização do texto e orientação do usuário.</p>
 <ul>
  <li><p><code>&lt;li&gt;</code> elemento que representa um os itens das listas.</p></li>
@@ -515,7 +515,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 </pre>
  </ul>
 
-<h1 align="center">📙 TAG de Âncora 🔗</h1>
+<h1 align="center">🔗 TAG de Âncora</h1>
 <div align="center"><img src="https://www.computerhope.com/jargon/h/html-tag.gif"></div>
 <p><code>&lt;a&gt;</code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <code><b>href="mailto:webmaster@example.com"</b></code> que irá enviar uma mensagem para seu email.</p>  
 
@@ -536,7 +536,7 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 ### Exemplo 3: Enviando mensagem para o email
 <pre>&lt;a href="mailto:webmaster07@gmail.com"&gt;Enviar email&lt;/a&gt;</pre>
 
-<h1 align="center">📙 TAGs de Multimedia 🔊</h1>
+<h1 align="center">🔊 TAGs de Multimedia</h1>
 <div align="center"><img src="https://jibigit.github.io/cheat-html/images/media.png"></div>
 
 ## ▶️ Flash Player 🔊
