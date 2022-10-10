@@ -665,7 +665,7 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 ## 📙 A diferença entre anchor, input and button 📘🆗
 <div align="center"><img src="https://davidwalsh.name/demo/html5-buttons.png" height="200"></div>
 
-<div align="center"><h1>Cap 09: 📙 HTML Semantic 📰</h1></div>
+<div align="center"><h1>📙 HTML Semantic</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
 
 ## New Semantic Elements in HTML5 📙📰
