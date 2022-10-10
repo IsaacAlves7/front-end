@@ -152,7 +152,11 @@ No início da era da computação, os computadores consistiam em máquinas gigan
 
 A troca de informações entre o homem e a máquina era feita diretamente no próprio hardware através da manipulação de cabos e chaves. O resultado desse processamento se dava na forma de dados numéricos representados por luzes que piscavam. Como podemos imaginar, esse tipo de retorno não era muito produtivo, pois o responsável pela operação dessa máquina deveria saber interpretar corretamente o significado dessas luzes.
 
-Entretanto, podemos perceber que a manipulação dos cabos e chaves representava a interface de entrada e as luzes a interface de saída. Interface bastante limitada, porém, era o recurso existente na época e que limitava a utilização por pessoas especializadas.
+> Entretanto, podemos perceber que a manipulação dos cabos e chaves representava a interface de entrada e as luzes a interface de saída. Interface bastante limitada, porém, era o recurso existente na época e que limitava a utilização por pessoas especializadas.
+
+<img src="https://user-images.githubusercontent.com/61624336/194951398-6ae28b05-17d8-4042-b69c-90a3d10014ca.jpg" title="ENIAC" width="100%">
+
+A primeira evolução nessa interação entre o homem e a máquina ocorreu em 1950, quando a IBM passou a utilizar, para fazer seus programas, cartões perfurados que eram lidos, interpretados e executados pelo computador. A utilização desses cartões não representava uma novidade, afinal, Herman Hollerith já havia utilizado algo similar anos antes.
 
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
