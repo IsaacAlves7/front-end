@@ -107,6 +107,8 @@ Por exemplo, um usuário de um site de e-commerce que está à procura de determ
 
 A forma pela qual a aplicação recebe essa informação do usuário pode ser considerada como a sua interface. A finalidade de uma interface é facilitar a interação de uma pessoa com um sistema ou até mesmo a comunicação entre diferentes sistemas.
 
+> **Comentário**: Para o caso específico da comunicação entre diferentes sistemas, existem vários recursos que podem ser utilizados. Alguns dos mais empregados atualmente são os **web services**. Para garantir a correta operação na interligação de sistemas, são utilizados outros recursos além do HTTP, como SOAP, REST e XML-RPC. 
+
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
