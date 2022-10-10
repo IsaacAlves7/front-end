@@ -124,6 +124,10 @@ O design de interfaces é algo relativamente novo dentro do ramo da computação
 
 > **Saiba mais**: O estudo dessa área foca em aprimorar a interação do usuário com o sistema, a fim de deixá-la mais amigável e de simples utilização, facilitando o seu aprendizado. Quanto mais intuitivo for o acesso às suas funcionalidades, maior será a produtividade do usuário na execução desse sistema e mais agradável será para o usuário, contribuindo para que o sistema ou aplicativo tenha mais chance de sucesso ao ser lançado ao mercado.
 
+Cada tipo de sistema possui uma exigência na construção de sua interface. Uma aplicação de edição de textos possuirá uma interface totalmente diferente da de um jogo de computador, por exemplo.
+
+Uma interface bem elaborada é um requisito fundamental de uma aplicação bem-sucedida. Segundo Bevan (1999), um software bem elaborado pode ser avaliado a partir de três tipos de qualidade.
+
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
