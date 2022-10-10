@@ -122,6 +122,8 @@ O projeto de construção de um sistema é muito mais complexo do que apenas a c
 ## A importância do design de interface para o usuário
 O design de interfaces é algo relativamente novo dentro do ramo da computação. Essa área de conhecimento visa a estudar as melhores formas de comunicação entre os seres humanos e os sistemas computacionais que podem ser desde websites, jogos de computador, aplicações empresariais, sistemas operacionais ou até uma simples aplicação do seu smartphone.
 
+> **Saiba mais**: O estudo dessa área foca em aprimorar a interação do usuário com o sistema, a fim de deixá-la mais amigável e de simples utilização, facilitando o seu aprendizado. Quanto mais intuitivo for o acesso às suas funcionalidades, maior será a produtividade do usuário na execução desse sistema e mais agradável será para o usuário, contribuindo para que o sistema ou aplicativo tenha mais chance de sucesso ao ser lançado ao mercado.
+
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
