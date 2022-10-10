@@ -84,15 +84,18 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 <ul>
 <li><b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML.</li>
 <br><b>Exemplo de CSS interno:</b><br>
-<pre>&lt;style&gt; * { margin: 0; padding: 0;} &lt;/style&gt;</pre>
+```html
+<style> * { margin: 0; padding: 0;} </style>
+```
 <li><b>CSS externo</b>: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML.</li>
 <br><b>Exemplo de CSS externo:</b><br>
-<pre>&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;</pre>
+`<link rel="stylesheet" href="/assets/public/styles/css/style.css">`
 <li><b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada.</li>
 <br><b>Exemplo de CSS inline:</b><br>
-<pre>&lt;p style="color:olive;font-size:19px;background-color:black"&gt;&lt;/p&gt;</pre>
+```html
+<p style="color:olive;font-size:19px;background-color:black"></p>
+```
 </ul>
-</p>
 
 ## Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa.
