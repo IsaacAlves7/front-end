@@ -115,6 +115,9 @@ Segundo Benyon (2011), A interface para um sistema interativo são todas as peç
 
 <img src="https://user-images.githubusercontent.com/61624336/194799532-9908b16c-6394-47d8-a92e-7c563321bc5f.jpg" title="Interface gráfica nos smartphones">
 
+Podemos observar, atualmente, uma enorme variedade de interfaces, nos mais variados dispositivos que utilizamos em nosso cotidiano, tais como smartphones, controles remotos, geladeiras, aparelhos de micro-ondas e joysticks utilizados em videogames.
+
+O projeto de construção de um sistema é muito mais complexo do que apenas a criação de uma interface. Toda a interação entre o homem e o sistema deve ser levada em consideração desde a sua concepção. Na área de Tecnologia da Informação, o design de interfaces refere-se à criação da interface do usuário para softwares, sites ou aplicativos. Trata-se de programar o visual da aplicação, visando sempre a facilitar a usabilidade e melhorar a experiência do usuário final.
 
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
