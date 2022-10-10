@@ -1,7 +1,7 @@
 <a href="https://github.com/IsaacAlves7/web"><img src="https://www.webinfonex.com/data/assets/uploads/service/ser_5.jpg"></a>
 
 # It's a repository of Web Development 🌐
-> Para este conteúdo, o aluno deverá dispor de um computador com acesso à internet, um web browser com suporte a HTML 5 (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera etc.) e um editor de texto (VSCode etc.).
+> **Preparação**: Para este conteúdo, o aluno deverá dispor de um computador com acesso à internet, um web browser com suporte a HTML 5 (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera etc.) e um editor de texto (VSCode etc.).
 
 <!--
 # 🐸 Para simulações de layout recomendo esses jogos educacionais:
