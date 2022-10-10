@@ -2,7 +2,7 @@
 
 # It's a repository of HTML5 & CSS3 Development 🌐
 
-<blockquote>I created this repository for my Web Development learning using HTML5 and CSS3. It's a repository with static pages, responsive layouts, pre-processors, frameworks and modern techniques about that languages.</blockquote>
+> I created this repository for my Web Development and Web Design learning.
 
 <!--
 # 🐸 Para simulações de layout recomendo esses jogos educacionais:
