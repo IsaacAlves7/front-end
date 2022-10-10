@@ -15,10 +15,10 @@
 </ul>
 -->
 
-# Web Development
+# 🌐 Web Development
 <img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png">
 
-# Web Design
+# 🎨 Web Design
 <img src="https://www.brainpulse.com/wp-content/uploads/2017/09/banner-web-design-2.png">
 
 # 🖥️ Client-server architecture
