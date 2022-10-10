@@ -108,6 +108,8 @@ A forma pela qual a aplicação recebe essa informação do usuário pode ser co
 
 > **Comentário**: Para o caso específico da comunicação entre diferentes sistemas, existem vários recursos que podem ser utilizados. Alguns dos mais empregados atualmente são os **web services**. Para garantir a correta operação na interligação de sistemas, são utilizados outros recursos além do HTTP, como SOAP, REST e XML-RPC. 
 
+Segundo Benyon (2011), A interface para um sistema interativo são todas as peças do sistema com as quais as pessoas têm contato, física, perceptiva ou conceitualmente:
+
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
