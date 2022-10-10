@@ -15,13 +15,13 @@
 </ul>
 -->
 
-# 🌐 Web Development
-<img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png">
-
 # 🎨 Web Design
 <img src="https://www.brainpulse.com/wp-content/uploads/2017/09/banner-web-design-2.png">
 
 Com o Web Design você precisa observar a importância da interface para o desenvolvimento de websites, evolução das tecnologias utilizadas na construção de páginas web ricas (web 1.0, web 2.0, web 3.0 e web 4.0), evolução das interfaces (mudanças estéticas, funcionais e estruturais).
+
+# 🌐 Web Development
+<img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png">
 
 # 🖥️ Client-server architecture
 <div align="center"><img src="https://nickjanetakis.com/assets/blog/cards/server-side-templates-vs-rest-api-and-javascript-front-end-374a74c142bfb09344b9635c3c444b6a152a3c90952e79df1ae013081af5f53e.jpg" height="270"/></div>
