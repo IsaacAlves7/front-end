@@ -103,9 +103,9 @@ O termo **interface** pode dispor de vários significados dependendo da área na
 
 <img src="https://user-images.githubusercontent.com/61624336/194796066-6256d836-86ae-4249-a45b-898e85537a16.jpg" title="Interface gráfica">
 
+Por exemplo, um usuário de um site de e-commerce que está à procura de determinado produto, como um sapato, deverá de alguma forma passar a informação do produto que ele está pensando em adquirir para o sistema, como o tamanho do calçado, o tipo de solado, o material utilizado para a sua confecção, entre outros.
 
-
-
+A forma pela qual a aplicação recebe essa informação do usuário pode ser considerada como a sua interface. A finalidade de uma interface é facilitar a interação de uma pessoa com um sistema ou até mesmo a comunicação entre diferentes sistemas.
 
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
