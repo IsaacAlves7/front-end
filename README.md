@@ -4,6 +4,7 @@
 
 <blockquote>I created this repository for my Web Development learning using HTML5 and CSS3. It's a repository with static pages, responsive layouts, pre-processors, frameworks and modern techniques about that languages.</blockquote>
 
+<!--
 # 🐸 Para simulações de layout recomendo esses jogos educacionais:
 <ul>
   <li>https://flexboxfroggy.com/</li>
@@ -12,8 +13,9 @@
   <li>https://cssgridgarden.com/</li>
   <li>https://gridcritters.com/</li>
 </ul>
+-->
 
-# 💻 Client-side and Server-side 🖥️
+# 🖥️ Client-server architecture
 <div align="center"><img src="https://nickjanetakis.com/assets/blog/cards/server-side-templates-vs-rest-api-and-javascript-front-end-374a74c142bfb09344b9635c3c444b6a152a3c90952e79df1ae013081af5f53e.jpg" height="270"/></div>
 <p>Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web.
   
