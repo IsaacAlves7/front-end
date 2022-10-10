@@ -141,6 +141,10 @@ Cada tipo de sistema possui uma exigência na construção de sua interface. Uma
 
 Uma interface bem elaborada é um requisito fundamental de uma aplicação bem-sucedida. Segundo Bevan (1999), um software bem elaborado pode ser avaliado a partir de três tipos de qualidade.
 
+- **Qualidade interna**: Onde o sistema é avaliado baseado em sua implementação;
+- **Qualidade externa**: O sistema é avaliado baseado no comportamento do software;
+- **Qualidade de uso**: Até que ponto o software atende às necessidades do usuário.
+
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
