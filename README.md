@@ -119,6 +119,9 @@ Podemos observar, atualmente, uma enorme variedade de interfaces, nos mais varia
 
 O projeto de construção de um sistema é muito mais complexo do que apenas a criação de uma interface. Toda a interação entre o homem e o sistema deve ser levada em consideração desde a sua concepção. Na área de Tecnologia da Informação, o design de interfaces refere-se à criação da interface do usuário para softwares, sites ou aplicativos. Trata-se de programar o visual da aplicação, visando sempre a facilitar a usabilidade e melhorar a experiência do usuário final.
 
+## A importância do design de interface para o usuário
+O design de interfaces é algo relativamente novo dentro do ramo da computação. Essa área de conhecimento visa a estudar as melhores formas de comunicação entre os seres humanos e os sistemas computacionais que podem ser desde websites, jogos de computador, aplicações empresariais, sistemas operacionais ou até uma simples aplicação do seu smartphone.
+
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
