@@ -405,11 +405,9 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <li><p><code>&lt;code&gt;</code> elemento que representa um fragmento de código de computador.</p></li>
 <pre>&lt;pre&gt;&lt;code&gt;console.log('Hello, World!');&lt;/code&gt;&lt;/pre&gt;</pre>
 </ul>
-<hr>
 
 <h1 align="center">Cap 04: 📙 TAG de Imagem 🖼️</h1>
 <pre>&lt;img src="/assets/public/img/img.svg"&gt;</pre>
-<hr>
 
 <h1 align="center">Cap 05: 📙 TAGs de Listas 📑</h1>
 <p>As listas são importantes para a organização do texto e orientação do usuário.</p>
@@ -453,9 +451,8 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 &lt;/dl&gt;
 </pre>
  </ul>
-<hr>
 
-<h1 align="center">Cap 06: 📙 TAG de Âncora 🔗</h1>
+<h1 align="center">📙 TAG de Âncora 🔗</h1>
 <div align="center"><img src="https://www.computerhope.com/jargon/h/html-tag.gif"></div>
 <p><code>&lt;a&gt;</code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <code><b>href="mailto:webmaster@example.com"</b></code> que irá enviar uma mensagem para seu email.</p>  
 
@@ -475,9 +472,8 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 
 ### Exemplo 3: Enviando mensagem para o email
 <pre>&lt;a href="mailto:webmaster07@gmail.com"&gt;Enviar email&lt;/a&gt;</pre>
-<hr>
 
-<h1 align="center">Cap 07: 📙 TAGs de Multimedia 🔊▶️</h1>
+<h1 align="center">📙 TAGs de Multimedia 🔊</h1>
 <div align="center"><img src="https://jibigit.github.io/cheat-html/images/media.png"></div>
 
 ## ▶️ Flash Player 🔊
@@ -537,7 +533,6 @@ O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite
 
 ## Importando video ▶️🌐
 <p>Vamos ver como importar videos do YouTube e do Vimeo, passo a passo!</p>
-<hr>
 
 # 📙 TAGs de Tabelas ⬜🔲
 <div align="center"><img src="https://cdn.educba.com/academy/wp-content/uploads/2019/10/Create-Tables-in-HTML.png"></div>
@@ -652,7 +647,6 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105738607-f720b580-5f15-11eb-9440-76725a31f908.jpg)
 
 </ul>
-<hr>
 
 <div align="center"><h1> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="30"/> Cap 16: 📘 Revisando o CSS 📄</h1></div>
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="270"/></div>
@@ -1101,7 +1095,6 @@ p::after {
 <p>Basta utilizarmos a pseudo-classe <code>:root</code> e inserirmos os seletores <code>--nome da variável</code> para podermos atribuir os valores. Para chama-la é simples, basta somente utilizar o seletor desejável e o valor <code>var(--nome da variável)</code>.</p>
 
 ## 📘 Cálculos no CSS 🔢
-<hr>
 
 # 📘 Box Model 📦⬆️➡️⬇️⬅️
 <p>Look from this images bellow:</p>
