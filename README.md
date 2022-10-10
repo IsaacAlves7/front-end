@@ -1,6 +1,6 @@
 <a href="https://github.com/IsaacAlves7/web"><img src="https://www.webinfonex.com/data/assets/uploads/service/ser_5.jpg"></a>
 
-# It's a repository of HTML5 & CSS3 Development 🌐
+# It's a repository of Web Development 🌐
 
 > I created this repository for my Web Development and Web Design learning.
 
