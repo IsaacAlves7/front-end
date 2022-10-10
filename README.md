@@ -79,8 +79,7 @@ In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by 
 # 📘 CSS3 - Cascading Style Sheets 3
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="177"/></div><br />
 
-O **CSS** (Cascading Style Sheets), é um "Stylesheets" composta por "camadas" e usado para definir a aparência de páginas da internet que adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML). O CSS define como serão exibidos os elementos contidos no código 
-de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
+O **CSS** (Cascading Style Sheets), é um "Stylesheets" (folha de estilo) composta por "camadas" e usado para definir a aparência de páginas da internet que adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML), criando assim as interfaces. O CSS define como serão exibidos os elementos contidos no código de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
 
 Há várias formas de inserir modificação no estilo com CSS. Com o CSS você pode especificar muitas propriedades de estilo para qualquer elemento HTML. Cada propriedade tem um nome e um valor, separados por dois pontos (:). Cada declaração de propriedade é separada por um ponto e vírgula (;).
 
