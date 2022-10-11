@@ -19,7 +19,7 @@
 # 🎨 Web Design
 <img src="https://www.brainpulse.com/wp-content/uploads/2017/09/banner-web-design-2.png">
 
-Com o Web Design você precisa observar a importância da interface para o desenvolvimento de websites, evolução das tecnologias utilizadas na construção de páginas web ricas (web 1.0, web 2.0, web 3.0 e web 4.0), evolução das interfaces (mudanças estéticas, funcionais e estruturais).
+Com o **Web Design** você precisa observar a importância da interface para o desenvolvimento de websites, evolução das tecnologias utilizadas na construção de páginas web ricas (web 1.0, web 2.0, web 3.0 e web 4.0), evolução das interfaces (mudanças estéticas, funcionais e estruturais).
 
 Portanto, você necessita compreender a importância da elaboração de interfaces ricas para a construção de um website, visando a melhor experiência de navegação e usabilidade para o usuário final, conhecendo algumas tecnologias utilizadas no passado para a construção de sites online. A partir dessa visão, observar antigas tendências de mercado, assim como enxergar novas tendências na elaboração de interfaces.
 
@@ -159,6 +159,10 @@ A troca de informações entre o homem e a máquina era feita diretamente no pr�
 A primeira evolução nessa interação entre o homem e a máquina ocorreu em 1950, quando a IBM passou a utilizar, para fazer seus programas, cartões perfurados que eram lidos, interpretados e executados pelo computador. A utilização desses cartões não representava uma novidade, afinal, Herman Hollerith já havia utilizado algo similar anos antes.
 
 <img src="https://user-images.githubusercontent.com/61624336/194955005-704482c6-67ad-4292-a9e1-71c4d71121f4.jpg" title="Cartão perfurado - FORTRAN">
+
+Submeter um programa para a sua execução não significava uma tarefa das mais fáceis. Primeiro, perfurar o cartão com o código a ser executado não era feito pelo próprio computador, mas em máquinas especializadas muito semelhantes a uma máquina de escrever, as quais eram conhecidas por serem difíceis de se trabalhar, além de estarem sujeitas a falhas mecânicas.
+
+A interface do software era igualmente implacável, com sintaxes muito restritas, destinadas a serem analisadas pelos menores compiladores e interpretadores. O tempo de execução para rodar um único programa normalmente demorava dias inteiros, ou, em certos casos, algumas horas, mas nunca em tempo real.
 
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
