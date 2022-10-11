@@ -332,7 +332,7 @@ Você também perceberá que não colocamos aspas no atributo <code>charset=utf-
 
 Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada como text/html (apenas um validador XHTML se importaria). Assim, favorecer uma forma em detrimento da outra no HTML5 seria totalmente arbitrário e tornaria inválidas as páginas que não seguissem o formato, apesar delas funcionarem perfeitamente em qualquer navegador. Desse modo, não importa para o HTML5 qual forma você utiliza.</p>
 
-<h2>&lt;!Doctype html&gt;</h2>
+## `<!Doctype html>`
 <p>É o tipo do documento, vale ressaltar que não é obrigatório.</p>
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
