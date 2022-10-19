@@ -178,6 +178,8 @@ Submeter um programa para a sua execução não significava uma tarefa das mais 
 
 A interface do software era igualmente implacável, com sintaxes muito restritas, destinadas a serem analisadas pelos menores compiladores e interpretadores. O tempo de execução para rodar um único programa normalmente demorava dias inteiros, ou, em certos casos, algumas horas, mas nunca em tempo real.
 
+
+
 # API's - Aplication Programming Interfaces
 <div align="center"><img src="https://miro.medium.com/max/654/0*prut14lFoArZnPK5.jpg" height="400"/></div>
 <i>Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, <b>REST API</b>, também chamado de <b>RESTful API</b>.</i><br><br>
@@ -679,16 +681,16 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 <pre><code>&lt;table border rules="groups"6&gt;</code></pre>
 <pre><code>&lt;table border rules="rows"6&gt;</code></pre>
 
-<h1 align="center">Cap 15: 📙 TAGs de Formulários 📋</h1>
+<h1 align="center">📙 TAGs de Formulários</h1>
 <p>A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:</p>
 
-## ✅ Tipos de input 🔘
+## Tipos de input
 <p>Podemos definir os tipos de <code>&lt;input&gt;</code> e seus atributos.</p>
 
-## 📙 A diferença entre anchor, input and button 📘🆗
+## A diferença entre anchor, input and button
 <div align="center"><img src="https://davidwalsh.name/demo/html5-buttons.png" height="200"></div>
 
-<div align="center"><h1>📙 HTML Semantic</h1></div>
+<div align="center"><h1>📙 HTML Semântico</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
 
 ## New Semantic Elements in HTML5 📙📰
