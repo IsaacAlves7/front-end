@@ -121,7 +121,27 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
 
 É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.</p>
 
-# Interface
+# ⚙️ API's - Aplication Programming Interfaces
+<div align="center"><img src="https://miro.medium.com/max/654/0*prut14lFoArZnPK5.jpg" height="400"/></div>
+<i>Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, <b>REST API</b>, também chamado de <b>RESTful API</b>.</i><br><br>
+
+<p>Aplicações Web são o número cada vez maior de sites na Web, isto é, eles imitam aplicações de desktop ao invés dos documentos tradicionais e
+estático de links de textos e imagens que compõem a maioria da Web. Como exemplo, temos os processadores onlines de texto, ferramentas de edição de foto,
+sites de mapeamento etc. Altamente movidos com JavaScript, eles levaram o HTML4 à beira do limite de suas capacidades.
+  O HTML5 especifica novas <b>APIs</b> (Interface de Programação de Aplicações) para DOM (Modelo de Objeto de Documento),
+que é uma convenção multiplataforma e independente de linguagem para representação e interação com objetos e documentos HTML, XHTML e XML.
+
+Essas novas APIs ajudam a arrastar e soltar objetos enviados pelo servidor, tais como, desenho, vídeos e similares.
+
+Essas novas interfaces que as páginas HTML expõem ao JavaScript via objetos na DOM tornam mais fácil escrever as aplicações,
+utilizando padrões altamente especificados, ao invés de apenas artimanhas mal-documentadas.
+
+Ainda mais importante é a necessidade de um padrão aberto livre (para utilizar e para implementar) que possa competir com padrões proprietários como
+Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas tecnologias ou empresas, acreditamos que a Web seja uma plataforma vital à sociedade, comércio e comunicações para estar nas mãos de um fabricante.
+
+Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  <code>&lt;font&gt;</code>, <code>&lt;center&gt;</code> e outras novas, pois milhões de páginas web as utilizam.</p>
+
+# 🎨 Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa.
 
 <img src="https://user-images.githubusercontent.com/61624336/194796066-6256d836-86ae-4249-a45b-898e85537a16.jpg" title="Interface gráfica">
@@ -182,25 +202,11 @@ A interface do software era igualmente implacável, com sintaxes muito restritas
 
 Com o surgimento dos primeiros monitores monocromáticos, tem início a segunda fase da evolução da interação humano-computador. Isso porque esses dispositivos facilitaram bastante a troca de informações da máquina para o usuário.
 
-# ⚙️ API's - Aplication Programming Interfaces
-<div align="center"><img src="https://miro.medium.com/max/654/0*prut14lFoArZnPK5.jpg" height="400"/></div>
-<i>Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, <b>REST API</b>, também chamado de <b>RESTful API</b>.</i><br><br>
-
-<p>Aplicações Web são o número cada vez maior de sites na Web, isto é, eles imitam aplicações de desktop ao invés dos documentos tradicionais e
-estático de links de textos e imagens que compõem a maioria da Web. Como exemplo, temos os processadores onlines de texto, ferramentas de edição de foto,
-sites de mapeamento etc. Altamente movidos com JavaScript, eles levaram o HTML4 à beira do limite de suas capacidades.
-  O HTML5 especifica novas <b>APIs</b> (Interface de Programação de Aplicações) para DOM (Modelo de Objeto de Documento),
-que é uma convenção multiplataforma e independente de linguagem para representação e interação com objetos e documentos HTML, XHTML e XML.
-
-Essas novas APIs ajudam a arrastar e soltar objetos enviados pelo servidor, tais como, desenho, vídeos e similares.
-
-Essas novas interfaces que as páginas HTML expõem ao JavaScript via objetos na DOM tornam mais fácil escrever as aplicações,
-utilizando padrões altamente especificados, ao invés de apenas artimanhas mal-documentadas.
-
-Ainda mais importante é a necessidade de um padrão aberto livre (para utilizar e para implementar) que possa competir com padrões proprietários como
-Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas tecnologias ou empresas, acreditamos que a Web seja uma plataforma vital à sociedade, comércio e comunicações para estar nas mãos de um fabricante.
-
-Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  <code>&lt;font&gt;</code>, <code>&lt;center&gt;</code> e outras novas, pois milhões de páginas web as utilizam.</p>
+> Nesse momento, engenheiros e cientistas perdem a sua exclusividade na operação desses dispositivos, que cada vez mais vão se tornar menores, mais eficientes e com um custo bem inferior comparado ao das máquinas da geração passada.
+>
+> Por meio de um teclado, instruções eram passadas para os computadores e exibidas em uma espécie de console ou terminal através do monitor.
+>
+> Tais instruções, interpretadas e executadas pelo computador, continham uma linguagem próxima a do ser humano, normalmente, no idioma inglês, não necessitando mais de uma máquina auxiliar para a confecção de cartões perfurados como na geração anterior.
 
 # 📙 TAGs essenciais do HTML
 <img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
