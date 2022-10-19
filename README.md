@@ -235,7 +235,15 @@ O JavaScript é uma linguagem orientada a objetos, ou seja, ela trata todos os e
 
 Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem deseja criar páginas Web dinâmicas e interativas.
 
-É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.</p>
+É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.
+
+## Eventos de uma TAG (Métodos HTML5 + Eventos JavaScript)
+
+```html
+&lt;img src="1.jpg" onclick="functionClick()"/&gt;
+```
+
+O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando uma função JavaScript quando o usuário interage em um elemento. Devido a extensão desse conteúdo criei um repositório mais focado no desenvolvimento JavaScript, clique no badge acima para saber mais sobre os Eventos!
 
 # 🎨 Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa.
@@ -309,12 +317,6 @@ Com o surgimento dos primeiros monitores monocromáticos, tem início a segunda 
 Apesar do grande avanço da geração anterior, utilizando uma interface de linha de comando, **como a apresentada na figura ao lado**, essa forma de interação ainda era pouco intuitiva, pois necessitava que o usuário ainda tivesse certo conhecimento técnico para sua operação, obrigando-o a decorar diversos comandos para a utilização plena do computador.
 
 Convém ressaltar que, apesar de ser uma interface antiga e pouco intuitiva, ainda existem muitos sistemas que são gerenciados através de interfaces de linhas de comandos.
-
-### Eventos de uma TAG (Métodos HTML5 + JavaScript)
-[![JS](https://img.shields.io/badge/-Repositorio:‍‍Eventos‍‍JavaScript‍‍📜📙🎪-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)](https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-16--eventos-)
-
-<pre>&lt;img src="1.jpg" onclick="functionClick()"/&gt;</pre>
-<p>O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando uma função JavaScript quando o usuário interage em um elemento. Devido a extensão desse conteúdo criei um repositório mais focado no desenvolvimento JavaScript, clique no badge acima para saber mais sobre os Eventos!</p>
 
 ## Estrutura do HTML
 
