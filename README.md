@@ -1212,11 +1212,7 @@ p::after {
 # 📘 Box Model
 <img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="177" align="right">
 
-> 📦 **Box Model**: ` top, right, down, left `
-
 When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.
-
-<img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="177"/>
 
 <ol>
   <li><b>margin</b> - São os espaçamentos entre elementos (transparente).</li>
@@ -1225,13 +1221,19 @@ When we are creating the layout of a website the browser represents each HTML el
   <li><b>content</b> - O conteúdo inserido no elemento HTML.</li>
 </ol>
 <p>Besides that, the Box model have his positions:<p>
+
+<img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="177" align="right"/>
+
 <ul>
   <li><b>top</b>: Up position</li>
   <li><b>right</b>: Right position</li>
   <li><b>bottom</b>: Down position</li>
   <li><b>left</b>: Left position</li>
 </ul>
-<blockquote><strong>OBS: Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda</strong><em> (top, right, bottom, left)</em>.</blockquote>
+
+> 📦 **Box Model**: ` top, right, down, left `
+
+> OBS: Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda</strong><em> (top, right, bottom, left)
 
 Exemplo:</p>
 <pre>
