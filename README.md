@@ -1250,9 +1250,7 @@ Exemplo de utilização:</p>
 
 ## Content (O Conteúdo do Elemento)
 
-<hr>
-
-<h1 align="center">Cap: 📘 Foreground e Background 🖼️🟦</h1>
+<h1 align="center">Foreground e Background</h1>
 <p>O CSS permite alterar as cores de primeiro plano (<em>foreground</em>) e plano de fundo (<em>background</em>) dos elementos. O W3C recomenda que a regra background seja utilizado no elemento <em>body</em>.
 
 Sempre que pensamos em criar um layout, devemos configurar a cor de fundo (background) para que a página que será aberta apresente a mesma cor em qualquer navegador. Caso não seja definida, corre o risco do usuário ter modificado a cor padrão da máquina e como não está configurada no HTML, a página vai mostrar a cor padrão, alterando, assim, o que foi definido no layout.
@@ -1320,9 +1318,8 @@ body{
 <p>É muito usado para mesclar duas ou mais cores no background, o que deixa a interface mais moderna e atraente ao usuário.</p>
 
 ### Linear-gradient
-<hr>
 
-<h1 align="center">Cap 13: 📘 Trabalhando com textos no CSS 🔤🔠</h1>
+<h1 align="center">Trabalhando com textos no CSS</h1>
 <p>Uma das novidades do CSS 3 é o uso de fontes da própria internet, podemos agora usar fontes livres que são disponíveis na internet, sem que tenha a necessidade de estar instalada na máquina do usuário.
 
 O site do Google disponibiliza uma quantidade grande de fontes livres. No endereço https://fonts.google.com/ encontramos as fontes e a forma de como colocar no nosso código.
@@ -1451,12 +1448,12 @@ ul {
 </pre>
 <hr>
 
-<h1 align="center">Cap 14: 📘 Positions and dimensions 🟧🟦</h1>
+<h1 align="center">Positions and dimensions</h1>
 <p>As propriedades CSS <strong>position</strong> e <strong>float</strong> determinam como um box será posicionado no modelo visual de formatação de um documento. Esse box pode conter imagens, textos, listas, entre outros e, com isso, podemos montar layouts com a mesma qualidade de um programa gráfico feito para este fim.
 
 As recomendações do W3C para as CSS 3 preveem a existência de três esquemas de posicionamento:</p>
 
-### 1. Esquema Normal 📘👨
+### 1. Esquema Normal
 <p>Esse esquema segue o fluxo normal em que os elementos são exibidos um após o outro e de cima para baixo. Ele é simples e atualmente a maioria das páginas usam essa forma.
 
 Um exemplo usando textos em sequência:</p>
@@ -1470,7 +1467,7 @@ em{
 }
 </pre>
 
-### 2. Esquema Float (Flutuante) 📘 👨‍🚀
+### 2. Esquema Float (Flutuante)
 <p>Definido pela regra <b>float</b> de posicionamento, juntamente com as regras <strong>left, right, none e inherit (herdado)</strong>.
 
 O box é deslocado para uma nova posição e seu espaço original é preenchido por outro elemento, na medida do possível.
@@ -1486,10 +1483,10 @@ body, p, img {
 }
 </pre>
 
-### 4. Esquema Relativo 📘
+### 4. Esquema Relativo
 ![EuKdtFOVcAIac3j](https://user-images.githubusercontent.com/61624336/113332439-8de36700-92f7-11eb-9e31-7a356f8d03cf.jpg)
 
-### 3. Esquema Absoluto 📘🤴
+### 3. Esquema Absoluto
 <p>Definido pela regra position com valores <b>absolute</b> e <b>fixed</b>. O box é removido do fluxo completamente sem impactar nos elementos posteriores.
 
 No exemplo, seu uso para montar layouts com várias partes:</p>
@@ -1542,10 +1539,8 @@ body {
      background-color: black;
 }
 </pre>
-<hr>
 
 <h1 align="center">Cap: 📘 Transition 🚘🚦</h1>
-<hr>
 <h1 align="center">Cap: 📘 Transform 🌱🌲</h1>
 <p>O <b>CSS3</b> em conjunto com o <b>JavasScript</b> e o <b>HTML5</b> passaram a dar suporte a transformações em tempo real, de objetos HTML.
 
@@ -1748,20 +1743,16 @@ div.rotate_left{
     transform: rotate(-8deg);
 }
 </pre>
-<hr>
 
-<h1 align="center">Cap 14: 📘 Displays 📺</h1>
-<hr>
+<h1 align="center">Displays 📺</h1>
 
-<h1 align="center">Cap 08: 📘 Flexbox Layout 🥡</h1>
+<h1 align="center">Flexbox Layout 🥡</h1>
 <div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/></div>
-<hr>
 
-<h1 align="center">Cap 09: 📘 Grid Layout 🍱</h1>
+<h1 align="center">Grid Layout 🍱</h1>
 <div align="center"><img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="200"/></div>
-<hr>
 
-<h1 align="center">Cap 15: 📙📘 Responsive Layout 📱💻🖥️</h1>
+<h1 align="center">Responsive Layout 📱💻🖥️</h1>
 <div align="center"><img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/></div>
 
 ## 📙 Unidades de resolução responsivas 📘
@@ -1778,7 +1769,6 @@ div.rotate_left{
 ## 📘 Utilizando Media Queries 🖥️💻📱
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/112909640-3ca16080-90c8-11eb-85a4-d5cc3a6aaa85.gif"></div>
-
 
 <p>Podemos definir <b>media queries</b> como a maneira que o navegador define que formatação de página vai apresentar a cada tipo de dispositivo.
 
