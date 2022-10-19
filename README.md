@@ -345,7 +345,7 @@ Como regra geral, quanto mais simples o layout de uma página, melhor (layout cl
 
 Um site sempre deve ser projetado tendo em mente o seu público-alvo e deve garantir uma boa experiência de usuário. A construção da interface de um site é um assunto muito importante e que não deve ser deixado em segundo plano. Um website bem projetado ajuda a formar uma boa impressão sobre seus clientes em potencial, como também é capaz de agregar valor a um produto ali exposto.
 
-## Estrutura do HTML
+# 💻 Estrutura do HTML
 
 <p>Tudo começa com o diretório, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
 
