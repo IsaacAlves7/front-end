@@ -31,13 +31,13 @@ Portanto, você necessita compreender a importância da elaboração de interfac
 
 Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web. Em desenvolvimento para a Web sempre separamos dois setores: a parte do servidor e a parte do cliente.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Progressive_enhancement_web_design_pyramid_%28HTML%2C_CSS%2C_JS%29.svg" height="177" align="right">
+<div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div><br />
  
-O <strong>cliente</strong> é o computador do usuário, assim como o seu. É utilizado pelas pessoas para acessar sites ou sistemas a partir de um endereço (Google Chrome, Internet Explorer, Safari, Mozilla Firefox e etc). Os arquivos vindos por esse endereço são disponibilizados por um outro computador que serve estes arquivos. Estes computadores que estão em algum lugar do mundo que servem arquivos e outros serviços são chamados de servidores (Apache, IIS, Glassfish e etc).</p>
+O <strong>cliente</strong> é o computador do usuário, assim como o seu. É utilizado pelas pessoas para acessar sites ou sistemas a partir de um endereço (Google Chrome, Internet Explorer, Safari, Mozilla Firefox e etc). Os arquivos vindos por esse endereço são disponibilizados por um outro computador que serve estes arquivos. Estes computadores que estão em algum lugar do mundo que servem arquivos e outros serviços são chamados de servidores (Apache, Nginx, IIS, Glassfish e etc).</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Progressive_enhancement_web_design_pyramid_%28HTML%2C_CSS%2C_JS%29.svg" height="107" align="right">
 
 > Os <b>clientes</b>, que podem ser qualquer dispositivo conectado à Internet como smartphones, notebooks, tablets e smarttvs, recebem arquivos desses servidores, como imagens, vídeos, arquivos HTML, CSS e JavaScript. Chamamos essa parte de <b>front-end</b>.
-
-<div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div><br />
 
 <p>Nos <strong>servidores</strong> programamos com linguagens como <b>PHP</b>, <b>Java</b>, <b>C#</b>, <b>Ruby</b>, <b>Python</b> entre outros. E também gerenciamos <b>bancos de dados</b> (MySQL, SQ Lite, Mongo DB, SQL Server e etc), onde chamamos essa parte de <b>back-end</b>. Quando há acesso ao banco de dados, o servidor trabalha de uma forma diferenciada, pois a implementação de um servidor web é um serviço diferente à implementação de um servidor banco de dados.
   
