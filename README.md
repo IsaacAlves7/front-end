@@ -1549,8 +1549,8 @@ body {
 }
 </pre>
 
-<h1 align="center">Cap: 📘 Transition 🚘🚦</h1>
-<h1 align="center">Cap: 📘 Transform 🌱🌲</h1>
+<h1 align="center">📘 Transition 🚘🚦</h1>
+<h1 align="center">📘 Transform 🌱🌲</h1>
 <p>O <b>CSS3</b> em conjunto com o <b>JavasScript</b> e o <b>HTML5</b> passaram a dar suporte a transformações em tempo real, de objetos HTML.
 
 Podemos modificar posição, rotacionar, aumentar e diminuir, tudo isso dentro de todos os eixos gráficos disponíveis na sua tela.
@@ -1561,7 +1561,6 @@ Vamos começar com um exemplo de como mudar uma div de posição sem precisar ch
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/pen/zYKowjP)
 
 <pre>
-<h4>📙 index.html</h4>
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -1580,7 +1579,6 @@ transformação: rotacionar(&lt;span id="span1"&gt;7deg&lt;/span&gt;);
 </pre>
 
 <pre>
-<h4>📘 style.css</h4>
 #div1 {
    width: 120px;
    height: 100px;
@@ -1593,7 +1591,6 @@ transformação: rotacionar(&lt;span id="span1"&gt;7deg&lt;/span&gt;);
 </pre>
 
 <pre>
-<h4>📒 main.js</h4>
 function rotate(value){
    document.getElementById('div1').style.webkitTransform="rotate("+value+"deg)";
    document.getElementById('div1').style.webkitTransform="rotate("+value+"deg)";
@@ -1771,7 +1768,7 @@ div.rotate_left{
       width: 100%; height: 100vh;
      }</pre>
 
-## 📙 Viewport 🖥️💻📱
+## Viewport 🖥️💻📱
 <p></p>
 
 ## Utilizando Media Queries 🖥️💻📱
@@ -1919,7 +1916,6 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 </pre>
 
 <pre>
-<h4>📙 index.html</h4>
 &lt;div id="container" class="container"&gt;
 &nbsp;
   &lt;div class="box-flex box1"&gt;
@@ -1979,7 +1975,7 @@ background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
 background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 </pre>
 
-# 💋 Sass
+# 👓 Sass
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="200"></div>
 
 [![Sass](https://img.shields.io/badge/-style.scss-000?style=social&logo=Sass&logoColor=safira)](#)
@@ -2062,7 +2058,7 @@ Além disso, pela popularização do Sass, hoje em dia não somos mais obrigados
 
 Para uma lista completa, acesse: http://sass-lang.com/libsass
 
-# 📕 Primeiros passos com o Sass e configurando o ambiente 🟩
+# 👓 Primeiros passos com o Sass e configurando o ambiente
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" height="200"/></div>
 <p>Como foi dito, não é mais preciso obter o Ruby em nossa máquina para poder utilizar o Sass. Podemos compilar o Sass a partir de C, Go, Java, Node.js, PHP, Python, etc. Vamos aprender como configurar e rodar o Sass no ambiente Node.js:
 
