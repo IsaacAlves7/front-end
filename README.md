@@ -180,7 +180,9 @@ A interface do software era igualmente implacável, com sintaxes muito restritas
 
 <img src="https://user-images.githubusercontent.com/61624336/196693798-3f767fb2-3e68-4844-a2ef-00ffa22904cf.jpg" title="Máquina perfuradora de cartão IBM029.">
 
-# API's - Aplication Programming Interfaces
+Com o surgimento dos primeiros monitores monocromáticos, tem início a segunda fase da evolução da interação humano-computador. Isso porque esses dispositivos facilitaram bastante a troca de informações da máquina para o usuário.
+
+# ⚙️ API's - Aplication Programming Interfaces
 <div align="center"><img src="https://miro.medium.com/max/654/0*prut14lFoArZnPK5.jpg" height="400"/></div>
 <i>Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, <b>REST API</b>, também chamado de <b>RESTful API</b>.</i><br><br>
 
