@@ -347,14 +347,11 @@ Um site sempre deve ser projetado tendo em mente o seu público-alvo e deve gara
 
 ## Estrutura do HTML
 
-<p>Tudo começa com o diretório <b>/assets/</b>, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
+<p>Tudo começa com o diretório, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
 [![JS](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](#)
-[![SVG](https://img.shields.io/badge/-image.svg-000000?style=social&logo=SVG&logoColor=FFB13B)](#)
-
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/105612147-e860c400-5d98-11eb-97a3-2775e77b7827.jpg)
 
 <p> O <b>index.html</b> é o padrão da Web de ser o primeiro arquivo processado pelo navegador, geralmente é usado para uma áreas de Login ou a Home da página, e o <b>style.css</b> é o padrão para editar um ou mais arquivos HTML.</p>
 
