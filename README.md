@@ -302,7 +302,7 @@ Submeter um programa para a sua execução não significava uma tarefa das mais 
 
 A interface do software era igualmente implacável, com sintaxes muito restritas, destinadas a serem analisadas pelos menores compiladores e interpretadores. O tempo de execução para rodar um único programa normalmente demorava dias inteiros, ou, em certos casos, algumas horas, mas nunca em tempo real.
 
-<img src="https://user-images.githubusercontent.com/61624336/196693798-3f767fb2-3e68-4844-a2ef-00ffa22904cf.jpg" title="Máquina perfuradora de cartão IBM029." height="277" align="right">
+<img src="https://user-images.githubusercontent.com/61624336/196693798-3f767fb2-3e68-4844-a2ef-00ffa22904cf.jpg" title="Máquina perfuradora de cartão IBM029." height="177" align="right">
 
 Com o surgimento dos primeiros monitores monocromáticos, tem início a segunda fase da evolução da interação humano-computador. Isso porque esses dispositivos facilitaram bastante a troca de informações da máquina para o usuário.
 
