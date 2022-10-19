@@ -107,6 +107,20 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
   
 </ul>
 
+# 📜 JavaScript (JS)
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
+<p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
+
+Com o JavaScript podemos criar efeitos especiais para nossas páginas na Web, além de podermos proporcionar maior interatividade com nossos usuários.
+
+O JavaScript é uma linguagem orientada a objetos, ou seja, ela trata todos os elementos da página como objetos distintos, facilitando a tarefa da programação.
+
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/108576338-02d87f80-72fc-11eb-98d7-cd75c0bc2929.gif"></div>
+
+Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem deseja criar páginas Web dinâmicas e interativas.
+
+É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.</p>
+
 # Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa.
 
@@ -163,20 +177,6 @@ A primeira evolução nessa interação entre o homem e a máquina ocorreu em 19
 Submeter um programa para a sua execução não significava uma tarefa das mais fáceis. Primeiro, perfurar o cartão com o código a ser executado não era feito pelo próprio computador, mas em máquinas especializadas muito semelhantes a uma máquina de escrever, as quais eram conhecidas por serem difíceis de se trabalhar, além de estarem sujeitas a falhas mecânicas.
 
 A interface do software era igualmente implacável, com sintaxes muito restritas, destinadas a serem analisadas pelos menores compiladores e interpretadores. O tempo de execução para rodar um único programa normalmente demorava dias inteiros, ou, em certos casos, algumas horas, mas nunca em tempo real.
-
-# 📜 JavaScript (JS)
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
-<p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
-
-Com o JavaScript podemos criar efeitos especiais para nossas páginas na Web, além de podermos proporcionar maior interatividade com nossos usuários.
-
-O JavaScript é uma linguagem orientada a objetos, ou seja, ela trata todos os elementos da página como objetos distintos, facilitando a tarefa da programação.
-
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/108576338-02d87f80-72fc-11eb-98d7-cd75c0bc2929.gif"></div>
-
-Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem deseja criar páginas Web dinâmicas e interativas.
-
-É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.</p>
 
 # API's - Aplication Programming Interfaces
 <div align="center"><img src="https://miro.medium.com/max/654/0*prut14lFoArZnPK5.jpg" height="400"/></div>
