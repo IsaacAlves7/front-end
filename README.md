@@ -47,7 +47,7 @@ Já o <b>Full-Stack</b> engloba os conhecimentos tanto de front-end como back-en
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 
 # 📙 HTML5 - Hypertext Makup Language 5
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png" height="177"/></div><br />
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="177"/></div><br />
 
 A linguagem de formatação de documentos com a capacidade de links de hipertexto (termo que remete a um texto ao qual se agregam outros conjuntos de informação na forma de blocos de textos, palavras, imagens ou sons, cujo acesso ocorre através de referências específicas, no meio digital, denominadas hiperlinks, ou simplesmente links) e que tornou-se o formato básico para publicação na web.
 
