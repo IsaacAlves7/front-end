@@ -246,7 +246,7 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
 O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando uma função JavaScript quando o usuário interage em um elemento. Devido a extensão desse conteúdo criei um repositório mais focado no desenvolvimento JavaScript, clique no badge acima para saber mais sobre os Eventos!
 
 # 🎨 Interface
-O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa.
+O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a **possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa**.
 
 <img src="https://user-images.githubusercontent.com/61624336/194796066-6256d836-86ae-4249-a45b-898e85537a16.jpg" title="Interface gráfica">
 
@@ -325,11 +325,11 @@ Convém ressaltar que, apesar de ser uma interface antiga e pouco intuitiva, ain
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/61624336/196717955-02e00236-2b17-4b95-86b8-4fb69151f32d.jpg"</td> 
-    <td><b>Direcionamento</b>, onde desde então, este tipo de interface se tornou padrão nos principais sistemas operacionais para microcomputadores da atualidade. Com a familiarização e o aperfeiçoamento dessa tecnologia, os computadores ganharam mais espaço no ambiente familiar, permitindo uma utilização mais simplificada, e ao mesmo tempo menos burocrática, pelo fato de o usuário comum não precisar ter um conhecimento tão técnico para a sua utilização. Por esse motivo, os computadores ganharam cada vez mais espaço no mercado, tornando-se uma ferramenta indispensável para grande parte das empresas, além de uma ferramenta de estudos e diversão.</td>
+    <td><b>Direcionamento</b> onde, desde então, este tipo de interface se tornou padrão nos principais sistemas operacionais para microcomputadores da atualidade. Com a familiarização e o aperfeiçoamento dessa tecnologia, os computadores ganharam mais espaço no ambiente familiar, permitindo uma utilização mais simplificada, e ao mesmo tempo menos burocrática, pelo fato de o usuário comum não precisar ter um conhecimento tão técnico para a sua utilização. Por esse motivo, os computadores ganharam cada vez mais espaço no mercado, tornando-se uma ferramenta indispensável para grande parte das empresas, além de uma ferramenta de estudos e diversão.</td>
   </tr>
   <tr>
-    <td><code>border=""</code></td> 
-    <td>determina o tamanho da borda, se for zero não mostra a borda</td>
+    <td><img src="https://user-images.githubusercontent.com/61624336/196719509-92499e23-312b-41d1-97ff-f6a3e1c73dc3.jpg"></td> 
+    <td><b>Direcionamento</b> à medida que a tecnologia evolui rapidamente, surgem novas maneiras de interagir com o computador, cada vez mais naturais e intuitivas. Um bom exemplo que podemos analisar é a realidade virtual, também conhecida como VR (Virtual Reality), a qual utiliza alguns equipamentos, como óculos especiais, conforme apresentado na figura ao lado, luvas e até capacetes para transportar o usuário para dentro de um mundo virtual onde ele pode interagir com essa realidade simulada. O nível de imersão nos jogos e aplicativos aumentou significativamente, oferecendo ao usuário a percepção dele pertencer ao ambiente virtual. Nesse tipo de aplicação, a interface é alterada com base nos movimentos e ações do usuário, o que torna a interação com a aplicação mais rica e aumenta o engajamento do seu operador.</td>
   </tr>
 </table>
 
@@ -555,8 +555,8 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 &lt;/dl&gt;
 </pre>
  </ul>
-
-<h1 align="center">🔗 TAG de Âncora</h1>
+ 
+# 🔗 TAG de Âncora
 <div align="center"><img src="https://www.computerhope.com/jargon/h/html-tag.gif"></div>
 <p><code>&lt;a&gt;</code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <code><b>href="mailto:webmaster@example.com"</b></code> que irá enviar uma mensagem para seu email.</p>  
 
@@ -577,10 +577,10 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 ### Exemplo 3: Enviando mensagem para o email
 <pre>&lt;a href="mailto:webmaster07@gmail.com"&gt;Enviar email&lt;/a&gt;</pre>
 
-<h1 align="center">🔊 TAGs de Multimedia</h1>
+# 🔊 TAGs de Multimedia
 <div align="center"><img src="https://jibigit.github.io/cheat-html/images/media.png"></div>
 
-## ▶️ Flash Player 🔊
+## Flash Player
 <p>O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os
 navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
 
@@ -611,7 +611,7 @@ Devido a tudo isso, o HTML 5 vem com um novo suporte, nativo na linguagem, para 
 
 O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.</p>
 
-## Para video ▶️
+## video
 <pre>
 &lt;video width="426" height="240" controls&gt;
  &lt;source src="video.mp4" type="video/mp4"&gt;
@@ -620,7 +620,7 @@ O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite
 &lt;/video&gt;
 </pre>
 
-## Para audio 🔊
+## audio
 <pre>
 &lt;audio controls&gt;
  &lt;source src="audio.mp3" type="audio/mpeg"&gt;
