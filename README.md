@@ -318,6 +318,22 @@ Apesar do grande avanço da geração anterior, utilizando uma interface de linh
 
 Convém ressaltar que, apesar de ser uma interface antiga e pouco intuitiva, ainda existem muitos sistemas que são gerenciados através de interfaces de linhas de comandos.
 
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/61624336/196717329-450df1c4-0c0f-455c-9e08-0a80f40dd0bf.jpg"></td>
+    <td><b>Intensidade</b> é na terceira fase da computação que iniciamos a era do PC (Personal Computer) ou computador pessoal, caracterizado pelos preços de aquisição mais acessíveis, bem como pela facilidade de seu uso. Essa simplicidade de operação e manuseio do computador se deu pelo surgimento das famosas GUIs (Graphical User Interface), ou interfaces gráficas com janelas, como a apresentada na Figura ao lado.</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/61624336/196717955-02e00236-2b17-4b95-86b8-4fb69151f32d.jpg"</td> 
+    <td><b>Direcionamento</b>, onde desde então, este tipo de interface se tornou padrão nos principais sistemas operacionais para microcomputadores da atualidade. Com a familiarização e o aperfeiçoamento dessa tecnologia, os computadores ganharam mais espaço no ambiente familiar, permitindo uma utilização mais simplificada, e ao mesmo tempo menos burocrática, pelo fato de o usuário comum não precisar ter um conhecimento tão técnico para a sua utilização. Por esse motivo, os computadores ganharam cada vez mais espaço no mercado, tornando-se uma ferramenta indispensável para grande parte das empresas, além de uma ferramenta de estudos e diversão.</td>
+  </tr>
+  <tr>
+    <td><code>border=""</code></td> 
+    <td>determina o tamanho da borda, se for zero não mostra a borda</td>
+  </tr>
+</table>
+
+
 ## Estrutura do HTML
 
 <p>Tudo começa com o diretório <b>/assets/</b>, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
