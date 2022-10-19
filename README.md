@@ -26,7 +26,7 @@ Portanto, você necessita compreender a importância da elaboração de interfac
 # 🌐 Web Development
 <img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png">
 
-# Arquiteturas de Softwares e/ou Sistemas
+# ⚙️ Arquiteturas de Softwares e/ou Sistemas
 <div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKS69-ydPtgH05cgHMv_lEFI4Xl7oD5x7FA&usqp=CAU" height="177"/></div><br />
 
 Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, <b>REST API</b>, também chamado de <b>RESTful API</b>.
