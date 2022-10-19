@@ -227,6 +227,69 @@ Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecan
   
 </ul>
 
+
+# 📘 Box Model
+<img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="177" align="right">
+
+When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.
+
+<ol>
+  <li><b>margin</b> - São os espaçamentos entre elementos (transparente).</li>
+  <li><b>border</b> - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura, cor e forma.</li>
+  <li><b>padding</b> - Espaçamento entre a borda e o conteúdo.</li>
+  <li><b>content</b> - O conteúdo inserido no elemento HTML.</li>
+</ol>
+<p>Besides that, the Box model have his positions:<p>
+
+<img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="177" align="right"/>
+
+<ul>
+  <li><b>top</b>: Up position</li>
+  <li><b>right</b>: Right position</li>
+  <li><b>bottom</b>: Down position</li>
+  <li><b>left</b>: Left position</li>
+</ul>
+
+> 📦 **Box Model**: ` top, right, down, left `
+
+> OBS: Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda</strong><em> (top, right, bottom, left)
+
+Exemplo:</p>
+<pre>
+ul {
+ margin: 12px;
+ padding: 12px;
+}
+</pre>
+
+Dessa forma, é possível inserir de uma vez os espaçamentos da ordem (top, right, bottom, left) de um modelo padrão de 12px para cada posição, porém não permite diferenciar e alterar uma posição da ordem, pois ambos foram solicitados para 12px. Outra forma, é inserir essa instrução passo a passo para a ordem (top, right, bottom, left) o que permite diferenciar o espaçamento de cada um, como desejado.
+
+<pre>
+ul {
+ margin: 12px 12px 12px 12px; /*top, right, bottom, left = 12px*/
+ padding: 12px 0px 12px 12px; /*espaçamento direito entre a borda e o conteúdo = 0px; top, left, bottom = 12px*/
+}
+</pre>
+
+Outra forma é inserir a propriedade do box model de acordo com suas posições, o que não é muito prático.
+
+Exemplo:</p>
+<pre>
+ul {
+ margin-top: 12px; /*topo da margem = 12px*/
+ margin-right: 12px; /*direito da margem = 12px*/
+ margin-bottom: 12px; /*abaixo da margem = 12px*/
+ margin-left: 12px; /*esquedo da margem = 12px*/
+&nbsp;
+ padding-top: 12px; /*espaçamento topo entre a borda e o conteúdo = 12px*/
+ padding-right: 0px; /*espaçamento direito entre a borda e o conteúdo = 0px*/
+ padding-bottom: 12px; /*espaçamento inferior entre a borda e o conteúdo = 12px*/
+ padding-left: 12px; /*espaçamento esquerdo entre a borda e o conteúdo = 12px*/
+}
+</pre>
+
+<blockquote>OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.</blockquote>
+
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="177" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br />
 
@@ -733,7 +796,7 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 <div align="center"><h1>📙 HTML Semântico</h1></div>
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
 
-## New Semantic Elements in HTML5 📙📰
+## New Semantic Elements in HTML5
 <p>Até a versão 4 do HTML as <b>divs</b> eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma <b>folha de jornal</b>, pois ambas contém cabeçalhos, rodapés, artigos e seções.</p>
 <div align="center"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" height="257"/> <img src="https://www.w3schools.com/html/img_sem_elements.gif"/></div>
 <ul>
@@ -778,10 +841,10 @@ Exemplo de utilização:</p>
  &lt;/head&gt;
 </pre>
 
-### Estilo externo 📘📙
+### Estilo externo
 <p>As regras foram escritas em um arquivo com extensão <b>.css</b> e podem ser carregadas ao documento HTML5 de duas formas:</p>
 
-#### Utilizando o elemento &lt;link&gt; no HTML 📘📙
+#### Utilizando o elemento &lt;link&gt; no HTML
 <pre>
 &lt;head&gt;
 &lt;link rel="stylesheet" href="default.css"&gt;
@@ -791,7 +854,7 @@ Exemplo de utilização:</p>
 &lt;link rel="alternate stylesheet" href="wide.css" title="Wide screen"&gt;&lt;/head&gt;
 </pre>
 
-#### Utilização do elemento @import no CSS 📘📘
+#### Utilização do elemento `@import` no CSS
 <p>Permite <b>importar</b> regras de estilo dentro de outras regras de estilo. Esse método permite aplicar regras comuns a todos os documentos HTML.
 
 <b>Exemplo de utilização:</b>
@@ -806,10 +869,10 @@ Dentro de um documento .css podemos aplicar nas primeiras linhas, a chamada de a
 @import url("narrow.css") handheld and (max-width: 400px); /* mídia específica mídias portáteis*/
 </pre>
 
-## Conceito de Módulos 📘
+## Conceito de Módulos
 <p>O CSS nível 3 implementou o conceito de módulos, em que cada módulo é desenvolvido de forma independente, seguindo um cronograma próprio. A principal vantagem é independência na construção das novas funcionalidades.</p>
 
-## Seletores e Declarações 📘📝📃
+## Seletores e Declarações
 
 <p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
 
@@ -819,7 +882,7 @@ Vamos usar um elemento HTML que vimos anteriormente, a âncora , para exemplific
 
 Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o <b>a</b>, então dentro de um par de chaves adicionamos as <strong>declarações</strong>, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as <b>declarações</b> são formadas por uma propriedade e um valor.</p>
 
-# Tipos de Seletores, Declarações, Propriedades e Valores 📘📃🧱
+# Tipos de Seletores, Declarações, Propriedades e Valores
 Uma regra CSS é representada por:
 <ul>
 <li><strong>Propriedade:</strong> Determina a modificação a ser feita.</li>
@@ -919,7 +982,7 @@ h1#titulo1 { text-align: center } /* aplica a regra ao elemento h1 com o id=titu
 *.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
 </pre>
 
-## ID x Class 🆔❌🆑
+## ID x Class
 <p>No exemplo anterior criamos uma regra que altera um elemento HTML diretamente, mas isso significa que todos os elementos <a> ficarão com aquela aparência, e normalmente temos sites mais complexos que precisam de várias regras diferentes para elementos iguais.
 
 Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer no módulo passado, ele tinha vários elementos header, mas não vamos querer que o header principal tenha a mesma formatação que o header de uma postagem, é aí que entram os IDs e Classes.
@@ -1193,68 +1256,6 @@ p::after {
 </pre>
 
 <p>Basta utilizarmos a pseudo-classe <code>:root</code> e inserirmos os seletores <code>--nome da variável</code> para podermos atribuir os valores. Para chama-la é simples, basta somente utilizar o seletor desejável e o valor <code>var(--nome da variável)</code>.</p>
-
-# 📘 Box Model
-<img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="177" align="right">
-
-When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.
-
-<ol>
-  <li><b>margin</b> - São os espaçamentos entre elementos (transparente).</li>
-  <li><b>border</b> - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura, cor e forma.</li>
-  <li><b>padding</b> - Espaçamento entre a borda e o conteúdo.</li>
-  <li><b>content</b> - O conteúdo inserido no elemento HTML.</li>
-</ol>
-<p>Besides that, the Box model have his positions:<p>
-
-<img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="177" align="right"/>
-
-<ul>
-  <li><b>top</b>: Up position</li>
-  <li><b>right</b>: Right position</li>
-  <li><b>bottom</b>: Down position</li>
-  <li><b>left</b>: Left position</li>
-</ul>
-
-> 📦 **Box Model**: ` top, right, down, left `
-
-> OBS: Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda</strong><em> (top, right, bottom, left)
-
-Exemplo:</p>
-<pre>
-ul {
- margin: 12px;
- padding: 12px;
-}
-</pre>
-
-Dessa forma, é possível inserir de uma vez os espaçamentos da ordem (top, right, bottom, left) de um modelo padrão de 12px para cada posição, porém não permite diferenciar e alterar uma posição da ordem, pois ambos foram solicitados para 12px. Outra forma, é inserir essa instrução passo a passo para a ordem (top, right, bottom, left) o que permite diferenciar o espaçamento de cada um, como desejado.
-
-<pre>
-ul {
- margin: 12px 12px 12px 12px; /*top, right, bottom, left = 12px*/
- padding: 12px 0px 12px 12px; /*espaçamento direito entre a borda e o conteúdo = 0px; top, left, bottom = 12px*/
-}
-</pre>
-
-Outra forma é inserir a propriedade do box model de acordo com suas posições, o que não é muito prático.
-
-Exemplo:</p>
-<pre>
-ul {
- margin-top: 12px; /*topo da margem = 12px*/
- margin-right: 12px; /*direito da margem = 12px*/
- margin-bottom: 12px; /*abaixo da margem = 12px*/
- margin-left: 12px; /*esquedo da margem = 12px*/
-&nbsp;
- padding-top: 12px; /*espaçamento topo entre a borda e o conteúdo = 12px*/
- padding-right: 0px; /*espaçamento direito entre a borda e o conteúdo = 0px*/
- padding-bottom: 12px; /*espaçamento inferior entre a borda e o conteúdo = 12px*/
- padding-left: 12px; /*espaçamento esquerdo entre a borda e o conteúdo = 12px*/
-}
-</pre>
-
-<blockquote>OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.</blockquote>
 
 ## Border (A Borda do elemento)
 
