@@ -1695,8 +1695,7 @@ function rotate(value){
 </table>
 
 ### Exemplo de aplicação: Fotos de uma câmera Polaroid
-<pre>
-<h4>📙 index.html</h4>
+```html
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -1714,7 +1713,7 @@ function rotate(value){
 &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;
-</pre>
+```
 
 <pre>
 <h4>📘 style.css</h4>
