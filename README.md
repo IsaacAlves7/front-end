@@ -923,7 +923,7 @@ O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele represen
 E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
 
 
-## 📘 Pseudo-Classes 🤞🆑
+## Pseudo-Classes
 <p>E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento. As pseudo-classes são bem parecidas com os eventos do JavaScript, porém não possuem o mesmo poder de manipular os elementos.
   
 ### Syntax
@@ -935,7 +935,7 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
 
 O <code>a:hover</code> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
 
-### 📘 Tipos de Pseudo-Classes 🤞🆑
+### Tipos de Pseudo-Classes
 <table>
   <tr>
     <td><b>Pseudo-classe</b></td>
@@ -1102,7 +1102,7 @@ p:first-child i {
 }
 </pre>
 
-## 📘 Pseudo-Elementos 🤞🏷️
+## Pseudo-Elementos
 <p>Os <strong>pseudo-elementos</strong> são usados para estilizar partes específicas de um elemento. Como por exemplo: a primeira letra ou linha de um elemento ou talvez inserir um conteúdo antes ou depois do conteúdo de um elemento.</p>
 
 ### Syntax
@@ -1112,7 +1112,7 @@ selector::pseudo-element {
 }
 </pre>
 
-### 📘 Tipos de Pseudo-Elementos 🤞🏷️
+### Tipos de Pseudo-Elementos
 <table>
   <tr>
     <td><b>Pseudo-elemento</b></td>
@@ -1164,7 +1164,7 @@ p::after {
 }
 </pre>
 
-# 📘 Variáveis no CSS 📥
+## Variáveis no CSS
 <p>As <strong>variáveis no CSS</strong> servem para definir um padrão para a maioria dos elementos HTML5, poupando assim muitas linhas de código na folha de estilo. É muito comum usar as variáveis para fazer uma paleta de cores para uma página web mais complexa.</p>
 
 ### Syntax
@@ -1180,13 +1180,15 @@ p::after {
 
 <p>Basta utilizarmos a pseudo-classe <code>:root</code> e inserirmos os seletores <code>--nome da variável</code> para podermos atribuir os valores. Para chama-la é simples, basta somente utilizar o seletor desejável e o valor <code>var(--nome da variável)</code>.</p>
 
-## 📘 Cálculos no CSS 🔢
+# 📘 Box Model
+<img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="177" align="right">
 
-# 📘 Box Model 📦⬆️➡️⬇️⬅️
-<p>Look from this images bellow:</p>
+> 📦 **Box Model**: ` top, right, down, left `
 
-<div align="center"><img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="240"/><img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="250"/></div><br>
-<p>When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.</p>
+When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.
+
+<img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="177"/>
+
 <ol>
   <li><b>margin</b> - São os espaçamentos entre elementos (transparente).</li>
   <li><b>border</b> - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura, cor e forma.</li>
