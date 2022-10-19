@@ -122,8 +122,9 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
 É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.</p>
 
 # Arquiteturas de Softwares e/ou Sistemas
-<div align="center"><img src="https://miro.medium.com/max/654/0*prut14lFoArZnPK5.jpg" height="400"/></div>
-<i>Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, <b>REST API</b>, também chamado de <b>RESTful API</b>.</i><br><br>
+<div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKS69-ydPtgH05cgHMv_lEFI4Xl7oD5x7FA&usqp=CAU" height="177"/></div><br />
+
+Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, <b>REST API</b>, também chamado de <b>RESTful API</b>.
 
 <p>Aplicações Web são o número cada vez maior de sites na Web, isto é, eles imitam aplicações de desktop ao invés dos documentos tradicionais e
 estático de links de textos e imagens que compõem a maioria da Web. Como exemplo, temos os processadores onlines de texto, ferramentas de edição de foto,
@@ -207,6 +208,8 @@ Com o surgimento dos primeiros monitores monocromáticos, tem início a segunda 
 > Por meio de um teclado, instruções eram passadas para os computadores e exibidas em uma espécie de console ou terminal através do monitor.
 >
 > Tais instruções, interpretadas e executadas pelo computador, continham uma linguagem próxima a do ser humano, normalmente, no idioma inglês, não necessitando mais de uma máquina auxiliar para a confecção de cartões perfurados como na geração anterior.
+
+<img src="https://user-images.githubusercontent.com/61624336/196700717-745be9f8-befc-4272-8fdc-5567882f111d.jpg" align="right">
 
 Apesar do grande avanço da geração anterior, utilizando uma interface de linha de comando, **como a apresentada na figura ao lado**, essa forma de interação ainda era pouco intuitiva, pois necessitava que o usuário ainda tivesse certo conhecimento técnico para sua operação, obrigando-o a decorar diversos comandos para a utilização plena do computador.
 
