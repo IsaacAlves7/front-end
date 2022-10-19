@@ -1446,7 +1446,6 @@ ul {
   list-style-type: url('rocket.png');
 }
 </pre>
-<hr>
 
 <h1 align="center">Positions and dimensions</h1>
 <p>As propriedades CSS <strong>position</strong> e <strong>float</strong> determinam como um box será posicionado no modelo visual de formatação de um documento. Esse box pode conter imagens, textos, listas, entre outros e, com isso, podemos montar layouts com a mesma qualidade de um programa gráfico feito para este fim.
@@ -2054,7 +2053,6 @@ A nova sintaxe do Sass utiliza a extensão "**.scss**", diferente da antiga que 
 Além disso, pela popularização do Sass, hoje em dia não somos mais obrigados a ter o Ruby em nossa máquina para usá-lo. Podemos compilar o Sass a partir de C, Go, Java, Node.js, PHP, Python, etc.
 
 Para uma lista completa, acesse: http://sass-lang.com/libsass
-<hr>
 
 # 📕 Primeiros passos com o Sass e configurando o ambiente 🟩
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" height="200"/></div>
@@ -2064,7 +2062,6 @@ Como a maioria dos desenvolvedores front-end usam o Node.js atualmente, veremos 
 Primeiro, obtenha o Node.js em: https://nodejs.org/
 
 Após instalar o Node.js em sua máquina, criaremos um diretório chamado Sass.</p>
-<hr>
 
 # ☂️ Framework Bootstrap
 <div align="center"><a href="https://getbootstrap.com/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="170" title="Clique para acessar o site do Bootstrap"></a></div>
@@ -2077,7 +2074,6 @@ Após instalar o Node.js em sua máquina, criaremos um diretório chamado Sass.<
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/106330804-a5a05f80-6262-11eb-990b-77961ab5ca76.jpg)
 
 <p>O Bootstrap já possui um padrão para containers, divs e entre outras tags, como se fossem uma espécie de caixa, todas elas são chamadas pelos atributos <code>class</code>. Uma desvantagem do Bootstrap é a quantidade de linhas e classes no arquivo html, tornando o código mais longo do que estilizado pelo CSS puro. No entanto, é possível utilizar o Framework Bootstrap junto com a folha de Estilo, basta somente usar outros nomes para os seletores.</p>
-<hr>
 
 # Dia do Programador
 ![html](https://user-images.githubusercontent.com/61624336/112908980-e08a0c80-90c6-11eb-9d73-73b0b8aedde7.jpg)
