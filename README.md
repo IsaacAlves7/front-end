@@ -227,8 +227,11 @@ Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecan
   
 </ul>
 
+## Principais conceitos do CSS3
 
-# 📘 Box Model
+<details><summary><b title="(click to open)">📦 Box Model</b></summary><br />
+
+# 📦 Box Model
 <img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="177" align="right">
 
 When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.
@@ -289,6 +292,8 @@ ul {
 </pre>
 
 <blockquote>OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.</blockquote>
+
+</details>
 
 # 📜 JavaScript (JS)
 <div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="177" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br />
