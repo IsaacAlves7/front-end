@@ -1996,11 +1996,11 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 </pre>
 
 # 👓 Sass
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="200"></div>
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="177"></div>
 
 [![Sass](https://img.shields.io/badge/-style.scss-000?style=social&logo=Sass&logoColor=safira)](#)
 
-<p>É o pré-processador CSS mais utilizado atualmente e muito querido pela comunidade DEV.</p>
+É o pré-processador CSS3 mais utilizado atualmente e muito querido pela comunidade de desenvolvedores.
 
 ## O que são Pré-Processadores de CSS?
 Para um desenvolvimento web moderno, o CSS é muitas vezes visto como primitivo e incompleto. Há muitas funcionalidades que nos facilitaria na hora de desenvolver aplicações mais complexas.
@@ -2013,7 +2013,7 @@ Assim, podemos trabalhar melhor e com mais produtividade, fazendo proveito de fu
 
 Há vários pré-processadores, não só para CSS, mas também para HTML e JavaScript.
 
-Para CSS, os mais famosos são **Sass**, **Less** e **Stylus**.
+> Para CSS, os mais famosos são **Sass**, **Less** e **Stylus**.
 
 ## Por que usar o Sass?
 O Sass possui uma sintaxe muito parecida com o CSS comum. Isso significa que qualquer código CSS é interpretado pelo Sass!
