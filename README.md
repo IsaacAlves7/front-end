@@ -333,6 +333,12 @@ Convém ressaltar que, apesar de ser uma interface antiga e pouco intuitiva, ain
   </tr>
 </table>
 
+## O Desenvolvimento de interfaces para um Website
+O **desenvolvimento de um website** demanda um cuidado especial na concepção de sua interface, comparada com aplicações tradicionais de desktop. Elementos de design, como as cores, fontes e imagens, formam a identidade de um site e, portanto, ajudam a criar uma primeira impressão aos olhos do usuário. Esses elementos devem ser escolhidos com muito cuidado e devem ser bem trabalhados na construção de uma página.
+
+> 🎨 **Saiba mais**: A definição da **paleta de cores** correta pode estar diretamente ligada ao sucesso ou fracasso de um site, tendo em vista que o sentimento que as cores podem passar (teoria das cores) ao usuário reflete na percepção que ele terá de uma página web. As cores evocam certas emoções ou pensamentos nas pessoas, por exemplo, a cor azul está associada à confiança enquanto o preto à qualidade.
+
+Como regra geral, quanto mais simples o layout de uma página, melhor (layout clean e minimalista). Um site deve ser projetado para chamar a atenção dos usuários para as partes mais importantes. Além disso, o número de opções e os elementos de navegação devem ser sempre baseados nas preferências do público-alvo.
 
 ## Estrutura do HTML
 
