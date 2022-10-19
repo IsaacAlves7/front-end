@@ -284,6 +284,8 @@ Uma interface bem elaborada é um requisito fundamental de uma aplicação bem-s
 - **Qualidade de uso**: Até que ponto o software atende às necessidades do usuário.
 
 ## A evolução das interfaces nos sistemas computacionais
+<img src="https://user-images.githubusercontent.com/61624336/194951398-6ae28b05-17d8-4042-b69c-90a3d10014ca.jpg" title="ENIAC" height="277" align="right">
+
 À medida que avançamos no estudo da história dos computadores, podemos notar que a forma de interação entre o homem e a máquina evolui de um modo bem diferente comparado à evolução do poder de processamento dessas máquinas.
 
 No início da era da computação, os computadores consistiam em máquinas gigantescas que literalmente ocupavam uma sala inteira, chegando a pesar algo em torno de 30 toneladas! A operação dessas máquinas significava algo muito complexo e restrito apenas a alguns engenheiros ou técnicos com uma vasta experiência em sua utilização.
@@ -291,8 +293,6 @@ No início da era da computação, os computadores consistiam em máquinas gigan
 A troca de informações entre o homem e a máquina era feita diretamente no próprio hardware através da manipulação de cabos e chaves. O resultado desse processamento se dava na forma de dados numéricos representados por luzes que piscavam. Como podemos imaginar, esse tipo de retorno não era muito produtivo, pois o responsável pela operação dessa máquina deveria saber interpretar corretamente o significado dessas luzes.
 
 > Entretanto, podemos perceber que a manipulação dos cabos e chaves representava a interface de entrada e as luzes a interface de saída. Interface bastante limitada, porém, era o recurso existente na época e que limitava a utilização por pessoas especializadas.
-
-<img src="https://user-images.githubusercontent.com/61624336/194951398-6ae28b05-17d8-4042-b69c-90a3d10014ca.jpg" title="ENIAC" height="277" align="right">
 
 A primeira evolução nessa interação entre o homem e a máquina ocorreu em 1950, quando a IBM passou a utilizar, para fazer seus programas, cartões perfurados que eram lidos, interpretados e executados pelo computador. A utilização desses cartões não representava uma novidade, afinal, Herman Hollerith já havia utilizado algo similar anos antes.
 
