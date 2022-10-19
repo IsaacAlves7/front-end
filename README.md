@@ -224,14 +224,13 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 </ul>
 
 # 📜 JavaScript (JS)
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br>
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br />
+
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
 
-Com o JavaScript podemos criar efeitos especiais para nossas páginas na Web, além de podermos proporcionar maior interatividade com nossos usuários.
+Com o JavaScript podemos criar efeitos especiais para nossas páginas na Web, além de podermos proporcionar maior interatividade com nossos usuários. O JavaScript é uma linguagem orientada a objetos, ou seja, ela trata todos os elementos da página como objetos distintos, facilitando a tarefa da programação.
 
-O JavaScript é uma linguagem orientada a objetos, ou seja, ela trata todos os elementos da página como objetos distintos, facilitando a tarefa da programação.
-
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/108576338-02d87f80-72fc-11eb-98d7-cd75c0bc2929.gif"></div>
+<img src="https://user-images.githubusercontent.com/61624336/108576338-02d87f80-72fc-11eb-98d7-cd75c0bc2929.gif" height="277" align="right">
 
 Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem deseja criar páginas Web dinâmicas e interativas.
 
@@ -345,7 +344,7 @@ Como regra geral, quanto mais simples o layout de uma página, melhor (layout cl
 
 Um site sempre deve ser projetado tendo em mente o seu público-alvo e deve garantir uma boa experiência de usuário. A construção da interface de um site é um assunto muito importante e que não deve ser deixado em segundo plano. Um website bem projetado ajuda a formar uma boa impressão sobre seus clientes em potencial, como também é capaz de agregar valor a um produto ali exposto.
 
-# 💻 Estrutura do HTML
+# 💻 [Front-End] A Estrutura do Website
 
 <p>Tudo começa com o diretório, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
 
