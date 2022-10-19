@@ -292,7 +292,7 @@ A troca de informações entre o homem e a máquina era feita diretamente no pr�
 
 > Entretanto, podemos perceber que a manipulação dos cabos e chaves representava a interface de entrada e as luzes a interface de saída. Interface bastante limitada, porém, era o recurso existente na época e que limitava a utilização por pessoas especializadas.
 
-<img src="https://user-images.githubusercontent.com/61624336/194951398-6ae28b05-17d8-4042-b69c-90a3d10014ca.jpg" title="ENIAC" width="100%">
+<img src="https://user-images.githubusercontent.com/61624336/194951398-6ae28b05-17d8-4042-b69c-90a3d10014ca.jpg" title="ENIAC" height="277" align="right">
 
 A primeira evolução nessa interação entre o homem e a máquina ocorreu em 1950, quando a IBM passou a utilizar, para fazer seus programas, cartões perfurados que eram lidos, interpretados e executados pelo computador. A utilização desses cartões não representava uma novidade, afinal, Herman Hollerith já havia utilizado algo similar anos antes.
 
@@ -302,7 +302,7 @@ Submeter um programa para a sua execução não significava uma tarefa das mais 
 
 A interface do software era igualmente implacável, com sintaxes muito restritas, destinadas a serem analisadas pelos menores compiladores e interpretadores. O tempo de execução para rodar um único programa normalmente demorava dias inteiros, ou, em certos casos, algumas horas, mas nunca em tempo real.
 
-<img src="https://user-images.githubusercontent.com/61624336/196693798-3f767fb2-3e68-4844-a2ef-00ffa22904cf.jpg" title="Máquina perfuradora de cartão IBM029.">
+<img src="https://user-images.githubusercontent.com/61624336/196693798-3f767fb2-3e68-4844-a2ef-00ffa22904cf.jpg" title="Máquina perfuradora de cartão IBM029." height="277" align="right">
 
 Com o surgimento dos primeiros monitores monocromáticos, tem início a segunda fase da evolução da interação humano-computador. Isso porque esses dispositivos facilitaram bastante a troca de informações da máquina para o usuário.
 
@@ -336,9 +336,14 @@ Convém ressaltar que, apesar de ser uma interface antiga e pouco intuitiva, ain
 ## O Desenvolvimento de interfaces para um Website
 O **desenvolvimento de um website** demanda um cuidado especial na concepção de sua interface, comparada com aplicações tradicionais de desktop. Elementos de design, como as cores, fontes e imagens, formam a identidade de um site e, portanto, ajudam a criar uma primeira impressão aos olhos do usuário. Esses elementos devem ser escolhidos com muito cuidado e devem ser bem trabalhados na construção de uma página.
 
+> Um dos alicerces para a construção de um bom website está em sua navegação. O objetivo principal de qualquer um que visite uma página está em encontrar o mais rápido possível as informações que procura, utilizando o menor número de cliques possíveis. O design de interface de um site deve tornar esse processo mais fácil e ajudar os visitantes a navegar sem que fiquem perdidos em uma imensidão de informações.
+> Quanto mais amigável for o site, maior será a probabilidade de as pessoas se envolverem com o seu conteúdo . Uma boa interface tem sempre como objetivo primário fornecer a melhor experiência para o usuário, o que, em outras palavras, se traduz em mais acessos e em um maior tempo de navegação.
+
 > 🎨 **Saiba mais**: A definição da **paleta de cores** correta pode estar diretamente ligada ao sucesso ou fracasso de um site, tendo em vista que o sentimento que as cores podem passar (teoria das cores) ao usuário reflete na percepção que ele terá de uma página web. As cores evocam certas emoções ou pensamentos nas pessoas, por exemplo, a cor azul está associada à confiança enquanto o preto à qualidade.
 
 Como regra geral, quanto mais simples o layout de uma página, melhor (layout clean e minimalista). Um site deve ser projetado para chamar a atenção dos usuários para as partes mais importantes. Além disso, o número de opções e os elementos de navegação devem ser sempre baseados nas preferências do público-alvo.
+
+Um site sempre deve ser projetado tendo em mente o seu público-alvo e deve garantir uma boa experiência de usuário. A construção da interface de um site é um assunto muito importante e que não deve ser deixado em segundo plano. Um website bem projetado ajuda a formar uma boa impressão sobre seus clientes em potencial, como também é capaz de agregar valor a um produto ali exposto.
 
 ## Estrutura do HTML
 
@@ -1289,14 +1294,14 @@ Exemplo de utilização:</p>
 
 ## Content (O Conteúdo do Elemento)
 
-<h1 align="center">Foreground e Background</h1>
+# Foreground e Background
 <p>O CSS permite alterar as cores de primeiro plano (<em>foreground</em>) e plano de fundo (<em>background</em>) dos elementos. O W3C recomenda que a regra background seja utilizado no elemento <em>body</em>.
 
 Sempre que pensamos em criar um layout, devemos configurar a cor de fundo (background) para que a página que será aberta apresente a mesma cor em qualquer navegador. Caso não seja definida, corre o risco do usuário ter modificado a cor padrão da máquina e como não está configurada no HTML, a página vai mostrar a cor padrão, alterando, assim, o que foi definido no layout.
 
 O mesmo caso acontece com a cor da fonte (foreground) que deve ser definida da mesma forma. O W3C recomenda sempre que o body contenha essas definições para que todas as páginas apresentem uma formatação.</p>
 
-## Background 🖼️🟦
+## Background
 <p>Para alterar a cor de fundo de uma página HTML, usando atributos do CSS, devemos usar conforme o exemplo:</p>
 
 ### Modificando a cor do plano de fundo (background):
