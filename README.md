@@ -228,13 +228,13 @@ Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecan
 </ul>
 
 # 📜 JavaScript (JS)
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="200" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br />
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="177" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br />
 
 <p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
 
 Com o JavaScript podemos criar efeitos especiais para nossas páginas na Web, além de podermos proporcionar maior interatividade com nossos usuários. O JavaScript é uma linguagem orientada a objetos, ou seja, ela trata todos os elementos da página como objetos distintos, facilitando a tarefa da programação.
 
-<img src="https://user-images.githubusercontent.com/61624336/108576338-02d87f80-72fc-11eb-98d7-cd75c0bc2929.gif" height="277" align="right">
+<img src="https://user-images.githubusercontent.com/61624336/108576338-02d87f80-72fc-11eb-98d7-cd75c0bc2929.gif" height="177" align="right">
 
 Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem deseja criar páginas Web dinâmicas e interativas.
 
