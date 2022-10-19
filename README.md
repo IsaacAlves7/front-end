@@ -248,7 +248,7 @@ O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador,
 # 🎨 Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a **possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa**.
 
-<img src="https://user-images.githubusercontent.com/61624336/194796066-6256d836-86ae-4249-a45b-898e85537a16.jpg" title="Interface gráfica">
+<img src="https://user-images.githubusercontent.com/61624336/194796066-6256d836-86ae-4249-a45b-898e85537a16.jpg" title="Interface gráfica" height="277" align="right">
 
 Por exemplo, um usuário de um site de e-commerce que está à procura de determinado produto, como um sapato, deverá de alguma forma passar a informação do produto que ele está pensando em adquirir para o sistema, como o tamanho do calçado, o tipo de solado, o material utilizado para a sua confecção, entre outros.
 
@@ -264,7 +264,7 @@ Segundo Benyon (2011), A interface para um sistema interativo são todas as peç
 
 > Uma interface deve oferecer meios para que um usuário possa passar instruções de forma simples, como também deverá informar ao usuário algum retorno, que pode ser uma informação, uma imagem, um aviso sonoro, uma animação ou até um filme.
 
-<img src="https://user-images.githubusercontent.com/61624336/194799532-9908b16c-6394-47d8-a92e-7c563321bc5f.jpg" title="Interface gráfica nos smartphones">
+<img src="https://user-images.githubusercontent.com/61624336/194799532-9908b16c-6394-47d8-a92e-7c563321bc5f.jpg" title="Interface gráfica nos smartphones" height="277" align="right">
 
 Podemos observar, atualmente, uma enorme variedade de interfaces, nos mais variados dispositivos que utilizamos em nosso cotidiano, tais como smartphones, controles remotos, geladeiras, aparelhos de micro-ondas e joysticks utilizados em videogames.
 
