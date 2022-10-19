@@ -1814,7 +1814,7 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
 
 <p>Nas <em>media queries</em> são utilizados três operadores lógicos:</p>
 
-### not
+### `not`
 <p>Usamos para dispositivos monocromáticos, pois estamos negando o atributo color.</p>
 <pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
 
@@ -1824,15 +1824,15 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
 
 <blockquote>As modificações serão feitas em dispositivos de media screen e com resolução máxima de 480px.</blockquote>
 
-### or
+### `or
 <p>Define a localização do arquivo.css.</p>
 <pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
 
-### only
+### `only`
 <p>Define o tipo de saída do arquivo.</p>
 </ul>
 
-### A importância do Viewport para layouts responsivos 👓🤳
+### A importância do Viewport para layouts responsivos
 
 ### Layout multicolunas
 <p>Sua principal vantagem é a flexibilidade, pois independe de dispositivo.
@@ -1896,7 +1896,6 @@ Veja as propriedades a seguir:</p>
 
 Observe agora a estilização padrão da marcação e sua respectiva renderização.</p>
 <pre>
-<h4>📘 style.css</h4>
 &nbsp;
 .container {
 width: 240px;
