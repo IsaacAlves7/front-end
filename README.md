@@ -98,20 +98,20 @@ In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by 
 
 Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;</b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <code>&lt;meta&gt;</code> e <code>&lt;link&gt;</code>.
 <br>
+
 Além disso, são divididas em categorias conforme a seguir:
-<ul>
-  <li>Metadados</li>
-  <li>O elemento root</li>
-  <li>Agrupamento de conteúdo</li>
-  <li>Seções</li>
-  <li>Script</li>
-  <li>Edições</li>
-  <li>Semânticas de nível de texto</li>
-  <li>Conteúdo incorporado</li>
-  <li>Tabelas</li>
-  <li>Formulários</li>
-  <li>Interativo</li>
-</ul>
+
+- Metadados
+- O elemento root
+- Agrupamento de conteúdo
+- Seções
+- Script
+- Edições
+- Semânticas de nível de texto
+- Conteúdo incorporado
+- Tabelas
+- Formulários
+- Interativo
 
 Uma TAG pode conter <b>atributos</b>, que são informações que alteram o comportamento da TAG. Os atributos podem ser divididos em atributos específicos para cada TAG e atributos globais que são comuns a todas as tags.
 
