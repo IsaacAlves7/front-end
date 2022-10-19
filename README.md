@@ -75,6 +75,106 @@ In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by 
 <p>Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava convencido que o XML era o futuro para todos os autores web. Este grupo começou a desenvolver um trabalho separado, para criar uma nova forma de utilização dos antigos códigos HTML, principalmente ligado ao uso de formulários, sem deixar de atender às determinações básicas do XML. Aquela especificação eventualmente se tornou Web Forms 2.0 e, subsequentemente, foi incorporado na especificação HTML5.</p>
 <p>Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.</p>
 
+
+# 📙 TAGs essenciais do HTML
+<img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
+<p>É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code>&lt;meta&gt;</code>, <code>&lt;h1&gt;</code>, <code>&lt;img&gt;</code> etc. 
+
+Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;</b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <code>&lt;meta&gt;</code> e <code>&lt;link&gt;</code>.
+<br>
+Além disso, são divididas em categorias conforme a seguir:
+<ul>
+  <li>Metadados</li>
+  <li>O elemento root</li>
+  <li>Agrupamento de conteúdo</li>
+  <li>Seções</li>
+  <li>Script</li>
+  <li>Edições</li>
+  <li>Semânticas de nível de texto</li>
+  <li>Conteúdo incorporado</li>
+  <li>Tabelas</li>
+  <li>Formulários</li>
+  <li>Interativo</li>
+</ul>
+
+Uma TAG pode conter <b>atributos</b>, que são informações que alteram o comportamento da TAG. Os atributos podem ser divididos em atributos específicos para cada TAG e atributos globais que são comuns a todas as tags.
+
+Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o <b>CSS</b>, o <b>Javascript</b>.
+</p>
+
+## Atributos de uma TAG
+<p><b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
+
+Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <code>&lt;link&gt;</code>:
+<pre>
+&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;
+</pre>
+Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no caso é <code>rel="stylesheet"</code> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <code>href=""</code> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
+
+### Atributos Específicos de uma TAG
+<table>
+  <tr>
+    <td><strong>Atributo</strong></td>
+    <td><strong>Função do atributo</strong></td>
+  </tr>
+  <tr>
+    <td><code>rel=""</code></td>
+    <td>Especifica o relacionamento entre o documento atual e o documento linkado</td>
+  </tr>
+  <tr>
+    <td><code>src=""</code></td>
+    <td>Especifica a URL do arquivo de mídia</td>
+  </tr>
+  <tr>
+    <td><code>type=""</code></td>
+    <td>Especifica o tipo do documento</td>
+  </tr>
+  <tr>
+    <td><code>alt=""</code></td>
+    <td>Mostra o texto quando a aparência não renderiza</td>
+  </tr>
+  <tr>
+    <td><code>target=""</code></td>
+    <td>Especifica o modo de abrir o link em janela</td>
+  </tr>
+  <tr>
+    <td><code>width=""</code></td>
+    <td>Especifica a largura do elemento</td>
+  </tr>
+  <tr>
+    <td><code>height=""</code></td>
+    <td>Especifica a altura do elemento</td>
+  </tr>
+  <tr>
+    <td><code>name=""</code></td>
+    <td>Especifica o nome do elemento</td>
+  </tr>
+  <tr>
+    <td><code>value=""</code></td>
+    <td>Especifica o valor do elemento</td>
+  </tr>
+</table>
+
+### Atributos Globais de uma TAG
+<table>
+  <tr>
+    <td><strong>Atributo</strong></td>
+    <td><strong>Função do atributo</strong></td>
+  </tr>
+  <tr>
+    <td><code>title=""</code></td>
+    <td>Especifica a informação extra sobre o elemento, como um balãosinho de texto</td>
+  </tr>
+  <tr>
+    <td><code>class=""</code></td>
+    <td>Especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS)</td>
+  </tr>
+    <tr>
+    <td><code>id=""</code></td>
+    <td>Especifica uma unica id para um elemento (referência de id para o CSS)</td>
+  </tr>
+</table>
+
 # 📘 CSS3 - Cascading Style Sheets 3
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="177"/></div><br />
 
@@ -209,110 +309,11 @@ Com o surgimento dos primeiros monitores monocromáticos, tem início a segunda 
 >
 > Tais instruções, interpretadas e executadas pelo computador, continham uma linguagem próxima a do ser humano, normalmente, no idioma inglês, não necessitando mais de uma máquina auxiliar para a confecção de cartões perfurados como na geração anterior.
 
-<img src="https://user-images.githubusercontent.com/61624336/196700717-745be9f8-befc-4272-8fdc-5567882f111d.jpg" align="right">
+<img src="https://user-images.githubusercontent.com/61624336/196700717-745be9f8-befc-4272-8fdc-5567882f111d.jpg" align="right" height="177" title="Interface de linha de comando">
 
 Apesar do grande avanço da geração anterior, utilizando uma interface de linha de comando, **como a apresentada na figura ao lado**, essa forma de interação ainda era pouco intuitiva, pois necessitava que o usuário ainda tivesse certo conhecimento técnico para sua operação, obrigando-o a decorar diversos comandos para a utilização plena do computador.
 
 Convém ressaltar que, apesar de ser uma interface antiga e pouco intuitiva, ainda existem muitos sistemas que são gerenciados através de interfaces de linhas de comandos.
-
-# 📙 TAGs essenciais do HTML
-<img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
-<p>É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code>&lt;meta&gt;</code>, <code>&lt;h1&gt;</code>, <code>&lt;img&gt;</code> etc. 
-
-Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;</b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <code>&lt;meta&gt;</code> e <code>&lt;link&gt;</code>.
-<br>
-Além disso, são divididas em categorias conforme a seguir:
-<ul>
-  <li>Metadados</li>
-  <li>O elemento root</li>
-  <li>Agrupamento de conteúdo</li>
-  <li>Seções</li>
-  <li>Script</li>
-  <li>Edições</li>
-  <li>Semânticas de nível de texto</li>
-  <li>Conteúdo incorporado</li>
-  <li>Tabelas</li>
-  <li>Formulários</li>
-  <li>Interativo</li>
-</ul>
-
-Uma TAG pode conter <b>atributos</b>, que são informações que alteram o comportamento da TAG. Os atributos podem ser divididos em atributos específicos para cada TAG e atributos globais que são comuns a todas as tags.
-
-Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o <b>CSS</b>, o <b>Javascript</b>.
-</p>
-
-## Atributos de uma TAG
-<p><b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
-
-Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <code>&lt;link&gt;</code>:
-<pre>
-&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;
-</pre>
-Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no caso é <code>rel="stylesheet"</code> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <code>href=""</code> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
-
-### Atributos Específicos de uma TAG
-<table>
-  <tr>
-    <td><strong>Atributo</strong></td>
-    <td><strong>Função do atributo</strong></td>
-  </tr>
-  <tr>
-    <td><code>rel=""</code></td>
-    <td>Especifica o relacionamento entre o documento atual e o documento linkado</td>
-  </tr>
-  <tr>
-    <td><code>src=""</code></td>
-    <td>Especifica a URL do arquivo de mídia</td>
-  </tr>
-  <tr>
-    <td><code>type=""</code></td>
-    <td>Especifica o tipo do documento</td>
-  </tr>
-  <tr>
-    <td><code>alt=""</code></td>
-    <td>Mostra o texto quando a aparência não renderiza</td>
-  </tr>
-  <tr>
-    <td><code>target=""</code></td>
-    <td>Especifica o modo de abrir o link em janela</td>
-  </tr>
-  <tr>
-    <td><code>width=""</code></td>
-    <td>Especifica a largura do elemento</td>
-  </tr>
-  <tr>
-    <td><code>height=""</code></td>
-    <td>Especifica a altura do elemento</td>
-  </tr>
-  <tr>
-    <td><code>name=""</code></td>
-    <td>Especifica o nome do elemento</td>
-  </tr>
-  <tr>
-    <td><code>value=""</code></td>
-    <td>Especifica o valor do elemento</td>
-  </tr>
-</table>
-
-### Atributos Globais de uma TAG
-<table>
-  <tr>
-    <td><strong>Atributo</strong></td>
-    <td><strong>Função do atributo</strong></td>
-  </tr>
-  <tr>
-    <td><code>title=""</code></td>
-    <td>Especifica a informação extra sobre o elemento, como um balãosinho de texto</td>
-  </tr>
-  <tr>
-    <td><code>class=""</code></td>
-    <td>Especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS)</td>
-  </tr>
-    <tr>
-    <td><code>id=""</code></td>
-    <td>Especifica uma unica id para um elemento (referência de id para o CSS)</td>
-  </tr>
-</table>
 
 ### Eventos de uma TAG (Métodos HTML5 + JavaScript)
 [![JS](https://img.shields.io/badge/-Repositorio:‍‍Eventos‍‍JavaScript‍‍📜📙🎪-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)](https://github.com/IsaacAlves7/javascript-programming/blob/master/README.md#cap-16--eventos-)
