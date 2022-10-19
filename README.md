@@ -1774,7 +1774,7 @@ div.rotate_left{
 ## 📙 Viewport 🖥️💻📱
 <p></p>
 
-## 📘 Utilizando Media Queries 🖥️💻📱
+## Utilizando Media Queries 🖥️💻📱
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/112909640-3ca16080-90c8-11eb-85a4-d5cc3a6aaa85.gif"></div>
 
@@ -1978,7 +1978,6 @@ background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
 .box2 {
 background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 </pre>
-<hr>
 
 # 💋 Sass
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="200"></div>
