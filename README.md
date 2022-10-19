@@ -199,6 +199,10 @@ O **CSS** (Cascading Style Sheets), é um "Stylesheets" (folha de estilo) compos
 Há várias formas de inserir modificação no estilo com CSS. Com o CSS você pode especificar muitas propriedades de estilo para qualquer elemento HTML. Cada propriedade tem um nome e um valor, separados por dois pontos `:`. Cada declaração de propriedade é separada por um ponto e vírgula `;`.
 
 ## Tipos de CSS
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="177"/></div><br />
+
+Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecanismo simples para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos da Web. O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5 e, portanto, existem algumas formas de fazer isso, veja abaixo quais são e as suas sintaxes:
+
 <ul>
 <li><b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML.</li>
 <br><b>Exemplo de CSS interno:</b><br>
@@ -214,7 +218,7 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 <link rel="stylesheet" href="/assets/public/styles/css/style.css">
 ```
   
-<li><b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada.</li>
+<li><b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada. Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código.</li>
 <br><b>Exemplo de CSS inline:</b><br>
   
 ```html
@@ -759,21 +763,6 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 
 </ul>
 
-<div align="center"><h1>📘 Revisando o CSS</h1></div>
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="270"/></div>
-<p>Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecanismo simples para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos
-da Web.
-
-O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5.</p>
-
-## Sintaxe 📘🧱
-<b>Formas de inclusão no HTML:</b>
-
-### Estilo inline 📝
-<p>Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código.</p>
-<pre>
-    &lt;p style=?color: white; background:black?&gt;Hello, world!&lt;/p&gt;
-</pre>
 
 ### Estilo incorporado ou interno 📃
 <p>Caracteriza-se por escrever o código CSS, utilizando o comando <strong>&lt;style&gt;</strong> do HTML. Esse método é superior ao anterior, pois <b>todas as regras CSS</b> estão localizadas no início do código HTML5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
