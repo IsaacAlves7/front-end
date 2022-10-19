@@ -158,7 +158,7 @@ A troca de informações entre o homem e a máquina era feita diretamente no pr�
 
 A primeira evolução nessa interação entre o homem e a máquina ocorreu em 1950, quando a IBM passou a utilizar, para fazer seus programas, cartões perfurados que eram lidos, interpretados e executados pelo computador. A utilização desses cartões não representava uma novidade, afinal, Herman Hollerith já havia utilizado algo similar anos antes.
 
-<img src="https://user-images.githubusercontent.com/61624336/194955005-704482c6-67ad-4292-a9e1-71c4d71121f4.jpg" title="Cartão perfurado - FORTRAN" height="277" align="right">
+<img src="https://user-images.githubusercontent.com/61624336/194955005-704482c6-67ad-4292-a9e1-71c4d71121f4.jpg" title="Cartão perfurado - FORTRAN" height="177" align="right">
 
 Submeter um programa para a sua execução não significava uma tarefa das mais fáceis. Primeiro, perfurar o cartão com o código a ser executado não era feito pelo próprio computador, mas em máquinas especializadas muito semelhantes a uma máquina de escrever, as quais eram conhecidas por serem difíceis de se trabalhar, além de estarem sujeitas a falhas mecânicas.
 
