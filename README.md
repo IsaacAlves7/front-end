@@ -415,11 +415,15 @@ Um site sempre deve ser projetado tendo em mente o seu público-alvo e deve gara
 ## USABILIDADE E ACESSIBILIDADE
 **Usabilidade** e **acessibilidade** são aspectos intimamente relacionados na criação de qualquer interface visual que deva funcionar para todas as pessoas e que deve ser considerado por todos os desenvolvedores.
 
-### Usabilidade
+### Usabilidade (UI)
 A **usabilidade** significa projetar produtos para serem eficazes, eficientes e satisfatórios. Isso pode incluir aspectos gerais que afetam a todos e não afetam desproporcionalmente as pessoas com deficiência.
 
-### Acessibilidade
-A **acessibilidade**, por sua vez, aborda aspectos discriminatórios relacionados à experiência de usuário. Um software acessível significa que pessoas com deficiência podem igualmente perceber, compreender, navegar e interagir com essa ferramenta. Isso também significa que eles podem contribuir igualmente sem barreiras, permitindo que haja a inclusão digital.
+### Acessibilidade (UX)
+A **acessibilidade**, por sua vez, aborda aspectos discriminatórios relacionados à **experiência de usuário**. Um software acessível significa que pessoas com deficiência podem igualmente perceber, compreender, navegar e interagir com essa ferramenta. Isso também significa que eles podem contribuir igualmente sem barreiras, permitindo que haja a inclusão digital.
+
+Atualmente, algo em torno de 15% da população mundial possui algum tipo de deficiência ou necessidade especial. Com números como esses, além de algo importante e benéfico para o produto em si, é um dever ético do designer (UX/UI Designer) remover as barreiras de acesso enfrentadas por essas pessoas.
+
+
 
 # 💻 [Front-End] A Estrutura do Website
 
