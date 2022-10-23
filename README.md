@@ -431,7 +431,19 @@ A **acessibilidade**, por sua vez, aborda aspectos discriminatórios relacionado
 
 Atualmente, algo em torno de 15% da população mundial possui algum tipo de deficiência ou necessidade especial. Com números como esses, além de algo importante e benéfico para o produto em si, é um dever ético do designer (UX/UI Designer) remover as barreiras de acesso enfrentadas por essas pessoas.
 
+# 🌐 A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET: WEB 1.0, WEB 2.0
 
+### A origem da internet
+<div align="center">
+  
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Samuel_Morse.jpg/400px-Samuel_Morse.jpg" height="177"><br><sub>Samuel Finley Breese Morse</sub>](https://github.com/BrendanEich) 
+|:-:|
+
+</div>
+
+A primeira troca de informações entre dispositivos utilizando a corrente elétrica ocorreu durante o século XIX, no ano de 1835, quando **Samuel Morse**, (1791-1872) pintor e inventor do telégrafo magnético na velhice, projeta o primeiro telégrafo elétrico.
+
+A ideia por detrás dessa grande invenção era muito simples. O aparelho possuía um transmissor que consistia em um manipulador com capacidade de abrir e fechar um circuito elétrico de forma intermitente. Ao fechar o circuito elétrico, uma corrente elétrica circulava pelo transmissor.
 
 # 💻 [Front-End] A Estrutura do Website
 
