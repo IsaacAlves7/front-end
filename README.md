@@ -448,6 +448,10 @@ A primeira troca de informações entre dispositivos utilizando a corrente elét
 
 A ideia por detrás dessa grande invenção era muito simples. O aparelho possuía um transmissor que consistia em um manipulador com capacidade de abrir e fechar um circuito elétrico de forma intermitente. Ao fechar o circuito elétrico, uma corrente elétrica circulava pelo transmissor.
 
+<img src="https://user-images.githubusercontent.com/61624336/197409204-81699523-495c-4d8e-9f88-2b71fde971be.jpg" align="left" height="177" title="Sistema Telegráfico de Código Morse vintage">
+
+Essa corrente ativava um eletroímã, o qual atuava como um receptor. Ao ser ativado, o eletroímã atraía uma peça móvel que, ao movimentar-se, atingia uma fita de papel e imprimia sobre ela um sinal. A distância através da qual a informação podia viajar dependia do comprimento do cabo que ligava o emissor ao destinatário.
+
 # 💻 [Front-End] A Estrutura do Website
 
 <p>Tudo começa com o diretório, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
