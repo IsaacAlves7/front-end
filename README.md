@@ -316,6 +316,8 @@ O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador,
 # 🎨 Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a **possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa**.
 
+> A interação humano-computador é uma disciplina preocupada com o design, a avaliação e a implementação de sistemas computacionais interativos para uso humano e com o estudo dos principais fenômenos ao redor deles.
+
 <img src="https://user-images.githubusercontent.com/61624336/194796066-6256d836-86ae-4249-a45b-898e85537a16.jpg" title="Interface gráfica" height="277" align="right">
 
 Por exemplo, um usuário de um site de e-commerce que está à procura de determinado produto, como um sapato, deverá de alguma forma passar a informação do produto que ele está pensando em adquirir para o sistema, como o tamanho do calçado, o tipo de solado, o material utilizado para a sua confecção, entre outros.
@@ -598,10 +600,10 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <pre>&lt;pre&gt;&lt;code&gt;console.log('Hello, World!');&lt;/code&gt;&lt;/pre&gt;</pre>
 </ul>
 
-<h1 align="center">📙 TAG de Imagem</h1>
+# 🖼️ TAG de Imagem
 <pre>&lt;img src="/assets/public/img/img.svg"&gt;</pre>
 
-<h1 align="center">📙 TAGs de Listas</h1>
+# 📋 TAGs de Listas
 <p>As listas são importantes para a organização do texto e orientação do usuário.</p>
 <ul>
  <li><p><code>&lt;li&gt;</code> elemento que representa um os itens das listas.</p></li>
@@ -723,10 +725,10 @@ O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite
 
 <p>Todos os exemplos de audio e video citados são importados via documento no diretório. E a dúvida é, como faço para importar um vídeo já hospedado em um site como o YouTube ou o Vimeo? E qual das duas soluções (Via documento ou via server) é a mais vantajosa?</p>
 
-## Importando video ▶️🌐
+### Importando video
 <p>Vamos ver como importar videos do YouTube e do Vimeo, passo a passo!</p>
 
-# 📙 TAGs de Tabelas ⬜🔲
+# 🔲 TAGs de Tabelas
 <div align="center"><img src="https://cdn.educba.com/academy/wp-content/uploads/2019/10/Create-Tables-in-HTML.png"></div>
 <p>Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
 
@@ -767,7 +769,7 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105891443-6ae2c100-5fef-11eb-86d0-e66401b98812.jpg)
 
-### Atributo Rules 📖🔳⬜🔲
+### Atributo Rules
 <p>Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo <code>RULES</code>, dentro da tag . Os complementos desse atributo são:</p>
 <table>
   <tr>
@@ -798,7 +800,7 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 <pre><code>&lt;table border rules="groups"6&gt;</code></pre>
 <pre><code>&lt;table border rules="rows"6&gt;</code></pre>
 
-<h1 align="center">📙 TAGs de Formulários</h1>
+# 🆗 TAGs de Formulários
 <p>A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:</p>
 
 ## Tipos de input
@@ -807,7 +809,7 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 ## A diferença entre anchor, input and button
 <div align="center"><img src="https://davidwalsh.name/demo/html5-buttons.png" height="200"></div>
 
-# 📙 HTML Semântico
+# 📰 HTML Semântico
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
 
 ## New Semantic Elements in HTML5
