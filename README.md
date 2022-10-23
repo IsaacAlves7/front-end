@@ -316,6 +316,8 @@ O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador,
 # 🎨 Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a **possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa**.
 
+O IHC é o estudo da interação entre pessoas e computadores. É uma matéria interdisciplinar que relaciona a ciência da computação, artes, design, ergonomia, psicologia, sociologia, semiótica, linguística, e áreas afins. A interação entre humanos e máquinas acontece através da interface do utilizador, formada por software e hardware.
+
 > A interação humano-computador é uma disciplina preocupada com o design, a avaliação e a implementação de sistemas computacionais interativos para uso humano e com o estudo dos principais fenômenos ao redor deles.
 
 <img src="https://user-images.githubusercontent.com/61624336/194796066-6256d836-86ae-4249-a45b-898e85537a16.jpg" title="Interface gráfica" height="277" align="right">
