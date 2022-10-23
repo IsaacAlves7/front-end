@@ -433,7 +433,7 @@ A **acessibilidade**, por sua vez, aborda aspectos discriminatórios relacionado
 
 Atualmente, algo em torno de 15% da população mundial possui algum tipo de deficiência ou necessidade especial. Com números como esses, além de algo importante e benéfico para o produto em si, é um dever ético do designer (UX/UI Designer) remover as barreiras de acesso enfrentadas por essas pessoas.
 
-# 🌐 A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET: WEB 1.0, WEB 2.0
+# 🌐 A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET: WEB 1.0 e WEB 2.0
 
 ### A origem da internet
 <div align="center">
@@ -573,6 +573,19 @@ A seguir, vejamos alguns dos principais fatos históricos que marcaram a evoluç
 - Em junho de 2012, o W3C lança as especificações sobre Media Queries. O módulo CSS3 Media Queries permite a renderização adaptável de páginas da web com base em vários fatores, como resolução ou tamanho da tela.
 - Em outubro de 2014, o W3C lança a recomendação final sobre o HTML 5.
 - Em março de 2015, a Microsoft lança a primeira versão do seu novo navegador, o Microsoft Edge. Ele substitui o antigo Internet Explorer.
+
+# 🌐 A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET: WEB 3.0 e WEB 4.0
+
+## Web 3.0
+A **web 3.0** é naturalmente uma evolução da web 2.0. Esse termo foi utilizado pela primeira vez no ano de 2006 pelo jornalista John Markoff do jornal americano The New York Times. Neste texto publicado por Markoff, ele sugere que a terceira geração da web pode ser definida como a “web executável”. A ideia principal da web 3.0 é definir uma estrutura de dados e poder automatizar a descoberta dessas informações para que sua reutilização seja feita de uma forma mais eficaz, facilitando o seu compartilhamento.
+
+Também conhecida como web semântica, a web 3.0 foi idealizada por Tim Berners-Lee, inventor da World Wide Web. Dentro da W3C, existem diversas equipes que trabalham exaustivamente para melhorar, estender e padronizar o sistema, as linguagens, as publicações e as ferramentas que já foram desenvolvidas.
+
+Nessa fase da web, o conceito de site ou página desaparece, pois agora os dados não são mais considerados propriedades e podem ser compartilhados por qualquer usuário, pelas mais variadas plataformas, as quais podem exibir diferentes visualizações para a mesma informação. Esses serviços podem ser aplicativos ou até mesmo dispositivos com essa finalidade e que têm o seu foco principal na personalização.
+
+A web 3.0 também veio para tentar solucionar uma das maiores preocupações do início do século XXI: a **segurança de dados**. A exploração desregulamentada de informações por parte das empresas e sobretudo pelas redes sociais representa um acúmulo muito grande de poder na mão de poucas pessoas. A tendência é que os usuários busquem aplicações com algum tipo de criptografia e que tenham total controle sobre os seus próprios dados.
+
+> **Você sabia**: Nesse aspecto da segurança dos dados dos usuários nas mãos das grandes empresas, diversos países têm desenvolvido legislação com o objetivo de regulamentar como as corporações devem tratar as informações dos seus usuários e clientes. No caso do Brasil, a **Lei Geral de Proteção dos Dados Pessoais (LGPD)** e o Marco Civil da Internet são as leis que regulamentam o tratamento dos dados.
 
 # 💻 [Front-End] A Estrutura do Website
 
