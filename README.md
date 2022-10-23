@@ -404,14 +404,22 @@ Convém ressaltar que, apesar de ser uma interface antiga e pouco intuitiva, ain
 ## O Desenvolvimento de interfaces para um Website
 O **desenvolvimento de um website** demanda um cuidado especial na concepção de sua interface, comparada com aplicações tradicionais de desktop. Elementos de design, como as cores, fontes e imagens, formam a identidade de um site e, portanto, ajudam a criar uma primeira impressão aos olhos do usuário. Esses elementos devem ser escolhidos com muito cuidado e devem ser bem trabalhados na construção de uma página.
 
-> Um dos alicerces para a construção de um bom website está em sua navegação. O objetivo principal de qualquer um que visite uma página está em encontrar o mais rápido possível as informações que procura, utilizando o menor número de cliques possíveis. O design de interface de um site deve tornar esse processo mais fácil e ajudar os visitantes a navegar sem que fiquem perdidos em uma imensidão de informações.
-> Quanto mais amigável for o site, maior será a probabilidade de as pessoas se envolverem com o seu conteúdo . Uma boa interface tem sempre como objetivo primário fornecer a melhor experiência para o usuário, o que, em outras palavras, se traduz em mais acessos e em um maior tempo de navegação.
-
 > 🎨 **Saiba mais**: A definição da **paleta de cores** correta pode estar diretamente ligada ao sucesso ou fracasso de um site, tendo em vista que o sentimento que as cores podem passar (teoria das cores) ao usuário reflete na percepção que ele terá de uma página web. As cores evocam certas emoções ou pensamentos nas pessoas, por exemplo, a cor azul está associada à confiança enquanto o preto à qualidade.
 
 Como regra geral, quanto mais simples o layout de uma página, melhor (layout clean e minimalista). Um site deve ser projetado para chamar a atenção dos usuários para as partes mais importantes. Além disso, o número de opções e os elementos de navegação devem ser sempre baseados nas preferências do público-alvo.
 
+> Um dos alicerces para a construção de um bom website está em sua navegação. O objetivo principal de qualquer um que visite uma página está em encontrar o mais rápido possível as informações que procura, utilizando o menor número de cliques possíveis. O design de interface de um site deve tornar esse processo mais fácil e ajudar os visitantes a navegar sem que fiquem perdidos em uma imensidão de informações. Quanto mais amigável for o site, maior será a probabilidade de as pessoas se envolverem com o seu conteúdo . Uma boa interface tem sempre como objetivo primário fornecer a melhor experiência para o usuário, o que, em outras palavras, se traduz em mais acessos e em um maior tempo de navegação.
+
 Um site sempre deve ser projetado tendo em mente o seu público-alvo e deve garantir uma boa experiência de usuário. A construção da interface de um site é um assunto muito importante e que não deve ser deixado em segundo plano. Um website bem projetado ajuda a formar uma boa impressão sobre seus clientes em potencial, como também é capaz de agregar valor a um produto ali exposto.
+
+## USABILIDADE E ACESSIBILIDADE
+**Usabilidade** e **acessibilidade** são aspectos intimamente relacionados na criação de qualquer interface visual que deva funcionar para todas as pessoas e que deve ser considerado por todos os desenvolvedores.
+
+### Usabilidade
+A **usabilidade** significa projetar produtos para serem eficazes, eficientes e satisfatórios. Isso pode incluir aspectos gerais que afetam a todos e não afetam desproporcionalmente as pessoas com deficiência.
+
+### Acessibilidade
+A **acessibilidade**, por sua vez, aborda aspectos discriminatórios relacionados à experiência de usuário. Um software acessível significa que pessoas com deficiência podem igualmente perceber, compreender, navegar e interagir com essa ferramenta. Isso também significa que eles podem contribuir igualmente sem barreiras, permitindo que haja a inclusão digital.
 
 # 💻 [Front-End] A Estrutura do Website
 
@@ -795,7 +803,7 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 ## A diferença entre anchor, input and button
 <div align="center"><img src="https://davidwalsh.name/demo/html5-buttons.png" height="200"></div>
 
-<div align="center"><h1>📙 HTML Semântico</h1></div>
+# 📙 HTML Semântico
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
 
 ## New Semantic Elements in HTML5
