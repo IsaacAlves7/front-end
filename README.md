@@ -587,6 +587,13 @@ A web 3.0 também veio para tentar solucionar uma das maiores preocupações do 
 
 > **Você sabia**: Nesse aspecto da segurança dos dados dos usuários nas mãos das grandes empresas, diversos países têm desenvolvido legislação com o objetivo de regulamentar como as corporações devem tratar as informações dos seus usuários e clientes. No caso do Brasil, a **Lei Geral de Proteção dos Dados Pessoais (LGPD)** e o Marco Civil da Internet são as leis que regulamentam o tratamento dos dados.
 
+### WEB SEMÂNTICA
+A **web semântica** é um movimento colaborativo liderado e organizado pelo próprio W3C. De acordo com Berners-Lee, Hendler e Miller (2002), a web semântica fornece uma estrutura comum que permite que os dados sejam compartilhados e reutilizados entre aplicativos, empresas e fronteiras pertencentes à comunidade.
+
+> **Atenção**: O objetivo central da web semântica é impulsionar a evolução da web atual, de modo que os usuários encontrem, compartilhem e combinem conhecimento de uma forma mais fácil. A web semântica é um sistema que permite às máquinas entender e responder solicitações humanas complexas com base em seu significado. Para essa compreensão ser bem executada, as fontes dessa informação devem estar semanticamente muito bem estruturadas.
+
+> “Se o HTML e a Web fizerem com que todos os documentos online pareçam um grande livro, RDF, esquema e linguagens de inferência farão com que todos os dados do mundo pareçam um enorme banco de dados.” - BERNERS-LEE; HENDLER; MILLER, 2002.
+
 # 💻 [Front-End] A Estrutura do Website
 
 <p>Tudo começa com o diretório, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
