@@ -456,6 +456,18 @@ Pouco mais de um século após a invenção do telégrafo, os primeiros computad
 
 O conceito de rede como conhecemos atualmente ainda era uma construção abstrata que apenas permeava o mundo da teoria. Contudo, um projeto audacioso demonstrou que esse pensamento poderia virar realidade. Nasce então o projeto **ARPANET**, financiado pelo governo norte-americano.
 
+No início da década de 1960, cientistas do **MIT** desenvolveram para o departamento de defesa dos EUA um novo conceito de rede. No lugar de centralizar todo controle do gerenciamento das informações, essa rede operaria como um conjunto de computadores independentes e que, embora trabalhassem de forma autônoma, se comunicariam entre si.
+
+A vantagem desta nova abordagem se dá pelo fato de as informações trafegarem de forma independente, buscando seu próprio caminho até o seu destinatário. Desse modo, a rede resistiria a interrupções ou até a ataques externos, uma vez que a queda de parte dos computadores não comprometeria a rede como um todo.
+
+A **internet** que conhecemos hoje é uma rede de computadores baseada em um conjunto de protocolos conhecido como TCP/IP. Seu nome vem da junção de dois tipos de protocolos, o **TCP** (Transmission Control Protocol) e o **IP** (Internet Protocol).
+
+A origem de seu projeto começou em meados da década de 1970 e acabou se tornando operacional em janeiro de 1983. Os primeiros vinte anos após a sua criação foram marcados basicamente por um uso restrito a uma elite tecnológica, acadêmica e para fins de pesquisa. A partir do final do século passado, por volta do início dos anos 1990, a internet começou a extrapolar essa barreira e adentrar os lares de diversas pessoas ao longo do globo. A internet deixou de ser uma ferramenta considerada exótica e passou a se tornar algo totalmente indispensável em nosso cotidiano, como a rede elétrica ou a distribuição de gás encanado, por exemplo.
+
+A **World Wide Web** é um sistema de documentos de hipertexto interligados acessados via internet. Com um navegador, também conhecido como browser, é possível visualizar páginas web que podem conter textos, imagens, vídeos e outros recursos multimídia e navegar entre eles através de links. Em 1989, Tim Berners-Lee, um cientista da computação britânico, entra para a história escrevendo uma proposta para o que viria a se tornar a fundação da Word Wide Web.
+
+> **Saiba mais**: Em agosto de 1991, Tim Berners-Lee publicou o primeiro website, uma simples página baseada em textos com alguns links. Uma cópia dessa página ainda pode ser encontrada online acessando a <a href="https://www.w3.org/People/Berners-Lee/">W3 Org</a>. Ela possui uma dúzia de links que diziam apenas do que se tratava a World Wide Web. As páginas para as quais os links redirecionavam eram muito semelhantes entre si, pois também se baseavam em textos e possuíam um formato de coluna única com diversos links embutidos. As primeiras versões dessas páginas web eram totalmente escritas utilizando código HTML.
+
 # 💻 [Front-End] A Estrutura do Website
 
 <p>Tudo começa com o diretório, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
