@@ -505,7 +505,7 @@ O termo **web 2.0** apareceu pela primeira vez no ano 2001, quando a bolha de TI
 
 Além de fazer referência a uma era específica da internet, o termo proposto evidencia que ocorreram profundas mudanças na maneira como as pessoas utilizam a web. Por exemplo, durante a web 1.0 era muito comum um usuário pagar por um serviço, fazer o seu logon em determinada plataforma e absorver passivamente as informações ali contidas. Nessa nova era da internet, o usuário, além de absorver o seu conteúdo, também é capaz de criar, divulgar e compartilhar sua própria visão de mundo.
 
-> Portanto, a Web 2.0 é focada na colaboração online, Conectividade e Capacidade de compartilhar conteúdo entre os seus usuários.
+> Portanto, a Web 2.0 é focada na colaboração online, Conectividade e Capacidade de compartilhar conteúdo entre os seus usuários. A web 2.0 facilita a participação, colaboração e distribuição de conteúdo de maneira formal e informal.
 
 Neste período, temos a evolução de aplicativos digitais que agora podem ser executados por um navegador de internet e novos serviços como as primeiras redes sociais, blogs e wikis.
 
