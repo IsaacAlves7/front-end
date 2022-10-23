@@ -495,7 +495,7 @@ Esta era de layouts baseados em tabelas deu muito pouca atenção à semântica 
 
 Uma das ferramentas mais populares nos primeiros anos da internet foi o Flash, originariamente chamado de Future Splash Animator. Inicialmente, contando apenas com ferramentas básicas e uma linha do tempo, o Flash foi evoluindo a ponto de disponibilizar para os desenvolvedores ferramentas poderosas de animação capazes de desenvolver sites inteiros. O Flash apresentou uma enorme quantidade de possibilidades além do que já era possível criar utilizando o HTML.
 
-
+Um pouco antes da criação do Flash, por volta do ano de 1995, é lançado o Macromedia Shockwave, que foi muito utilizado para a criação de menus animados e outros conteúdos multimídia. Os arquivos gerados pelo Shockwave eram considerados grandes demais para a época. Embora a Internet de banda larga tenha tornado possível reproduzi-los, com a conexão de internet padrão discada, os arquivos Shockwave eram impraticáveis. Como contraponto, os filmes gerados pelo Flash eram consideravelmente menores e muito mais práticos para o uso online.
 
 # 💻 [Front-End] A Estrutura do Website
 
