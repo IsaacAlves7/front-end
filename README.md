@@ -31,11 +31,8 @@ Portanto, você necessita compreender a importância da elaboração de interfac
 
 Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, <b>REST API</b>, também chamado de <b>RESTful API</b>.
 
-<p>Aplicações Web são o número cada vez maior de sites na Web, isto é, eles imitam aplicações de desktop ao invés dos documentos tradicionais e
-estático de links de textos e imagens que compõem a maioria da Web. Como exemplo, temos os processadores onlines de texto, ferramentas de edição de foto,
-sites de mapeamento etc. Altamente movidos com JavaScript, eles levaram o HTML4 à beira do limite de suas capacidades.
-  O HTML5 especifica novas <b>APIs</b> (Interface de Programação de Aplicações) para DOM (Modelo de Objeto de Documento),
-que é uma convenção multiplataforma e independente de linguagem para representação e interação com objetos e documentos HTML, XHTML e XML.
+Aplicações Web são o número cada vez maior de sites na Web, isto é, eles imitam aplicações de desktop ao invés dos documentos tradicionais e
+estático de links de textos e imagens que compõem a maioria da Web. Como exemplo, temos os processadores onlines de texto, ferramentas de edição de foto, sites de mapeamento etc. Altamente movidos com JavaScript, eles levaram o HTML4 à beira do limite de suas capacidades. O HTML5 especifica novas APIs (Interface de Programação de Aplicações) para DOM (Modelo de Objeto de Documento), que é uma convenção multiplataforma e independente de linguagem para representação e interação com objetos e documentos HTML, XHTML e XML.
 
 Essas novas APIs ajudam a arrastar e soltar objetos enviados pelo servidor, tais como, desenho, vídeos e similares.
 
@@ -60,7 +57,8 @@ Os arquivos vindos por esse endereço são disponibilizados por um outro computa
 
 <p>Nos <strong>servidores</strong> programamos com linguagens como <b>PHP</b>, <b>Java</b>, <b>C#</b>, <b>Ruby</b>, <b>Python</b> entre outros. E também gerenciamos <b>bancos de dados</b> (MySQL, SQ Lite, Mongo DB, SQL Server e etc), onde chamamos essa parte de <b>back-end</b>. Quando há acesso ao banco de dados, o servidor trabalha de uma forma diferenciada, pois a implementação de um servidor web é um serviço diferente à implementação de um servidor banco de dados.
   
-<p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.</p>
+Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.
+
 <p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
 
 # 📙 HTML5 - Hypertext Makup Language 5
@@ -69,7 +67,6 @@ Os arquivos vindos por esse endereço são disponibilizados por um outro computa
 A linguagem de formatação de documentos com a capacidade de links de hipertexto (termo que remete a um texto ao qual se agregam outros conjuntos de informação na forma de blocos de textos, palavras, imagens ou sons, cujo acesso ocorre através de referências específicas, no meio digital, denominadas hiperlinks, ou simplesmente links) e que tornou-se o formato básico para publicação na web.
 
 In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
-</p>
 
 ## HTML Timeline
 <ol>
@@ -94,10 +91,9 @@ In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by 
 
 ## TAGs essenciais do HTML
 <img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
-<p>É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code>&lt;meta&gt;</code>, <code>&lt;h1&gt;</code>, <code>&lt;img&gt;</code> etc. 
+É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code>&lt;meta&gt;</code>, <code>&lt;h1&gt;</code>, <code>&lt;img&gt;</code> etc. 
 
 Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;</b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <code>&lt;meta&gt;</code> e <code>&lt;link&gt;</code>.
-<br>
 
 Além disso, são divididas em categorias conforme a seguir:
 
@@ -116,10 +112,9 @@ Além disso, são divididas em categorias conforme a seguir:
 Uma TAG pode conter <b>atributos</b>, que são informações que alteram o comportamento da TAG. Os atributos podem ser divididos em atributos específicos para cada TAG e atributos globais que são comuns a todas as tags.
 
 Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o <b>CSS</b>, o <b>Javascript</b>.
-</p>
 
 ## Atributos de uma TAG
-<p><b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
+<b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
 
 Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <code>&lt;link&gt;</code>:
 <pre>
@@ -201,7 +196,7 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 ## Tipos de CSS
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="177"/></div><br />
 
-Conforme W3C, <strong><em>Cascading Style Sheets</em> (CSS)</strong> é um mecanismo simples para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos da Web. O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5 e, portanto, existem algumas formas de fazer isso, veja abaixo quais são e as suas sintaxes:
+Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos da Web. O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5 e, portanto, existem algumas formas de fazer isso, veja abaixo quais são e as suas sintaxes:
 
 <ul>
 <li><b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML.</li>
@@ -242,7 +237,8 @@ When we are creating the layout of a website the browser represents each HTML el
   <li><b>padding</b> - Espaçamento entre a borda e o conteúdo.</li>
   <li><b>content</b> - O conteúdo inserido no elemento HTML.</li>
 </ol>
-<p>Besides that, the Box model have his positions:<p>
+
+Besides that, the Box model have his positions:
 
 <img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="177" align="right"/>
 
@@ -255,7 +251,7 @@ When we are creating the layout of a website the browser represents each HTML el
 
 > 📦 **Box Model**: ` top, right, down, left `
 
-> OBS: Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda</strong><em> (top, right, bottom, left)
+> OBS: Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda (top, right, bottom, left)
 
 Exemplo:</p>
 <pre>
@@ -276,7 +272,7 @@ ul {
 
 Outra forma é inserir a propriedade do box model de acordo com suas posições, o que não é muito prático.
 
-Exemplo:</p>
+Exemplo:
 <pre>
 ul {
  margin-top: 12px; /*topo da margem = 12px*/
