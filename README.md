@@ -489,6 +489,14 @@ Os **layouts baseados em tabelas** deram aos designers um leque muito maior para
 
 Esta era de layouts baseados em tabelas deu muito pouca atenção à semântica e à acessibilidade na construção de páginas web, optando muitas vezes pela estética em detrimento de uma boa estrutura de marcação.
 
+<img src="https://user-images.githubusercontent.com/61624336/197411600-b7c6e43e-5bde-455e-9e6e-fdb1be14e7e6.jpg" title="Design baseado em tabelas">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Flash_Player_SVG.svg" title="Flash" align="right" height="177">
+
+Uma das ferramentas mais populares nos primeiros anos da internet foi o Flash, originariamente chamado de Future Splash Animator. Inicialmente, contando apenas com ferramentas básicas e uma linha do tempo, o Flash foi evoluindo a ponto de disponibilizar para os desenvolvedores ferramentas poderosas de animação capazes de desenvolver sites inteiros. O Flash apresentou uma enorme quantidade de possibilidades além do que já era possível criar utilizando o HTML.
+
+
+
 # 💻 [Front-End] A Estrutura do Website
 
 <p>Tudo começa com o diretório, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
