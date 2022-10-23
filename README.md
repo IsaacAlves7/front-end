@@ -475,9 +475,19 @@ A **World Wide Web** é um sistema de documentos de hipertexto interligados aces
 ## WEB 1.0
 <img src="https://user-images.githubusercontent.com/61624336/197409934-2af60e78-b528-4873-a8ab-b29ccce22bb8.jpg" align="right" height="177" title="[Web 1.0] - Yahoo! 1996">
 
-A **web 1.0** foi a primeira implementação da web e durou de 1989 até o ano de 2005. Essa primeira fase é considerada por Tim Berners-Lee como uma internet de apenas leitura. Os sites dessa época, em geral, proporcionavam muito pouca interação com o usuário, pois ele apenas poderia consumir informações, mas não interagir diretamente com o site.
+A **web 1.0** foi a primeira implementação da web e durou de 1989 até o ano de 2005. Essa primeira fase é considerada por Tim Berners-Lee como uma **internet de apenas leitura**. Os sites dessa época, em geral, proporcionavam muito pouca interação com o usuário, pois ele apenas poderia consumir informações, mas não interagir diretamente com o site.
 
-O papel da internet nessa época resumia-se em uma natureza passiva. Como podemos notar, a web da primeira geração era composta basicamente por páginas estáticas e apenas para fins de entrega de conteúdo. Em outras palavras, o início da web nos permitia pesquisar informações e lê-las apenas. Havia muito pouca interatividade do usuário ou contribuição de algum conteúdo.
+O papel da internet nessa época resumia-se em uma natureza passiva. Como podemos notar, a web da primeira geração era composta basicamente por **páginas estáticas** e **apenas para fins de entrega de conteúdo**. Em outras palavras, o início da web nos permitia pesquisar informações e lê-las apenas. Havia muito pouca interatividade do usuário ou contribuição de algum conteúdo.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/W3C_icon.svg" align="left" height="177" title="W3C">
+
+Em 1994, o **World Wide Web Consortium (W3C)** é fundado e é definido o HTML como a linguagem padrão para o desenvolvimento de páginas web. Isso acabou desencorajando empresas a criarem seus próprios navegadores utilizando linguagem de programação proprietária, o que seria prejudicial para a popularização da internet como um todo. O objetivo do W3C é levar a World Wide Web ao seu potencial máximo, desenvolvendo protocolos e diretrizes que garantam seu crescimento em longo prazo.
+
+Segundo o W3C, o valor social da Web está nas novas possibilidades de comunicação humana, comércio e compartilhamento de conhecimentos. Um dos principais objetivos do W3C é tornar esses benefícios disponíveis para todas as pessoas, independentemente do equipamento que utilizem, software, infraestrutura de rede, idioma, cultura, localização geográfica ou capacidade física e mental.
+
+Os **layouts baseados em tabelas** deram aos designers um leque muito maior para a exibição de conteúdo online. O foco originalmente para a adição de tabelas dentro do HTML era apenas para exibir dados tabulares, como visto em uma tabela do Excel, por exemplo, porém os designers da época perceberam rapidamente que era possível utilizar tais estruturas para criar layouts de várias colunas muito mais complexos do que o HTML era originalmente capaz de fornecer.
+
+Esta era de layouts baseados em tabelas deu muito pouca atenção à semântica e à acessibilidade na construção de páginas web, optando muitas vezes pela estética em detrimento de uma boa estrutura de marcação.
 
 # 💻 [Front-End] A Estrutura do Website
 
