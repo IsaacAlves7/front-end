@@ -308,7 +308,7 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
 ## Eventos de uma TAG (Métodos HTML5 + Eventos JavaScript)
 
 ```html
-&lt;img src="1.jpg" onclick="functionClick()"/&gt;
+<img src="1.jpg" onclick="functionClick()"/>
 ```
 
 O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando uma função JavaScript quando o usuário interage em um elemento. Devido a extensão desse conteúdo criei um repositório mais focado no desenvolvimento JavaScript, clique no badge acima para saber mais sobre os Eventos!
