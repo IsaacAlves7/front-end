@@ -498,7 +498,18 @@ Um pouco antes da criação do Flash, por volta do ano de 1995, é lançado o Ma
 
 > **Comentário**: Os sites HTML eram muito limitados em suas opções de design, especialmente quando construídos com as primeiras versões do HTML. O Flash tornou possível a criação de sites complexos e interativos com diversos recursos animados. Quase ao mesmo tempo em que o Flash caía no gosto dos web designers, a popularização de técnicas de DHTML, que consistiam em várias tecnologias como o JavaScript e, por vezes, até em scripts sendo executados pelo lado do servidor, aumentava a interação do usuário com os elementos que compunham uma página. Páginas interativas e animadas estavam na moda durante a virada do século.
 
+Durante esse tempo, com o início do Flash e a popularidade do DHTML, o conceito de páginas da web interativas que permitem aos usuários não apenas ler o conteúdo estático, mas também interagir com o conteúdo da web, começou.
 
+## WEB 2.0
+O termo **web 2.0** apareceu pela primeira vez no ano 2001, quando a bolha de TI que durou 5 anos estourou. Alguns comentaristas e analistas da época sugeriram que a internet tinha sido superestimada, enquanto outros afirmavam que a queda se dava pelo fim da primeira fase (web 1.0), sugerindo que coisas mais interessantes ainda estariam por vir. Essa segunda onda da internet foi chamada de web 2.0.
+
+Além de fazer referência a uma era específica da internet, o termo proposto evidencia que ocorreram profundas mudanças na maneira como as pessoas utilizam a web. Por exemplo, durante a web 1.0 era muito comum um usuário pagar por um serviço, fazer o seu logon em determinada plataforma e absorver passivamente as informações ali contidas. Nessa nova era da internet, o usuário, além de absorver o seu conteúdo, também é capaz de criar, divulgar e compartilhar sua própria visão de mundo.
+
+> Portanto, a Web 2.0 é focada na colaboração online, Conectividade e Capacidade de compartilhar conteúdo entre os seus usuários.
+
+Neste período, temos a evolução de aplicativos digitais que agora podem ser executados por um navegador de internet e novos serviços como as primeiras redes sociais, blogs e wikis.
+
+- Um **blog** é um tipo de site organizado de forma cronológica, atualizado regularmente e que reúne textos e artigos de um ou vários autores, os quais são livres para publicar quaisquer informações. Blogs podem ser pessoais, jornalísticos, empresariais, corporativos, tecnológicos, educacionais, artísticos, entre outros.
 
 # 💻 [Front-End] A Estrutura do Website
 
