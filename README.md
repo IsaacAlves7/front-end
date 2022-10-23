@@ -59,7 +59,7 @@ Os arquivos vindos por esse endereço são disponibilizados por um outro computa
   
 Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.
 
-<p>Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.</p>
+Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.
 
 # 📙 HTML5 - Hypertext Makup Language 5
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="177"/></div><br />
@@ -85,9 +85,10 @@ In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by 
   <li>HTML5.1	- 2016 e 2017 (2nd ed.)</li>
   <li>HTML5.2	- 2017/(Atualmente)</li>
 </ol>
-<p>Em 1998, a W3C decidiu que não continuaria a evoluir o HTML. O futuro da programação para páginas de internet era o XML. Então o HTML foi congelado na versão 4.01 e uma especificação foi lançada com nome de XHTML, que era uma versão do HTML baseada no XML, exigindo regras de sintaxe como atributos com aspas, algumas tags com fechamento, enquanto outras eram autocontidas.</p>
-<p>Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava convencido que o XML era o futuro para todos os autores web. Este grupo começou a desenvolver um trabalho separado, para criar uma nova forma de utilização dos antigos códigos HTML, principalmente ligado ao uso de formulários, sem deixar de atender às determinações básicas do XML. Aquela especificação eventualmente se tornou Web Forms 2.0 e, subsequentemente, foi incorporado na especificação HTML5.</p>
-<p>Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.</p>
+
+Em 1998, a W3C decidiu que não continuaria a evoluir o HTML. O futuro da programação para páginas de internet era o XML. Então o HTML foi congelado na versão 4.01 e uma especificação foi lançada com nome de XHTML, que era uma versão do HTML baseada no XML, exigindo regras de sintaxe como atributos com aspas, algumas tags com fechamento, enquanto outras eram autocontidas.
+Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava convencido que o XML era o futuro para todos os autores web. Este grupo começou a desenvolver um trabalho separado, para criar uma nova forma de utilização dos antigos códigos HTML, principalmente ligado ao uso de formulários, sem deixar de atender às determinações básicas do XML. Aquela especificação eventualmente se tornou Web Forms 2.0 e, subsequentemente, foi incorporado na especificação HTML5.
+Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.
 
 ## TAGs essenciais do HTML
 <img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
