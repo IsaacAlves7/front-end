@@ -466,7 +466,18 @@ A origem de seu projeto começou em meados da década de 1970 e acabou se tornan
 
 A **World Wide Web** é um sistema de documentos de hipertexto interligados acessados via internet. Com um navegador, também conhecido como browser, é possível visualizar páginas web que podem conter textos, imagens, vídeos e outros recursos multimídia e navegar entre eles através de links. Em 1989, Tim Berners-Lee, um cientista da computação britânico, entra para a história escrevendo uma proposta para o que viria a se tornar a fundação da Word Wide Web.
 
-> **Saiba mais**: Em agosto de 1991, Tim Berners-Lee publicou o primeiro website, uma simples página baseada em textos com alguns links. Uma cópia dessa página ainda pode ser encontrada online acessando a <a href="https://www.w3.org/People/Berners-Lee/">W3 Org</a>. Ela possui uma dúzia de links que diziam apenas do que se tratava a World Wide Web. As páginas para as quais os links redirecionavam eram muito semelhantes entre si, pois também se baseavam em textos e possuíam um formato de coluna única com diversos links embutidos. As primeiras versões dessas páginas web eram totalmente escritas utilizando código HTML.
+<img src="https://stecine.azureedge.net/repositorio/a_evolucao_e_importancia_da_interface_de_um_website/img/img016.jpg" height="177" align="right" title="Primeira página web publicada">
+
+> **Saiba mais**: Em agosto de 1991, Tim Berners-Lee publicou o primeiro website, uma simples página baseada em textos com alguns links. Uma cópia dessa página ainda pode ser encontrada online acessando a <a href="http://info.cern.ch/hypertext/WWW/TheProject.html">W3 Org</a>. Ela possui uma dúzia de links que diziam apenas do que se tratava a World Wide Web. As páginas para as quais os links redirecionavam eram muito semelhantes entre si, pois também se baseavam em textos e possuíam um formato de coluna única com diversos links embutidos. As primeiras versões dessas páginas web eram totalmente escritas utilizando código HTML.
+
+> O HTML (Linguagem de Marcação de Hipertexto) é o bloco de construção mais básico da web e define o significado e a estrutura do seu conteúdo. As versões iniciais do HTML permitiam apenas uma estrutura de construção muito básica com cabeçalhos, parágrafos e links. As versões subsequentes já permitiram a adição de imagens às páginas e, eventualmente, o suporte para tabelas foi adicionado.
+
+## WEB 1.0
+<img src="https://user-images.githubusercontent.com/61624336/197409934-2af60e78-b528-4873-a8ab-b29ccce22bb8.jpg" align="right" height="177" title="[Web 1.0] - Yahoo! 1996">
+
+A **web 1.0** foi a primeira implementação da web e durou de 1989 até o ano de 2005. Essa primeira fase é considerada por Tim Berners-Lee como uma internet de apenas leitura. Os sites dessa época, em geral, proporcionavam muito pouca interação com o usuário, pois ele apenas poderia consumir informações, mas não interagir diretamente com o site.
+
+O papel da internet nessa época resumia-se em uma natureza passiva. Como podemos notar, a web da primeira geração era composta basicamente por páginas estáticas e apenas para fins de entrega de conteúdo. Em outras palavras, o início da web nos permitia pesquisar informações e lê-las apenas. Havia muito pouca interatividade do usuário ou contribuição de algum conteúdo.
 
 # 💻 [Front-End] A Estrutura do Website
 
