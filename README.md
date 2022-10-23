@@ -439,12 +439,12 @@ Atualmente, algo em torno de 15% da população mundial possui algum tipo de def
 ### A origem da internet
 <div align="center">
   
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Samuel_Morse.jpg/400px-Samuel_Morse.jpg" height="177"><br><sub>Samuel Finley Breese Morse (1791-1872)</sub>](https://pt.wikipedia.org/wiki/Samuel_Morse) 
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Samuel_Morse.jpg/400px-Samuel_Morse.jpg" height="177"><br><sub>Samuel F.B Morse (1791-1872)</sub>](https://pt.wikipedia.org/wiki/Samuel_Morse) 
 |:-:|
 
 </div>
 
-A primeira troca de informações entre dispositivos utilizando a corrente elétrica ocorreu durante o século XIX, no ano de 1835, quando **Samuel Morse**, (1791-1872) pintor e inventor do telégrafo magnético na velhice, projeta o primeiro telégrafo elétrico.
+A primeira troca de informações entre dispositivos utilizando a corrente elétrica ocorreu durante o século XIX, no ano de 1835, quando **Samuel Finley Breese Morse**, (1791-1872) pintor e inventor do telégrafo magnético na velhice, projeta o primeiro telégrafo elétrico.
 
 A ideia por detrás dessa grande invenção era muito simples. O aparelho possuía um transmissor que consistia em um manipulador com capacidade de abrir e fechar um circuito elétrico de forma intermitente. Ao fechar o circuito elétrico, uma corrente elétrica circulava pelo transmissor.
 
