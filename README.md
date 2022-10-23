@@ -489,7 +489,7 @@ Os **layouts baseados em tabelas** deram aos designers um leque muito maior para
 
 Esta era de layouts baseados em tabelas deu muito pouca atenção à semântica e à acessibilidade na construção de páginas web, optando muitas vezes pela estética em detrimento de uma boa estrutura de marcação.
 
-<img src="https://user-images.githubusercontent.com/61624336/197411600-b7c6e43e-5bde-455e-9e6e-fdb1be14e7e6.jpg" title="Design baseado em tabelas">
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/197411600-b7c6e43e-5bde-455e-9e6e-fdb1be14e7e6.jpg" title="Design baseado em tabelas"></div>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Flash_Player_SVG.svg" title="Flash" align="right" height="177">
 
