@@ -304,6 +304,8 @@ Com o JavaScript podemos criar efeitos especiais para nossas páginas na Web, al
 Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem deseja criar páginas Web dinâmicas e interativas.
 
 É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.
+  
+> Atualmente, o JavaScript compete com outras linguagens de programação em alta no mercado, sendo indispensável o seu aprendizado.
 
 ## Eventos de uma TAG (Métodos HTML5 + Eventos JavaScript)
 
