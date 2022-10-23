@@ -452,6 +452,8 @@ A ideia por detrás dessa grande invenção era muito simples. O aparelho possu�
 
 Essa corrente ativava um eletroímã, o qual atuava como um receptor. Ao ser ativado, o eletroímã atraía uma peça móvel que, ao movimentar-se, atingia uma fita de papel e imprimia sobre ela um sinal. A distância através da qual a informação podia viajar dependia do comprimento do cabo que ligava o emissor ao destinatário.
 
+Pouco mais de um século após a invenção do telégrafo, os primeiros computadores comerciais possuíam processadores específicos para a comunicação de dados que trabalhavam em cima de protocolos. O objetivo consistia na comunicação entre dois equipamentos conectados entre si. Um computador nessa época era capaz de trocar informações com outros computadores ou com terminais de vídeos. As trocas de mensagens eram controladas por um equipamento central que gerenciava as informações entre as máquinas.
+
 # 💻 [Front-End] A Estrutura do Website
 
 <p>Tudo começa com o diretório, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
