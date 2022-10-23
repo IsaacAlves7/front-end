@@ -4,7 +4,6 @@
 > 🌐 **Preparação**: Para este conteúdo, o aluno deverá dispor de um computador com acesso à internet, um web browser com suporte a HTML 5 (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera etc.), um editor de texto (VSCode etc.) e uma plataforma de hospedagem (gratuita ou paga).
 
 <!--
-# 🐸 Para simulações de layout recomendo esses jogos educacionais:
 <ul>
   <li>https://flexboxfroggy.com/</li>
   <li>https://courses.cs.washington.edu/courses/cse154/flexboxducky/</li>
@@ -485,17 +484,21 @@ Em 1994, o **World Wide Web Consortium (W3C)** é fundado e é definido o HTML c
 
 Segundo o W3C, o valor social da Web está nas novas possibilidades de comunicação humana, comércio e compartilhamento de conhecimentos. Um dos principais objetivos do W3C é tornar esses benefícios disponíveis para todas as pessoas, independentemente do equipamento que utilizem, software, infraestrutura de rede, idioma, cultura, localização geográfica ou capacidade física e mental.
 
+<img src="https://user-images.githubusercontent.com/61624336/197411600-b7c6e43e-5bde-455e-9e6e-fdb1be14e7e6.jpg" height="277" title="Design baseado em tabelas" align="right">
+
 Os **layouts baseados em tabelas** deram aos designers um leque muito maior para a exibição de conteúdo online. O foco originalmente para a adição de tabelas dentro do HTML era apenas para exibir dados tabulares, como visto em uma tabela do Excel, por exemplo, porém os designers da época perceberam rapidamente que era possível utilizar tais estruturas para criar layouts de várias colunas muito mais complexos do que o HTML era originalmente capaz de fornecer.
 
 Esta era de layouts baseados em tabelas deu muito pouca atenção à semântica e à acessibilidade na construção de páginas web, optando muitas vezes pela estética em detrimento de uma boa estrutura de marcação.
 
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/197411600-b7c6e43e-5bde-455e-9e6e-fdb1be14e7e6.jpg" title="Design baseado em tabelas"></div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Flash_Player_SVG.svg" title="Flash" align="left" height="177">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Flash_Player_SVG.svg" title="Flash" align="right" height="177">
-
-Uma das ferramentas mais populares nos primeiros anos da internet foi o Flash, originariamente chamado de Future Splash Animator. Inicialmente, contando apenas com ferramentas básicas e uma linha do tempo, o Flash foi evoluindo a ponto de disponibilizar para os desenvolvedores ferramentas poderosas de animação capazes de desenvolver sites inteiros. O Flash apresentou uma enorme quantidade de possibilidades além do que já era possível criar utilizando o HTML.
+Uma das ferramentas mais populares nos primeiros anos da internet foi o **Flash**, originariamente chamado de Future Splash Animator. Inicialmente, contando apenas com ferramentas básicas e uma linha do tempo, o Flash foi evoluindo a ponto de disponibilizar para os desenvolvedores ferramentas poderosas de animação capazes de desenvolver sites inteiros. O Flash apresentou uma enorme quantidade de possibilidades além do que já era possível criar utilizando o HTML.
 
 Um pouco antes da criação do Flash, por volta do ano de 1995, é lançado o Macromedia Shockwave, que foi muito utilizado para a criação de menus animados e outros conteúdos multimídia. Os arquivos gerados pelo Shockwave eram considerados grandes demais para a época. Embora a Internet de banda larga tenha tornado possível reproduzi-los, com a conexão de internet padrão discada, os arquivos Shockwave eram impraticáveis. Como contraponto, os filmes gerados pelo Flash eram consideravelmente menores e muito mais práticos para o uso online.
+
+> **Comentário**: Os sites HTML eram muito limitados em suas opções de design, especialmente quando construídos com as primeiras versões do HTML. O Flash tornou possível a criação de sites complexos e interativos com diversos recursos animados. Quase ao mesmo tempo em que o Flash caía no gosto dos web designers, a popularização de técnicas de DHTML, que consistiam em várias tecnologias como o JavaScript e, por vezes, até em scripts sendo executados pelo lado do servidor, aumentava a interação do usuário com os elementos que compunham uma página. Páginas interativas e animadas estavam na moda durante a virada do século.
+
+
 
 # 💻 [Front-End] A Estrutura do Website
 
