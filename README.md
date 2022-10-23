@@ -509,7 +509,70 @@ Além de fazer referência a uma era específica da internet, o termo proposto e
 
 Neste período, temos a evolução de aplicativos digitais que agora podem ser executados por um navegador de internet e novos serviços como as primeiras redes sociais, blogs e wikis.
 
-- Um **blog** é um tipo de site organizado de forma cronológica, atualizado regularmente e que reúne textos e artigos de um ou vários autores, os quais são livres para publicar quaisquer informações. Blogs podem ser pessoais, jornalísticos, empresariais, corporativos, tecnológicos, educacionais, artísticos, entre outros.
+- Um **blog** é um tipo de site organizado de forma cronológica, atualizado regularmente e que reúne textos e artigos de um ou vários autores, os quais são livres para publicar quaisquer informações. Blogs podem ser pessoais, jornalísticos, empresariais, corporativos, tecnológicos, educacionais, artísticos, entre outros;
+- As ferramentas para criação e manutenção de blogs são principalmente classificadas em dois tipos: aqueles que oferecem uma solução de hospedagem gratuita, como o Blogger, ou soluções que envolvem um software que permite criar, editar e gerenciar um blog diretamente em um servidor que hospedará o próprio site, como o **WordPress**;
+- **Wiki** é um website colaborativo feito por vários usuários que podem criar, editar, excluir ou modificar o conteúdo de uma página da web de forma interativa, fácil e rápida. Essas facilidades tornam o wiki uma ferramenta eficaz para escrita colaborativa. Atualmente, a maior que existe é a versão em inglês da **Wikipedia**.
+
+A principal diferença entre a **internet** e **outras mídias** é a sua **interatividade**. A interatividade é um aspecto que sempre deve ser levado em consideração na criação de qualquer conteúdo online. O usuário de uma página web não é mais um objeto passivo, tendo se tornado também parte importante na captação de informações. Toda vez que um usuário preenche as informações de um formulário ou envia um e-mail, ele está, de certo modo, participando desse processo de interação. O processo de interatividade é um verdadeiro desafio para os designers, pois, quanto mais sofisticadas são as ferramentas à disposição, mais difícil é encontrar o limite das possibilidades.
+
+## 🕰️ Web Timeline
+A seguir, vejamos alguns dos principais fatos históricos que marcaram a evolução da internet até o início deste novo século:
+
+**1990-1993**
+- Em setembro de 1990, é lançado o primeiro motor de buscas conhecido como Archie.
+- Em dezembro de 1990, é lançado o primeiro navegador web, conhecido como World Wide Web.
+- Em agosto de 1991, Tim Berners-Lee lança o primeiro website.
+- Em outubro de 1991, Tim Berners-Lee publica um documento intitulado Tags HTML. O documento continha a descrição das 18 tags utilizadas pela linguagem HTML.
+- Em dezembro de 1991, é lançado o primeiro servidor web nos Estados Unidos.
+- Em novembro de 1993, é lançado o Mosaic, o primeiro navegador da internet a conter uma interface gráfica.
+
+**1994-1995**
+- Em março de 1994, é lançado o portal Yahoo!.
+- Em outubro de 1994, Tim Berners-Lee funda a World Wide Web Consortium (W3C).
+- Em junho de 1995, é desenvolvida a primeira versão da popular linguagem de programação PHP.
+- Em julho de 1995, é lançada uma das primeiras lojas online do mundo, a Amazon.com.
+- Em agosto de 1995, é lançada pela Microsoft uma atualização do popular Windows 95 contendo a primeira versão do Internet Explorer.
+- Em novembro de 1995, são divulgadas as especificações do HTML 2.0. Agora, o HTML é capaz de suportar tabelas e gráficos.
+- Em dezembro de 1995, é lançado o Javascript.
+
+**1996-1997**
+- Ainda em dezembro de 1996, é lançado o CSS. O CSS serve para descrever como exibir elementos de documentos escritos em HTML.
+- Em janeiro de 1997, o W3C lança as especificações do HTML 3.
+- Em outubro de 1997, o termo DHTML é introduzido em conjunto com o lançamento do Internet Explorer 4.0.
+- Em dezembro de 1997, a Macromedia lança a primeira versão do editor de sites Dreamweaver.
+- Em dezembro de 1997, o W3C publica de forma oficial as especificações do HTML 4.
+
+**1998-2000**
+- Em março de 1998, é lançada a segunda versão do CSS. Essa nova implementação inclui a possibilidade de posicionar elementos de uma página de forma relativa, fixa ou absoluta e de definir o tamanho máximo e mínimo de alguns componentes.
+- Em setembro de 1998, é lançado por dois estudantes da Universidade de Stanford, Larry Page e Sergey Brin, o motor de buscas Google.
+- Em agosto de 1999, é lançado o blogger.com.
+- Em janeiro de 2000, o W3C lança oficialmente as especificações do XHTML.
+- Em agosto de 2000, é lançado o Macromedia Flash 5. Essa versão foi a primeira a contar com a linguagem de programação ActionScript. Graças ao ActionScript, usuários puderam criar aplicações web e animações muito mais complexas.
+
+**2001-2003**
+- Em janeiro de 2001, é lançada a enciclopédia online Wikipedia.
+- Em maio de 2003, é lançada a primeira versão do gerador de conteúdo WordPress.
+- Em junho de 2003, a Apple lança o seu próprio navegador chamado Safari.
+- Em setembro de 2003, é lançada a rede social MySpace.
+
+**2004-2005**
+- Em novembro de 2004, a Mozilla Corporation lança a primeira versão do seu navegador multiplataforma chamado Firefox.
+- Em fevereiro de 2005, é lançado o YouTube, um website para a publicação e compartilhamento de vídeos.
+- Em junho de 2005, é lançada a rede social Reddit.
+- Em dezembro de 2005, a Adobe compra a Macromedia e passa a ser a detentora dos direitos dos programas Flash, Fireworks, Dreamweaver, entre outros.
+
+**2006-2010**
+- Em janeiro de 2006, é lançada a biblioteca baseada em JavaScript chamada jQuery.
+- Em janeiro de 2007, é lançado o primeiro iPhone.
+- Em setembro de 2008, é lançado pelo Google o seu navegador conhecido como Google Chrome.
+- A rede social Facebook introduz pela primeira vez o botão de curtir (like).
+- Em maio de 2010, o web designer Ethan Marcotte publica pela primeira vez um artigo chamado Responsive Web Design. O autor descreve uma nova forma de estilizar documentos HTML, que permite otimizar a exibição do conteúdo do site em relação à resolução ou ao tamanho da exibição.
+
+**2011-2015**
+- Em agosto de 2011, é lançado o framework Bootstrap.
+- Em junho de 2012, o W3C lança as especificações sobre Media Queries. O módulo CSS3 Media Queries permite a renderização adaptável de páginas da web com base em vários fatores, como resolução ou tamanho da tela.
+- Em outubro de 2014, o W3C lança a recomendação final sobre o HTML 5.
+- Em março de 2015, a Microsoft lança a primeira versão do seu novo navegador, o Microsoft Edge. Ele substitui o antigo Internet Explorer.
 
 # 💻 [Front-End] A Estrutura do Website
 
