@@ -790,6 +790,32 @@ Observando hoje o final dos anos 1990, podemos identificar alguns exageros que e
 
 Ainda no final dos anos 1990, os designers da época começaram a perceber que “menos” na verdade era “mais” e os sites aos poucos começaram a ficar cada vez mais sutis. Os designs foram ficando mais minimalistas e prezando por uma melhor estrutura, organização e navegabilidade.
 
+### INOVAÇÃO E MÍDIAS SOCIAIS
+No início do novo milênio, vimos um grande aumento na inovação, liderado pelo aumento das velocidades de banda larga e melhorias em software e hardware. Em 2003, mais de 50% dos internautas acessavam a web por meio de máquinas de 32 bits, o que permitia a exibição de mais de 16 mil cores diferentes. Ao mesmo tempo, a maioria dos usuários aumentavam as suas resoluções de 800 por 600 para 1024 por 768 pixels. Juntas, essas mudanças levam a uma tela maior e à produção de designs mais dinâmicos.
+
+- Alguns acontecimentos marcaram de vez a internet no início dos anos 2000. Em 2005, é lançada a plataforma para compartilhamento de vídeos denominada YouTube. Em 2003, novas plataformas entram em cena: WordPress, MySpace e Facebook.
+- No começo desse novo século, a criação de sites era, sobretudo, um campo técnico administrado pelos departamentos de TI das empresas. Surge então o **WordPress**: um sistema de gerenciamento de conteúdo (CMS – Content Management System), que é capaz de gerenciar o conteúdo de uma página, blog ou loja virtual de uma forma prática e eficiente.
+- A ideia era bem simples: possibilitar a qualquer criador de conteúdo, sem conhecimento algum em codificação ou programação, gerenciar a sua página de forma simples e intuitiva. Segundo o site W3Techs, estima-se que o WordPress represente algo em torno de 61% do mercado de sistemas de gerenciamento de conteúdo.
+
+Em 2004, o **MySpace** se tornou um ambiente onde usuários poderiam criar os seus próprios perfis e se conectarem a outros usuários. Essa plataforma permitia que seus utilizadores acessassem editores HTML para personalizarem suas páginas, o que fez com que muitos designers tivessem o seu primeiro contato com a linguagem HTML.
+
+> **Comentário**: Embora o Facebook tenha sido lançado em 2004 junto a plataforma MySpace, foi apenas em 2006 que ele se tornou público e mudou a mídia internet como também o público que a utilizava. Embora o MySpace permitisse que os usuários codificassem suas páginas, o Facebook optou por não dar essa possibilidade aos seus usuários. Isso leva a uma aparência simples e consistente em toda a rede. Atualmente, o Facebook é o site mais visitado dos Estados Unidos e tem mais de 1 bilhão de usuários em todo o planeta.
+
+Tanto o Facebook quanto o WordPress acabaram modificando a cara das mídias sociais para sempre. Muito embora o lançamento dessas marcas não tenha afetado diretamente as tendências do web design na época, elas definitivamente tiveram um efeito indireto. Liderando em termos de experiência do usuário, o Facebook acabou por gerar muitos sites com um estilo semelhante. Os temas do WordPress tendem a estar na vanguarda das últimas tendências e estilos de design para a web.
+
+### A WEB MOBILE
+Com a chegada dos primeiros dispositivos móveis e smartphones mais ou menos na metade da primeira década desse novo século, a maioria dos web sites não eram otimizados para serem visualizados nesses novos aparelhos. Utilizar a web em um dispositivo móvel nesse período significava uma tarefa por vezes frustrante, o que acabou fazendo com que designers do mundo debatessem como seria possível melhorar o desenvolvimento de sites para essa nova tendência.
+
+> **Você sabia**: Em um primeiro momento, surgiu a tendência de existirem sites separados, sendo um mais completo para acesso via desktop e outro mais simplificado visando as limitações dos dispositivos móveis da época. Essa lógica era aplicada do lado do servidor. Se o navegador do usuário parecesse estar em um telefone celular, o servidor o redirecionaria para o site com o conteúdo mobile, que era normalmente formatado para o uso em dispositivos com uma tela pequena e otimizado para priorizar a velocidade.
+
+Conceitualmente simples, esta é a opção mais fácil de adicionar a um site existente, especialmente se você estiver utilizando um sistema de gerenciamento de conteúdo (CMS) ou aplicação web que ofereça suporte a modelos.
+
+Infelizmente, essa abordagem tem as suas desvantagens. Nesse modelo, era necessário praticar a manutenção em duas páginas diferentes, embora o conteúdo pudesse ser muito parecido. Isso acabava aumentando o tempo de desenvolvimento e implementação de novos recursos, já que era preciso codificar a sua lógica em duplicidade. Além do mais, a detecção do navegador pelo servidor não era imune a falhas, tendo em vista que a cada novo browser lançado pelo mercado era preciso modificar a sua configuração.
+
+Conforme o uso da internet em dispositivos móveis se popularizava, o design para esses aparelhos acabaria se tornando o foco principal para o desenvolvimento web. Em 2010, Ethan Marcotte desafiou a forma como o design de web sites para celulares estava sendo abordado. Ao invés de criar sites separados, ele propôs que o mesmo conteúdo pudesse ser utilizado, porém em layouts diferentes e que deveria ser projetado dependendo do tamanho da tela do dispositivo. Este foi o início do design responsivo.
+
+Analisando sob um ponto de vista técnico, ainda utilizamos HTML e CSS para a construção de páginas. O principal benefício do design responsivo é a paridade de conteúdo, o que acaba simplificando o processo de desenvolvimento, tendo em vista que é o mesmo site que pode ser acessado independentemente da plataforma.
+
 # 💻 [Front-End] A Estrutura do Website
 
 <p>Tudo começa com o diretório, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
