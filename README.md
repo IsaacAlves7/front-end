@@ -594,6 +594,148 @@ A **web semântica** é um movimento colaborativo liderado e organizado pelo pr�
 
 > “Se o HTML e a Web fizerem com que todos os documentos online pareçam um grande livro, RDF, esquema e linguagens de inferência farão com que todos os dados do mundo pareçam um enorme banco de dados.” - BERNERS-LEE; HENDLER; MILLER, 2002.
 
+Essa afirmação apresenta a evolução da Web clássica, que pode ser chamada de “Web de documentos”, para a nova versão que é a “Web de Dados”, a qual discutiremos adiante.
+
+Tim Berners-Lee propôs uma arquitetura em camadas para a web semântica que, geralmente, é representada por meio de um diagrama, com muitas variações desde então.
+
+<img src="https://user-images.githubusercontent.com/61624336/200136777-8c741ce4-9204-4716-8a8a-645100841675.jpg" align="right">
+
+O desenvolvimento da web semântica ocorre em **camadas**, onde cada uma é o complemento da etapa anterior. A figura na lateral direita demonstra essa estrutura e descreve as principais camadas da web semântica. É importante salientar que esse termo agrupa um conjunto de conceitos, técnicas e padrões, e não um indissociável aglomerado de linguagens e frameworks que devam ser utilizados de forma quase que obrigatória. É justamente por esse motivo que grande parte das aplicações existentes não utilizam todas essas camadas de forma simultânea, mas, sim, apenas uma parte delas.
+
+A **web semântica** não se limita a apenas publicar dados na web. Trata-se da criação de links para conectar dados relacionados. O conceito de **Linked Data** criado por Tim Berners-Lee é um conjunto de práticas que tem como função estruturar esses dados na web. Esse tipo de prática vem cada vez mais sendo adotada pela comunidade e acabou criando o que conhecemos hoje como a **Web de Dados**. Agora, na “Web de Dados”, os dados devem ser mais facilmente localizados, com identificadores próprios (URI), para permitir o acesso específico para cada recurso.
+
+Os princípios da Linked Data são baseados em quatro conceitos:
+
+1. Utilize URIs para nomear as coisas.
+2. Utilize URIs HTTP para que as pessoas possam procurar por estes nomes.
+3. Quando alguém pesquisar uma URI, forneça informações úteis utilizando padrões (RDF, SPARQL)
+4. Inclua links para outros URIs, para que se possa descobrir e explorar mais coisas a respeito.
+
+De acordo com o W3C, “O termo Web Semântica refere-se à visão do W3C da Web dos Dados Conectados” e a linkagem de dados é possível com tecnologias como RDF, SPARQL, OWL, SKOS.
+
+
+#### DESAFIOS
+A compreensão da linguagem humana pelas máquinas é um dos principais fatores que facilitaram a construção das mais modernas técnicas de pesquisa, tanto no entendimento das palavras quanto na forma como são executadas as buscas por esses mecanismos de recuperação de informação. Contudo, a web semântica tem enfrentado alguns problemas desafiadores, como:
+
+- **Vastidão**: A internet contém uma imensidão quase infinita de páginas. Por isso, ocorre uma redundância de dados (dados repetidos) que é muito difícil de ser controlada, sendo praticamente impossível eliminar termos semanticamente duplicados;
+- **Imprecisão**: São conceitos imprecisos como "jovem" ou "alto". Isso surge da imprecisão das consultas do usuário, dos conceitos representados pelos provedores de conteúdo, da correspondência dos termos da consulta aos termos do provedor e da tentativa de combinar diferentes bases de conhecimento com conceitos sobrepostos, mas ligeiramente diferentes.
+- **Incerteza**: São conceitos precisos com valores incertos. Por exemplo, um paciente pode apresentar um conjunto de sintomas que correspondem a vários diagnósticos distintos, cada um com uma probabilidade diferente.
+- **Inconsistência**: São contradições lógicas que inevitavelmente surgem durante o desenvolvimento de grandes ontologias e quando ontologias de fontes separadas são combinadas. O raciocínio dedutivo falha miseravelmente quando confrontado com a inconsistência, porque "tudo resulta de uma contradição".
+- **Engano**: Ocorre quando o produtor da informação está intencionalmente enganando o consumidor da informação. Técnicas de criptografia são utilizadas atualmente para aliviar esse tipo de ameaça.
+
+#### COMPARAÇÕES
+Existem diferenças significativas entre a web 1.0, a web 2.0 e a web 3.0.
+
+1. A primeira geração da web se focava apenas na leitura de documentos, um grande livro disponível para que os usuários da Web pudessem consumir todo o conteúdo, de uma forma totalmente passiva.
+2. A segunda, se focava na criatividade do usuário como gerador de conteúdo. Agora ele atua de forma mais ativa, gerando e produzindo conteúdo que será disponibilizado para todos. Em alguns aspectos, a Web tornou-se um grande diário aberto, no qual as pessoas podem colocar suas opiniões, suas atividades e seus desejos.
+3. A terceira geração tem como alvo a web de dados. Devido ao grande volume de informação presente na Web, buscou-se uma forma de organizar esse conteúdo, através das ontologias, acessá-lo de forma mais fácil e direta e, principalmente, extrair informações que possam ser utilizadas pelos usuários para suas tomadas de decisão.
+
+A seguir, veremos um breve comparativo entre essas três gerações:
+
+<table style="margin-left: auto; margin-right: auto; width: 740px;" border="1" cellspacing="0" cellpadding="2">
+								<tbody>
+								<tr style="height: 35px;">
+								<td style="text-align: center; height: 35px; width: 241px;">
+								<p>WEB 1.0</p>
+								</td>
+								<td style="text-align: center; height: 35px; width: 204px;">
+								<p>WEB 2.0</p>
+								</td>
+								<td style="text-align: center; height: 35px; width: 272px;">
+								<p>WEB 3.0</p>
+								</td>
+								</tr>
+								<tr style="height: 35px;">
+								<td style="text-align: center; height: 35px; width: 241px;">
+								<p>1996-2003</p>
+								</td>
+								<td style="text-align: center; height: 35px; width: 204px;">
+								<p>2004-2015</p>
+								</td>
+								<td style="text-align: center; height: 35px; width: 272px;">
+								<p>2016-Hoje</p>
+								</td>
+								</tr>
+								<tr style="height: 35px;">
+								<td style="text-align: center; height: 35px; width: 241px;">
+								<p>Hipertexto</p>
+								</td>
+								<td style="text-align: center; height: 35px; width: 204px;">
+								<p>Web social</p>
+								</td>
+								<td style="text-align: center; height: 35px; width: 272px;">
+								<p>Web semântica</p>
+								</td>
+								</tr>
+								<tr style="height: 35px;">
+								<td style="text-align: center; height: 35px; width: 241px;">
+								<p>Apenas leitura</p>
+								</td>
+								<td style="text-align: center; height: 35px; width: 204px;">
+								<p>Leitura e escrita</p>
+								</td>
+								<td style="text-align: center; height: 35px; width: 272px;">
+								<p>Web executável</p>
+								</td>
+								</tr>
+								<tr style="height: 35px;">
+								<td style="text-align: center; height: 35px; width: 241px;">
+								<p>Milhões de usuários</p>
+								</td>
+								<td style="text-align: center; height: 35px; width: 204px;">
+								<p>Bilhões de usuários</p>
+								</td>
+								<td style="text-align: center; height: 35px; width: 272px;">
+								<p>Trilhões de usuários</p>
+								</td>
+								</tr>
+								<tr style="height: 35px;">
+								<td style="text-align: center; height: 35px; width: 241px;">
+								<p>Consumo de conteúdo</p>
+								</td>
+								<td style="text-align: center; height: 35px; width: 204px;">
+								<p>Participação e interação</p>
+								</td>
+								<td style="text-align: center; height: 35px; width: 272px;">
+								<p>Autoentendimento</p>
+								</td>
+								</tr>
+								<tr style="height: 35px;">
+								<td style="text-align: center; height: 35px; width: 241px;">
+								<p>Unidirecional</p>
+								</td>
+								<td style="text-align: center; height: 35px; width: 204px;">
+								<p>Bidirecional</p>
+								</td>
+								<td style="text-align: center; height: 35px; width: 272px;">
+								<p>Ambiente virtual multiusuário</p>
+								</td>
+								</tr>
+								<tr style="height: 61px;">
+								<td style="text-align: center; height: 61px; width: 241px;">
+								<p>Empresas e organizações publicam o conteúdo</p>
+								</td>
+								<td style="text-align: center; height: 61px; width: 204px;">
+								<p>Os próprios usuários publicam o conteúdo</p>
+								</td>
+								<td style="text-align: center; height: 61px; width: 272px;">
+								<p>Desenvolvedores de aplicações e usuários interagindo e publicando conteúdo</p>
+								</td>
+								</tr>
+								<tr style="height: 48px;">
+								<td style="text-align: center; height: 48px; width: 241px;">
+								<p>Conteúdo estático</p>
+								</td>
+								<td style="text-align: center; height: 48px; width: 204px;">
+								<p>Conteúdo dinâmico</p>
+								</td>
+								<td style="text-align: center; height: 48px; width: 272px;">
+								<p>Inteligência artificial, 3D e machine learning</p>
+								</td>
+								</tr>
+								</tbody>
+								</table>
+
 # 💻 [Front-End] A Estrutura do Website
 
 <p>Tudo começa com o diretório, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
