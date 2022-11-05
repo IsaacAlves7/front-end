@@ -294,29 +294,6 @@ ul {
 
 </details>
 
-# 📜 JavaScript (JS)
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="177" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br />
-
-<p>O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
-
-Com o JavaScript podemos criar efeitos especiais para nossas páginas na Web, além de podermos proporcionar maior interatividade com nossos usuários. O JavaScript é uma linguagem orientada a objetos, ou seja, ela trata todos os elementos da página como objetos distintos, facilitando a tarefa da programação.
-
-<img src="https://user-images.githubusercontent.com/61624336/108576338-02d87f80-72fc-11eb-98d7-cd75c0bc2929.gif" height="177" align="right">
-
-Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem deseja criar páginas Web dinâmicas e interativas.
-
-É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.
-  
-> Atualmente, o JavaScript compete com outras linguagens de programação em alta no mercado, sendo indispensável o seu aprendizado.
-
-## Eventos de uma TAG (Métodos HTML5 + Eventos JavaScript)
-
-```html
-<img src="1.jpg" onclick="functionClick()"/>
-```
-
-O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando uma função JavaScript quando o usuário interage em um elemento. Devido a extensão desse conteúdo criei um repositório mais focado no desenvolvimento JavaScript, clique no badge acima para saber mais sobre os Eventos!
-
 # 🎨 Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a **possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa**.
 
@@ -760,6 +737,58 @@ Como vimos, os primeiros websites eram totalmente baseados em textos e possuíam
 <img src="https://user-images.githubusercontent.com/61624336/200139439-054e43f1-75b4-4f17-b71d-8fe030b34f97.jpg" align="right" height="177">
 
 Com o lançamento dessa poderosa ferramenta e, posteriormente, com a chegada do **Internet Explorer**, as páginas web começaram a se desenvolver visualmente, criando layouts cada vez mais elaborados e que acabaram se tornando tendência entre os designers. À medida que a internet crescia, empresas enxergaram nessa nova mídia um novo canal de exposição para apresentar seus produtos e serviços a um novo público consumidor.
+
+### ESTRUTURAÇÃO E ORGANIZAÇÃO
+Nessa primeira fase do web design, a única forma possível de se criar uma página minimamente estruturada e com um layout um pouco mais desafiador era por meio de tabelas. Originalmente, as tabelas foram introduzidas no HTML para a confecção de planilhas e manipulação de números, porém a criatividade dos web designers da época fez com que essa estrutura fosse utilizada também para o arranjo de elementos em uma página, alinhando-os verticalmente. O grande problema dessa técnica estava na fragilidade considerável das estruturas e, principalmente, sua difícil manutenção.
+
+<img src="https://user-images.githubusercontent.com/61624336/200139685-6ed3f183-add1-4757-988a-1ce0dc5edecf.jpg" align="right" height="277">
+
+# 📜 JavaScript (JS)
+<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="177" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br />
+
+O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
+
+Com o JavaScript podemos criar efeitos especiais para nossas páginas na Web, além de podermos proporcionar maior interatividade com nossos usuários. O JavaScript é uma linguagem orientada a objetos, ou seja, ela trata todos os elementos da página como objetos distintos, facilitando a tarefa da programação.
+
+<img src="https://user-images.githubusercontent.com/61624336/108576338-02d87f80-72fc-11eb-98d7-cd75c0bc2929.gif" height="177" align="right">
+
+Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem deseja criar páginas Web dinâmicas e interativas.
+
+É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.
+  
+> Atualmente, o JavaScript compete com outras linguagens de programação em alta no mercado, sendo indispensável o seu aprendizado.
+
+## Eventos de uma TAG (Métodos HTML5 + Eventos JavaScript)
+
+```html
+<img src="1.jpg" onclick="functionClick()"/>
+```
+
+O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando uma função JavaScript quando o usuário interage em um elemento. Devido a extensão desse conteúdo criei um repositório mais focado no desenvolvimento JavaScript, clique no badge acima para saber mais sobre os Eventos!
+
+Em 1995, o desenvolvimento de páginas web ganha um poderosíssimo aliado, que o acompanha até os dias de hoje: o **Javascript**. Graças a essa nova tecnologia, designers do mundo inteiro puderam superar algumas das limitações do HTML. A navegação na web começa a ficar menos estática e um pouco mais interativa. Com essa inovação, por exemplo, deu-se início às janelas pop-ups.
+
+> **Comentário**: Um dos problemas da utilização dessa até então nova tecnologia é que o Javascript necessitava ser carregado no topo da página, o que aumentava consideravelmente o tempo de carregamento dos sites. É de se salientar que em meados dos anos 1990, a velocidade máxima de conexão com a internet não ultrapassava a velocidade de 56Kpbs. Muitas das funções iniciais do Javascript acabaram sendo incorporadas ao CSS. 
+
+No final de 1996, é lançada a primeira versão do Flash pela Macromedia. Com o surgimento dessa nova ferramenta, desenvolvedores teriam a liberdade de criar as mais diferentes formas, adicionar animações e criar sites cada vez mais envolventes, utilizando apenas uma única ferramenta. Todo o site poderia ser compactado dentro de um único arquivo, que depois seria carregado pelo navegador.
+
+O Flash, porém, não era perfeito. Uma grande desvantagem da sua utilização era a necessidade de todo usuário ter o seu plugin instalado em seu computador. Além disso, sites desenvolvidos em Flash costumavam demorar um pouco para carregar todas as suas funcionalidades. Com o passar dos anos, o Flash veio perdendo espaço no mercado, sobretudo em razão de seu alto consumo de processamento, o que acabava drenando rapidamente a bateria dos primeiros smartphones lançados no mercado em meados dos anos 2000.
+
+Pouco depois do surgimento do Flash, o CSS foi lançado. À medida que mais usuários alcançavam o acesso à rede, a velocidade de navegação ia se tornando um problema. Os designs baseados em CSS têm muitas vantagens sobre os designs baseados em tabelas ou no próprio Flash. A primeira dessas vantagens consiste na separação entre os elementos de design e o conteúdo, o que, em última análise, significa que haveria uma maior distinção do aspecto visual de um layout da web e de seu conteúdo.
+
+Ele também organizou a construção de layouts deixando as páginas cada vez mais limpas e semânticas. CSS também facilita a manutenção de sites, pois o conteúdo e os elementos de design são separados. É possível alterar toda a aparência de um site baseado em CSS sem nunca ter que tocar no conteúdo.
+
+> **Saiba mais**: Os arquivos CSS geralmente possuem tamanhos menores do que os designs baseados em tabelas, o que se traduz em uma melhoria no tempo de resposta de carregamento de uma página. Devido à velocidade de conexão desse período, poderia ser um pouco incômodo baixar pela primeira vez as folhas de estilo de um site que você nunca visitou antes.
+
+<img src="https://user-images.githubusercontent.com/61624336/200140550-34f42d20-dca5-496f-9bb0-decf1c8bf6ad.jpg" align="right" height="277">
+
+O CSS é, por padrão, armazenado em cache pelo navegador do usuário para que as visualizações de página subsequentes carreguem com mais rapidez. HTML, CSS e Javascript formam juntos a trinca que todo web designer precisa aprender para se destacar no mercado de trabalho.
+
+Observando hoje o final dos anos 1990, podemos identificar alguns exageros que existiam na construção de páginas animadas daquela época. Sites cada vez mais lentos, que demoravam uma eternidade para serem carregados devido às suas complexas animações. Mas sem tal era, a web não teria se transformado no que vemos atualmente. Os estilos precisavam ser experimentados e testados e, felizmente, isso levou a melhorias que começamos a verificar no final dos anos 1990.
+
+<img src="https://user-images.githubusercontent.com/61624336/200140649-d6cfc057-3ca5-4167-b524-8739e1f71323.jpg" align="right" height="277">
+
+Ainda no final dos anos 1990, os designers da época começaram a perceber que “menos” na verdade era “mais” e os sites aos poucos começaram a ficar cada vez mais sutis. Os designs foram ficando mais minimalistas e prezando por uma melhor estrutura, organização e navegabilidade.
 
 # 💻 [Front-End] A Estrutura do Website
 
