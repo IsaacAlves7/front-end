@@ -751,6 +751,16 @@ Após analisarmos as características e a evolução da web desde sua criação 
 
 Porém, a web do futuro também encontrará uma série de desafios, principalmente no que diz respeito aos padrões da indústria, como conexões sem fio que devem se tornar cada vez mais rápidas além de serem mais acessíveis, bem como formas de comunicação cada vez mais compreensíveis, fazendo com que vários dispositivos se comuniquem mesmo não pertencendo à mesma empresa.
 
+## EVOLUÇÃO DAS INTERFACES (MUDANÇAS ESTÉTICAS, FUNCIONAIS E ESTRUTURAIS)
+### Os primórdios da internet
+Uma das coisas mais impressionantes ao falarmos sobre o passado evolutivo da web é sua capacidade de adaptação e inovação. Desde que o primeiro website foi colocado no ar por Tim Bernes-Lee, no começo da década de 1990, a web não parou de crescer, se aperfeiçoar e se adaptar às mais novas tendências e tecnologias.
+
+Como vimos, os primeiros websites eram totalmente baseados em textos e possuíam algumas dezenas de links. Em 1993, ocorre a primeira grande mudança significativa na construção de páginas. Com o lançamento do web browser **Mosaic**, a internet ganhava a adição de imagens para a elaboração de conteúdo online. No ano seguinte, em 1994, o **Netscape** é lançado e se torna o primeiro navegador a possuir suporte ao carregamento de páginas em tempo real. Anos mais tarde, o Netscape veio a se transformar no popular navegador **Mozilla Firefox**.
+
+<img src="https://user-images.githubusercontent.com/61624336/200139439-054e43f1-75b4-4f17-b71d-8fe030b34f97.jpg" align="right" height="177">
+
+Com o lançamento dessa poderosa ferramenta e, posteriormente, com a chegada do **Internet Explorer**, as páginas web começaram a se desenvolver visualmente, criando layouts cada vez mais elaborados e que acabaram se tornando tendência entre os designers. À medida que a internet crescia, empresas enxergaram nessa nova mídia um novo canal de exposição para apresentar seus produtos e serviços a um novo público consumidor.
+
 # 💻 [Front-End] A Estrutura do Website
 
 <p>Tudo começa com o diretório, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
