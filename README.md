@@ -735,6 +735,21 @@ A seguir, veremos um breve comparativo entre essas três gerações:
 								</tr>
 								</tbody>
 								</table>
+								
+# WEB 4.0 E O FUTURO
+A **web 4.0**, também conhecida como “web simbiótica”, pode ser considerada como um agente eletrônico ultrainteligente. Esse sistema será capaz de suportar as interações dos indivíduos, utilizando dados disponíveis, instantâneos ou históricos, para propor ou suportar a tomada de decisão.
+
+A interação entre humanos e máquinas gerando e organizando metadados em simbiose é o motivo por trás dessa nova geração. A web 4.0 será capaz de pensar e tomar decisões baseadas em pesquisas e no conteúdo do próprio usuário. Ela será capaz também de dar sugestões com base em estudos de como nós vivemos, o que queremos ou precisamos.
+
+> **Exemplo**: Vamos supor que algum usuário descobriu certa falha dentro de uma tecnologia que foi recentemente lançada no mercado. É muito pouco tempo para que os desenvolvedores encontrem uma solução adequada, afinal esse problema passou despercebido por toda a fase de desenvolvimento e de testes do software. Então, teoricamente, a web 4.0 permitiria que um computador analisasse esse problema e oferecesse uma solução baseando-se em falhas que ocorreram anteriormente em softwares similares.
+
+A web 4.0 oferece um novo modelo de interação com o usuário, mais abrangente que as gerações anteriores, não se limitando simplesmente a exibir informações, mas se propondo a passar para o usuário soluções concretas baseadas em análises inteligentes.
+
+Empresas como Google, Microsoft ou Amazon estão desenvolvendo novos sistemas que, graças ao machine learning, são capazes de processar informações de maneira semelhante ao cérebro humano. Podemos enxergar os avanços que os assistentes de voz estão alcançando no cenário atual. Siri, Alexa ou Cortana são grandes exemplos do que essas ferramentas são capazes de fazer. A cada dia que passa, eles entendem cada vez mais o que lhes dizemos ou solicitamos.
+
+Após analisarmos as características e a evolução da web desde sua criação no final dos anos 1980, podemos concluir que a web está cada vez mais se movendo rapidamente em direção ao uso e ao aprimoramento de técnicas de inteligência artificial. Por meio de computadores cada vez mais rápidos, os nossos dados são armazenados na nuvem e são processados com uma velocidade antes inimaginável.
+
+Porém, a web do futuro também encontrará uma série de desafios, principalmente no que diz respeito aos padrões da indústria, como conexões sem fio que devem se tornar cada vez mais rápidas além de serem mais acessíveis, bem como formas de comunicação cada vez mais compreensíveis, fazendo com que vários dispositivos se comuniquem mesmo não pertencendo à mesma empresa.
 
 # 💻 [Front-End] A Estrutura do Website
 
