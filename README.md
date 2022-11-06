@@ -833,6 +833,17 @@ Atualmente, o **web design responsivo** tornou-se padrão e o conceito de <a hre
 
 Com o crescente uso da web móvel, podemos constatar uma simplificação dos sites em termos de design e estrutura. Rápido, limpo, negrito e esquemas de cores fortes são estilos muito populares nos dias de hoje.
 
+### Mudancas estéticas, funcionais e estruturais no desenvolvimento de websites
+
+1. Páginas simples/estáticas com textos e links;
+2. Recursos adicionais, como imagens;
+3. Melhorias visuais, com CSS;
+4. Interacão, com JS;
+5. Layout em tabelas;
+6. Páginas dinâmicas com Server Side, AJAX, etc.;
+7. Tableless;
+8. Páginas responsivas.
+
 # 💻 [Front-End] A Estrutura do Website
 
 <p>Tudo começa com o diretório, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
