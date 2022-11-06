@@ -25,6 +25,8 @@ Portanto, você necessita compreender a importância da elaboração de interfac
 # 🌐 Web Development
 <img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png">
 
+<!--
+
 # ⚙️ Arquiteturas de Softwares e/ou Sistemas
 <div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKS69-ydPtgH05cgHMv_lEFI4Xl7oD5x7FA&usqp=CAU" height="177"/></div><br />
 
@@ -292,7 +294,7 @@ ul {
 
 <blockquote>OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.</blockquote>
 
-</details>
+</details> -->
 
 # 🎨 Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a **possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa**.
