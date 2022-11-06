@@ -780,13 +780,13 @@ Ele também organizou a construção de layouts deixando as páginas cada vez ma
 
 > **Saiba mais**: Os arquivos CSS geralmente possuem tamanhos menores do que os designs baseados em tabelas, o que se traduz em uma melhoria no tempo de resposta de carregamento de uma página. Devido à velocidade de conexão desse período, poderia ser um pouco incômodo baixar pela primeira vez as folhas de estilo de um site que você nunca visitou antes.
 
-<img src="https://user-images.githubusercontent.com/61624336/200140550-34f42d20-dca5-496f-9bb0-decf1c8bf6ad.jpg" align="right" height="277">
+<img src="https://user-images.githubusercontent.com/61624336/200140550-34f42d20-dca5-496f-9bb0-decf1c8bf6ad.jpg" align="right" height="177">
 
 O CSS é, por padrão, armazenado em cache pelo navegador do usuário para que as visualizações de página subsequentes carreguem com mais rapidez. HTML, CSS e Javascript formam juntos a trinca que todo web designer precisa aprender para se destacar no mercado de trabalho.
 
 Observando hoje o final dos anos 1990, podemos identificar alguns exageros que existiam na construção de páginas animadas daquela época. Sites cada vez mais lentos, que demoravam uma eternidade para serem carregados devido às suas complexas animações. Mas sem tal era, a web não teria se transformado no que vemos atualmente. Os estilos precisavam ser experimentados e testados e, felizmente, isso levou a melhorias que começamos a verificar no final dos anos 1990.
 
-<img src="https://user-images.githubusercontent.com/61624336/200140649-d6cfc057-3ca5-4167-b524-8739e1f71323.jpg" align="right" height="277">
+<img src="https://user-images.githubusercontent.com/61624336/200140649-d6cfc057-3ca5-4167-b524-8739e1f71323.jpg" align="right" height="177">
 
 Ainda no final dos anos 1990, os designers da época começaram a perceber que “menos” na verdade era “mais” e os sites aos poucos começaram a ficar cada vez mais sutis. Os designs foram ficando mais minimalistas e prezando por uma melhor estrutura, organização e navegabilidade.
 
@@ -815,6 +815,21 @@ Infelizmente, essa abordagem tem as suas desvantagens. Nesse modelo, era necess�
 Conforme o uso da internet em dispositivos móveis se popularizava, o design para esses aparelhos acabaria se tornando o foco principal para o desenvolvimento web. Em 2010, Ethan Marcotte desafiou a forma como o design de web sites para celulares estava sendo abordado. Ao invés de criar sites separados, ele propôs que o mesmo conteúdo pudesse ser utilizado, porém em layouts diferentes e que deveria ser projetado dependendo do tamanho da tela do dispositivo. Este foi o início do design responsivo.
 
 Analisando sob um ponto de vista técnico, ainda utilizamos HTML e CSS para a construção de páginas. O principal benefício do design responsivo é a paridade de conteúdo, o que acaba simplificando o processo de desenvolvimento, tendo em vista que é o mesmo site que pode ser acessado independentemente da plataforma.
+
+### WEB DESIGN RESPONSIVO
+<img src="https://user-images.githubusercontent.com/61624336/200146950-8eb4f041-24ed-4273-9dd4-6d49b864658f.jpg" height="177" align="right">
+
+Durante algum tempo, era muito comum acessar páginas web com um conteúdo extenso, o que acabava forçando a sua navegação vertical, estimulando a rolagem. A navegação em dispositivos móveis indicava que os usuários estavam se acostumando a rolar mais de uma vez para acessar todo o conteúdo da página, o que, de certa forma, encorajou os designers a simplificarem o seu layout.
+
+Em geral, esse tipo de design estava ficando cada vez mais minimalista, sempre com o intuito de atender às variações das telas entre esses dispositivos. Além disso, o conteúdo estava sendo mais bem projetado para melhorar a acessibilidade e a navegabilidade para esses aparelhos.
+
+A introdução de telas com uma alta resolução acabou influenciando o processo de criação de sites. Não era mais aceitável construir uma página utilizando imagens com tamanho fixo, já que agora era preciso adequá-la à resolução desses dispositivos. As imagens precisavam ser 1,5 a 2 vezes maiores para parecerem nítidas nesses monitores. No início, isso acabou causando certa inconveniência, mas logo os desenvolvedores perceberam que poderiam utilizar imagens de alta resolução e que através do CSS era possível redimensioná-las de modo a fazê-las parecerem super nítidas, adicionando mais vitalidade à página.
+
+Atualmente, o **web design responsivo** tornou-se padrão e o conceito de *mobile-first* converteu-se em uma metodologia quase obrigatória em todas as agências. O crescente suporte dos navegadores às novas tecnologias web, como HTML5 e CSS3, deu aos designers uma gama quase infinita de possibilidades para a exibição de conteúdo online, permitindo animações na tela e efeitos que até então só eram possíveis utilizando alguma linguagem de programação como o Javascript.
+
+> **Comentário**: Uma das tendências mais notáveis nos últimos anos foi o crescimento da navegação web móvel, ultrapassando inclusive o uso em desktops e laptops. Grandes empresas do setor da internet, como o Google, por exemplo, priorizam os resultados de pesquisas e a classificação de sites em posições mais altas se eles forem rápidos e principalmente compatíveis com celulares.
+
+Com o crescente uso da web móvel, podemos constatar uma simplificação dos sites em termos de design e estrutura. Rápido, limpo, negrito e esquemas de cores fortes são estilos muito populares nos dias de hoje.
 
 # 💻 [Front-End] A Estrutura do Website
 
