@@ -715,7 +715,7 @@ A seguir, veremos um breve comparativo entre essas três gerações:
 								</tbody>
 								</table>
 								
-> Existem ótimas ferramentas para entrar em 3D na Web 3.0 como o <a href="https://app.spline.design/files">Spline</a> e Webflow
+> Existem ótimas ferramentas para entrar em 3D na Web 3.0 como o <a href="https://app.spline.design/files">Spline</a>.
 								
 # WEB 4.0 E O FUTURO
 A **web 4.0**, também conhecida como “web simbiótica”, pode ser considerada como um agente eletrônico ultrainteligente. Esse sistema será capaz de suportar as interações dos indivíduos, utilizando dados disponíveis, instantâneos ou históricos, para propor ou suportar a tomada de decisão.
