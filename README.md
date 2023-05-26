@@ -3,17 +3,13 @@
 # It's a repository of Web Development 🌐
 > 🌐 **Preparação**: Para este conteúdo, o aluno deverá dispor de um computador com acesso à internet, um web browser com suporte a HTML 5 (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera etc.), um editor de texto (VSCode etc.) e uma plataforma de hospedagem (gratuita ou paga).
 
-<!--
-<ul>
-  <li>https://flexboxfroggy.com/</li>
-  <li>https://courses.cs.washington.edu/courses/cse154/flexboxducky/</li>
-  <li>http://www.flexboxdefense.com/</li>
-  <li>https://cssgridgarden.com/</li>
-  <li>https://gridcritters.com/</li>
-</ul>
--->
-
 <div align="center"><img src="https://images.fineartamerica.com/images/artworkimages/medium/3/keep-calm-and-let-the-web-developer-handle-it-funny-gift-ideas-transparent.png" height="177"></div>
+
+- https://flexboxfroggy.com/
+- https://courses.cs.washington.edu/courses/cse154/flexboxducky/
+- http://www.flexboxdefense.com/
+- https://cssgridgarden.com/
+- https://gridcritters.com/
 
 # 🌐 O que é um website?
 Quando falamos sobre website, podemos notar que este termo se trata da junção de duas palavras em inglês: “web”, que significa rede e faz referência a rede mundial de computadores, e “site”, que quer dizer lugar. Nesse sentido, um website ou site é um local que pode ser acessado na internet, por meio de uma URL, e possui um conjunto de páginas programadas em alguma linguagem. 
@@ -1042,14 +1038,18 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <pre>&lt;img src="/assets/public/img/img.svg"&gt;</pre>
 
 # 📋 TAGs de Listas
-<p>As listas são importantes para a organização do texto e orientação do usuário.</p>
-<ul>
- <li><p><code>&lt;li&gt;</code> elemento que representa um os itens das listas.</p></li>
- <pre>
- &lt;li&gt;exemplo 1&lt;/li&gt;
- &lt;li&gt;exemplo 2&lt;/li&gt;
- &lt;li&gt;exemplo 3&lt;/li&gt;
- </pre>
+As listas são importantes para a organização do texto e orientação do usuário.
+
+- `<li>` elemento que representa um os itens das listas.
+
+```html
+<!-- Lista não ordenada: circle, square, disc -->
+<ul type="disc"> <!-- padrão -->
+ <li>exemplo 1</li>
+ <li>exemplo 2</li>
+ <li>exemplo 3</li>
+</ul>
+```
   
  <li><p><code>&lt;ol&gt;</code> define uma lista numerada (ordenada).</p></li>
  <pre>
