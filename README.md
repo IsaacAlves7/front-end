@@ -56,8 +56,6 @@ Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas
 Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  <code>&lt;font&gt;</code>, <code>&lt;center&gt;</code> e outras novas, pois milhões de páginas web as utilizam.</p>
 
 ## Client-server architecture
-<div align="center"><img src="https://feiteiraac.files.wordpress.com/2014/09/server-vs-client-time-zone-difference-problem.jpg"/></div><br />
-
 Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web. Em desenvolvimento para a Web sempre separamos dois setores: a parte do servidor e a parte do cliente.
  
 O <strong>cliente</strong> é o computador do usuário, assim como o seu. É utilizado pelas pessoas para acessar sites ou sistemas a partir de um endereço (Google Chrome, Internet Explorer, Safari, Mozilla Firefox e etc). <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Progressive_enhancement_web_design_pyramid_%28HTML%2C_CSS%2C_JS%29.svg" height="97" align="right">
