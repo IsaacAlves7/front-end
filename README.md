@@ -1112,14 +1112,14 @@ height="240"&gt;</code>
 <code>&lt;/object&gt;</code>
 </pre>
 
-<p>Em virtude das inconsistências dos navegadores, era preciso adicionar tanto o comando <code>&lt;object&gt</code>; quanto o comando <code>&lt;embed&gt</code>;, comandos específicos para utilização do plugin, duplicando muitos atributos. Isso sem falar que plugins como o Flash causam muitas instabilidades, ocasionando erros que levam até ao fechamento do navegador.
+Em virtude das inconsistências dos navegadores, era preciso adicionar tanto o comando <code>&lt;object&gt</code>; quanto o comando <code>&lt;embed&gt</code>;, comandos específicos para utilização do plugin, duplicando muitos atributos. Isso sem falar que plugins como o Flash causam muitas instabilidades, ocasionando erros que levam até ao fechamento do navegador.
 
 Devido a tudo isso, o HTML 5 vem com um novo suporte, nativo na linguagem, para evitar o uso de plugins e comandos desnecessários. Atualmente, basta colocar a chamada simples, como se fosse uma imagem e o arquivo é acionado.</p>
 <pre>&lt;video controls src="video.mp4" width="426" height="240"&gt;&lt;/video&gt;</pre>
 
-<p>O problema apresentado pelo novo comando é o uso do atributo <code>src</code> que não funciona bem em alguns navegadores. E se pretendemos que todos possam abrir a página, com qualquer navegador, é necessário usar outro tipo de atributo. Por isso, é comum o uso do atributo <code>&lt;source&gt;</code> na tag <code>&lt;video&gt;</code>.
+O problema apresentado pelo novo comando é o uso do atributo <code>src</code> que não funciona bem em alguns navegadores. E se pretendemos que todos possam abrir a página, com qualquer navegador, é necessário usar outro tipo de atributo. Por isso, é comum o uso do atributo <code>&lt;source&gt;</code> na tag <code>&lt;video&gt;</code>.
 
-O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.</p>
+O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.
 
 ## video
 <pre>
@@ -1139,18 +1139,17 @@ O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite
 &lt;/audio&gt;
 </pre>
 
-<p>Existem diversos <b>codecs</b>, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior.</p>
+Existem diversos <b>codecs</b>, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior.
 
 <blockquote><b>Obs:</b> Codecs são programas utilizados para codificar e decodificar arquivos de mídia. Eles compactam o formato original, favorecendo o armazenamento, e descompactam na hora da reprodução, transformando novamente em imagem ou áudio.</blockquote>
 
-<p>Todos os exemplos de audio e video citados são importados via documento no diretório. E a dúvida é, como faço para importar um vídeo já hospedado em um site como o YouTube ou o Vimeo? E qual das duas soluções (Via documento ou via server) é a mais vantajosa?</p>
+Todos os exemplos de audio e video citados são importados via documento no diretório. E a dúvida é, como faço para importar um vídeo já hospedado em um site como o YouTube ou o Vimeo? E qual das duas soluções (Via documento ou via server) é a mais vantajosa?
 
 ### Importando video
-<p>Vamos ver como importar videos do YouTube e do Vimeo, passo a passo!</p>
+Vamos ver como importar videos do YouTube e do Vimeo, passo a passo!
 
 # 🔲 [HTML] TAGs de Tabelas
-<div align="center"><img src="https://cdn.educba.com/academy/wp-content/uploads/2019/10/Create-Tables-in-HTML.png"></div>
-<p>Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
+Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
 
 Entretanto, hoje, o uso de tabelas está, de fato, interferindo na construção de sites melhores, mais acessíveis, flexíveis e funcionais, principalmente para as novas mídias, como os celulares, tablets etc.
 
@@ -1158,11 +1157,11 @@ Essas tabelas ainda continuam existindo no HTML 5 como recurso para exibição d
 
 O comando tabela não foi retirado da linguagem, mas ficou restrito o seu uso. Em contrapartida, ainda temos vários sites que utilizam esse recurso, portanto, é importante entendermos como funciona até para poder, se for necessário, dar manutenção nesse tipo de página.
 
-O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar uma <b>linha</b>, devemos introduzir a tag <code>&lt;tr&gt;</code> e para uma <b>célula</b> <code>&lt;td&gt;</code>, que divide a linha da tabela. <code>&lt;th&gt;</code> divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como <code>&lt;/table&gt;</code>, <code>&lt;/tr&gt;</code> e <code>&lt;/td&gt;</code> respectivamente.</p>
+O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar uma <b>linha</b>, devemos introduzir a tag <code>&lt;tr&gt;</code> e para uma <b>célula</b> <code>&lt;td&gt;</code>, que divide a linha da tabela. <code>&lt;th&gt;</code> divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como <code>&lt;/table&gt;</code>, <code>&lt;/tr&gt;</code> e <code>&lt;/td&gt;</code> respectivamente.
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105789912-03cafb00-5f62-11eb-98dc-9344c4085708.jpg)
 
-<p>O comando <code>&lt;table&gt;</code> tem uma série de atributos que ajudam na formatação da tabela. Os principais são:</p>
+O comando <code>&lt;table&gt;</code> tem uma série de atributos que ajudam na formatação da tabela. Os principais são:
 <table>
   <tr>
     <td><code>align=""</code></td>
@@ -1190,7 +1189,7 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105891443-6ae2c100-5fef-11eb-86d0-e66401b98812.jpg)
 
 ### Atributo Rules
-<p>Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo <code>RULES</code>, dentro da tag . Os complementos desse atributo são:</p>
+Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo <code>RULES</code>, dentro da tag . Os complementos desse atributo são:
 <table>
   <tr>
     <td><code>none</code></td>
