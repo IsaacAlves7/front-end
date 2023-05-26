@@ -102,8 +102,6 @@ Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava conv
 Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.
 
 ## TAGs essenciais do HTML
-<img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/tag_html.png"/>
-
 É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code>&lt;meta&gt;</code>, <code>&lt;h1&gt;</code>, <code>&lt;img&gt;</code> etc. 
 
 Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;</b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <code>&lt;meta&gt;</code> e <code>&lt;link&gt;</code>.
