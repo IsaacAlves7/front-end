@@ -507,6 +507,79 @@ Com o lançamento dessa poderosa ferramenta e, posteriormente, com a chegada do 
 
 Nessa primeira fase do web design, a única forma possível de se criar uma página minimamente estruturada e com um layout um pouco mais desafiador era por meio de tabelas. Originalmente, as tabelas foram introduzidas no HTML para a confecção de planilhas e manipulação de números, porém a criatividade dos web designers da época fez com que essa estrutura fosse utilizada também para o arranjo de elementos em uma página, alinhando-os verticalmente. O grande problema dessa técnica estava na fragilidade considerável das estruturas e, principalmente, sua difícil manutenção.
 
+
+No final de 1996, é lançada a primeira versão do Flash pela Macromedia. Com o surgimento dessa nova ferramenta, desenvolvedores teriam a liberdade de criar as mais diferentes formas, adicionar animações e criar sites cada vez mais envolventes, utilizando apenas uma única ferramenta. Todo o site poderia ser compactado dentro de um único arquivo, que depois seria carregado pelo navegador.
+
+O Flash, porém, não era perfeito. Uma grande desvantagem da sua utilização era a necessidade de todo usuário ter o seu plugin instalado em seu computador. Além disso, sites desenvolvidos em Flash costumavam demorar um pouco para carregar todas as suas funcionalidades. Com o passar dos anos, o Flash veio perdendo espaço no mercado, sobretudo em razão de seu alto consumo de processamento, o que acabava drenando rapidamente a bateria dos primeiros smartphones lançados no mercado em meados dos anos 2000.
+
+Pouco depois do surgimento do Flash, o CSS foi lançado. À medida que mais usuários alcançavam o acesso à rede, a velocidade de navegação ia se tornando um problema. Os designs baseados em CSS têm muitas vantagens sobre os designs baseados em tabelas ou no próprio Flash. A primeira dessas vantagens consiste na separação entre os elementos de design e o conteúdo, o que, em última análise, significa que haveria uma maior distinção do aspecto visual de um layout da web e de seu conteúdo.
+
+Ele também organizou a construção de layouts deixando as páginas cada vez mais limpas e semânticas. CSS também facilita a manutenção de sites, pois o conteúdo e os elementos de design são separados. É possível alterar toda a aparência de um site baseado em CSS sem nunca ter que tocar no conteúdo.
+
+> **Saiba mais**: Os arquivos CSS geralmente possuem tamanhos menores do que os designs baseados em tabelas, o que se traduz em uma melhoria no tempo de resposta de carregamento de uma página. Devido à velocidade de conexão desse período, poderia ser um pouco incômodo baixar pela primeira vez as folhas de estilo de um site que você nunca visitou antes.
+
+<img src="https://user-images.githubusercontent.com/61624336/200140550-34f42d20-dca5-496f-9bb0-decf1c8bf6ad.jpg" align="right" height="177">
+
+O CSS é, por padrão, armazenado em cache pelo navegador do usuário para que as visualizações de página subsequentes carreguem com mais rapidez. HTML, CSS e Javascript formam juntos a trinca que todo web designer precisa aprender para se destacar no mercado de trabalho.
+
+Observando hoje o final dos anos 1990, podemos identificar alguns exageros que existiam na construção de páginas animadas daquela época. Sites cada vez mais lentos, que demoravam uma eternidade para serem carregados devido às suas complexas animações. Mas sem tal era, a web não teria se transformado no que vemos atualmente. Os estilos precisavam ser experimentados e testados e, felizmente, isso levou a melhorias que começamos a verificar no final dos anos 1990.
+
+<img src="https://user-images.githubusercontent.com/61624336/200140649-d6cfc057-3ca5-4167-b524-8739e1f71323.jpg" align="right" height="177">
+
+Ainda no final dos anos 1990, os designers da época começaram a perceber que “menos” na verdade era “mais” e os sites aos poucos começaram a ficar cada vez mais sutis. Os designs foram ficando mais minimalistas e prezando por uma melhor estrutura, organização e navegabilidade.
+
+### INOVAÇÃO E MÍDIAS SOCIAIS
+No início do novo milênio, vimos um grande aumento na inovação, liderado pelo aumento das velocidades de banda larga e melhorias em software e hardware. Em 2003, mais de 50% dos internautas acessavam a web por meio de máquinas de 32 bits, o que permitia a exibição de mais de 16 mil cores diferentes. Ao mesmo tempo, a maioria dos usuários aumentavam as suas resoluções de 800 por 600 para 1024 por 768 pixels. Juntas, essas mudanças levam a uma tela maior e à produção de designs mais dinâmicos.
+
+- Alguns acontecimentos marcaram de vez a internet no início dos anos 2000. Em 2005, é lançada a plataforma para compartilhamento de vídeos denominada YouTube. Em 2003, novas plataformas entram em cena: WordPress, MySpace e Facebook.
+- No começo desse novo século, a criação de sites era, sobretudo, um campo técnico administrado pelos departamentos de TI das empresas. Surge então o **WordPress**: um sistema de gerenciamento de conteúdo (CMS – Content Management System), que é capaz de gerenciar o conteúdo de uma página, blog ou loja virtual de uma forma prática e eficiente.
+- A ideia era bem simples: possibilitar a qualquer criador de conteúdo, sem conhecimento algum em codificação ou programação, gerenciar a sua página de forma simples e intuitiva. Segundo o site W3Techs, estima-se que o WordPress represente algo em torno de 61% do mercado de sistemas de gerenciamento de conteúdo.
+
+Em 2004, o **MySpace** se tornou um ambiente onde usuários poderiam criar os seus próprios perfis e se conectarem a outros usuários. Essa plataforma permitia que seus utilizadores acessassem editores HTML para personalizarem suas páginas, o que fez com que muitos designers tivessem o seu primeiro contato com a linguagem HTML.
+
+> **Comentário**: Embora o Facebook tenha sido lançado em 2004 junto a plataforma MySpace, foi apenas em 2006 que ele se tornou público e mudou a mídia internet como também o público que a utilizava. Embora o MySpace permitisse que os usuários codificassem suas páginas, o Facebook optou por não dar essa possibilidade aos seus usuários. Isso leva a uma aparência simples e consistente em toda a rede. Atualmente, o Facebook é o site mais visitado dos Estados Unidos e tem mais de 1 bilhão de usuários em todo o planeta.
+
+Tanto o Facebook quanto o WordPress acabaram modificando a cara das mídias sociais para sempre. Muito embora o lançamento dessas marcas não tenha afetado diretamente as tendências do web design na época, elas definitivamente tiveram um efeito indireto. Liderando em termos de experiência do usuário, o Facebook acabou por gerar muitos sites com um estilo semelhante. Os temas do WordPress tendem a estar na vanguarda das últimas tendências e estilos de design para a web.
+
+### A WEB MOBILE
+Com a chegada dos primeiros dispositivos móveis e smartphones mais ou menos na metade da primeira década desse novo século, a maioria dos web sites não eram otimizados para serem visualizados nesses novos aparelhos. Utilizar a web em um dispositivo móvel nesse período significava uma tarefa por vezes frustrante, o que acabou fazendo com que designers do mundo debatessem como seria possível melhorar o desenvolvimento de sites para essa nova tendência.
+
+> **Você sabia**: Em um primeiro momento, surgiu a tendência de existirem sites separados, sendo um mais completo para acesso via desktop e outro mais simplificado visando as limitações dos dispositivos móveis da época. Essa lógica era aplicada do lado do servidor. Se o navegador do usuário parecesse estar em um telefone celular, o servidor o redirecionaria para o site com o conteúdo mobile, que era normalmente formatado para o uso em dispositivos com uma tela pequena e otimizado para priorizar a velocidade.
+
+Conceitualmente simples, esta é a opção mais fácil de adicionar a um site existente, especialmente se você estiver utilizando um sistema de gerenciamento de conteúdo (CMS) ou aplicação web que ofereça suporte a modelos.
+
+Infelizmente, essa abordagem tem as suas desvantagens. Nesse modelo, era necessário praticar a manutenção em duas páginas diferentes, embora o conteúdo pudesse ser muito parecido. Isso acabava aumentando o tempo de desenvolvimento e implementação de novos recursos, já que era preciso codificar a sua lógica em duplicidade. Além do mais, a detecção do navegador pelo servidor não era imune a falhas, tendo em vista que a cada novo browser lançado pelo mercado era preciso modificar a sua configuração.
+
+Conforme o uso da internet em dispositivos móveis se popularizava, o design para esses aparelhos acabaria se tornando o foco principal para o desenvolvimento web. Em 2010, Ethan Marcotte desafiou a forma como o design de web sites para celulares estava sendo abordado. Ao invés de criar sites separados, ele propôs que o mesmo conteúdo pudesse ser utilizado, porém em layouts diferentes e que deveria ser projetado dependendo do tamanho da tela do dispositivo. Este foi o início do design responsivo.
+
+Analisando sob um ponto de vista técnico, ainda utilizamos HTML e CSS para a construção de páginas. O principal benefício do design responsivo é a paridade de conteúdo, o que acaba simplificando o processo de desenvolvimento, tendo em vista que é o mesmo site que pode ser acessado independentemente da plataforma.
+
+### WEB DESIGN RESPONSIVO
+<img src="https://user-images.githubusercontent.com/61624336/200146950-8eb4f041-24ed-4273-9dd4-6d49b864658f.jpg" height="177" align="right">
+
+Durante algum tempo, era muito comum acessar páginas web com um conteúdo extenso, o que acabava forçando a sua navegação vertical, estimulando a rolagem. A navegação em dispositivos móveis indicava que os usuários estavam se acostumando a rolar mais de uma vez para acessar todo o conteúdo da página, o que, de certa forma, encorajou os designers a simplificarem o seu layout.
+
+Em geral, esse tipo de design estava ficando cada vez mais minimalista, sempre com o intuito de atender às variações das telas entre esses dispositivos. Além disso, o conteúdo estava sendo mais bem projetado para melhorar a acessibilidade e a navegabilidade para esses aparelhos.
+
+A introdução de telas com uma alta resolução acabou influenciando o processo de criação de sites. Não era mais aceitável construir uma página utilizando imagens com tamanho fixo, já que agora era preciso adequá-la à resolução desses dispositivos. As imagens precisavam ser 1,5 a 2 vezes maiores para parecerem nítidas nesses monitores. No início, isso acabou causando certa inconveniência, mas logo os desenvolvedores perceberam que poderiam utilizar imagens de alta resolução e que através do CSS era possível redimensioná-las de modo a fazê-las parecerem super nítidas, adicionando mais vitalidade à página.
+
+Atualmente, o **web design responsivo** tornou-se padrão e o conceito de <a href="https://www.moblee.com.br/blog/mobile-first-principais-vantagens/">mobile-first</a> converteu-se em uma metodologia quase obrigatória em todas as agências. O crescente suporte dos navegadores às novas tecnologias web, como HTML5 e CSS3, deu aos designers uma gama quase infinita de possibilidades para a exibição de conteúdo online, permitindo animações na tela e efeitos que até então só eram possíveis utilizando alguma linguagem de programação como o Javascript.
+
+> **Comentário**: Uma das tendências mais notáveis nos últimos anos foi o crescimento da navegação web móvel, ultrapassando inclusive o uso em desktops e laptops. Grandes empresas do setor da internet, como o Google, por exemplo, priorizam os resultados de pesquisas e a classificação de sites em posições mais altas se eles forem rápidos e principalmente compatíveis com celulares.
+
+Com o crescente uso da web móvel, podemos constatar uma simplificação dos sites em termos de design e estrutura. Rápido, limpo, negrito e esquemas de cores fortes são estilos muito populares nos dias de hoje.
+
+### Mudancas estéticas, funcionais e estruturais no desenvolvimento de websites
+
+1. Páginas simples/estáticas com textos e links;
+2. Recursos adicionais, como imagens;
+3. Melhorias visuais, com CSS;
+4. Interacão, com JS;
+5. Layout em tabelas;
+6. Páginas dinâmicas com Server Side, AJAX, etc.;
+7. Tableless;
+8. Páginas responsivas.
+
 ## Arquitetura cliente-servidor em Web
 Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web. Em desenvolvimento para a Web sempre separamos dois setores: a parte do servidor e a parte do cliente.
  
@@ -771,8 +844,6 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
   
 > Atualmente, o JavaScript compete com outras linguagens de programação em alta no mercado, sendo indispensável o seu aprendizado.
 
-## Eventos de uma TAG (Métodos HTML5 + Eventos JavaScript)
-
 ```html
 <img src="1.jpg" onclick="functionClick()"/>
 ```
@@ -782,78 +853,6 @@ O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador,
 Em 1995, o desenvolvimento de páginas web ganha um poderosíssimo aliado, que o acompanha até os dias de hoje: o **Javascript**. Graças a essa nova tecnologia, designers do mundo inteiro puderam superar algumas das limitações do HTML. A navegação na web começa a ficar menos estática e um pouco mais interativa. Com essa inovação, por exemplo, deu-se início às janelas pop-ups.
 
 > **Comentário**: Um dos problemas da utilização dessa até então nova tecnologia é que o Javascript necessitava ser carregado no topo da página, o que aumentava consideravelmente o tempo de carregamento dos sites. É de se salientar que em meados dos anos 1990, a velocidade máxima de conexão com a internet não ultrapassava a velocidade de 56Kpbs. Muitas das funções iniciais do Javascript acabaram sendo incorporadas ao CSS. 
-
-No final de 1996, é lançada a primeira versão do Flash pela Macromedia. Com o surgimento dessa nova ferramenta, desenvolvedores teriam a liberdade de criar as mais diferentes formas, adicionar animações e criar sites cada vez mais envolventes, utilizando apenas uma única ferramenta. Todo o site poderia ser compactado dentro de um único arquivo, que depois seria carregado pelo navegador.
-
-O Flash, porém, não era perfeito. Uma grande desvantagem da sua utilização era a necessidade de todo usuário ter o seu plugin instalado em seu computador. Além disso, sites desenvolvidos em Flash costumavam demorar um pouco para carregar todas as suas funcionalidades. Com o passar dos anos, o Flash veio perdendo espaço no mercado, sobretudo em razão de seu alto consumo de processamento, o que acabava drenando rapidamente a bateria dos primeiros smartphones lançados no mercado em meados dos anos 2000.
-
-Pouco depois do surgimento do Flash, o CSS foi lançado. À medida que mais usuários alcançavam o acesso à rede, a velocidade de navegação ia se tornando um problema. Os designs baseados em CSS têm muitas vantagens sobre os designs baseados em tabelas ou no próprio Flash. A primeira dessas vantagens consiste na separação entre os elementos de design e o conteúdo, o que, em última análise, significa que haveria uma maior distinção do aspecto visual de um layout da web e de seu conteúdo.
-
-Ele também organizou a construção de layouts deixando as páginas cada vez mais limpas e semânticas. CSS também facilita a manutenção de sites, pois o conteúdo e os elementos de design são separados. É possível alterar toda a aparência de um site baseado em CSS sem nunca ter que tocar no conteúdo.
-
-> **Saiba mais**: Os arquivos CSS geralmente possuem tamanhos menores do que os designs baseados em tabelas, o que se traduz em uma melhoria no tempo de resposta de carregamento de uma página. Devido à velocidade de conexão desse período, poderia ser um pouco incômodo baixar pela primeira vez as folhas de estilo de um site que você nunca visitou antes.
-
-<img src="https://user-images.githubusercontent.com/61624336/200140550-34f42d20-dca5-496f-9bb0-decf1c8bf6ad.jpg" align="right" height="177">
-
-O CSS é, por padrão, armazenado em cache pelo navegador do usuário para que as visualizações de página subsequentes carreguem com mais rapidez. HTML, CSS e Javascript formam juntos a trinca que todo web designer precisa aprender para se destacar no mercado de trabalho.
-
-Observando hoje o final dos anos 1990, podemos identificar alguns exageros que existiam na construção de páginas animadas daquela época. Sites cada vez mais lentos, que demoravam uma eternidade para serem carregados devido às suas complexas animações. Mas sem tal era, a web não teria se transformado no que vemos atualmente. Os estilos precisavam ser experimentados e testados e, felizmente, isso levou a melhorias que começamos a verificar no final dos anos 1990.
-
-<img src="https://user-images.githubusercontent.com/61624336/200140649-d6cfc057-3ca5-4167-b524-8739e1f71323.jpg" align="right" height="177">
-
-Ainda no final dos anos 1990, os designers da época começaram a perceber que “menos” na verdade era “mais” e os sites aos poucos começaram a ficar cada vez mais sutis. Os designs foram ficando mais minimalistas e prezando por uma melhor estrutura, organização e navegabilidade.
-
-### INOVAÇÃO E MÍDIAS SOCIAIS
-No início do novo milênio, vimos um grande aumento na inovação, liderado pelo aumento das velocidades de banda larga e melhorias em software e hardware. Em 2003, mais de 50% dos internautas acessavam a web por meio de máquinas de 32 bits, o que permitia a exibição de mais de 16 mil cores diferentes. Ao mesmo tempo, a maioria dos usuários aumentavam as suas resoluções de 800 por 600 para 1024 por 768 pixels. Juntas, essas mudanças levam a uma tela maior e à produção de designs mais dinâmicos.
-
-- Alguns acontecimentos marcaram de vez a internet no início dos anos 2000. Em 2005, é lançada a plataforma para compartilhamento de vídeos denominada YouTube. Em 2003, novas plataformas entram em cena: WordPress, MySpace e Facebook.
-- No começo desse novo século, a criação de sites era, sobretudo, um campo técnico administrado pelos departamentos de TI das empresas. Surge então o **WordPress**: um sistema de gerenciamento de conteúdo (CMS – Content Management System), que é capaz de gerenciar o conteúdo de uma página, blog ou loja virtual de uma forma prática e eficiente.
-- A ideia era bem simples: possibilitar a qualquer criador de conteúdo, sem conhecimento algum em codificação ou programação, gerenciar a sua página de forma simples e intuitiva. Segundo o site W3Techs, estima-se que o WordPress represente algo em torno de 61% do mercado de sistemas de gerenciamento de conteúdo.
-
-Em 2004, o **MySpace** se tornou um ambiente onde usuários poderiam criar os seus próprios perfis e se conectarem a outros usuários. Essa plataforma permitia que seus utilizadores acessassem editores HTML para personalizarem suas páginas, o que fez com que muitos designers tivessem o seu primeiro contato com a linguagem HTML.
-
-> **Comentário**: Embora o Facebook tenha sido lançado em 2004 junto a plataforma MySpace, foi apenas em 2006 que ele se tornou público e mudou a mídia internet como também o público que a utilizava. Embora o MySpace permitisse que os usuários codificassem suas páginas, o Facebook optou por não dar essa possibilidade aos seus usuários. Isso leva a uma aparência simples e consistente em toda a rede. Atualmente, o Facebook é o site mais visitado dos Estados Unidos e tem mais de 1 bilhão de usuários em todo o planeta.
-
-Tanto o Facebook quanto o WordPress acabaram modificando a cara das mídias sociais para sempre. Muito embora o lançamento dessas marcas não tenha afetado diretamente as tendências do web design na época, elas definitivamente tiveram um efeito indireto. Liderando em termos de experiência do usuário, o Facebook acabou por gerar muitos sites com um estilo semelhante. Os temas do WordPress tendem a estar na vanguarda das últimas tendências e estilos de design para a web.
-
-### A WEB MOBILE
-Com a chegada dos primeiros dispositivos móveis e smartphones mais ou menos na metade da primeira década desse novo século, a maioria dos web sites não eram otimizados para serem visualizados nesses novos aparelhos. Utilizar a web em um dispositivo móvel nesse período significava uma tarefa por vezes frustrante, o que acabou fazendo com que designers do mundo debatessem como seria possível melhorar o desenvolvimento de sites para essa nova tendência.
-
-> **Você sabia**: Em um primeiro momento, surgiu a tendência de existirem sites separados, sendo um mais completo para acesso via desktop e outro mais simplificado visando as limitações dos dispositivos móveis da época. Essa lógica era aplicada do lado do servidor. Se o navegador do usuário parecesse estar em um telefone celular, o servidor o redirecionaria para o site com o conteúdo mobile, que era normalmente formatado para o uso em dispositivos com uma tela pequena e otimizado para priorizar a velocidade.
-
-Conceitualmente simples, esta é a opção mais fácil de adicionar a um site existente, especialmente se você estiver utilizando um sistema de gerenciamento de conteúdo (CMS) ou aplicação web que ofereça suporte a modelos.
-
-Infelizmente, essa abordagem tem as suas desvantagens. Nesse modelo, era necessário praticar a manutenção em duas páginas diferentes, embora o conteúdo pudesse ser muito parecido. Isso acabava aumentando o tempo de desenvolvimento e implementação de novos recursos, já que era preciso codificar a sua lógica em duplicidade. Além do mais, a detecção do navegador pelo servidor não era imune a falhas, tendo em vista que a cada novo browser lançado pelo mercado era preciso modificar a sua configuração.
-
-Conforme o uso da internet em dispositivos móveis se popularizava, o design para esses aparelhos acabaria se tornando o foco principal para o desenvolvimento web. Em 2010, Ethan Marcotte desafiou a forma como o design de web sites para celulares estava sendo abordado. Ao invés de criar sites separados, ele propôs que o mesmo conteúdo pudesse ser utilizado, porém em layouts diferentes e que deveria ser projetado dependendo do tamanho da tela do dispositivo. Este foi o início do design responsivo.
-
-Analisando sob um ponto de vista técnico, ainda utilizamos HTML e CSS para a construção de páginas. O principal benefício do design responsivo é a paridade de conteúdo, o que acaba simplificando o processo de desenvolvimento, tendo em vista que é o mesmo site que pode ser acessado independentemente da plataforma.
-
-### WEB DESIGN RESPONSIVO
-<img src="https://user-images.githubusercontent.com/61624336/200146950-8eb4f041-24ed-4273-9dd4-6d49b864658f.jpg" height="177" align="right">
-
-Durante algum tempo, era muito comum acessar páginas web com um conteúdo extenso, o que acabava forçando a sua navegação vertical, estimulando a rolagem. A navegação em dispositivos móveis indicava que os usuários estavam se acostumando a rolar mais de uma vez para acessar todo o conteúdo da página, o que, de certa forma, encorajou os designers a simplificarem o seu layout.
-
-Em geral, esse tipo de design estava ficando cada vez mais minimalista, sempre com o intuito de atender às variações das telas entre esses dispositivos. Além disso, o conteúdo estava sendo mais bem projetado para melhorar a acessibilidade e a navegabilidade para esses aparelhos.
-
-A introdução de telas com uma alta resolução acabou influenciando o processo de criação de sites. Não era mais aceitável construir uma página utilizando imagens com tamanho fixo, já que agora era preciso adequá-la à resolução desses dispositivos. As imagens precisavam ser 1,5 a 2 vezes maiores para parecerem nítidas nesses monitores. No início, isso acabou causando certa inconveniência, mas logo os desenvolvedores perceberam que poderiam utilizar imagens de alta resolução e que através do CSS era possível redimensioná-las de modo a fazê-las parecerem super nítidas, adicionando mais vitalidade à página.
-
-Atualmente, o **web design responsivo** tornou-se padrão e o conceito de <a href="https://www.moblee.com.br/blog/mobile-first-principais-vantagens/">mobile-first</a> converteu-se em uma metodologia quase obrigatória em todas as agências. O crescente suporte dos navegadores às novas tecnologias web, como HTML5 e CSS3, deu aos designers uma gama quase infinita de possibilidades para a exibição de conteúdo online, permitindo animações na tela e efeitos que até então só eram possíveis utilizando alguma linguagem de programação como o Javascript.
-
-> **Comentário**: Uma das tendências mais notáveis nos últimos anos foi o crescimento da navegação web móvel, ultrapassando inclusive o uso em desktops e laptops. Grandes empresas do setor da internet, como o Google, por exemplo, priorizam os resultados de pesquisas e a classificação de sites em posições mais altas se eles forem rápidos e principalmente compatíveis com celulares.
-
-Com o crescente uso da web móvel, podemos constatar uma simplificação dos sites em termos de design e estrutura. Rápido, limpo, negrito e esquemas de cores fortes são estilos muito populares nos dias de hoje.
-
-### Mudancas estéticas, funcionais e estruturais no desenvolvimento de websites
-
-1. Páginas simples/estáticas com textos e links;
-2. Recursos adicionais, como imagens;
-3. Melhorias visuais, com CSS;
-4. Interacão, com JS;
-5. Layout em tabelas;
-6. Páginas dinâmicas com Server Side, AJAX, etc.;
-7. Tableless;
-8. Páginas responsivas.
 
 # 💻 [Front-End] A Estrutura do Website
 
