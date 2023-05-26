@@ -2223,11 +2223,11 @@ div.rotate_left{
 
 # 📺 [CSS] Displays
 
-# 🥡 [CSS] Flexbox Layout
-<div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/></div>
+## Flexbox Layout
+<img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="177" align="right"/>
 
-# 🍱 [CSS] Grid Layout
-<div align="center"><img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="200"/></div>
+## Grid Layout
+<img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="177" align="right"/>
 
 # 📱 [CSS] Responsive Layout
 
