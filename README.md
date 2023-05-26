@@ -754,19 +754,18 @@ Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adiciona
 </ul>
 
 ## Principais conceitos do CSS3
-
-Além disso, são divididas em categorias conforme a seguir:
+Os principais conceitos do CSS são divididas em categorias conforme a seguir:
 
 - <a href="https://github.com/IsaacAlves7/web#-css-box-model">Box Model</a>
-- <a href="">Texto, Background e Variáveis</a>
+- <a href="">Seletores, Declarações, Propriedades e Valores</a>
+- <a href="">Texto, Background, Foreground e Variáveis</a>
 - <a href="">Classes e IDs</a>
-- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Seções</a>
-- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Keyframes e Animations</a>
-- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Pseudo-elementos</a>
-- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Transform e Transition</a>
-- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Positions e Dimensions</a>
-- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Media Queries</a>
-- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Displays</a>
+- <a href="">Keyframes e Animations</a>
+- <a href="">Pseudo-classes</a>
+- <a href="">Pseudo-elementos</a>
+- <a href="">Transform e Transition</a>
+- <a href="">Positions, Dimensions e Displays</a>
+- <a href="">Media Queries</a>
 
 # 📦 [CSS] Box Model
 <img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="177" align="right">
@@ -1323,7 +1322,7 @@ Dentro de um documento .css podemos aplicar nas primeiras linhas, a chamada de a
 
 ## Seletores e Declarações
 
-<p>Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
+Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
 
 A sintaxe é bem simples e pode ser explicada com a frase "você cria regras de estilo para elementos ou grupos de elementos".
 
