@@ -25,14 +25,14 @@ Além disso, os sites também podem ser classificados em estáticos ou dinâmico
 Já os sites dinâmicos, além de usufruírem do HTML, CSS e JavaScript, também utilizam linguagens de programação mais robustas, como PHP. Estes sites possuem funcionalidades conectadas a um banco de dados. Dessa forma, cada página acessada pode trazer dados específicos.  
 
 # 🎨 Web Design
-<img src="https://www.brainpulse.com/wp-content/uploads/2017/09/banner-web-design-2.png">
+<img src="https://em-content.zobj.net/source/microsoft-teams/363/artist-palette_1f3a8.png" height="177" align="right">
 
 Com o **Web Design** você precisa observar a importância da interface para o desenvolvimento de websites, evolução das tecnologias utilizadas na construção de páginas web ricas (web 1.0, web 2.0, web 3.0 e web 4.0), evolução das interfaces (mudanças estéticas, funcionais e estruturais).
 
 Portanto, você necessita compreender a importância da elaboração de interfaces ricas para a construção de um website, visando a melhor experiência de navegação e usabilidade para o usuário final, conhecendo algumas tecnologias utilizadas no passado para a construção de sites online. A partir dessa visão, observar antigas tendências de mercado, assim como enxergar novas tendências na elaboração de interfaces.
 
 # 🌐 Web Development
-<img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png">
+<img src="https://em-content.zobj.net/source/microsoft-teams/363/globe-with-meridians_1f310.png" height="177" align="right">
 
 Basicamente, desenvolvimento web significa codificar páginas para a internet. No entanto, essa tarefa vai além da utilização de HTML e CSS, as ferramentas básicas para a criação de uma página estática — que apresenta informações que só podem ser modificadas com a edição do código fonte.
 
