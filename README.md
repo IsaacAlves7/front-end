@@ -25,6 +25,12 @@ Portanto, você necessita compreender a importância da elaboração de interfac
 # 🌐 Web Development
 <img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png">
 
+Basicamente, desenvolvimento web significa codificar páginas para a internet. No entanto, essa tarefa vai além da utilização de HTML e CSS, as ferramentas básicas para a criação de uma página estática — que apresenta informações que só podem ser modificadas com a edição do código fonte.
+
+Ao contrário, as páginas em um site podem ser dinâmicas. Isso significa que o conteúdo exibido pode ser alterado sem a interferência no código fonte. Para que isso seja possível, as partes dinâmicas do site ficam armazenadas em um banco de dados, que é acessado sempre que for necessário recuperar esse conteúdo.
+
+Essa característica permite o desenvolvimento de aplicações complexas, que utilizam regras de negócios, APIs — Application Programming Interface — e muito mais. Portanto, existe uma divisão nas atividades voltadas ao desenvolvimento para web, a codificação do lado cliente (front-end) e a do lado do servidor (back-end).
+
 <!--
 
 # ⚙️ Arquiteturas de Softwares e/ou Sistemas
