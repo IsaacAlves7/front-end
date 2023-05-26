@@ -2398,34 +2398,34 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
   </div>
 </pre>
 
-<p>Agora, iremos criar um identificador container e configurar como queremos colocar as caixas.</p>
+Agora, iremos criar um identificador container e configurar como queremos colocar as caixas.
 
 ### Criar container
-<pre>
+```css
 #container {
     display: box;
     box-align: stretch;
     box-orient: horizontal;
 }
-</pre>
+```
 
 ### Definir a largura das caixas
-<pre>
+```css
 .container {
     /*width: 240px;*/
     height: 240px;
 }
-</pre>
+```
 
 ### Tornar o box flexível
-<pre>
+```css
 .box-flex {
     box-flex: 1;
 }
-</pre>
+```
 
 ### Definir as medias do box
-<pre>
+```css
 .box-flex {
 /* width: 80px; */
 height: 80px;
@@ -2444,7 +2444,7 @@ background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
 
 .box2 {
 background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
-</pre>
+```
 
 # 👓 Sass
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="177" align="right">
