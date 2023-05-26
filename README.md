@@ -79,23 +79,21 @@ A linguagem de formatação de documentos com a capacidade de links de hipertext
 
 In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
 
-## HTML Timeline
-<ol>
-  <li>HTML é tornado público - 1989</li>
-  <li>HTML - 1991</li>
-  <li>Primeira especificação - 1992</li>
-  <li>HTML 2.0 é publicado e é criado o JavaScript (JS)- 1995</li>
-  <li>Inclusão de novos elementos e a apresentação do CSS 1 - 1996</li>
-  <li>HTML 3.2 - 1997</li>
-  <li>HTML 4 é publicado - 1998</li>
-  <li>HTML 4.01	- 1999</li>
-  <li>Norma ISO para o HTML e o XHTML 1 - 2000</li>
-  <li>HTML5 é publicado - 2008</li>
-  <li>W3C parou de trabalhar no XHTML e a desviou recursos para HTML5 - 2009</li>
-  <li>HTML5	- 2014</li>
-  <li>HTML5.1	- 2016 e 2017 (2nd ed.)</li>
-  <li>HTML5.2	- 2017/(Atualmente)</li>
-</ol>
+**HTML Timeline**
+1. HTML é tornado público - 1989
+2. HTML - 1991
+3. Primeira especificação - 1992
+4. HTML 2.0 é publicado e é criado o JavaScript (JS)- 1995
+5. Inclusão de novos elementos e a apresentação do CSS 1 - 1996
+6. HTML 3.2 - 1997
+7. HTML 4 é publicado - 1998
+8. HTML 4.01 - 1999
+9. Norma ISO para o HTML e o XHTML 1 - 2000
+10. HTML5 é publicado - 2008
+11. 11W3C parou de trabalhar no XHTML e a desviou recursos para HTML5 - 2009
+12. HTML5 - 2014
+13. HTML5.1 - 2016 e 2017 (2nd ed.)
+14. HTML5.2 - 2017/(Atualmente)
 
 Em 1998, a W3C decidiu que não continuaria a evoluir o HTML. O futuro da programação para páginas de internet era o XML. Então o HTML foi congelado na versão 4.01 e uma especificação foi lançada com nome de XHTML, que era uma versão do HTML baseada no XML, exigindo regras de sintaxe como atributos com aspas, algumas tags com fechamento, enquanto outras eram autocontidas.
 
