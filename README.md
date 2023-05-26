@@ -2483,12 +2483,12 @@ A sintaxe era bem diferente do CSS comum:
 
 [![Sass](https://img.shields.io/badge/-style.sass-000?style=social&logo=Sass&logoColor=pink)](#)
 
-<pre>
+```scss
   #my-div
   color: red
   &:hover
   color: green
-</pre>
+```
 
 Veja que, diferente do CSS comum, não há “<code>;</code>“ nem “<code>{ }</code>”. Pela ausência de “<code>{ }</code>“, os espaços da indentação são importantes.
 
@@ -2496,7 +2496,7 @@ Depois de um tempo, o Sass passou por uma mudança. Sua sintaxe passou a ser mai
 
 [![Sass](https://img.shields.io/badge/-style.scss-000?style=social&logo=Sass&logoColor=safira)](#)
 
-```sass
+```scss
   #my-div{
   color: red;
   &:hover{
