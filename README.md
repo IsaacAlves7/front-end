@@ -863,19 +863,19 @@ Com o crescente uso da web móvel, podemos constatar uma simplificação dos sit
 
 # 💻 [Front-End] A Estrutura do Website
 
-<p>Tudo começa com o diretório, e dentro dele as pastas <b>/public/</b> e <b>/src/</b> , e lá os arquivos <b>index.html</b> e <b>style.css</b>.</p>
+Tudo começa com o diretório, e dentro dele as pastas `/public/` e `/src/` , e lá os arquivos `index.html` e `style.css`.
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
 [![JS](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](#)
 
-<p> O <b>index.html</b> é o padrão da Web de ser o primeiro arquivo processado pelo navegador, geralmente é usado para uma áreas de Login ou a Home da página, e o <b>style.css</b> é o padrão para editar um ou mais arquivos HTML.</p>
+O `index.html` é o padrão da Web de ser o primeiro arquivo processado pelo navegador, geralmente é usado para uma áreas de Login ou a Home da página, e o `style.css` é o padrão para editar um ou mais arquivos HTML.
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105612417-dd0e9800-5d9a-11eb-9ca4-6733559a200c.jpg)
 
-<p>Basicamente, a estrutura do documento html se baseia em <code>&lt;!Doctype html&gt;</code>, <code>&lt;html&gt;</code>, <code>&lt;head&gt;</code>, <code>&lt;body&gt;</code>. Observe a tag  muito cuidadosamente. Aqueles acostumados a escrever XHTML perceberam três estranhezas. A primeira é que a tag está muito mais curta do que costumava ser até então - estávamos acostumados a utilizar:</b></p>
+Basicamente, a estrutura do documento html se baseia em `<!Doctype html>`, `<html>`, `<head>`, `<body>`. Observe a tag  muito cuidadosamente. Aqueles acostumados a escrever XHTML perceberam três estranhezas. A primeira é que a tag está muito mais curta do que costumava ser até então - estávamos acostumados a utilizar:
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
