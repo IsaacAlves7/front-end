@@ -750,12 +750,12 @@ Como vimos, os primeiros websites eram totalmente baseados em textos e possuíam
 Com o lançamento dessa poderosa ferramenta e, posteriormente, com a chegada do **Internet Explorer**, as páginas web começaram a se desenvolver visualmente, criando layouts cada vez mais elaborados e que acabaram se tornando tendência entre os designers. À medida que a internet crescia, empresas enxergaram nessa nova mídia um novo canal de exposição para apresentar seus produtos e serviços a um novo público consumidor.
 
 ### ESTRUTURAÇÃO E ORGANIZAÇÃO
+<img src="https://user-images.githubusercontent.com/61624336/200139685-6ed3f183-add1-4757-988a-1ce0dc5edecf.jpg" align="right" height="177">
+
 Nessa primeira fase do web design, a única forma possível de se criar uma página minimamente estruturada e com um layout um pouco mais desafiador era por meio de tabelas. Originalmente, as tabelas foram introduzidas no HTML para a confecção de planilhas e manipulação de números, porém a criatividade dos web designers da época fez com que essa estrutura fosse utilizada também para o arranjo de elementos em uma página, alinhando-os verticalmente. O grande problema dessa técnica estava na fragilidade considerável das estruturas e, principalmente, sua difícil manutenção.
 
-<img src="https://user-images.githubusercontent.com/61624336/200139685-6ed3f183-add1-4757-988a-1ce0dc5edecf.jpg" align="right" height="277">
-
 # 📜 JavaScript (JS)
-<div align="center"><a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="177" title="Clique para acessar o repositório de Programação JavaScript"/></a><br></div><br />
+<a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="177" align="right"/></a>
 
 O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
 
