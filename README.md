@@ -300,7 +300,7 @@ O IHC é o estudo da interação entre pessoas e computadores. É uma matéria i
 
 > A interação humano-computador é uma disciplina preocupada com o design, a avaliação e a implementação de sistemas computacionais interativos para uso humano e com o estudo dos principais fenômenos ao redor deles.
 
-<img src="https://user-images.githubusercontent.com/61624336/194796066-6256d836-86ae-4249-a45b-898e85537a16.jpg" title="Interface gráfica" height="277" align="right">
+<img src="https://user-images.githubusercontent.com/61624336/194796066-6256d836-86ae-4249-a45b-898e85537a16.jpg" title="Interface gráfica" height="177" align="right">
 
 Por exemplo, um usuário de um site de e-commerce que está à procura de determinado produto, como um sapato, deverá de alguma forma passar a informação do produto que ele está pensando em adquirir para o sistema, como o tamanho do calçado, o tipo de solado, o material utilizado para a sua confecção, entre outros.
 
