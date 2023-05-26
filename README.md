@@ -114,7 +114,7 @@ Além disso, são divididas em categorias conforme a seguir:
 - Edições
 - Semânticas de nível de texto
 - Conteúdo incorporado
-- Tabelas
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Tabelas</a>
 - Formulários
 - Interativo
 
