@@ -2451,13 +2451,8 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 </pre>
 
 # 👓 Sass
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="177"></div>
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="177" align="right">
 
-[![Sass](https://img.shields.io/badge/-style.scss-000?style=social&logo=Sass&logoColor=safira)](#)
-
-É o pré-processador CSS3 mais utilizado atualmente e muito querido pela comunidade de desenvolvedores.
-
-## O que são Pré-Processadores de CSS?
 Para um desenvolvimento web moderno, o CSS é muitas vezes visto como primitivo e incompleto. Há muitas funcionalidades que nos facilitaria na hora de desenvolver aplicações mais complexas.
 
 Um **pré-processador** é um programa que recebe um texto, realiza algumas alterações e nos devolve um novo texto.
@@ -2470,7 +2465,6 @@ Há vários pré-processadores, não só para CSS, mas também para HTML e JavaS
 
 > Para CSS, os mais famosos são **Sass**, **Less** e **Stylus**.
 
-## Por que usar o Sass?
 O Sass possui uma sintaxe muito parecida com o CSS comum. Isso significa que qualquer código CSS é interpretado pelo Sass!
 
 Possui uma grande comunidade e é utilizado por grandes frameworks, como o **Bootstrap** (que antigamente usava o Less), também possui um código bem maduro, com um desenvolvimento ativo há mais de 9 anos.
@@ -2481,7 +2475,6 @@ Segundo uma pesquisa feita pelo ashleynola.co.uk, o Sass é utilizado por pelo m
 
 No Google Trends, se procurarmos por “Less” e “Sass”, veremos que o Sass é bem mais pesquisado. Ambos são ótimos pré-processadores e normalmente a escolha dependerá do gosto da equipe que estiver desenvolvendo o sistema.
 
-## Sass ou Scss?
 Quando começamos a ler sobre Sass, encontramos também o termo "SCSS". Afinal, qual a diferença?
 
 **Sass** é o nome do pré-processador, originalmente criado em **Ruby** (A linguagem de programação Ruby). No começo, era necessário instalar o Ruby em sua máquina para poder gerar o CSS.
