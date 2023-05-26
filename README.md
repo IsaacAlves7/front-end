@@ -15,6 +15,19 @@
 
 <div align="center"><img src="https://images.fineartamerica.com/images/artworkimages/medium/3/keep-calm-and-let-the-web-developer-handle-it-funny-gift-ideas-transparent.png" height="177"></div>
 
+# 🌐 O que é um website?
+Quando falamos sobre website, podemos notar que este termo se trata da junção de duas palavras em inglês: “web”, que significa rede e faz referência a rede mundial de computadores, e “site”, que quer dizer lugar. Nesse sentido, um website ou site é um local que pode ser acessado na internet, por meio de uma URL, e possui um conjunto de páginas programadas em alguma linguagem. 
+
+Para entendermos melhor sobre esse assunto, vamos a um exemplo: quando você digita em seu navegador de internet o endereço blog.betrybe.com para acessar o blog da Trybe, o navegador vai buscar onde este site está localizado na internet. Em seguida, será feita uma requisição ao servidor. 
+
+Nesse servidor estão armazenados todos os arquivos de texto, imagem e estilo que compõem a página web. Então, o servidor devolverá este conjunto de documentos ao navegador para que ele possa exibir o conteúdo como você vê em sua tela. 
+
+Os websites podem apresentar variadas formas e conteúdos. Entre algumas das opções, estão: as lojas virtuais, como Mercado Livre e Amazon, onde a compra e venda de produtos pode ser feita; os sites institucionais e portfólios, usados por empresas e pessoas para se apresentarem e serem encontradas por clientes; e os blogs, como este que você lê. 
+
+Além disso, os sites também podem ser classificados em estáticos ou dinâmicos. Os sites estáticos são desenvolvidos utilizando, de modo geral, HTML, CSS e JavaScript. Seu conteúdo é mais simples e não há interação com uma base de dados.   
+
+Já os sites dinâmicos, além de usufruírem do HTML, CSS e JavaScript, também utilizam linguagens de programação mais robustas, como PHP. Estes sites possuem funcionalidades conectadas a um banco de dados. Dessa forma, cada página acessada pode trazer dados específicos.  
+
 # 🎨 Web Design
 <img src="https://www.brainpulse.com/wp-content/uploads/2017/09/banner-web-design-2.png">
 
