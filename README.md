@@ -2234,19 +2234,21 @@ div.rotate_left{
 <h1 align="center">Grid Layout 🍱</h1>
 <div align="center"><img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="200"/></div>
 
-<h1 align="center">Responsive Layout 📱💻🖥️</h1>
-<div align="center"><img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/flexbox-ou-css.jpg"/></div>
+# 📱 Responsive Layout
 
 ## 📙 Unidades de resolução responsivas 📘
 <code>vh</code>, <code>%</code>, <code>em</code>
 
-### Padrão para tela inteira responsiva (Responsive Landing Page)
-<pre>section {
-      width: 100%; height: 100vh;
-     }</pre>
+## Mobile First
 
-## Viewport 🖥️💻📱
-<p></p>
+### Padrão para tela inteira responsiva (Responsive Landing Page)
+```css
+  section {
+     width: 100%; height: 100vh;
+  }
+```
+
+## Viewport 
 
 ## Utilizando Media Queries
 <img src="https://user-images.githubusercontent.com/61624336/112909640-3ca16080-90c8-11eb-85a4-d5cc3a6aaa85.gif" align="right" height="177">
