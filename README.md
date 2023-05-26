@@ -2469,11 +2469,7 @@ O Sass possui uma sintaxe muito parecida com o CSS comum. Isso significa que qua
 
 Possui uma grande comunidade e é utilizado por grandes frameworks, como o **Bootstrap** (que antigamente usava o Less), também possui um código bem maduro, com um desenvolvimento ativo há mais de 9 anos.
 
-Segundo uma pesquisa feita pelo ashleynola.co.uk, o Sass é utilizado por pelo menos 66% dos desenvolvedores.
-
-![image](https://user-images.githubusercontent.com/61624336/105579647-77081d80-5d66-11eb-8b02-ec826c1eb24b.png)
-
-No Google Trends, se procurarmos por “Less” e “Sass”, veremos que o Sass é bem mais pesquisado. Ambos são ótimos pré-processadores e normalmente a escolha dependerá do gosto da equipe que estiver desenvolvendo o sistema.
+Segundo uma pesquisa feita pelo ashleynola.co.uk, o Sass é utilizado por pelo menos 66% dos desenvolvedores. No Google Trends, se procurarmos por “Less” e “Sass”, veremos que o Sass é bem mais pesquisado. Ambos são ótimos pré-processadores e normalmente a escolha dependerá do gosto da equipe que estiver desenvolvendo o sistema.
 
 Quando começamos a ler sobre Sass, encontramos também o termo "SCSS". Afinal, qual a diferença?
 
