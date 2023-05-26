@@ -2236,16 +2236,16 @@ div.rotate_left{
 
 # 📱 Responsive Layout
 
-## 📙 Unidades de resolução responsivas 📘
-<code>vh</code>, <code>%</code>, <code>em</code>
+## Unidades de resolução responsivas
+`vh`, `%`, `em`
 
 ## Mobile First
 
-### Padrão para tela inteira responsiva (Responsive Landing Page)
+## Padrão para tela inteira responsiva (Responsive Landing Page)
 ```css
-  section {
-     width: 100%; height: 100vh;
-  }
+section {
+   width: 100%; height: 100vh;
+}
 ```
 
 ## Viewport 
