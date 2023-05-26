@@ -2008,34 +2008,31 @@ body {
 }
 </pre>
 
-<h1 align="center">📘 Transition 🚘🚦</h1>
-<h1 align="center">📘 Transform 🌱🌲</h1>
-<p>O <b>CSS3</b> em conjunto com o <b>JavasScript</b> e o <b>HTML5</b> passaram a dar suporte a transformações em tempo real, de objetos HTML.
+# [CSS] Transition e Transform
+O <b>CSS3</b> em conjunto com o <b>JavasScript</b> e o <b>HTML5</b> passaram a dar suporte a transformações em tempo real, de objetos HTML.
 
 Podemos modificar posição, rotacionar, aumentar e diminuir, tudo isso dentro de todos os eixos gráficos disponíveis na sua tela.
 
 Vamos começar com um exemplo de como mudar uma div de posição sem precisar chamar novamente a página, isto é, diretamente no navegador.</p>
 
-#### Vejamos os códigos:
+**Vejamos os códigos**:
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/pen/zYKowjP)
 
-<pre>
-&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
- &lt;link&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;p&gt;Rotacionar o element DIV&lt;/p&gt;
-&lt;div id="div1"&gt;Aqui o texto!&lt;/div&gt;
-&nbsp;
-Rotacionar: &lt;br&gt;
-&nbsp;
-&lt;input type="range" min="-360" max="360" value="7" onchange="rotate(this.value)"/&gt;&lt;br&gt;
-transformação: rotacionar(&lt;span id="span1"&gt;7deg&lt;/span&gt;);
-&lt;/body&gt;
-&lt;/html&gt;
-</pre>
+```html
+<!DOCTYPE html>
+<html>
+<head>
+ <link>
+</head>
+<body>
+  <p>Rotacionar o element DIV</p>
+  <div id="div1">Aqui o texto!</div>
+  Rotacionar: <br>
+  <input type="range" min="-360" max="360" value="7" onchange="rotate(this.value)"/><br>
+  transformação: rotacionar(<span id="span1">7deg</span>);
+</body>
+</html>
+```
 
 <pre>
 #div1 {
