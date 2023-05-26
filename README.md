@@ -245,9 +245,7 @@ Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adiciona
 
 ## Principais conceitos do CSS3
 
-<details><summary><b title="(click to open)">📦 Box Model</b></summary><br />
-
-# 📦 Box Model
+# 📦 [CSS] Box Model
 <img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="177" align="right">
 
 When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.
@@ -309,8 +307,6 @@ ul {
 </pre>
 
 <blockquote>OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.</blockquote>
-
-</details> -->
 
 # 🎨 Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a **possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa**.
@@ -2226,15 +2222,15 @@ div.rotate_left{
 }
 </pre>
 
-<h1 align="center">Displays 📺</h1>
+# 📺 [CSS] Displays
 
-<h1 align="center">Flexbox Layout 🥡</h1>
+# 🥡 [CSS] Flexbox Layout
 <div align="center"><img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="200"/></div>
 
-<h1 align="center">Grid Layout 🍱</h1>
+# 🍱 [CSS] Grid Layout
 <div align="center"><img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="200"/></div>
 
-# 📱 Responsive Layout
+# 📱 [CSS] Responsive Layout
 
 ## Unidades de resolução responsivas
 `vh`, `%`, `em`
