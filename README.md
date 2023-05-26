@@ -1022,7 +1022,18 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 # 📋 TAGs de Listas
 As listas são importantes para a organização do texto e orientação do usuário.
 
-- `<li>` elemento que representa um os itens das listas.
+- `<ul>` define uma lista comum, não-numerada (não-ordenada).
+
+```html
+<ul>
+   <li>exemplo 1</li>
+   <li>exemplo 2</li>
+   <li>exemplo 3</li>
+   <li>exemplo 4</li>
+</ul>
+```
+
+ - `<li>` elemento que representa um os itens das listas.
 
 ```html
 <!-- Lista não ordenada: circle, square, disc -->
@@ -1033,25 +1044,16 @@ As listas são importantes para a organização do texto e orientação do usuá
 </ul>
 ```
   
- <li><p><code>&lt;ol&gt;</code> define uma lista numerada (ordenada).</p></li>
- <pre>
-&lt;ol&gt;
-  &lt;li&gt;exemplo 1&lt;/li&gt;
-  &lt;li&gt;exemplo 2&lt;/li&gt;
-  &lt;li&gt;exemplo 3&lt;/li&gt;
-  &lt;li&gt;exemplo 4&lt;/li&gt;
-&lt;/ol&gt;
-</pre>
- 
-  <li><p><code>&lt;ul&gt;</code> define uma lista comum, não-numerada (não-ordenada).</p></li>
- <pre>
- &lt;ul&gt;
-   &lt;li&gt;exemplo 1&lt;/li&gt;
-   &lt;li&gt;exemplo 2&lt;/li&gt;
-   &lt;li&gt;exemplo 3&lt;/li&gt;
-   &lt;li&gt;exemplo 4&lt;/li&gt;
- &lt;/ul&gt;
- </pre>
+- `<ol>` define uma lista numerada (ordenada).
+
+```html
+<ol>
+  <li>exemplo 1</li>
+  <li>exemplo 2</li>
+  <li>exemplo 3</li>
+  <li>exemplo 4</li>
+</ol>
+```
  
  <li><p><code>&lt;dl&gt;</code> elemento textual que exibe uma lista de definições, com termos específicos. Trabalha com as tags <code>&lt;dt&gt;</code> termo a ser exibido e <code>&lt;dd&gt;</code> elementos do termo.</p></li>
  <pre>
@@ -1234,7 +1236,8 @@ O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar
 
 ## New Semantic Elements in HTML5
 <img src="https://www.w3schools.com/html/img_sem_elements.gif" align="right" height="177"/>
-Até a versão 4 do HTML as <b>divs</b> eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma <b>folha de jornal</b>, pois ambas contém cabeçalhos, rodapés, artigos e seções.</p>
+Até a versão 4 do HTML as <b>divs</b> eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma <b>folha de jornal</b>, pois ambas contém cabeçalhos, rodapés, artigos e seções.
+
 <ul>
 <li><p>O elemento <code>&lt;section&gt;</code> (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.</p></li>
 
@@ -1278,7 +1281,7 @@ Exemplo de utilização:</p>
 </pre>
 
 ### Estilo externo
-<p>As regras foram escritas em um arquivo com extensão <b>.css</b> e podem ser carregadas ao documento HTML5 de duas formas:</p>
+As regras foram escritas em um arquivo com extensão <b>.css</b> e podem ser carregadas ao documento HTML5 de duas formas:
 
 #### Utilizando o elemento &lt;link&gt; no HTML
 <pre>
