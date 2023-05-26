@@ -1055,19 +1055,19 @@ As listas são importantes para a organização do texto e orientação do usuá
 </ol>
 ```
  
- <li><p><code>&lt;dl&gt;</code> elemento textual que exibe uma lista de definições, com termos específicos. Trabalha com as tags <code>&lt;dt&gt;</code> termo a ser exibido e <code>&lt;dd&gt;</code> elementos do termo.</p></li>
- <pre>
- &lt;dl&gt;
-  &lt;dt&gt;Carro&lt;/dt&gt;
-  &lt;dd&gt;Uno&lt;/dd&gt;
-  &lt;dd&gt;Gol&lt;/dd&gt;
-  &lt;dt&gt;Moto&lt;/dt&gt;
-  &lt;dd&gt;Honda&lt;/dd&gt;
-  &lt;dd&gt;Yamaha&lt;/dd&gt;
-&lt;/dl&gt;
-</pre>
- </ul>
- 
+- `<dl>` elemento textual que exibe uma lista de definições, com termos específicos. Trabalha com as tags `<dt>` termo a ser exibido e `<dd>` elementos do termo.
+
+```html
+<dl>
+  <dt>Carro</dt>
+   <dd>Uno</dd>
+   <dd>Gol</dd>
+  <dt&gt;Moto&lt;/dt>
+   <dd>Honda</dd>
+   <dd>Yamaha</dd>
+</dl>
+```
+
 # 🔗 TAG de Âncora
 <div align="center"><img src="https://www.computerhope.com/jargon/h/html-tag.gif"></div>
 <p><code>&lt;a&gt;</code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <code><b>href="mailto:webmaster@example.com"</b></code> que irá enviar uma mensagem para seu email.</p>  
