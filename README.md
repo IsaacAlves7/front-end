@@ -79,7 +79,7 @@ Segundo Benyon (2011), A interface para um sistema interativo são todas as peç
 
 > Uma interface deve oferecer meios para que um usuário possa passar instruções de forma simples, como também deverá informar ao usuário algum retorno, que pode ser uma informação, uma imagem, um aviso sonoro, uma animação ou até um filme.
 
-<img src="https://user-images.githubusercontent.com/61624336/194799532-9908b16c-6394-47d8-a92e-7c563321bc5f.jpg" title="Interface gráfica nos smartphones" height="277" align="right">
+<img src="https://user-images.githubusercontent.com/61624336/194799532-9908b16c-6394-47d8-a92e-7c563321bc5f.jpg" title="Interface gráfica nos smartphones" height="177" align="right">
 
 Podemos observar, atualmente, uma enorme variedade de interfaces, nos mais variados dispositivos que utilizamos em nosso cotidiano, tais como smartphones, controles remotos, geladeiras, aparelhos de micro-ondas e joysticks utilizados em videogames.
 
