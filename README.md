@@ -41,10 +41,7 @@ Ao contrário, as páginas em um site podem ser dinâmicas. Isso significa que o
 
 Essa característica permite o desenvolvimento de aplicações complexas, que utilizam regras de negócios, APIs — Application Programming Interface — e muito mais. Portanto, existe uma divisão nas atividades voltadas ao desenvolvimento para web, a codificação do lado cliente (front-end) e a do lado do servidor (back-end).
 
-# ⚙️ Arquiteturas de Softwares e/ou Sistemas
-<div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKS69-ydPtgH05cgHMv_lEFI4Xl7oD5x7FA&usqp=CAU" height="177"/></div><br />
-
-Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, <b>REST API</b>, também chamado de <b>RESTful API</b>.
+> Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, REST API também chamado de **RESTful API**.
 
 Aplicações Web são o número cada vez maior de sites na Web, isto é, eles imitam aplicações de desktop ao invés dos documentos tradicionais e
 estático de links de textos e imagens que compõem a maioria da Web. Como exemplo, temos os processadores onlines de texto, ferramentas de edição de foto, sites de mapeamento etc. Altamente movidos com JavaScript, eles levaram o HTML4 à beira do limite de suas capacidades. O HTML5 especifica novas APIs (Interface de Programação de Aplicações) para DOM (Modelo de Objeto de Documento), que é uma convenção multiplataforma e independente de linguagem para representação e interação com objetos e documentos HTML, XHTML e XML.
