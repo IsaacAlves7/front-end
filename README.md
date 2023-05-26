@@ -212,9 +212,6 @@ O **CSS** (Cascading Style Sheets), é um "Stylesheets" (folha de estilo) compos
 
 Há várias formas de inserir modificação no estilo com CSS. Com o CSS você pode especificar muitas propriedades de estilo para qualquer elemento HTML. Cada propriedade tem um nome e um valor, separados por dois pontos `:`. Cada declaração de propriedade é separada por um ponto e vírgula `;`.
 
-## Tipos de CSS
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="177"/></div><br />
-
 Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos da Web. O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5 e, portanto, existem algumas formas de fazer isso, veja abaixo quais são e as suas sintaxes:
 
 <ul>
