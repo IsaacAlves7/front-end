@@ -2543,11 +2543,10 @@ Primeiro, obtenha o Node.js em: https://nodejs.org/
 Após instalar o Node.js em sua máquina, criaremos um diretório chamado Sass.</p>
 
 # ☂️ Framework Bootstrap
-<div align="center"><a href="https://getbootstrap.com/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="170" title="Clique para acessar o site do Bootstrap"></a></div>
-<p>Se trata de um framework para desenvolvimento de sites responsivos. Possui uma vasta biblioteca de componentes que facilita a agiliza o desenvolvimento de páginas web. É um dos frameworks mais conhecidos e usados para desenvolvimento front-end.</p>
+<a href="https://getbootstrap.com/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="177" title="Clique para acessar o site do Bootstrap" align="right"></a>
+Se trata de um framework para desenvolvimento de sites responsivos. Possui uma vasta biblioteca de componentes que facilita a agiliza o desenvolvimento de páginas web. É um dos frameworks mais conhecidos e usados para desenvolvimento front-end.
 
-<div align="center"><a href="https://getbootstrap.com/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" height="170" title="Clique para acessar o repositório do Bootstrap"></a></div>
-<p>Para saber mais clique na imagem acima para acessar o repositório do Bootstrap</p>
+Para saber mais clique na imagem acima para acessar o repositório do Bootstrap.
 
 ## Como funciona o Bootstrap?
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/106330804-a5a05f80-6262-11eb-990b-77961ab5ca76.jpg)
