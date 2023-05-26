@@ -2475,7 +2475,7 @@ Segundo uma pesquisa feita pelo ashleynola.co.uk, o Sass é utilizado por pelo m
 
 Quando começamos a ler sobre Sass, encontramos também o termo "SCSS". Afinal, qual a diferença?
 
-**Sass** é o nome do pré-processador, originalmente criado em **Ruby** (A linguagem de programação Ruby). No começo, era necessário instalar o Ruby em sua máquina para poder gerar o CSS.
+> **Sass** é o nome do pré-processador, originalmente criado em **Ruby** (A linguagem de programação Ruby). No começo, era necessário instalar o Ruby em sua máquina para poder gerar o CSS.
 
 A sintaxe era bem diferente do CSS comum:
 
@@ -2488,7 +2488,7 @@ A sintaxe era bem diferente do CSS comum:
   color: green
 ```
 
-Veja que, diferente do CSS comum, não há “<code>;</code>“ nem “<code>{ }</code>”. Pela ausência de “<code>{ }</code>“, os espaços da indentação são importantes.
+Veja que, diferente do CSS comum, não há “`;`“ nem “`{ }`”. Pela ausência de “`{ }`“, os espaços da indentação são importantes.
 
 Depois de um tempo, o Sass passou por uma mudança. Sua sintaxe passou a ser mais parecida com o CSS comum:
 
@@ -2496,11 +2496,11 @@ Depois de um tempo, o Sass passou por uma mudança. Sua sintaxe passou a ser mai
 
 ```scss
   #my-div{
-  color: red;
-  &:hover{
-  color: green;
+    color: red;
+    &:hover{
+     color: green;
+    }
   }
-}
 ```
 
 Similar ao:
@@ -2509,10 +2509,10 @@ Similar ao:
 
 ```css
   #my-div{
-  color: red;
+    color: red;
   }
   #my-div:hover{
-  color: green;
+    color: green;
   }
 ```
 
