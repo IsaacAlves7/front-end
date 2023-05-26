@@ -757,9 +757,9 @@ Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adiciona
 
 Além disso, são divididas em categorias conforme a seguir:
 
-- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Box Model</a>
-- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Texto, Background e Variáveis</a>
-- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Agrupamento de conteúdo</a>
+- <a href="https://github.com/IsaacAlves7/web#-css-box-model">Box Model</a>
+- <a href="">Texto, Background e Variáveis</a>
+- <a href="">Classes e IDs</a>
 - <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Seções</a>
 - <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Keyframes e Animations</a>
 - <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Pseudo-elementos</a>
