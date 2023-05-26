@@ -1045,11 +1045,11 @@ As listas são importantes para a organização do texto e orientação do usuá
 - `<ol>` define uma lista numerada (ordenada).
 
 ```html
-<ol>
-  <li>exemplo 1</li>
-  <li>exemplo 2</li>
-  <li>exemplo 3</li>
-  <li>exemplo 4</li>
+<!-- Lista ordenada: 1, A, a, 2 -->
+<ol type="1"> <!-- padrão -->
+  <li>Comida favorita?</li>
+  <li>carro favorito?</li>
+  <li>Série favorita?</li>
 </ol>
 ```
  
