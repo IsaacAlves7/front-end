@@ -99,7 +99,7 @@ Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava conv
 
 Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.
 
-## TAGs essenciais do HTML
+## [HTML] TAGs essenciais
 É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code>&lt;meta&gt;</code>, <code>&lt;h1&gt;</code>, <code>&lt;img&gt;</code> etc. 
 
 Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;</b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <code>&lt;meta&gt;</code> e <code>&lt;link&gt;</code>.
@@ -1066,7 +1066,7 @@ As listas são importantes para a organização do texto e orientação do usuá
 </dl>
 ```
 
-# 🔗 TAG de Âncora
+# 🔗 [HTML] TAG de Âncora
 <div align="center"><img src="https://www.computerhope.com/jargon/h/html-tag.gif"></div>
 <p><code>&lt;a&gt;</code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <code><b>href="mailto:webmaster@example.com"</b></code> que irá enviar uma mensagem para seu email.</p>  
 
@@ -1087,7 +1087,7 @@ As listas são importantes para a organização do texto e orientação do usuá
 ### Exemplo 3: Enviando mensagem para o email
 <pre>&lt;a href="mailto:webmaster07@gmail.com"&gt;Enviar email&lt;/a&gt;</pre>
 
-# 🔊 TAGs de Multimedia
+# 🔊 [HTML] TAGs de Multimedia
 <div align="center"><img src="https://jibigit.github.io/cheat-html/images/media.png"></div>
 
 ## Flash Player
@@ -1148,7 +1148,7 @@ O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite
 ### Importando video
 <p>Vamos ver como importar videos do YouTube e do Vimeo, passo a passo!</p>
 
-# 🔲 TAGs de Tabelas
+# 🔲 [HTML] TAGs de Tabelas
 <div align="center"><img src="https://cdn.educba.com/academy/wp-content/uploads/2019/10/Create-Tables-in-HTML.png"></div>
 <p>Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
 
