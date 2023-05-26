@@ -1739,55 +1739,58 @@ body {
 
 <p>Definindo, assim, uma cor amarela para o fundo da página.</p>
 
-<p>A definição do background pode ser feita também com a utilização de imagens como fundo, para isso devemos pensar da mesma forma e utilizar os comandos específicos para imagens de fundo.
+A definição do background pode ser feita também com a utilização de imagens como fundo, para isso devemos pensar da mesma forma e utilizar os comandos específicos para imagens de fundo.
 
-<strong>Exemplo de elemento do plano de fundo (background):</strong></p>
+<strong>Exemplo de elemento do plano de fundo (background)</strong>:
 
-<pre>
+```css
 body{
   background-image: url("paper.gif");
   background-color: #cccccc;
 }
-</pre>
+```
 
-<p>Definindo assim uma cor e uma imagem repitida para o fundo da página.</p>
+Definindo assim uma cor e uma imagem repitida para o fundo da página.
 
-<p>Quando definimos uma imagem de fundo, o atributo url pode conter um endereço completo de onde se encontra a imagem, podendo estar até em outro domínio.</p>
-<pre>
+Quando definimos uma imagem de fundo, o atributo url pode conter um endereço completo de onde se encontra a imagem, podendo estar até em outro domínio.
+
+```css
 body{
   background-image: url("//www.exodocientifica.com.br/wp-content/uploads/2014/08/fundo-site.jpg");
   backgroud-color: #cccccc;
 }
-</pre>
+```
 
-<p>A definição da imagem de fundo pode ser configurada com alguns atributos especiais como:</p>
-<pre>
+A definição da imagem de fundo pode ser configurada com alguns atributos especiais como:
+
+```css
 body{
   background-image: url("paper.gif");
   background-repeat: repeat-y;
 }
-</pre>
+```
 
-<p>Essa regra repete a imagem no eixo especificado. Se usar <strong>background-repeat: no-repeat;</strong> a imagem não será repetida.</p>
+Essa regra repete a imagem no eixo especificado. Se usar `background-repeat: no-repeat;` a imagem não será repetida.
 
-<p>Podemos fixar a imagem em um determinado local da tela.</p>
-<pre>
+Podemos fixar a imagem em um determinado local da tela.
+
+```css
 body{
    background-image: url('smiley.gif');
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-position: center;
 }
-</pre>
+```
 
-<p><strong>attachment</strong> fixa a imagem e <b>position</b> determina a sua localização. O resultado é a imagem totalmente centralizada na página.</p>
+`attachment` fixa a imagem e `position` determina a sua localização. O resultado é a imagem totalmente centralizada na página.
 
 ## Gradientes 
-<p>É muito usado para mesclar duas ou mais cores no background, o que deixa a interface mais moderna e atraente ao usuário.</p>
+É muito usado para mesclar duas ou mais cores no background, o que deixa a interface mais moderna e atraente ao usuário.
 
 ### Linear-gradient
 
-<h1 align="center">Trabalhando com textos no CSS</h1>
+# [CSS] Trabalhando com textos
 <p>Uma das novidades do CSS 3 é o uso de fontes da própria internet, podemos agora usar fontes livres que são disponíveis na internet, sem que tenha a necessidade de estar instalada na máquina do usuário.
 
 O site do Google disponibiliza uma quantidade grande de fontes livres. No endereço https://fonts.google.com/ encontramos as fontes e a forma de como colocar no nosso código.
