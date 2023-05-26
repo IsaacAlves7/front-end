@@ -2496,27 +2496,27 @@ Depois de um tempo, o Sass passou por uma mudança. Sua sintaxe passou a ser mai
 
 [![Sass](https://img.shields.io/badge/-style.scss-000?style=social&logo=Sass&logoColor=safira)](#)
 
-<pre>
+```sass
   #my-div{
   color: red;
   &:hover{
   color: green;
   }
 }
-</pre>
+```
 
-### Similar ao:
+Similar ao:
 
 [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
 
-<pre>
+```css
   #my-div{
   color: red;
   }
   #my-div:hover{
   color: green;
   }
-</pre>
+```
 
 A nova sintaxe do Sass utiliza a extensão "**.scss**", diferente da antiga que utilizava a extensão ".sass".
 
