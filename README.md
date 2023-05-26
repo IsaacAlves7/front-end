@@ -2248,11 +2248,10 @@ div.rotate_left{
 ## Viewport 🖥️💻📱
 <p></p>
 
-## Utilizando Media Queries 🖥️💻📱
+## Utilizando Media Queries
+<img src="https://user-images.githubusercontent.com/61624336/112909640-3ca16080-90c8-11eb-85a4-d5cc3a6aaa85.gif" align="right" height="177">
 
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/112909640-3ca16080-90c8-11eb-85a4-d5cc3a6aaa85.gif"></div>
-
-<p>Podemos definir <b>media queries</b> como a maneira que o navegador define que formatação de página vai apresentar a cada tipo de dispositivo.
+Podemos definir **media queries** como a maneira que o navegador define que formatação de página vai apresentar a cada tipo de dispositivo.
 
 Os <strong>media types</strong> são definidos para cada tipo de media recebendo um certo código CSS, fazendo com que o navegador direcione a abertura da página de uma certa forma. O HTML foi gerado para ser portátil, ou seja, lido e interpretado por qualquer tipo de dispositivo. Só que cada dispositivo exibe o HTML de uma maneira, devido a fatores como, por exemplo, as dimensões da tela.
 
