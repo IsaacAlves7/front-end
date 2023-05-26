@@ -53,245 +53,8 @@ utilizando padrões altamente especificados, ao invés de apenas artimanhas mal-
 Ainda mais importante é a necessidade de um padrão aberto livre (para utilizar e para implementar) que possa competir com padrões proprietários como
 Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas tecnologias ou empresas, acreditamos que a Web seja uma plataforma vital à sociedade, comércio e comunicações para estar nas mãos de um fabricante.
 
-Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  <code>&lt;font&gt;</code>, <code>&lt;center&gt;</code> e outras novas, pois milhões de páginas web as utilizam.</p>
+Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  <code>&lt;font&gt;</code>, <code>&lt;center&gt;</code> e outras novas, pois milhões de páginas web as utilizam.
 
-## Client-server architecture
-Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web. Em desenvolvimento para a Web sempre separamos dois setores: a parte do servidor e a parte do cliente.
- 
-O <strong>cliente</strong> é o computador do usuário, assim como o seu. É utilizado pelas pessoas para acessar sites ou sistemas a partir de um endereço (Google Chrome, Internet Explorer, Safari, Mozilla Firefox e etc). <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Progressive_enhancement_web_design_pyramid_%28HTML%2C_CSS%2C_JS%29.svg" height="97" align="right">
-
-Os <b>clientes</b> podem ser qualquer dispositivo conectado à Internet como smartphones, notebooks, tablets e smarttvs, recebem arquivos desses servidores, como imagens, vídeos, arquivos HTML, CSS e JavaScript. Chamamos essa parte de <b>front-end</b>.
-
-Os arquivos vindos por esse endereço são disponibilizados por um outro computador que serve estes arquivos. Estes computadores que estão em algum lugar do mundo que servem arquivos e outros serviços são chamados de **servidores** (Apache, Nginx, IIS, Glassfish e etc).
-
-Nos <strong>servidores</strong> programamos com linguagens como <b>PHP</b>, <b>Java</b>, <b>C#</b>, <b>Ruby</b>, <b>Python</b> entre outros. E também gerenciamos <b>bancos de dados</b> (MySQL, SQ Lite, Mongo DB, SQL Server e etc), onde chamamos essa parte de <b>back-end</b>. Quando há acesso ao banco de dados, o servidor trabalha de uma forma diferenciada, pois a implementação de um servidor web é um serviço diferente à implementação de um servidor banco de dados.
-  
-Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.
-
-Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.
-
-# 📙 HTML5 - Hypertext Makup Language 5
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="177" align="right"/>
-
-A linguagem de formatação de documentos com a capacidade de links de hipertexto (termo que remete a um texto ao qual se agregam outros conjuntos de informação na forma de blocos de textos, palavras, imagens ou sons, cujo acesso ocorre através de referências específicas, no meio digital, denominadas hiperlinks, ou simplesmente links) e que tornou-se o formato básico para publicação na web.
-
-In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
-
-**HTML Timeline**
-1. HTML é tornado público - 1989
-2. HTML - 1991
-3. Primeira especificação - 1992
-4. HTML 2.0 é publicado e é criado o JavaScript (JS)- 1995
-5. Inclusão de novos elementos e a apresentação do CSS 1 - 1996
-6. HTML 3.2 - 1997
-7. HTML 4 é publicado - 1998
-8. HTML 4.01 - 1999
-9. Norma ISO para o HTML e o XHTML 1 - 2000
-10. HTML5 é publicado - 2008
-11. 11W3C parou de trabalhar no XHTML e a desviou recursos para HTML5 - 2009
-12. HTML5 - 2014
-13. HTML5.1 - 2016 e 2017 (2nd ed.)
-14. HTML5.2 - 2017/(Atualmente)
-
-Em 1998, a W3C decidiu que não continuaria a evoluir o HTML. O futuro da programação para páginas de internet era o XML. Então o HTML foi congelado na versão 4.01 e uma especificação foi lançada com nome de XHTML, que era uma versão do HTML baseada no XML, exigindo regras de sintaxe como atributos com aspas, algumas tags com fechamento, enquanto outras eram autocontidas.
-
-Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava convencido que o XML era o futuro para todos os autores web. Este grupo começou a desenvolver um trabalho separado, para criar uma nova forma de utilização dos antigos códigos HTML, principalmente ligado ao uso de formulários, sem deixar de atender às determinações básicas do XML. Aquela especificação eventualmente se tornou Web Forms 2.0 e, subsequentemente, foi incorporado na especificação HTML5.
-
-Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.
-
-## [HTML] TAGs essenciais
-É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code>&lt;meta&gt;</code>, <code>&lt;h1&gt;</code>, <code>&lt;img&gt;</code> etc. 
-
-Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;</b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <code>&lt;meta&gt;</code> e <code>&lt;link&gt;</code>.
-
-Além disso, são divididas em categorias conforme a seguir:
-
-- Metadados
-- O elemento root
-- Agrupamento de conteúdo
-- Seções
-- Script
-- Edições
-- Semânticas de nível de texto
-- Conteúdo incorporado
-- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Tabelas</a>
-- Formulários
-- Interativo
-
-Uma TAG pode conter <b>atributos</b>, que são informações que alteram o comportamento da TAG. Os atributos podem ser divididos em atributos específicos para cada TAG e atributos globais que são comuns a todas as tags.
-
-Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o <b>CSS</b>, o <b>Javascript</b>.
-
-## Atributos de uma TAG
-<b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
-
-Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <code>&lt;link&gt;</code>:
-<pre>
-&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;
-</pre>
-Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no caso é <code>rel="stylesheet"</code> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <code>href=""</code> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
-
-### Atributos Específicos de uma TAG
-<table>
-  <tr>
-    <td><strong>Atributo</strong></td>
-    <td><strong>Função do atributo</strong></td>
-  </tr>
-  <tr>
-    <td><code>rel=""</code></td>
-    <td>Especifica o relacionamento entre o documento atual e o documento linkado</td>
-  </tr>
-  <tr>
-    <td><code>src=""</code></td>
-    <td>Especifica a URL do arquivo de mídia</td>
-  </tr>
-  <tr>
-    <td><code>type=""</code></td>
-    <td>Especifica o tipo do documento</td>
-  </tr>
-  <tr>
-    <td><code>alt=""</code></td>
-    <td>Mostra o texto quando a aparência não renderiza</td>
-  </tr>
-  <tr>
-    <td><code>target=""</code></td>
-    <td>Especifica o modo de abrir o link em janela</td>
-  </tr>
-  <tr>
-    <td><code>width=""</code></td>
-    <td>Especifica a largura do elemento</td>
-  </tr>
-  <tr>
-    <td><code>height=""</code></td>
-    <td>Especifica a altura do elemento</td>
-  </tr>
-  <tr>
-    <td><code>name=""</code></td>
-    <td>Especifica o nome do elemento</td>
-  </tr>
-  <tr>
-    <td><code>value=""</code></td>
-    <td>Especifica o valor do elemento</td>
-  </tr>
-</table>
-
-### Atributos Globais de uma TAG
-<table>
-  <tr>
-    <td><strong>Atributo</strong></td>
-    <td><strong>Função do atributo</strong></td>
-  </tr>
-  <tr>
-    <td><code>title=""</code></td>
-    <td>Especifica a informação extra sobre o elemento, como um balãosinho de texto</td>
-  </tr>
-  <tr>
-    <td><code>class=""</code></td>
-    <td>Especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS)</td>
-  </tr>
-    <tr>
-    <td><code>id=""</code></td>
-    <td>Especifica uma unica id para um elemento (referência de id para o CSS)</td>
-  </tr>
-</table>
-
-# 📘 CSS3 - Cascading Style Sheets 3
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="177" align="right"/>
-
-O **CSS** (Cascading Style Sheets), é um "Stylesheets" (folha de estilo) composta por "camadas" e usado para definir a aparência de páginas da internet que adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML), criando assim as interfaces. O CSS define como serão exibidos os elementos contidos no código de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
-
-Há várias formas de inserir modificação no estilo com CSS. Com o CSS você pode especificar muitas propriedades de estilo para qualquer elemento HTML. Cada propriedade tem um nome e um valor, separados por dois pontos `:`. Cada declaração de propriedade é separada por um ponto e vírgula `;`.
-
-Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos da Web. O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5 e, portanto, existem algumas formas de fazer isso, veja abaixo quais são e as suas sintaxes:
-
-<ul>
-<li><b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML.</li>
-<br><b>Exemplo de CSS interno:</b><br>
-  
-```html
-<style> * { margin: 0; padding: 0;} </style>
-```
-  
-<li><b>CSS externo</b>: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML.</li>
-<br><b>Exemplo de CSS externo:</b><br>
-  
-```html
-<link rel="stylesheet" href="/assets/public/styles/css/style.css">
-```
-  
-<li><b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada. Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código.</li>
-<br><b>Exemplo de CSS inline:</b><br>
-  
-```html
-<p style="color:olive;font-size:19px;background-color:black"></p>
-```
-  
-</ul>
-
-## Principais conceitos do CSS3
-
-# 📦 [CSS] Box Model
-<img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="177" align="right">
-
-When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.
-
-<ol>
-  <li><b>margin</b> - São os espaçamentos entre elementos (transparente).</li>
-  <li><b>border</b> - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura, cor e forma.</li>
-  <li><b>padding</b> - Espaçamento entre a borda e o conteúdo.</li>
-  <li><b>content</b> - O conteúdo inserido no elemento HTML.</li>
-</ol>
-
-Besides that, the Box model have his positions:
-
-<img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="177" align="right"/>
-
-<ul>
-  <li><b>top</b>: Up position</li>
-  <li><b>right</b>: Right position</li>
-  <li><b>bottom</b>: Down position</li>
-  <li><b>left</b>: Left position</li>
-</ul>
-
-> 📦 **Box Model**: ` top, right, down, left `
-
-> OBS: Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda (top, right, bottom, left)
-
-Exemplo:</p>
-<pre>
-ul {
- margin: 12px;
- padding: 12px;
-}
-</pre>
-
-Dessa forma, é possível inserir de uma vez os espaçamentos da ordem (top, right, bottom, left) de um modelo padrão de 12px para cada posição, porém não permite diferenciar e alterar uma posição da ordem, pois ambos foram solicitados para 12px. Outra forma, é inserir essa instrução passo a passo para a ordem (top, right, bottom, left) o que permite diferenciar o espaçamento de cada um, como desejado.
-
-<pre>
-ul {
- margin: 12px 12px 12px 12px; /*top, right, bottom, left = 12px*/
- padding: 12px 0px 12px 12px; /*espaçamento direito entre a borda e o conteúdo = 0px; top, left, bottom = 12px*/
-}
-</pre>
-
-Outra forma é inserir a propriedade do box model de acordo com suas posições, o que não é muito prático.
-
-Exemplo:
-<pre>
-ul {
- margin-top: 12px; /*topo da margem = 12px*/
- margin-right: 12px; /*direito da margem = 12px*/
- margin-bottom: 12px; /*abaixo da margem = 12px*/
- margin-left: 12px; /*esquedo da margem = 12px*/
-&nbsp;
- padding-top: 12px; /*espaçamento topo entre a borda e o conteúdo = 12px*/
- padding-right: 0px; /*espaçamento direito entre a borda e o conteúdo = 0px*/
- padding-bottom: 12px; /*espaçamento inferior entre a borda e o conteúdo = 12px*/
- padding-left: 12px; /*espaçamento esquerdo entre a borda e o conteúdo = 12px*/
-}
-</pre>
-
-<blockquote>OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.</blockquote>
 
 # 🎨 Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a **possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa**.
@@ -743,6 +506,257 @@ Com o lançamento dessa poderosa ferramenta e, posteriormente, com a chegada do 
 <img src="https://user-images.githubusercontent.com/61624336/200139685-6ed3f183-add1-4757-988a-1ce0dc5edecf.jpg" align="right" height="177">
 
 Nessa primeira fase do web design, a única forma possível de se criar uma página minimamente estruturada e com um layout um pouco mais desafiador era por meio de tabelas. Originalmente, as tabelas foram introduzidas no HTML para a confecção de planilhas e manipulação de números, porém a criatividade dos web designers da época fez com que essa estrutura fosse utilizada também para o arranjo de elementos em uma página, alinhando-os verticalmente. O grande problema dessa técnica estava na fragilidade considerável das estruturas e, principalmente, sua difícil manutenção.
+
+## Arquitetura cliente-servidor em Web
+Como foi dito anteriormente, a Internet é uma rede de computadores e obtemos arquivos através da Web. Em desenvolvimento para a Web sempre separamos dois setores: a parte do servidor e a parte do cliente.
+ 
+O <strong>cliente</strong> é o computador do usuário, assim como o seu. É utilizado pelas pessoas para acessar sites ou sistemas a partir de um endereço (Google Chrome, Internet Explorer, Safari, Mozilla Firefox e etc). <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Progressive_enhancement_web_design_pyramid_%28HTML%2C_CSS%2C_JS%29.svg" height="97" align="right">
+
+Os <b>clientes</b> podem ser qualquer dispositivo conectado à Internet como smartphones, notebooks, tablets e smarttvs, recebem arquivos desses servidores, como imagens, vídeos, arquivos HTML, CSS e JavaScript. Chamamos essa parte de <b>front-end</b>.
+
+Os arquivos vindos por esse endereço são disponibilizados por um outro computador que serve estes arquivos. Estes computadores que estão em algum lugar do mundo que servem arquivos e outros serviços são chamados de **servidores** (Apache, Nginx, IIS, Glassfish e etc).
+
+Nos <strong>servidores</strong> programamos com linguagens como <b>PHP</b>, <b>Java</b>, <b>C#</b>, <b>Ruby</b>, <b>Python</b> entre outros. E também gerenciamos <b>bancos de dados</b> (MySQL, SQ Lite, Mongo DB, SQL Server e etc), onde chamamos essa parte de <b>back-end</b>. Quando há acesso ao banco de dados, o servidor trabalha de uma forma diferenciada, pois a implementação de um servidor web é um serviço diferente à implementação de um servidor banco de dados.
+  
+Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.
+
+Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.
+
+# 📙 HTML5 - Hypertext Makup Language 5
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="177" align="right"/>
+
+A linguagem de formatação de documentos com a capacidade de links de hipertexto (termo que remete a um texto ao qual se agregam outros conjuntos de informação na forma de blocos de textos, palavras, imagens ou sons, cujo acesso ocorre através de referências específicas, no meio digital, denominadas hiperlinks, ou simplesmente links) e que tornou-se o formato básico para publicação na web.
+
+In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
+
+**HTML Timeline**
+1. HTML é tornado público - 1989
+2. HTML - 1991
+3. Primeira especificação - 1992
+4. HTML 2.0 é publicado e é criado o JavaScript (JS)- 1995
+5. Inclusão de novos elementos e a apresentação do CSS 1 - 1996
+6. HTML 3.2 - 1997
+7. HTML 4 é publicado - 1998
+8. HTML 4.01 - 1999
+9. Norma ISO para o HTML e o XHTML 1 - 2000
+10. HTML5 é publicado - 2008
+11. 11W3C parou de trabalhar no XHTML e a desviou recursos para HTML5 - 2009
+12. HTML5 - 2014
+13. HTML5.1 - 2016 e 2017 (2nd ed.)
+14. HTML5.2 - 2017/(Atualmente)
+
+Em 1998, a W3C decidiu que não continuaria a evoluir o HTML. O futuro da programação para páginas de internet era o XML. Então o HTML foi congelado na versão 4.01 e uma especificação foi lançada com nome de XHTML, que era uma versão do HTML baseada no XML, exigindo regras de sintaxe como atributos com aspas, algumas tags com fechamento, enquanto outras eram autocontidas.
+
+Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava convencido que o XML era o futuro para todos os autores web. Este grupo começou a desenvolver um trabalho separado, para criar uma nova forma de utilização dos antigos códigos HTML, principalmente ligado ao uso de formulários, sem deixar de atender às determinações básicas do XML. Aquela especificação eventualmente se tornou Web Forms 2.0 e, subsequentemente, foi incorporado na especificação HTML5.
+
+Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.
+
+## [HTML] TAGs essenciais
+É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code>&lt;meta&gt;</code>, <code>&lt;h1&gt;</code>, <code>&lt;img&gt;</code> etc. 
+
+Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;</b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <code>&lt;meta&gt;</code> e <code>&lt;link&gt;</code>.
+
+Além disso, são divididas em categorias conforme a seguir:
+
+- Metadados
+- O elemento root
+- Agrupamento de conteúdo
+- Seções
+- Script
+- Edições
+- Semânticas de nível de texto
+- Conteúdo incorporado
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Tabelas</a>
+- Formulários
+- Interativo
+
+Uma TAG pode conter <b>atributos</b>, que são informações que alteram o comportamento da TAG. Os atributos podem ser divididos em atributos específicos para cada TAG e atributos globais que são comuns a todas as tags.
+
+Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o <b>CSS</b>, o <b>Javascript</b>.
+
+## Atributos de uma TAG
+<b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
+
+Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <code>&lt;link&gt;</code>:
+<pre>
+&lt;link rel="stylesheet" href="/assets/public/styles/css/style.css"&gt;
+</pre>
+Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no caso é <code>rel="stylesheet"</code> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <code>href=""</code> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
+
+### Atributos Específicos de uma TAG
+<table>
+  <tr>
+    <td><strong>Atributo</strong></td>
+    <td><strong>Função do atributo</strong></td>
+  </tr>
+  <tr>
+    <td><code>rel=""</code></td>
+    <td>Especifica o relacionamento entre o documento atual e o documento linkado</td>
+  </tr>
+  <tr>
+    <td><code>src=""</code></td>
+    <td>Especifica a URL do arquivo de mídia</td>
+  </tr>
+  <tr>
+    <td><code>type=""</code></td>
+    <td>Especifica o tipo do documento</td>
+  </tr>
+  <tr>
+    <td><code>alt=""</code></td>
+    <td>Mostra o texto quando a aparência não renderiza</td>
+  </tr>
+  <tr>
+    <td><code>target=""</code></td>
+    <td>Especifica o modo de abrir o link em janela</td>
+  </tr>
+  <tr>
+    <td><code>width=""</code></td>
+    <td>Especifica a largura do elemento</td>
+  </tr>
+  <tr>
+    <td><code>height=""</code></td>
+    <td>Especifica a altura do elemento</td>
+  </tr>
+  <tr>
+    <td><code>name=""</code></td>
+    <td>Especifica o nome do elemento</td>
+  </tr>
+  <tr>
+    <td><code>value=""</code></td>
+    <td>Especifica o valor do elemento</td>
+  </tr>
+</table>
+
+### Atributos Globais de uma TAG
+<table>
+  <tr>
+    <td><strong>Atributo</strong></td>
+    <td><strong>Função do atributo</strong></td>
+  </tr>
+  <tr>
+    <td><code>title=""</code></td>
+    <td>Especifica a informação extra sobre o elemento, como um balãosinho de texto</td>
+  </tr>
+  <tr>
+    <td><code>class=""</code></td>
+    <td>Especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS)</td>
+  </tr>
+    <tr>
+    <td><code>id=""</code></td>
+    <td>Especifica uma unica id para um elemento (referência de id para o CSS)</td>
+  </tr>
+</table>
+
+# 📘 CSS3 - Cascading Style Sheets 3
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="177" align="right"/>
+
+O **CSS** (Cascading Style Sheets), é um "Stylesheets" (folha de estilo) composta por "camadas" e usado para definir a aparência de páginas da internet que adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML), criando assim as interfaces. O CSS define como serão exibidos os elementos contidos no código de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
+
+Há várias formas de inserir modificação no estilo com CSS. Com o CSS você pode especificar muitas propriedades de estilo para qualquer elemento HTML. Cada propriedade tem um nome e um valor, separados por dois pontos `:`. Cada declaração de propriedade é separada por um ponto e vírgula `;`.
+
+Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos da Web. O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5 e, portanto, existem algumas formas de fazer isso, veja abaixo quais são e as suas sintaxes:
+
+<ul>
+<li><b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML.</li>
+<br><b>Exemplo de CSS interno:</b><br>
+  
+```html
+<style> * { margin: 0; padding: 0;} </style>
+```
+  
+<li><b>CSS externo</b>: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML.</li>
+<br><b>Exemplo de CSS externo:</b><br>
+  
+```html
+<link rel="stylesheet" href="/assets/public/styles/css/style.css">
+```
+  
+<li><b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada. Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código.</li>
+<br><b>Exemplo de CSS inline:</b><br>
+  
+```html
+<p style="color:olive;font-size:19px;background-color:black"></p>
+```
+  
+</ul>
+
+## Principais conceitos do CSS3
+
+Além disso, são divididas em categorias conforme a seguir:
+
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Box Model</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Texto, Background e Variáveis</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Agrupamento de conteúdo</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Seções</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Keyframes e Animations</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Pseudo-elementos</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Transform e Transition</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Positions e Dimensions</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Media Queries</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Displays</a>
+
+# 📦 [CSS] Box Model
+<img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="177" align="right">
+
+When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.
+
+<ol>
+  <li><b>margin</b> - São os espaçamentos entre elementos (transparente).</li>
+  <li><b>border</b> - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura, cor e forma.</li>
+  <li><b>padding</b> - Espaçamento entre a borda e o conteúdo.</li>
+  <li><b>content</b> - O conteúdo inserido no elemento HTML.</li>
+</ol>
+
+Besides that, the Box model have his positions:
+
+<img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="177" align="right"/>
+
+<ul>
+  <li><b>top</b>: Up position</li>
+  <li><b>right</b>: Right position</li>
+  <li><b>bottom</b>: Down position</li>
+  <li><b>left</b>: Left position</li>
+</ul>
+
+> 📦 **Box Model**: ` top, right, down, left `
+
+> OBS: Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda (top, right, bottom, left)
+
+Exemplo:</p>
+<pre>
+ul {
+ margin: 12px;
+ padding: 12px;
+}
+</pre>
+
+Dessa forma, é possível inserir de uma vez os espaçamentos da ordem (top, right, bottom, left) de um modelo padrão de 12px para cada posição, porém não permite diferenciar e alterar uma posição da ordem, pois ambos foram solicitados para 12px. Outra forma, é inserir essa instrução passo a passo para a ordem (top, right, bottom, left) o que permite diferenciar o espaçamento de cada um, como desejado.
+
+<pre>
+ul {
+ margin: 12px 12px 12px 12px; /*top, right, bottom, left = 12px*/
+ padding: 12px 0px 12px 12px; /*espaçamento direito entre a borda e o conteúdo = 0px; top, left, bottom = 12px*/
+}
+</pre>
+
+Outra forma é inserir a propriedade do box model de acordo com suas posições, o que não é muito prático.
+
+Exemplo:
+<pre>
+ul {
+ margin-top: 12px; /*topo da margem = 12px*/
+ margin-right: 12px; /*direito da margem = 12px*/
+ margin-bottom: 12px; /*abaixo da margem = 12px*/
+ margin-left: 12px; /*esquedo da margem = 12px*/
+&nbsp;
+ padding-top: 12px; /*espaçamento topo entre a borda e o conteúdo = 12px*/
+ padding-right: 0px; /*espaçamento direito entre a borda e o conteúdo = 0px*/
+ padding-bottom: 12px; /*espaçamento inferior entre a borda e o conteúdo = 12px*/
+ padding-left: 12px; /*espaçamento esquerdo entre a borda e o conteúdo = 12px*/
+}
+</pre>
+
+<blockquote>OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.</blockquote>
 
 # 📜 JavaScript (JS)
 <a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="177" align="right"/></a>
