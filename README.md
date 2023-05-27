@@ -1202,7 +1202,11 @@ O comando <code>&lt;table&gt;</code> tem uma série de atributos que ajudam na f
   </tr> 
   <tr>
     <td><code>colspan=""</code></td>
-    <td>determina o alinhamento entre duas ou mais tabelas</td>
+    <td>determina o agrupamento entre duas ou mais colunas da tabela (sentido para os lados)</td>
+  </tr>
+  <tr>
+    <td><code>rowspan=""</code></td>
+    <td>determina o agrupamento entre duas ou mais linhas da tabela. (sentido para baixo e cima)</td>
   </tr>
   <tr>
     <td><code>cellpadding=""</code></td>
