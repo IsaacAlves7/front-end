@@ -1134,26 +1134,26 @@ O problema apresentado pelo novo comando é o uso do atributo <code>src</code> q
 O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.
 
 ## video
-<pre>
-&lt;video width="426" height="240" controls&gt;
- &lt;source src="video.mp4" type="video/mp4"&gt;
- &lt;source src="video.webm" type="video/webm"&gt;
- &lt;source src="video.ogg" type="video/ogg"&gt;
-&lt;/video&gt;
-</pre>
+```html
+<video width="426" height="240" controls>
+  <source src="video.mp4" type="video/mp4"&gt;
+  <source src="video.webm" type="video/webm"&gt;
+  <source src="video.ogg" type="video/ogg"&gt;
+</video>
+```
 
 ## audio
-<pre>
-&lt;audio controls&gt;
- &lt;source src="audio.mp3" type="audio/mpeg"&gt;
- &lt;source src="audio.ogg" type="audio/ogg"&gt;
- &lt;source src="audio.wav" type="audio/wav"&gt;
-&lt;/audio&gt;
-</pre>
+```html
+<audio controls>
+ <source src="audio.mp3" type="audio/mpeg">
+ <source src="audio.ogg" type="audio/ogg">
+ <source src="audio.wav" type="audio/wav">
+</audio>
+```
 
 Existem diversos <b>codecs</b>, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior.
 
-<blockquote><b>Obs:</b> Codecs são programas utilizados para codificar e decodificar arquivos de mídia. Eles compactam o formato original, favorecendo o armazenamento, e descompactam na hora da reprodução, transformando novamente em imagem ou áudio.</blockquote>
+> **Obs**: Codecs são programas utilizados para codificar e decodificar arquivos de mídia. Eles compactam o formato original, favorecendo o armazenamento, e descompactam na hora da reprodução, transformando novamente em imagem ou áudio.
 
 Todos os exemplos de audio e video citados são importados via documento no diretório. E a dúvida é, como faço para importar um vídeo já hospedado em um site como o YouTube ou o Vimeo? E qual das duas soluções (Via documento ou via server) é a mais vantajosa?
 
@@ -1248,13 +1248,27 @@ Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o
 <pre><code>&lt;table border rules="rows"6&gt;</code></pre>
 
 # 🆗 TAGs de Formulários
-<p>A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:</p>
+A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:
 
-## Tipos de input
-<p>Podemos definir os tipos de <code>&lt;input&gt;</code> e seus atributos.</p>
+**Formulário boilerplate**:
+```html
+<html>
+  <body>
+     <h2>Login</h2>
+     <form>
+	Login:<br>
+	Senha:<br>
+     </form>
+  </body>
+</html>
+```
 
-## A diferença entre anchor, input and button
-<div align="center"><img src="https://davidwalsh.name/demo/html5-buttons.png" height="200"></div>
+Os tipos de input:
+Podemos definir os tipos de `<input>` e seus atributos.
+
+A diferença entre `a`, `input` and `button`:
+
+<img src="https://davidwalsh.name/demo/html5-buttons.png" height="177" align="right">
 
 # 📰 HTML Semântico
 <p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
