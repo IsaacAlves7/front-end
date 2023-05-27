@@ -1134,15 +1134,19 @@ O problema apresentado pelo novo comando é o uso do atributo <code>src</code> q
 O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.
 
 ## video
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+
 ```html
 <video width="426" height="240" controls>
-  <source src="video.mp4" type="video/mp4"&gt;
-  <source src="video.webm" type="video/webm"&gt;
-  <source src="video.ogg" type="video/ogg"&gt;
+  <source src="video.mp4" type="video/mp4">
+  <source src="video.webm" type="video/webm">
+  <source src="video.ogg" type="video/ogg">
 </video>
 ```
 
 ## audio
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+
 ```html
 <audio controls>
  <source src="audio.mp3" type="audio/mpeg">
@@ -1250,20 +1254,27 @@ Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o
 # 🆗 TAGs de Formulários
 A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:
 
-**Formulário boilerplate**:
+**Formulário de Login (boilerplate)**:
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+
 ```html
 <html>
   <body>
      <h2>Login</h2>
      <form>
 	Login:<br>
+	<input type="text" name="login"><br>
 	Senha:<br>
+	<input type="password" name="senha"><br>
+	<input type="submit" value="Logar">
      </form>
   </body>
 </html>
 ```
 
-Os tipos de input:
+Os tipos de `input`, são:
+- 
+
 Podemos definir os tipos de `<input>` e seus atributos.
 
 A diferença entre `a`, `input` and `button`:
