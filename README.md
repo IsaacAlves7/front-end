@@ -1169,7 +1169,16 @@ Essas tabelas ainda continuam existindo no HTML 5 como recurso para exibição d
 
 O comando tabela não foi retirado da linguagem, mas ficou restrito o seu uso. Em contrapartida, ainda temos vários sites que utilizam esse recurso, portanto, é importante entendermos como funciona até para poder, se for necessário, dar manutenção nesse tipo de página.
 
-O comando para se inserir uma tabela é <code>&lt;table&gt;</code>. Para iniciar uma <b>linha</b>, devemos introduzir a tag <code>&lt;tr&gt;</code> e para uma <b>célula</b> <code>&lt;td&gt;</code>, que divide a linha da tabela. <code>&lt;th&gt;</code> divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como <code>&lt;/table&gt;</code>, <code>&lt;/tr&gt;</code> e <code>&lt;/td&gt;</code> respectivamente.
+O comando para se inserir uma tabela é `<table>`. Para iniciar uma <b>linha</b>, devemos introduzir a tag `<tr>` e para uma <b>célula</b> `<td>`, que divide a linha da tabela. `<th>` divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como `</table>`, `</tr>` e `</td>` respectivamente.
+
+```html
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+```
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105789912-03cafb00-5f62-11eb-98dc-9344c4085708.jpg)
 
@@ -1190,6 +1199,10 @@ O comando <code>&lt;table&gt;</code> tem uma série de atributos que ajudam na f
   <tr>
     <td><code>cellspacing=""</code></td>
     <td>determina o espaçamento entre células</td>
+  </tr> 
+  <tr>
+    <td><code>colspan=""</code></td>
+    <td>determina o alinhamento entre duas ou mais tabelas</td>
   </tr>
   <tr>
     <td><code>cellpadding=""</code></td>
