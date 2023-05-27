@@ -1171,6 +1171,8 @@ O comando tabela não foi retirado da linguagem, mas ficou restrito o seu uso. E
 
 O comando para se inserir uma tabela é `<table>`. Para iniciar uma <b>linha</b>, devemos introduzir a tag `<tr>` e para uma <b>célula</b> `<td>`, que divide a linha da tabela. `<th>` divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como `</table>`, `</tr>` e `</td>` respectivamente.
 
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+
 ```html
 <table>
   <tr>
@@ -1179,8 +1181,6 @@ O comando para se inserir uma tabela é `<table>`. Para iniciar uma <b>linha</b>
   </tr>
 </table>
 ```
-
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/105789912-03cafb00-5f62-11eb-98dc-9344c4085708.jpg)
 
 O comando <code>&lt;table&gt;</code> tem uma série de atributos que ajudam na formatação da tabela. Os principais são:
 <table>
