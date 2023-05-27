@@ -1272,6 +1272,8 @@ A parte de formulários em HTML é muito importante para o preenchimento de dado
 </html>
 ```
 
+Através do atributo `name=''` podemos processar os dados enviados através de uma linguagem de programação.
+
 Os tipos de `input`, são:
 - 
 
