@@ -55,7 +55,6 @@ Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas
 
 Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  <code>&lt;font&gt;</code>, <code>&lt;center&gt;</code> e outras novas, pois milhões de páginas web as utilizam.
 
-
 # 🎨 Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a **possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa**.
 
