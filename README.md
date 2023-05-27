@@ -1209,9 +1209,8 @@ O comando <code>&lt;table&gt;</code> tem uma série de atributos que ajudam na f
     <td>determina o espaçamento entre o texto e a borda da célula</td>
   </tr>
 </table>
-<p><code>&lt;caption&gt;</code> exibe um texto centralizado em relação à tabela, como se fosse uma legenda.</p>
 
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/105891443-6ae2c100-5fef-11eb-86d0-e66401b98812.jpg)
+<code>&lt;caption&gt;</code> exibe um texto centralizado em relação à tabela, como se fosse uma legenda.
 
 ### Atributo Rules
 Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo <code>RULES</code>, dentro da tag . Os complementos desse atributo são:
