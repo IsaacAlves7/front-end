@@ -1282,7 +1282,7 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
 <html>
   <body>
      <h2>Login</h2>
-     <form>
+     <form action="processa.php">
 	Login:<br>
 	<input type="text" name="login"><br>
 	Senha:<br>
