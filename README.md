@@ -1293,9 +1293,6 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
 </html>
 ```
 
-Os tipos de `input`, são:
-- 
-
 Podemos definir os tipos de `<input>` e seus atributos.
 
 A diferença entre `a`, `input` and `button`:
