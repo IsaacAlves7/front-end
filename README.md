@@ -1313,12 +1313,24 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
 	<input type="checkbox" name="interesse" value="video-games"> Video-games<br>
 	<input type="checkbox" name="interesse" value="academia"> Academia<br>
 	  
+	Estado<br>
+	<select>
+	  <option>RJ</option>
+	  <option>SP</option>
+	  <option>MG</option>
+	  <option>ES</option>
+	</select>
+
 	<input type="submit" value="Cadastrar">
   </body>
 </html>
 ```
 
 Só vamos poder conseguir fazer o `input` entre radios se o `name` for o mesmo, dessa forma conseguimos agrupar essas informações e apenas uma dela será marcada.
+
+Com `checkbox` podemos escolher mais de uma opção para marcar.
+
+Com 
 
 Podemos definir os tipos de `<input>` e seus atributos:
 
