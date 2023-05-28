@@ -1274,6 +1274,25 @@ A parte de formulários em HTML é muito importante para o preenchimento de dado
 
 Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atributo `name=''` podemos processar os dados enviados através de uma linguagem de programação. 
 
+**Formulário de Login (boilerplate) - Com PHP**:
+
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#) [![PHP](https://img.shields.io/badge/-processa.php-000000?style=social&logo=PHP&logoColor=purple)](#) 
+
+```html
+<html>
+  <body>
+     <h2>Login</h2>
+     <form>
+	Login:<br>
+	<input type="text" name="login"><br>
+	Senha:<br>
+	<input type="password" name="senha"><br>
+	<input type="submit" value="Logar">
+     </form>
+  </body>
+</html>
+```
+
 Os tipos de `input`, são:
 - 
 
