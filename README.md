@@ -1303,87 +1303,83 @@ A diferença entre `a`, `input` and `button`:
 <img src="https://davidwalsh.name/demo/html5-buttons.png" height="177" align="right">
 
 # 📰 HTML Semântico
-<p>O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.</p>
+O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.
 
-## New Semantic Elements in HTML5
 <img src="https://www.w3schools.com/html/img_sem_elements.gif" align="right" height="177"/>
+
 Até a versão 4 do HTML as <b>divs</b> eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma <b>folha de jornal</b>, pois ambas contém cabeçalhos, rodapés, artigos e seções.
 
-<ul>
-<li><p>O elemento <code>&lt;section&gt;</code> (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.</p></li>
+- O elemento <code>&lt;section&gt;</code> (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736626-c63f8100-5f13-11eb-81b8-f6c3e341ea4b.jpg)
 
-<li><p>O elemento <code>&lt;header&gt;</code> (cabeçalho) utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.</p></li>
+- O elemento <code>&lt;header&gt;</code> (cabeçalho) utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736972-28988180-5f14-11eb-83c6-bbceb25bf757.jpg)
 
-<li><p><code>&lt;nav&gt;</code> (navegação) este elemento é a seção onde ficam as informações de de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.</p></li>
+- <code>&lt;nav&gt;</code> (navegação) este elemento é a seção onde ficam as informações de de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105737577-defc6680-5f14-11eb-8363-9b10b09089a6.jpg)
 
-<li><p><code>&lt;article&gt;</code> (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento <code>&lt;section&gt;</code>. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento <code>&lt;header&gt;</code> que é o título e um elemento <code>&lt;footer&gt;</code> que é o rodapé do elemento.</p></li>
+- <code>&lt;article&gt;</code> (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento <code>&lt;section&gt;</code>. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento <code>&lt;header&gt;</code> que é o título e um elemento <code>&lt;footer&gt;</code> que é o rodapé do elemento.
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105737941-461a1b00-5f15-11eb-8528-d9bf452796ab.jpg)
 
-<li><p><code>&lt;footer&gt;</code> (rodapé) este elemento é um que contém basicamente as informações sobre o conteúdo da seção, como, por exemplo, o autor, links relacionados etc.</p></li>
+- <code>&lt;footer&gt;</code> (rodapé) este elemento é um que contém basicamente as informações sobre o conteúdo da seção, como, por exemplo, o autor, links relacionados etc.
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105738329-add06600-5f15-11eb-8cac-403ab42f3e3a.jpg)
 
-<li><p><code>&lt;aside&gt;</code> (de lado) neste elemento estão contidas as informações que não estão relacionadas diretamente com o texto. Por exemplo: comerciais pagos, links promocionais etc.</p></li>
+- <code>&lt;aside&gt;</code> (de lado) neste elemento estão contidas as informações que não estão relacionadas diretamente com o texto. Por exemplo: comerciais pagos, links promocionais etc.
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105738607-f720b580-5f15-11eb-9440-76725a31f908.jpg)
 
-</ul>
+### Estilo incorporado ou interno
+Caracteriza-se por escrever o código CSS, utilizando o comando <strong>&lt;style&gt;</strong> do HTML. Esse método é superior ao anterior, pois <b>todas as regras CSS</b> estão localizadas no início do código HTML5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
 
+Exemplo de utilização:
 
-### Estilo incorporado ou interno 📃
-<p>Caracteriza-se por escrever o código CSS, utilizando o comando <strong>&lt;style&gt;</strong> do HTML. Esse método é superior ao anterior, pois <b>todas as regras CSS</b> estão localizadas no início do código HTML5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
-
-Exemplo de utilização:</p>
-
-<pre>
- &lt;head&gt;
-  &lt;style&gt;
+```html
+ <head>
+  <style>
    * {margin: 0; padding: 0; box-sizing: border-box;}
    body {width: 100%; height: 100vh;}
-  &lt;/style&gt;
- &lt;/head&gt;
-</pre>
+  </style>
+ </head>
+```
 
 ### Estilo externo
 As regras foram escritas em um arquivo com extensão <b>.css</b> e podem ser carregadas ao documento HTML5 de duas formas:
 
 #### Utilizando o elemento &lt;link&gt; no HTML
-<pre>
-&lt;head&gt;
-&lt;link rel="stylesheet" href="default.css"&gt;
-&lt;link rel="stylesheet" href="green.css" title="Green styles"&gt;
-&lt;link rel="alternate stylesheet" href="contrast.css" title="High contrast"&gt;
-&lt;link rel="alternate stylesheet" href="big.css" title="Big fonts"&gt;
-&lt;link rel="alternate stylesheet" href="wide.css" title="Wide screen"&gt;&lt;/head&gt;
-</pre>
+```html
+<head>
+  <link rel="stylesheet" href="default.css">
+  <link rel="stylesheet" href="green.css" title="Green styles">
+  <link rel="alternate stylesheet" href="contrast.css" title="High contrast">
+  <link rel="alternate stylesheet" href="big.css" title="Big fonts">
+  <link rel="alternate stylesheet" href="wide.css" title="Wide screen">
+</head>
+```
 
 #### Utilização do elemento `@import` no CSS
-<p>Permite <b>importar</b> regras de estilo dentro de outras regras de estilo. Esse método permite aplicar regras comuns a todos os documentos HTML.
+Permite <b>importar</b> regras de estilo dentro de outras regras de estilo. Esse método permite aplicar regras comuns a todos os documentos HTML.
 
-<b>Exemplo de utilização:</b>
+**Exemplo de utilização**:
 
-Dentro de um documento .css podemos aplicar nas primeiras linhas, a chamada de arquivos externos, para utilizar comandos já existentes.</p>
+Dentro de um documento `.css` podemos aplicar nas primeiras linhas, a chamada de arquivos externos, para utilizar comandos já existentes.
 
-<pre>
+```css
 @import "mystyle.css";
 @import url("mystyle.css");
 @import url("fineprint.css") print; /* mídia específica para impressão */
 @import url("bluish.css") projection, tv; /* mídia específica grandes mídias*/
 @import url("narrow.css") handheld and (max-width: 400px); /* mídia específica mídias portáteis*/
-</pre>
+```
 
 ## Conceito de Módulos
-<p>O CSS nível 3 implementou o conceito de módulos, em que cada módulo é desenvolvido de forma independente, seguindo um cronograma próprio. A principal vantagem é independência na construção das novas funcionalidades.</p>
+O CSS nível 3 implementou o conceito de módulos, em que cada módulo é desenvolvido de forma independente, seguindo um cronograma próprio. A principal vantagem é independência na construção das novas funcionalidades.
 
 ## Seletores e Declarações
-
 Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
 
 A sintaxe é bem simples e pode ser explicada com a frase "você cria regras de estilo para elementos ou grupos de elementos".
@@ -1402,12 +1398,11 @@ Uma regra CSS é representada por:
 </ul>
 <p>Exemplo:</p>
 
-<pre>
- <code>
+```css
  a { 
     color: #000;
-   }</code>
-</pre>
+   }
+```
 
 <ul>
   <li>a = seletor</li>
@@ -1441,7 +1436,7 @@ font-family: sans-serif
 <blockquote>OBS: Todos os h1, todos os h2 e todos os h3</blockquote>
 
 ### Seletores descendentes
-<p>Um elemento pode estar contido dentro de outro elemento.
+Um elemento pode estar contido dentro de outro elemento.
 
 Exemplo:
 &lt;H1&gt;Este texto é &lt;EM&gt;muito&lt;/EM&gt; importante&lt;/H1&gt;</p>
@@ -1452,7 +1447,7 @@ h1 em { color: blue } /* indica que os elementos em contidos em um elemento h1 p
 </pre>
 
 ### Seletores filhos
-<p>Um elemento filho é caraterizado quando os elementos são separados por “&gt;".</p>
+Um elemento filho é caraterizado quando os elementos são separados por “>".
 <pre>div ol &gt; li p {color: green }</pre>
 
 <p>Este exemplo, todos os elementos <strong>p</strong> serão de cor verde quando estiverem dentro de um elemento item &lt;li&gt;, filho de uma lista &lt;ol&gt; dentro de uma &lt;div&gt;.</p>
