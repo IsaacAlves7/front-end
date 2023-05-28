@@ -1293,7 +1293,38 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
 </html>
 ```
 
-Podemos definir os tipos de `<input>` e seus atributos.
+**Formulário de Cadastro (boilerplate)**:
+
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#) [![PHP](https://img.shields.io/badge/-processa.php-000000?style=social&logo=PHP&logoColor=indigo)](#) 
+
+```html
+<html>
+  <body>
+     <h2>Cadastre-se</h2>
+	Login:<br>
+	<input type="text" name="login"><br>
+	  
+	Sexo:<br>
+	<input type="radio" name="sexo" value="masculino"> Masculino<br>
+	<input type="radio" name="sexo" value="masculino"> Feminino<br>
+	  
+	Interesses:<br>
+	<input type="checkbox" name="interesse" value="futebol"> Futebol<br>
+	<input type="checkbox" name="interesse" value="video-games"> Video-games<br>
+	<input type="checkbox" name="interesse" value="academia"> Academia<br>
+	  
+	<input type="submit" value="Cadastrar">
+  </body>
+</html>
+```
+
+Só vamos poder conseguir fazer o `input` entre radios se o `name` for o mesmo, dessa forma conseguimos agrupar essas informações e apenas uma dela será marcada.
+
+Podemos definir os tipos de `<input>` e seus atributos:
+
+- `button`
+- `password`
+- `text`
 
 A diferença entre `a`, `input` and `button`:
 
