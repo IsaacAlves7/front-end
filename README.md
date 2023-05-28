@@ -1295,34 +1295,45 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
 
 **Formulário de Cadastro (boilerplate)**:
 
-[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#) [![PHP](https://img.shields.io/badge/-processa.php-000000?style=social&logo=PHP&logoColor=indigo)](#) 
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
 ```html
 <html>
   <body>
      <h2>Cadastre-se</h2>
-	Login:<br>
-	<input type="text" name="login"><br>
+       <form action="processa.php">
+	  Nome Completo:<br>
+	  <input type="text" name="login"><br>
+	  <label for="email">Email:</label>
+	  <input type="email" name="email"><br>
+	  Senha:<br>
+	  <input type="password" name="password"><br>
+	  Repita a senha:<br>
+	  <input type="password" name="password"><br>
+	  	
+	  Sexo:<br>
+	  <input type="radio" name="sexo" value="masculino"> Masculino<br>
+	  <input type="radio" name="sexo" value="masculino"> Feminino<br>
 	  
-	Sexo:<br>
-	<input type="radio" name="sexo" value="masculino"> Masculino<br>
-	<input type="radio" name="sexo" value="masculino"> Feminino<br>
+	  Interesses:<br>
+	  <input type="checkbox" name="interesse" value="futebol"> Futebol<br>
+	  <input type="checkbox" name="interesse" value="video-games"> Video-games<br>
+	  <input type="checkbox" name="interesse" value="academia"> Academia<br>
 	  
-	Interesses:<br>
-	<input type="checkbox" name="interesse" value="futebol"> Futebol<br>
-	<input type="checkbox" name="interesse" value="video-games"> Video-games<br>
-	<input type="checkbox" name="interesse" value="academia"> Academia<br>
-	  
-	Estado<br>
-	<select>
-	  <option>RJ</option>
-	  <option>SP</option>
-	  <option>MG</option>
-	  <option>ES</option>
-	</select>
+	  Estado<br>
+	  <select name="estado">
+	    <option value="RJ">RJ</option>
+	    <option value="SP">SP</option>
+	    <option value="MG">MG</option>
+	    <option value="ES">ES</option>
+	  </select><br>
+	
+	  Comente!<br>
+	  <textarea></textarea><br>
 
-	<input type="submit" value="Cadastrar">
-  </body>
+	  <input type="submit" value="Cadastrar">
+       </form>
+   </body>
 </html>
 ```
 
