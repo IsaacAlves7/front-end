@@ -1276,7 +1276,7 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
 
 **Formulário de Login (boilerplate) - Com PHP**:
 
-[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#) [![PHP](https://img.shields.io/badge/-processa.php-000000?style=social&logo=PHP&logoColor=purple)](#) 
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#) [![PHP](https://img.shields.io/badge/-processa.php-000000?style=social&logo=PHP&logoColor=indigo)](#) 
 
 ```html
 <html>
