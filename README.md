@@ -1302,12 +1302,16 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
 
 ```html
 <html>
+  <head>
+    <title>Cadastro</title>
+  </head>
   <body>
      <h2>Cadastre-se</h2>
        <form action="processa.php">
 	  Nome Completo:<br>
 	  <input type="text" name="login"><br>
-	  <label for="email">Email:</label>
+	  <!-- <label for="email">Email:</label> -->
+          Email:<br>
 	  <input type="email" name="email"><br>
 	  Senha:<br>
 	  <input type="password" name="password"><br>
