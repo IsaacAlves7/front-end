@@ -1311,7 +1311,7 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
 	  Nome Completo:<br>
 	  <input type="text" name="login"><br>
 	  <!-- <label for="email">Email:</label> -->
-          Email:<br>
+      Email:<br>
 	  <input type="email" name="email"><br>
 	  Senha:<br>
 	  <input type="password" name="password"><br>
@@ -1336,7 +1336,7 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
 	  </select><br>
 	
 	  Comente!<br>
-	  <textarea></textarea><br>
+	  <textarea name="comentario"></textarea><br>
 
 	  <input type="submit" value="Cadastrar">
        </form>
