@@ -1313,7 +1313,7 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
 	  	
 	  Sexo:<br>
 	  <input type="radio" name="sexo" value="masculino"> Masculino<br>
-	  <input type="radio" name="sexo" value="masculino"> Feminino<br>
+	  <input type="radio" name="sexo" value="feminino"> Feminino<br>
 	  
 	  Interesses:<br>
 	  <input type="checkbox" name="interesse" value="futebol"> Futebol<br>
