@@ -755,8 +755,8 @@ Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adiciona
 ## Principais conceitos do CSS3
 Os principais conceitos do CSS são divididas em categorias conforme a seguir:
 
-- <a href="https://github.com/IsaacAlves7/web#-css-box-model">Box Model</a>
 - <a href="">Seletores, Declarações, Propriedades e Valores</a>
+- <a href="https://github.com/IsaacAlves7/web#-css-box-model">Box Model, padding e margin</a>
 - <a href="">Texto, Background, Foreground e Variáveis</a>
 - <a href="">Classes e IDs</a>
 - <a href="">Keyframes e Animations</a>
@@ -764,7 +764,7 @@ Os principais conceitos do CSS são divididas em categorias conforme a seguir:
 - <a href="">Pseudo-elementos</a>
 - <a href="">Transform e Transition</a>
 - <a href="">Positions, Dimensions e Displays</a>
-- <a href="">Media Queries</a>
+- <a href="">Media Queries e Layouts Responsivos</a>
 
 # 📦 [CSS] Box Model
 <img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="177" align="right">
@@ -813,21 +813,22 @@ ul {
 Outra forma é inserir a propriedade do box model de acordo com suas posições, o que não é muito prático.
 
 Exemplo:
-<pre>
+
+```css
 ul {
  margin-top: 12px; /*topo da margem = 12px*/
  margin-right: 12px; /*direito da margem = 12px*/
  margin-bottom: 12px; /*abaixo da margem = 12px*/
  margin-left: 12px; /*esquedo da margem = 12px*/
-&nbsp;
+ 
  padding-top: 12px; /*espaçamento topo entre a borda e o conteúdo = 12px*/
  padding-right: 0px; /*espaçamento direito entre a borda e o conteúdo = 0px*/
  padding-bottom: 12px; /*espaçamento inferior entre a borda e o conteúdo = 12px*/
  padding-left: 12px; /*espaçamento esquerdo entre a borda e o conteúdo = 12px*/
 }
-</pre>
+```
 
-<blockquote>OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.</blockquote>
+> OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.
 
 # 📜 JavaScript (JS)
 <a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="177" align="right"/></a>
