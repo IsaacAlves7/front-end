@@ -1074,7 +1074,7 @@ As listas são importantes para a organização do texto e orientação do usuá
   <dt>Carro</dt>
    <dd>Uno</dd>
    <dd>Gol</dd>
-  <dt&gt;Moto&lt;/dt>
+  <dt>Moto</dt>
    <dd>Honda</dd>
    <dd>Yamaha</dd>
 </dl>
