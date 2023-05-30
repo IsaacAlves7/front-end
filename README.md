@@ -1220,10 +1220,11 @@ O comando <code>&lt;table&gt;</code> tem uma série de atributos que ajudam na f
   </tr>
 </table>
 
-<code>&lt;caption&gt;</code> exibe um texto centralizado em relação à tabela, como se fosse uma legenda.
+`<caption>` exibe um texto centralizado em relação à tabela, como se fosse uma legenda.
 
 ### Atributo Rules
 Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo <code>RULES</code>, dentro da tag . Os complementos desse atributo são:
+
 <table>
   <tr>
     <td><code>none</code></td>
@@ -1246,8 +1247,13 @@ Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o
     <td>para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como <code>&lt;colgroup&gt;</code> e <code>&lt;thead&gt;</code></td>
   </tr>  
 </table>
-<p>Veja alguns exemplos:</p>
-<pre><code>&lt;table border rules="all"6&gt;</code></pre>
+
+Veja alguns exemplos:
+
+```html
+<table border rules="all"6>
+```
+
 <pre><code>&lt;table border rules="none"6&gt;</code></pre>
 <pre><code>&lt;table border rules="cols"6&gt;</code></pre>
 <pre><code>&lt;table border rules="groups"6&gt;</code></pre>
@@ -1266,7 +1272,7 @@ A parte de formulários em HTML é muito importante para o preenchimento de dado
      <h2>Login</h2>
      <form>
 	Login:<br>
-	<input type="text" name="login"><br>
+	<input type="email" name="email"><br>
 	Senha:<br>
 	<input type="password" name="senha"><br>
 	<input type="submit" value="Logar">
