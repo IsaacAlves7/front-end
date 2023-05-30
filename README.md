@@ -865,8 +865,27 @@ Tudo começa com o diretório, e dentro dele as pastas `/public/` e `/src/` , e 
 
 O `index.html` é o padrão da Web de ser o primeiro arquivo processado pelo navegador, geralmente é usado para uma áreas de Login ou a Home da página, e o `style.css` é o padrão para editar um ou mais arquivos HTML.
 
+**HTML5 boilerplate**:
+
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+	<title>HTML5 boilerplate</title>
+    </head>
+    <body>
+	<h1>Hello, World!</h1>
+        <script src="" async defer></script>
+    </body>
+</html>
+```
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105612417-dd0e9800-5d9a-11eb-9ca4-6733559a200c.jpg)
 
 Basicamente, a estrutura do documento html se baseia em `<!Doctype html>`, `<html>`, `<head>`, `<body>`. Observe a tag  muito cuidadosamente. Aqueles acostumados a escrever XHTML perceberam três estranhezas. A primeira é que a tag está muito mais curta do que costumava ser até então - estávamos acostumados a utilizar:
@@ -875,20 +894,20 @@ Basicamente, a estrutura do documento html se baseia em `<!Doctype html>`, `<htm
 
 <pre>&lt;meta http-equiv="Content-Type" content="text/html;charset=UTF-8"&gt;</pre>
 
-<p>Isso ainda é possível, mas a versão mais curta é preferível, já que é mais fácil de digitar e funciona em todo lugar.
+Isso ainda é possível, mas a versão mais curta é preferível, já que é mais fácil de digitar e funciona em todo lugar.
 
 Você também perceberá que não colocamos aspas no atributo <code>charset=utf-8</code> nem utilizamos o autoencerramento na tag. O HTML5 não é uma linguagem XML, então você não precisa dessas coisas.
 
 Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada como text/html (apenas um validador XHTML se importaria). Assim, favorecer uma forma em detrimento da outra no HTML5 seria totalmente arbitrário e tornaria inválidas as páginas que não seguissem o formato, apesar delas funcionarem perfeitamente em qualquer navegador. Desse modo, não importa para o HTML5 qual forma você utiliza.</p>
 
 ## `<!Doctype html>`
-<p>É o tipo do documento, vale ressaltar que não é obrigatório.</p>
+É o tipo do documento, vale ressaltar que não é obrigatório.
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 <pre>&lt;!Doctype html&gt;</pre>
 
 <h2>&lt;html&gt;</h2>
-<p>É a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar. Possui o atributo <code>lang=""</code> que define a língua regional do documento.</p>
+É a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar. Possui o atributo <code>lang=""</code> que define a língua regional do documento.
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 <pre>&lt;html lang="pt-br"&gt;&lt;/html&gt;</pre>
