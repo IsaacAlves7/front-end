@@ -886,7 +886,6 @@ O `index.html` é o padrão da Web de ser o primeiro arquivo processado pelo nav
     </body>
 </html>
 ```
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/105612417-dd0e9800-5d9a-11eb-9ca4-6733559a200c.jpg)
 
 Basicamente, a estrutura do documento html se baseia em `<!Doctype html>`, `<html>`, `<head>`, `<body>`. Observe a tag  muito cuidadosamente. Aqueles acostumados a escrever XHTML perceberam três estranhezas. A primeira é que a tag está muito mais curta do que costumava ser até então - estávamos acostumados a utilizar:
 
