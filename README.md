@@ -1311,9 +1311,9 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
      <h2>Login</h2>
      <form action="processa.php">
 	Login:<br>
-	<input type="email" name="email"><br>
+	<input type="email" name="email" required><br>
 	Senha:<br>
-	<input type="password" name="senha"><br>
+	<input type="password" name="senha" required><br>
 	<input type="submit" value="Logar">
      </form>
   </body>
@@ -1333,14 +1333,14 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
      <h2>Cadastre-se</h2>
        <form action="processa.php">
 	  Nome Completo:<br>
-	  <input type="text" name="nome"><br>
+	  <input type="text" name="nome" required><br>
 	  <!-- <label for="email">Email:</label> -->
       Email:<br>
-	  <input type="email" name="email"><br>
+	  <input type="email" name="email" required><br>
 	  Senha:<br>
-	  <input type="password" name="password"><br>
+	  <input type="password" name="password" required><br>
 	  Repita a senha:<br>
-	  <input type="password" name="password"><br>
+	  <input type="password" name="password" required><br>
 	  	
 	  Sexo:<br>
 	  <input type="radio" name="sexo" value="masculino"> Masculino<br>
