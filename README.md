@@ -1,3 +1,9 @@
+# UI
+
+# UX
+
+# Teoria das Cores
+
 # Web design
 O design de interfaces é algo relativamente novo dentro do ramo da computação. Essa área de conhecimento visa a estudar as melhores formas de comunicação entre os seres humanos e os sistemas computacionais que podem ser desde websites, jogos de computador, aplicações empresariais, sistemas operacionais ou até uma simples aplicação do seu smartphone.
 
