@@ -610,13 +610,12 @@ As listas são importantes para a organização do texto e orientação do usuá
 <pre>&lt;a href="mailto:webmaster07@gmail.com"&gt;Enviar email&lt;/a&gt;</pre>
 
 # 🔊 [HTML] TAGs de Multimedia
-<div align="center"><img src="https://jibigit.github.io/cheat-html/images/media.png"></div>
+<img src="https://jibigit.github.io/cheat-html/images/media.png" align="right" height="77">
 
-## Flash Player
-<p>O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os
-navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
+O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
 
-Bastava adicionar uma <b>chamada para o plugin</b> e funcionava.</p>
+Bastava adicionar uma <b>chamada para o plugin</b> e funcionava.
+
 <pre>
  <code>&lt;object width="426" height="240"&gt;</code>
  <code>&lt;param name="movie" value=" https://youtu.be/S2Vty9srpFw"&gt;</code>
