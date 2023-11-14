@@ -2145,7 +2145,8 @@ Além disso, pela popularização do Sass, hoje em dia não somos mais obrigados
 
 Para uma lista completa, acesse: http://sass-lang.com/libsass
 
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" height="200"/></div>
+<img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" height="77" align="right"/>
+
 <p>Como foi dito, não é mais preciso obter o Ruby em nossa máquina para poder utilizar o Sass. Podemos compilar o Sass a partir de C, Go, Java, Node.js, PHP, Python, etc. Vamos aprender como configurar e rodar o Sass no ambiente Node.js:
 
 Como a maioria dos desenvolvedores front-end usam o Node.js atualmente, veremos como configurá-lo para compilar nosso Sass para CSS.
