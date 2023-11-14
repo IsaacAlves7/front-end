@@ -85,7 +85,7 @@ Podemos observar, atualmente, uma enorme variedade de interfaces, nos mais varia
 O projeto de construção de um sistema é muito mais complexo do que apenas a criação de uma interface. Toda a interação entre o homem e o sistema deve ser levada em consideração desde a sua concepção. Na área de Tecnologia da Informação, o design de interfaces refere-se à criação da interface do usuário para softwares, sites ou aplicativos. Trata-se de programar o visual da aplicação, visando sempre a facilitar a usabilidade e melhorar a experiência do usuário final.
 
 # 📙 [HTML5] Hypertext Makup Language 5
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="177" align="right"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="77" align="right"/>
 
 A linguagem de formatação de documentos com a capacidade de links de hipertexto (termo que remete a um texto ao qual se agregam outros conjuntos de informação na forma de blocos de textos, palavras, imagens ou sons, cujo acesso ocorre através de referências específicas, no meio digital, denominadas hiperlinks, ou simplesmente links) e que tornou-se o formato básico para publicação na web.
 
@@ -212,7 +212,7 @@ Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no 
 </table>
 
 # 📘 CSS3 - Cascading Style Sheets 3
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="177" align="right"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="77" align="right"/>
 
 O **CSS** (Cascading Style Sheets), é um "Stylesheets" (folha de estilo) composta por "camadas" e usado para definir a aparência de páginas da internet que adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML), criando assim as interfaces. O CSS define como serão exibidos os elementos contidos no código de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
 
