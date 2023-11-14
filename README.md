@@ -2075,7 +2075,7 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 ```
 
 # 👓 Sass
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="177" align="right">
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="77" align="right">
 
 Para um desenvolvimento web moderno, o CSS é muitas vezes visto como primitivo e incompleto. Há muitas funcionalidades que nos facilitaria na hora de desenvolver aplicações mais complexas.
 
