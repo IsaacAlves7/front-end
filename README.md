@@ -323,7 +323,7 @@ ul {
 > OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.
 
 # 📜 JavaScript (JS)
-<a href="https://github.com/IsaacAlves7/javascript-programming"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="177" align="right"/></a>
+<a href="https://github.com/IsaacAlves7/js"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="77" align="right"/></a>
 
 O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
 
