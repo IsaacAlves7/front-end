@@ -613,6 +613,8 @@ As listas são importantes para a organização do texto e orientação do usuá
 # 🔊 [HTML] TAGs de Multimedia
 <img src="https://jibigit.github.io/cheat-html/images/media.png" align="right" height="77">
 
+O termo mídia digital é oposto de mídia analógica, esta era configurada por uma base material: o som era gravado em pequenos sulcos, sobre uma superfície de vinil e, quando uma agulha passava por esses sulcos o som era reproduzido. Nas mídias digitais o suporte físico praticamente desaparece, e os dados são convertidos em sequências numéricas ou de dígitos - por isso uso do termo digital. Dessa forma, os sons, imagens, textos, são na realidade sequências de números, o que permite o compartilhamento, armazenamento e conversão de dados. No sentido mais amplo, mídia digital pode ser definida como o conjunto de veículos e aparelhos de comunicação baseados em tecnologia digital, permitindo a distribuição ou comunicação digital das obras intelectuais escritas, sonoras ou visuais. Meios de origem eletrônica utilizados nas estratégias de comunicação das marcas com seus consumidores, geralmente chamada de mídia digital.
+
 O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
 
 Bastava adicionar uma <b>chamada para o plugin</b> e funcionava.
