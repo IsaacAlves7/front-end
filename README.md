@@ -117,7 +117,7 @@ Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava conv
 
 Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.
 
-## [HTML] TAGs essenciais
+## [HTML5] TAGs essenciais
 É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code>&lt;meta&gt;</code>, <code>&lt;h1&gt;</code>, <code>&lt;img&gt;</code> etc. 
 
 Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;</b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <code>&lt;meta&gt;</code> e <code>&lt;link&gt;</code>.
@@ -595,7 +595,7 @@ As listas são importantes para a organização do texto e orientação do usuá
 </dl>
 ```
 
-# 🔗 [HTML] TAG de Âncora
+# 🔗 [HTML5] TAG de Âncora
 <div align="center"><img src="https://www.computerhope.com/jargon/h/html-tag.gif"></div>
 <p><code>&lt;a&gt;</code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <code><b>href="mailto:webmaster@example.com"</b></code> que irá enviar uma mensagem para seu email.</p>  
 
@@ -616,7 +616,7 @@ As listas são importantes para a organização do texto e orientação do usuá
 ### Exemplo 3: Enviando mensagem para o email
 <pre>&lt;a href="mailto:webmaster07@gmail.com"&gt;Enviar email&lt;/a&gt;</pre>
 
-# 🔊 [HTML] TAGs de Multimedia
+# 🔊 [HTML5] TAGs de Multimedia
 <img src="https://jibigit.github.io/cheat-html/images/media.png" align="right" height="77">
 
 O termo mídia digital é oposto de mídia analógica, esta era configurada por uma base material: o som era gravado em pequenos sulcos, sobre uma superfície de vinil e, quando uma agulha passava por esses sulcos o som era reproduzido. Nas mídias digitais o suporte físico praticamente desaparece, e os dados são convertidos em sequências numéricas ou de dígitos - por isso uso do termo digital. Dessa forma, os sons, imagens, textos, são na realidade sequências de números, o que permite o compartilhamento, armazenamento e conversão de dados. No sentido mais amplo, mídia digital pode ser definida como o conjunto de veículos e aparelhos de comunicação baseados em tecnologia digital, permitindo a distribuição ou comunicação digital das obras intelectuais escritas, sonoras ou visuais. Meios de origem eletrônica utilizados nas estratégias de comunicação das marcas com seus consumidores, geralmente chamada de mídia digital.
@@ -682,7 +682,7 @@ Todos os exemplos de audio e video citados são importados via documento no dire
 ### Importando video
 Vamos ver como importar videos do YouTube e do Vimeo, passo a passo!
 
-# 🔲 [HTML] TAGs de Tabelas
+# 🔲 [HTML5] TAGs de Tabelas
 Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
 
 Entretanto, hoje, o uso de tabelas está, de fato, interferindo na construção de sites melhores, mais acessíveis, flexíveis e funcionais, principalmente para as novas mídias, como os celulares, tablets etc.
