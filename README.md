@@ -14,6 +14,7 @@
 - https://www.magicpattern.design/tools/blob-generator
 - https://meyerweb.com/eric/tools/css/reset/
 - https://html5boilerplate.com/
+- https://www.color-hex.com/color-palette/22942
 
 # 🌐 O que é um website?
 Quando falamos sobre website, podemos notar que este termo se trata da junção de duas palavras em inglês: “web”, que significa rede e faz referência a rede mundial de computadores, e “site”, que quer dizer lugar. Nesse sentido, um website ou site é um local que pode ser acessado na internet, por meio de uma URL, e possui um conjunto de páginas programadas em alguma linguagem. 
