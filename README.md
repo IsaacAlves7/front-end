@@ -401,9 +401,12 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 É o tipo do documento, vale ressaltar que não é obrigatório.
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
-<pre>&lt;!Doctype html&gt;</pre>
 
-<h2>&lt;html&gt;</h2>
+```html
+<!Doctype html>
+```
+
+## `<html>`
 É a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar. Possui o atributo <code>lang=""</code> que define a língua regional do documento.
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
