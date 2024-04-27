@@ -432,9 +432,11 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
  
  [![SVG](https://img.shields.io/badge/-icon.svg-000000?style=social&logo=SVG&logoColor=FFB13B)](#)
  
- <pre>&lt;link rel="shortcut icon" href="icon.svg"&gt;</pre>
- 
-  <li><code>&lt;meta&gt;</code> que representa comandos para definições globais da página:</li><br/>
+```html
+<link rel="shortcut icon" href="icon.svg">
+```
+
+- `<meta>` que representa comandos para definições globais da página:
   
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
