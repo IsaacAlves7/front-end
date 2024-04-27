@@ -2082,17 +2082,29 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 # 👓 Sass
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="77" align="right">
 
-Para um desenvolvimento web moderno, o CSS é muitas vezes visto como primitivo e incompleto. Há muitas funcionalidades que nos facilitaria na hora de desenvolver aplicações mais complexas.
+Para um desenvolvimento web moderno, o CSS é muitas vezes visto como primitivo e incompleto. Há muitas funcionalidades que nos facilitaria na hora de desenvolver aplicações mais complexas. Um **pré-processador** é um programa que recebe um texto, realiza algumas alterações e nos devolve um novo texto. E isso já nos ajuda com parte do nosso problema! Só conseguimos estilizar nossas páginas com CSS. E se criássemos uma espécie de "CSS com superpoderes", criando novas funcionalidades? Então, nós usaríamos um pré-processador para utilizar esse código e transformar em CSS comum, fazendo com que qualquer navegador possa entender nosso código.
 
-Um **pré-processador** é um programa que recebe um texto, realiza algumas alterações e nos devolve um novo texto.
+Assim, podemos trabalhar melhor e com mais produtividade, fazendo proveito de funcionalidades que são inexistentes no CSS comum. Há vários pré-processadores, não só para CSS, mas também para JavaScript. Para CSS, os mais famosos são **Sass**, Less e Stylus. 
 
-E isso já nos ajuda com parte do nosso problema! Só conseguimos estilizar nossas páginas com CSS. E se criássemos uma espécie de "CSS com superpoderes", criando novas funcionalidades? Então, nós usaríamos um pré-processador para utilizar esse código e transformar em CSS comum, fazendo com que qualquer navegador possa entender nosso código.
+O HTML5, por si só, não possui pré-processadores, como o CSS tem o Sass ou Less. No entanto, existem ferramentas e linguagens que podem ser usadas em conjunto com HTML5 para facilitar o desenvolvimento web. Alguns exemplos incluem:
 
-Assim, podemos trabalhar melhor e com mais produtividade, fazendo proveito de funcionalidades que são inexistentes no CSS comum.
+1. **Pug (anteriormente conhecido como Jade)**: Pug é uma linguagem de modelagem que compila para HTML. Ele permite que você escreva HTML de maneira mais concisa e legível, usando uma sintaxe simplificada.
 
-Há vários pré-processadores, não só para CSS, mas também para HTML e JavaScript.
+2. **Haml**: Assim como o Pug, o Haml é outra linguagem de modelagem que visa simplificar a criação de HTML. Ele usa uma sintaxe mais limpa e minimalista do que o HTML tradicional.
 
-> Para CSS, os mais famosos são **Sass**, **Less** e **Stylus**.
+3. **Slim**: Slim é semelhante ao Haml e ao Pug, oferecendo uma sintaxe mais simples para escrever HTML. Ele é projetado para ser mais expressivo e fácil de ler do que o HTML padrão.
+
+Essas linguagens não são tecnicamente pré-processadores de HTML, mas podem ser usadas para gerar HTML de uma maneira mais eficiente e legível. Assim como o CSS tem pré-processadores como Sass e Less, o JavaScript também possui algumas ferramentas que podem ser consideradas pré-processadores ou linguagens que compilam para JavaScript. Alguns exemplos populares incluem:
+
+1. **TypeScript**: TypeScript é um superconjunto tipado de JavaScript que adiciona tipos estáticos opcionais ao JavaScript. Ele compila para JavaScript padrão e é amplamente adotado em projetos grandes e complexos para fornecer verificação de tipo durante o desenvolvimento.
+
+2. **CoffeeScript**: CoffeeScript é uma linguagem que compila para JavaScript. Ela tem uma sintaxe mais sucinta e expressiva do que o JavaScript padrão e é projetada para tornar a escrita de código JavaScript mais rápida e fácil.
+
+3. **Babel**: Embora não seja estritamente um pré-processador, o Babel é uma ferramenta popular para transpilação de código JavaScript. Ele permite que você escreva código usando as últimas características do JavaScript (como as especificadas no ECMAScript 6 e posteriores) e compile esse código para uma versão compatível com navegadores mais antigos.
+
+4. **Elm**: Elm é uma linguagem funcional compilada para JavaScript. Ela é projetada para criar aplicativos web front-end robustos e escaláveis, enfatizando a imutabilidade e a arquitetura de aplicativos orientada a modelos.
+
+Essas ferramentas e linguagens podem ser usadas para escrever JavaScript de maneira mais eficiente, segura e expressiva, facilitando o desenvolvimento de aplicativos web complexos.
 
 O Sass possui uma sintaxe muito parecida com o CSS comum. Isso significa que qualquer código CSS é interpretado pelo Sass!
 
