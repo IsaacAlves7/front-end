@@ -289,22 +289,23 @@ Besides that, the Box model have his positions:
 
 > OBS: Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda (top, right, bottom, left)
 
-Exemplo:</p>
-<pre>
+Exemplo:
+
+```css
 ul {
  margin: 12px;
  padding: 12px;
 }
-</pre>
+```
 
 Dessa forma, é possível inserir de uma vez os espaçamentos da ordem (top, right, bottom, left) de um modelo padrão de 12px para cada posição, porém não permite diferenciar e alterar uma posição da ordem, pois ambos foram solicitados para 12px. Outra forma, é inserir essa instrução passo a passo para a ordem (top, right, bottom, left) o que permite diferenciar o espaçamento de cada um, como desejado.
 
-<pre>
+```css
 ul {
  margin: 12px 12px 12px 12px; /*top, right, bottom, left = 12px*/
  padding: 12px 0px 12px 12px; /*espaçamento direito entre a borda e o conteúdo = 0px; top, left, bottom = 12px*/
 }
-</pre>
+```
 
 Outra forma é inserir a propriedade do box model de acordo com suas posições, o que não é muito prático.
 
@@ -385,7 +386,9 @@ Basicamente, a estrutura do documento html se baseia em `<!Doctype html>`, `<htm
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
-<pre>&lt;meta http-equiv="Content-Type" content="text/html;charset=UTF-8"&gt;</pre>
+```html
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+```
 
 Isso ainda é possível, mas a versão mais curta é preferível, já que é mais fácil de digitar e funciona em todo lugar.
 
@@ -1261,17 +1264,19 @@ p:first-child i {
 }
 </pre>
 
-## Pseudo-Elementos
-<p>Os <strong>pseudo-elementos</strong> são usados para estilizar partes específicas de um elemento. Como por exemplo: a primeira letra ou linha de um elemento ou talvez inserir um conteúdo antes ou depois do conteúdo de um elemento.</p>
+## [CSS3] Pseudo-Elementos
+Os <strong>pseudo-elementos</strong> são usados para estilizar partes específicas de um elemento. Como por exemplo: a primeira letra ou linha de um elemento ou talvez inserir um conteúdo antes ou depois do conteúdo de um elemento.
 
-### Syntax
+Sintaxe:
+
 <pre>
 selector::pseudo-element {
   property: value;
 }
 </pre>
 
-### Tipos de Pseudo-Elementos
+Tipos de Pseudo-Elementos:
+
 <table>
   <tr>
     <td><b>Pseudo-elemento</b></td>
@@ -1299,35 +1304,38 @@ selector::pseudo-element {
   </tr> 
 </table>
 
-### Exemplo 1:
-<pre>
-&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;style&gt;
+Exemplo 1:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 p::after { 
   content: " - Remember this";
 }
-&lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;p&gt;My name is Donald&lt;/p&gt;
-&lt;p&gt;I live in Ducksburg&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</pre>
-<pre>
+</style>
+</head>
+<body>
+   <p>My name is Donald</p>
+   <p>I live in Ducksburg</p>
+</body>
+</html>
+```
+
+```css
 ::selection {
   color: red;
   background: yellow;
 }
-</pre>
+```
 
-## Variáveis no CSS
-<p>As <strong>variáveis no CSS</strong> servem para definir um padrão para a maioria dos elementos HTML5, poupando assim muitas linhas de código na folha de estilo. É muito comum usar as variáveis para fazer uma paleta de cores para uma página web mais complexa.</p>
+## [CSS3] Variáveis no CSS
+As <strong>variáveis no CSS</strong> servem para definir um padrão para a maioria dos elementos HTML5, poupando assim muitas linhas de código na folha de estilo. É muito comum usar as variáveis para fazer uma paleta de cores para uma página web mais complexa.
 
-### Syntax
-<pre>
+Sintaxe:
+
+```css
 :root{
     --nome da variável: #141414;
 }
@@ -1335,9 +1343,9 @@ p::after {
 .bg{
   background-color: var(--nome da variável);
 }
-</pre>
+```
 
-<p>Basta utilizarmos a pseudo-classe <code>:root</code> e inserirmos os seletores <code>--nome da variável</code> para podermos atribuir os valores. Para chama-la é simples, basta somente utilizar o seletor desejável e o valor <code>var(--nome da variável)</code>.</p>
+Basta utilizarmos a pseudo-classe <code>:root</code> e inserirmos os seletores <code>--nome da variável</code> para podermos atribuir os valores. Para chama-la é simples, basta somente utilizar o seletor desejável e o valor <code>var(--nome da variável)</code>.
 
 ## Border (A Borda do elemento)
 
