@@ -878,16 +878,36 @@ Podemos definir os tipos de `<input>` e seus atributos:
 - `password`
 - `text`
 
-A diferença entre `a`, `input` and `button`:
+<img src="https://davidwalsh.name/demo/html5-buttons.png" height="77" align="right">
 
-<img src="https://davidwalsh.name/demo/html5-buttons.png" height="177" align="right">
+Os elementos `<a>`, `<input>` e `<button>` são todos usados para criar botões em uma página HTML, mas cada um tem finalidades ligeiramente diferentes e é usado em diferentes contextos.
 
-# 📰 HTML Semântico
-O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.
+`<a>` o âncora é usado para criar links em HTML. Ele é usado principalmente para navegar entre diferentes páginas da web ou ancorar-se em diferentes seções de uma página. Quando um usuário clica em um elemento `<a>`, ele é direcionado para o URL especificado no atributo `href`. Os elementos `<a>` geralmente são estilizados com CSS para se parecerem com botões, mas eles têm comportamento de link padrão.
 
+```html
+<a href="pagina.html">Link</a>
+```
+
+`<input>` é usado para criar elementos de entrada em um formulário HTML. Embora seja frequentemente usado para criar campos de entrada de texto, também pode ser usado para criar botões. O tipo de botão é especificado pelo atributo `type`. Alguns valores comuns para o atributo `type` são `"button"`, `"submit"` e `"reset"`. Os botões `<input>` são úteis quando você precisa enviar dados de um formulário para um servidor ou executar ações específicas quando um botão é clicado.
+
+```html
+<input type="button" value="Clique Aqui">
+```
+
+`<button>` é usado para criar botões em HTML. Ele pode conter texto, elementos de imagem ou outros elementos HTML. Assim como os botões `<input>`, os botões `<button>` podem ter um tipo específico especificado pelo atributo `type`, como `"button"`, `"submit"` ou `"reset"`. Os botões `<button>` oferecem mais flexibilidade em termos de conteúdo e comportamento do que os botões `<input>`, especialmente quando se trata de estilização e manipulação de eventos usando JavaScript.
+
+```html
+<button type="button">Clique Aqui</button>
+```
+
+Em resumo, se você está criando um botão para navegação, use `<a>`. Se está criando um botão para enviar dados de um formulário, use `<input type="submit">` ou `<button type="submit">`. Se está criando um botão para executar uma ação específica na página (como mostrar ou ocultar conteúdo), use `<button type="button">`.
+
+# 📰 [HTML5] HTML Semântico
 <img src="https://www.w3schools.com/html/img_sem_elements.gif" align="right" height="177"/>
 
-Até a versão 4 do HTML as <b>divs</b> eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma <b>folha de jornal</b>, pois ambas contém cabeçalhos, rodapés, artigos e seções.
+O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.
+
+Até a versão 4 do HTML as divs eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma <b>folha de jornal</b>, pois ambas contém cabeçalhos, rodapés, artigos e seções.
 
 - O elemento <code>&lt;section&gt;</code> (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.
 
