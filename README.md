@@ -2106,21 +2106,15 @@ Essas linguagens não são tecnicamente pré-processadores de HTML, mas podem se
 
 Essas ferramentas e linguagens podem ser usadas para escrever JavaScript de maneira mais eficiente, segura e expressiva, facilitando o desenvolvimento de aplicativos web complexos.
 
-O Sass possui uma sintaxe muito parecida com o CSS comum. Isso significa que qualquer código CSS é interpretado pelo Sass!
+Então, o Sass possui uma sintaxe muito parecida com o CSS comum. Isso significa que qualquer código CSS é interpretado pelo Sass! Possui uma grande comunidade e é utilizado por grandes frameworks, como o Bootstrap (que antigamente usava o Less), também possui um código bem maduro, com um desenvolvimento ativo há mais de 9 anos. Segundo uma pesquisa feita pelo ashleynola.co.uk, o Sass é utilizado por pelo menos 66% dos desenvolvedores. No Google Trends, se procurarmos por “Less” e “Sass”, veremos que o Sass é bem mais pesquisado. Ambos são ótimos pré-processadores e normalmente a escolha dependerá do gosto da equipe que estiver desenvolvendo o sistema.
 
-Possui uma grande comunidade e é utilizado por grandes frameworks, como o **Bootstrap** (que antigamente usava o Less), também possui um código bem maduro, com um desenvolvimento ativo há mais de 9 anos.
-
-Segundo uma pesquisa feita pelo ashleynola.co.uk, o Sass é utilizado por pelo menos 66% dos desenvolvedores. No Google Trends, se procurarmos por “Less” e “Sass”, veremos que o Sass é bem mais pesquisado. Ambos são ótimos pré-processadores e normalmente a escolha dependerá do gosto da equipe que estiver desenvolvendo o sistema.
-
-Quando começamos a ler sobre Sass, encontramos também o termo "SCSS". Afinal, qual a diferença?
-
-> **Sass** é o nome do pré-processador, originalmente criado em **Ruby** (A linguagem de programação Ruby). No começo, era necessário instalar o Ruby em sua máquina para poder gerar o CSS.
+Quando começamos a ler sobre Sass, encontramos também o termo "SCSS". Afinal, qual a diferença? Sass é o nome do pré-processador, originalmente criado em Ruby. No começo, era necessário instalar o Ruby em sua máquina para poder gerar o CSS.
 
 A sintaxe era bem diferente do CSS comum:
 
 [![Sass](https://img.shields.io/badge/-style.sass-000?style=social&logo=Sass&logoColor=pink)](#)
 
-```scss
+```sass
   #my-div
   color: red
   &:hover
@@ -2155,7 +2149,7 @@ Similar ao:
   }
 ```
 
-A nova sintaxe do Sass utiliza a extensão "**.scss**", diferente da antiga que utilizava a extensão ".sass".
+A nova sintaxe do Sass utiliza a extensão `.scss`, diferente da antiga que utilizava a extensão `.sass`.
 
 <blockquote><b>Resumindo:</b> “sass” e “scss” são as duas sintaxes do Sass. Você ainda pode utilizar a sintaxe .sass, mas o mais recomendado é usar a sintaxe <b>.scss</b>, por ser mais parecido com o CSS comum.</blockquote>
 
@@ -2165,12 +2159,12 @@ Para uma lista completa, acesse: http://sass-lang.com/libsass
 
 <img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" height="77" align="right"/>
 
-<p>Como foi dito, não é mais preciso obter o Ruby em nossa máquina para poder utilizar o Sass. Podemos compilar o Sass a partir de C, Go, Java, Node.js, PHP, Python, etc. Vamos aprender como configurar e rodar o Sass no ambiente Node.js:
+Como foi dito, não é mais preciso obter o Ruby em nossa máquina para poder utilizar o Sass. Podemos compilar o Sass a partir de C, Go, Java, Node.js, PHP, Python, etc. Vamos aprender como configurar e rodar o Sass no ambiente Node.js:
 
 Como a maioria dos desenvolvedores front-end usam o Node.js atualmente, veremos como configurá-lo para compilar nosso Sass para CSS.
 Primeiro, obtenha o Node.js em: https://nodejs.org/
 
-Após instalar o Node.js em sua máquina, criaremos um diretório chamado Sass.</p>
+Após instalar o Node.js em sua máquina, criaremos um diretório chamado Sass.
 
 # ☂️ Framework Bootstrap
 <a href="https://getbootstrap.com/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="77" align="right"></a>
