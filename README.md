@@ -6,6 +6,7 @@
 <div align="center"><img src="https://images.fineartamerica.com/images/artworkimages/medium/3/keep-calm-and-let-the-web-developer-handle-it-funny-gift-ideas-transparent.png" height="177"></div>
 
 - https://www.frontendmentor.io/
+- https://daily.dev/
 - https://getcssscan.com/css-box-shadow-examples
 - https://whirl.netlify.app/
 - https://flexboxfroggy.com/
