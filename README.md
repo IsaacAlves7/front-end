@@ -35,7 +35,7 @@ Além disso, os sites também podem ser classificados em estáticos ou dinâmico
 Já os sites dinâmicos, além de usufruírem do HTML, CSS e JavaScript, também utilizam linguagens de programação mais robustas, como PHP. Estes sites possuem funcionalidades conectadas a um banco de dados. Dessa forma, cada página acessada pode trazer dados específicos.  
 
 # 🎨 Web Design
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/artist-palette_1f3a8.png" height="77" align="right">
+<a href="https://www.websitebuilderexpert.com/designing-websites/how-to-choose-color-for-your-website/"><img src="https://em-content.zobj.net/source/microsoft-teams/363/artist-palette_1f3a8.png" height="77" align="right"></a>
 
 Com o **Web Design** você precisa observar a importância da interface para o desenvolvimento de websites, evolução das tecnologias utilizadas na construção de páginas web ricas (web 1.0, web 2.0, web 3.0 e web 4.0), evolução das interfaces (mudanças estéticas, funcionais e estruturais).
 
