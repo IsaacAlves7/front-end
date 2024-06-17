@@ -41,6 +41,32 @@ Com o **Web Design** você precisa observar a importância da interface para o d
 
 Portanto, você necessita compreender a importância da elaboração de interfaces ricas para a construção de um website, visando a melhor experiência de navegação e usabilidade para o usuário final, conhecendo algumas tecnologias utilizadas no passado para a construção de sites online. A partir dessa visão, observar antigas tendências de mercado, assim como enxergar novas tendências na elaboração de interfaces.
 
+Paleta de cores:
+
+- https://paletadecolores.online/pt/magenta/
+- https://simpleicons.org/
+- https://colorhunt.co/
+- https://coolors.co/
+- https://colors.muz.li/
+- https://www.toptal.com/designers/colourcode/
+- https://lospec.com/palette-list
+- https://mycolor.space/
+- https://www.pantone.com/articles/color-palettes
+- https://atmos.style/color-generator
+- https://github.com/EmilHvitfeldt/r-color-palettes
+- https://www.color-hex.com/color-palettes/
+- https://visme.co/blog/website-color-schemes/
+- https://colorpalettes.com/
+- https://colorpalettes.net/
+
+Gradientes:
+
+- https://www.grabient.com/
+- http://gradientsguru.com/
+- https://www.eggradients.com/
+- https://uigradients.com/#Zinc
+- https://webgradients.com/
+
 # 🌐 Web Development
 <img src="https://em-content.zobj.net/source/microsoft-teams/363/globe-with-meridians_1f310.png" height="77" align="right">
 
