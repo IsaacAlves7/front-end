@@ -1016,7 +1016,6 @@ Vamos usar um elemento HTML que vimos anteriormente, a âncora , para exemplific
 
 Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o <b>a</b>, então dentro de um par de chaves adicionamos as <strong>declarações</strong>, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as <b>declarações</b> são formadas por uma propriedade e um valor.</p>
 
-# Tipos de Seletores, Declarações, Propriedades e Valores
 Uma regra CSS é representada por:
 <ul>
 <li><strong>Propriedade:</strong> Determina a modificação a ser feita.</li>
