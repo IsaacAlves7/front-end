@@ -1956,26 +1956,20 @@ section {
 ## Mobile First
 
 ## Viewport 
+`not` usamos para dispositivos monocromáticos, pois estamos negando o atributo color.
 
-### `not`
-<p>Usamos para dispositivos monocromáticos, pois estamos negando o atributo color.</p>
 <pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
 
 <p>No próximo exemplo, podemos definir a resolução de vídeo que queremos modificar:</p>
 
 <pre>&lt;link rel="stylesheet" href="estilo.css" media="screen and (max-width: 480px)"/&gt;</pre>
 
-<blockquote>As modificações serão feitas em dispositivos de media screen e com resolução máxima de 480px.</blockquote>
+> As modificações serão feitas em dispositivos de media screen e com resolução máxima de 480px.
 
-### `or
-<p>Define a localização do arquivo.css.</p>
+`or` Define a localização do arquivo.css.
 <pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
 
-### `only`
-<p>Define o tipo de saída do arquivo.</p>
-</ul>
-
-### A importância do Viewport para layouts responsivos
+`only` Define o tipo de saída do arquivo.
 
 ### Layout multicolunas
 Sua principal vantagem é a flexibilidade, pois independe de dispositivo. Esta especificação permite que o conteúdo da página se adeque de uma coluna para outra e o número de colunas pode variar dependendo do tamanho da janela.
