@@ -265,13 +265,13 @@ Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adiciona
 <style> * { margin: 0; padding: 0;} </style>
 ```
   
-<b>CSS externo</b>: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML. <b>Exemplo de CSS externo:
+<b>CSS externo</b>: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML. Exemplo de CSS externo:
   
 ```html
 <link rel="stylesheet" href="/assets/public/styles/css/style.css">
 ```
   
-<b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada. Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código. <b>Exemplo de CSS inline:</b><br>
+<b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada. Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código. Exemplo de CSS inline:
   
 ```html
 <p style="color:olive;font-size:19px;background-color:black"></p>
