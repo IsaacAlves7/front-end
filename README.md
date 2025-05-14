@@ -437,7 +437,6 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 <pre>&lt;html lang="pt-br"&gt;&lt;/html&gt;</pre>
 
-<h2>&lt;head&gt;</h2>
 <p>O <code>&lt;head&gt;</code> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <b>metadados</b>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos <b>CSS</b> e <strong>JavaScript</strong>.
 
 <p>No <b>&lt;head&gt;</b> encontramos:
@@ -504,7 +503,8 @@ Chamando uma ícone para a guia do navegador:
 </pre>
   </p>
 </ul>
-<h2>&lt;body&gt;</h2>
+
+
 O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</code>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
 <ul>
 <li><code>&lt;h1&gt;&lt;h2&gt;&lt;h3&gt;&lt;h4&gt;&lt;h5&gt;&lt;h6&gt;</code> tags de títulos que são por ordem de h1-h6 diminuindo a fonte (do maior para o menor). <code>&lt;hgroup&gt;</code> é uma tag para um grupo de tags, não possui valor semântico, apenas serve para deixar o código mais legível.</li>
