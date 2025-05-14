@@ -347,7 +347,7 @@ Dentro de um documento `.css` podemos aplicar nas primeiras linhas, a chamada de
 @import url("narrow.css") handheld and (max-width: 400px); /* mídia específica mídias portáteis*/
 ```
 
-Os principais conceitos do CSS são divididas em categorias conforme a seguir:
+O CSS nível 3 implementou o conceito de módulos, em que cada módulo é desenvolvido de forma independente, seguindo um cronograma próprio. A principal vantagem é independência na construção das novas funcionalidades. Os principais conceitos do CSS são divididas em categorias conforme a seguir:
 
 - <a href="">Seletores, Declarações, Propriedades e Valores</a>
 - <a href="https://github.com/IsaacAlves7/web#-css-box-model">Box Model, padding e margin</a>
@@ -424,9 +424,6 @@ ul {
 ```
 
 > OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.
-
-## Conceito de Módulos
-O CSS nível 3 implementou o conceito de módulos, em que cada módulo é desenvolvido de forma independente, seguindo um cronograma próprio. A principal vantagem é independência na construção das novas funcionalidades.
 
 ## Seletores e Declarações
 Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
