@@ -646,13 +646,13 @@ As listas são importantes para a organização do texto e orientação do usuá
   <li><code>_top</code> abre o documento no corpo todo da janela.</li>
 </ul>
 
-### Exemplo 1: Abrindo o link em uma nova guia
+Exemplo 1: Abrindo o link em uma nova guia
 <pre>&lt;a href="https://www.google.com/" target="_blank"&gt;Clique no endereço&lt;/a&gt;</pre>
 
-### Exemplo 2: Linkando dentro das imagens
+Exemplo 2: Linkando dentro das imagens
 <pre>&lt;a href="https://www.google.com/" target="_self"&gt;&lt;img src="/assets/public/images/img.svg" height="100"&gt;&lt;/a&gt;</pre>
 
-### Exemplo 3: Enviando mensagem para o email
+Exemplo 3: Enviando mensagem para o email
 <pre>&lt;a href="mailto:webmaster07@gmail.com"&gt;Enviar email&lt;/a&gt;</pre>
 
 # 🔊 [HTML5] TAGs de Multimedia
@@ -1296,7 +1296,7 @@ O <code>a:hover</code> do exemplo significa que a âncora também terá essa apa
   </tr>
 </table>
 
-### Aplicações:
+Aplicações:
 ![img11](https://user-images.githubusercontent.com/61624336/112897063-8a609d80-90b5-11eb-84a6-977c76e21cf2.jpg)
 ![img12](https://user-images.githubusercontent.com/61624336/112897068-8b91ca80-90b5-11eb-9683-751146a318d6.jpg)
 ![img13](https://user-images.githubusercontent.com/61624336/112897072-8d5b8e00-90b5-11eb-9961-9fa0e8dc799a.jpg)
@@ -1306,7 +1306,7 @@ O <code>a:hover</code> do exemplo significa que a âncora também terá essa apa
 ![img17](https://user-images.githubusercontent.com/61624336/112897107-964c5f80-90b5-11eb-97f4-eec02f0f0bcd.jpg)
 
 
-### Exemplo 1:
+Exemplo 1:
 <pre>
 p:first-child {
   color: blue;
@@ -1564,7 +1564,7 @@ No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
   </tr>
 </table>
 
-### Exemplo:
+Exemplo:
 <pre>
  h1{
    font-size: 250%;
@@ -1609,7 +1609,7 @@ No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
   </tr>
 </table>
 
-### Exemplo:
+Exemplo:
 <pre>
 ul {
   list-style-type: square;
@@ -1624,7 +1624,7 @@ ul {
 }
 </pre>
 
-### Exemplo: Estilizando a lista com imagem
+Exemplo: Estilizando a lista com imagem
 <pre>
 ul {
   list-style-type: url('rocket.png');
@@ -1872,7 +1872,7 @@ function rotate(value){
   </tr>
 </table>
 
-### Exemplo de aplicação: Fotos de uma câmera Polaroid
+Exemplo de aplicação: Fotos de uma câmera Polaroid
 ```html
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
