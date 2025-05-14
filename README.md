@@ -377,7 +377,7 @@ Em 1995, o desenvolvimento de páginas web ganha um poderosíssimo aliado, que o
 
 > **Comentário**: Um dos problemas da utilização dessa até então nova tecnologia é que o Javascript necessitava ser carregado no topo da página, o que aumentava consideravelmente o tempo de carregamento dos sites. É de se salientar que em meados dos anos 1990, a velocidade máxima de conexão com a internet não ultrapassava a velocidade de 56Kpbs. Muitas das funções iniciais do Javascript acabaram sendo incorporadas ao CSS. 
 
-# 💻 [Front-End] A Estrutura do Website
+# 💻 [Front] A Estrutura do Website
 
 Tudo começa com o diretório, e dentro dele as pastas `/public/` e `/src/` , e lá os arquivos `index.html` e `style.css`.
 
@@ -573,10 +573,10 @@ O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</co
 <pre>&lt;pre&gt;&lt;code&gt;console.log('Hello, World!');&lt;/code&gt;&lt;/pre&gt;</pre>
 </ul>
 
-# 🖼️ TAG de Imagem
+# 🖼️ [Front] Imagem
 <pre>&lt;img src="/assets/public/img/img.svg"&gt;</pre>
 
-# 📋 TAGs de Listas
+# 📋 [Front] Listas
 As listas são importantes para a organização do texto e orientação do usuário.
 
 - `<ul>` define uma lista comum, não-numerada (não-ordenada).
@@ -625,7 +625,7 @@ As listas são importantes para a organização do texto e orientação do usuá
 </dl>
 ```
 
-# 🔗 [HTML5] TAG de Âncora
+# 🔗 [Front] Âncora
 <div align="center"><img src="https://www.computerhope.com/jargon/h/html-tag.gif"></div>
 <p><code>&lt;a&gt;</code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <code><b>href="mailto:webmaster@example.com"</b></code> que irá enviar uma mensagem para seu email.</p>  
 
@@ -646,7 +646,7 @@ Exemplo 2: Linkando dentro das imagens
 Exemplo 3: Enviando mensagem para o email
 <pre>&lt;a href="mailto:webmaster07@gmail.com"&gt;Enviar email&lt;/a&gt;</pre>
 
-# 🔊 [HTML5] TAGs de Multimedia
+# 🔊 [Front] Multimedia
 <img src="https://jibigit.github.io/cheat-html/images/media.png" align="right" height="77">
 
 O termo mídia digital é oposto de mídia analógica, esta era configurada por uma base material: o som era gravado em pequenos sulcos, sobre uma superfície de vinil e, quando uma agulha passava por esses sulcos o som era reproduzido. Nas mídias digitais o suporte físico praticamente desaparece, e os dados são convertidos em sequências numéricas ou de dígitos - por isso uso do termo digital. Dessa forma, os sons, imagens, textos, são na realidade sequências de números, o que permite o compartilhamento, armazenamento e conversão de dados. No sentido mais amplo, mídia digital pode ser definida como o conjunto de veículos e aparelhos de comunicação baseados em tecnologia digital, permitindo a distribuição ou comunicação digital das obras intelectuais escritas, sonoras ou visuais. Meios de origem eletrônica utilizados nas estratégias de comunicação das marcas com seus consumidores, geralmente chamada de mídia digital.
@@ -711,7 +711,7 @@ Todos os exemplos de audio e video citados são importados via documento no dire
 
 Vamos ver como importar videos do YouTube e do Vimeo, passo a passo!
 
-# 🔲 [HTML5] TAGs de Tabelas
+# 🔲 [Front] Tabelas
 Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
 
 Entretanto, hoje, o uso de tabelas está, de fato, interferindo na construção de sites melhores, mais acessíveis, flexíveis e funcionais, principalmente para as novas mídias, como os celulares, tablets etc.
@@ -767,7 +767,6 @@ O comando <code>&lt;table&gt;</code> tem uma série de atributos que ajudam na f
 
 `<caption>` exibe um texto centralizado em relação à tabela, como se fosse uma legenda.
 
-### Atributo Rules
 Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo <code>RULES</code>, dentro da tag . Os complementos desse atributo são:
 
 <table>
