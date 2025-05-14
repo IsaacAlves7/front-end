@@ -1411,10 +1411,10 @@ h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
 Exemplo de utilização:</p>
 <pre>#xy34 { border-style: solid dotted }</pre>
 
-### Tipos de Borda
+Tipos de Borda:
 ![Tipos de bordas](https://user-images.githubusercontent.com/61624336/108574726-eb4ac800-72f6-11eb-9906-b8f8e1ca5d5c.png)
 
-### 🔺 Como fazer Bordas de Triângulos 🔻
+🔺 Como fazer Bordas de Triângulos:
 ![como fazer triângulos com bordas](https://user-images.githubusercontent.com/61624336/107122854-0ccc9e00-6879-11eb-9ec0-9f604afc59c8.gif)
 
 ## Content (O Conteúdo do Elemento)
