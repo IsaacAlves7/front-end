@@ -1418,17 +1418,16 @@ Tipos de Borda:
 
 ## Content (O Conteúdo do Elemento)
 
-# Foreground e Background
-<p>O CSS permite alterar as cores de primeiro plano (<em>foreground</em>) e plano de fundo (<em>background</em>) dos elementos. O W3C recomenda que a regra background seja utilizado no elemento <em>body</em>.
+# 🖼️ [Front] Foreground e Background
+O CSS permite alterar as cores de primeiro plano (<em>foreground</em>) e plano de fundo (<em>background</em>) dos elementos. O W3C recomenda que a regra background seja utilizado no elemento <em>body</em>.
 
 Sempre que pensamos em criar um layout, devemos configurar a cor de fundo (background) para que a página que será aberta apresente a mesma cor em qualquer navegador. Caso não seja definida, corre o risco do usuário ter modificado a cor padrão da máquina e como não está configurada no HTML, a página vai mostrar a cor padrão, alterando, assim, o que foi definido no layout.
 
-O mesmo caso acontece com a cor da fonte (foreground) que deve ser definida da mesma forma. O W3C recomenda sempre que o body contenha essas definições para que todas as páginas apresentem uma formatação.</p>
+O mesmo caso acontece com a cor da fonte (foreground) que deve ser definida da mesma forma. O W3C recomenda sempre que o body contenha essas definições para que todas as páginas apresentem uma formatação.
 
-## Background
-<p>Para alterar a cor de fundo de uma página HTML, usando atributos do CSS, devemos usar conforme o exemplo:</p>
+Background para alterar a cor de fundo de uma página HTML, usando atributos do CSS, devemos usar conforme o exemplo:
 
-### Modificando a cor do plano de fundo (background):
+Modificando a cor do plano de fundo (background):
 <p>Dentro da Tag &lt;body&gt;, alteramos o atributo <b>background-color</b> com a cor desejada.</p>
 
 <pre>
@@ -1485,10 +1484,9 @@ body{
 
 `attachment` fixa a imagem e `position` determina a sua localização. O resultado é a imagem totalmente centralizada na página.
 
-## Gradientes 
-É muito usado para mesclar duas ou mais cores no background, o que deixa a interface mais moderna e atraente ao usuário.
+Gradientes são muito usado para mesclar duas ou mais cores no background, o que deixa a interface mais moderna e atraente ao usuário.
 
-### Linear-gradient
+Linear-gradient
 
 # [CSS] Trabalhando com textos
 <p>Uma das novidades do CSS 3 é o uso de fontes da própria internet, podemos agora usar fontes livres que são disponíveis na internet, sem que tenha a necessidade de estar instalada na máquina do usuário.
