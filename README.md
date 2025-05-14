@@ -174,7 +174,6 @@ Uma TAG pode conter <b>atributos</b>, que são informações que alteram o compo
 
 Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o <b>CSS</b>, o <b>Javascript</b>.
 
-## Atributos de uma TAG
 <b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
 
 Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <code>&lt;link&gt;</code>:
@@ -185,7 +184,8 @@ Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você 
 
 Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no caso é <code>rel="stylesheet"</code> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <code>href=""</code> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
 
-### Atributos Específicos de uma TAG
+Atributos Específicos de uma TAG:
+
 <table>
   <tr>
     <td><strong>Atributo</strong></td>
@@ -229,7 +229,8 @@ Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no 
   </tr>
 </table>
 
-### Atributos Globais de uma TAG
+Atributos Globais de uma TAG:
+
 <table>
   <tr>
     <td><strong>Atributo</strong></td>
