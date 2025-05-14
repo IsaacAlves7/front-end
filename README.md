@@ -682,7 +682,7 @@ O problema apresentado pelo novo comando é o uso do atributo <code>src</code> q
 
 O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.
 
-## video
+video:
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
 ```html
@@ -693,7 +693,7 @@ O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite
 </video>
 ```
 
-## audio
+audio:
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
 ```html
@@ -710,7 +710,6 @@ Existem diversos <b>codecs</b>, possíveis e você precisará exportar pelo meno
 
 Todos os exemplos de audio e video citados são importados via documento no diretório. E a dúvida é, como faço para importar um vídeo já hospedado em um site como o YouTube ou o Vimeo? E qual das duas soluções (Via documento ou via server) é a mais vantajosa?
 
-### Importando video
 Vamos ver como importar videos do YouTube e do Vimeo, passo a passo!
 
 # 🔲 [HTML5] TAGs de Tabelas
