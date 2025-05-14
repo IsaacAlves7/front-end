@@ -492,24 +492,21 @@ h1 em { color: blue } /* indica que os elementos em contidos em um elemento h1 p
 
 <p>Este exemplo, todos os elementos <strong>p</strong> serão de cor verde quando estiverem dentro de um elemento item &lt;li&gt;, filho de uma lista &lt;ol&gt; dentro de uma &lt;div&gt;.</p>
 
-### Seletores por prioridade
-<p>Um elemento por prioridade é caracterizado quando os elementos são separados por "+". Ou seja, o primeiro parágrafo que vem depois da div.</p>
+Seletores por prioridade: Um elemento por prioridade é caracterizado quando os elementos são separados por "+". Ou seja, o primeiro parágrafo que vem depois da div.</p>
 <pre>
  div + p {
    color: red;
  }
 </pre>
 
-### Seletores por atributos
-<p>Especifica regras para os elementos que possuem determinado atributo.
+Seletores por atributos: Especifica regras para os elementos que possuem determinado atributo.
 
 Exemplo:</p>
 <pre>span[hello="Cleveland"][goodbye="Columbus"] { color: blue; }</pre>
 
 <p>A regra será aplicada a todos os elementos span que possuem o atributo hello="Cleveland" e o atributo goodbye="Columbus".</p>
 
-### Seletores por classes
-<p>Uma classe permite atribuir um conjunto de regras a um determinado elemento. É determinado por asterisco ponto (*.) ou simplesmente ponto (.).
+Seletores por classes: Uma classe permite atribuir um conjunto de regras a um determinado elemento. É determinado por asterisco ponto (*.) ou simplesmente ponto (.).
 
 Exemplo:</p>
 <pre>
@@ -518,8 +515,7 @@ Exemplo:</p>
 *.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
 </pre>
 
-### Seletores por ID
-<p>O atributo ID permite identificar um elemento único no documento HTML. Para selecionar este elemento basta utilizar o caracter “#” seguindo pelo nome do elemento.
+Seletores por ID: O atributo ID permite identificar um elemento único no documento HTML. Para selecionar este elemento basta utilizar o caracter “#” seguindo pelo nome do elemento.
 
 Exemplo:</p>
 <pre>
@@ -527,8 +523,7 @@ h1#titulo1 { text-align: center } /* aplica a regra ao elemento h1 com o id=titu
 *.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
 </pre>
 
-## ID x Class
-<p>No exemplo anterior criamos uma regra que altera um elemento HTML diretamente, mas isso significa que todos os elementos <a> ficarão com aquela aparência, e normalmente temos sites mais complexos que precisam de várias regras diferentes para elementos iguais.
+No exemplo anterior criamos uma regra que altera um elemento HTML diretamente, mas isso significa que todos os elementos <a> ficarão com aquela aparência, e normalmente temos sites mais complexos que precisam de várias regras diferentes para elementos iguais.
 
 Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer no módulo passado, ele tinha vários elementos header, mas não vamos querer que o header principal tenha a mesma formatação que o header de uma postagem, é aí que entram os IDs e Classes.
 
@@ -544,8 +539,7 @@ O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele represen
 
 E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
 
-
-## Pseudo-Classes
+## [CSS3] Pseudo-Classes
 E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento. As pseudo-classes são bem parecidas com os eventos do JavaScript, porém não possuem o mesmo poder de manipular os elementos.
   
 Sintaxe:
