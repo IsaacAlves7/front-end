@@ -425,7 +425,7 @@ ul {
 
 > OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.
 
-## Seletores e Declarações
+## [CSS3] Seletores, Declarações, Propriedades e Valores
 Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
 
 A sintaxe é bem simples e pode ser explicada com a frase "você cria regras de estilo para elementos ou grupos de elementos".
