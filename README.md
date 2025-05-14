@@ -456,14 +456,11 @@ Uma regra CSS é representada por:
   <li>{color:#000;} = declaração</li>
 </ul>
 
-## Seleção de elementos
-<p>No CSS, a seleção de elementos pode variar de uma forma simplificada até padrões contextuais ricos.</p>
+No CSS, a seleção de elementos pode variar de uma forma simplificada até padrões contextuais ricos.
 
-## Tipos de seleção
-<p>Os tipos de seleção são muito importantes, pois a ordem deles alteram no resultado do processamento da página.</p>
+Os tipos de seleção são muito importantes, pois a ordem deles alteram no resultado do processamento da página.
 
-### Agrupamento
-<p>O CSS permite agrupar declarações repetidas.
+**Agrupamento**: O CSS permite agrupar declarações repetidas.
 
 Exemplo:</p>
 <pre>
@@ -480,8 +477,7 @@ font-family: sans-serif
 </pre>
 <blockquote>OBS: Todos os h1, todos os h2 e todos os h3</blockquote>
 
-### Seletores descendentes
-Um elemento pode estar contido dentro de outro elemento.
+**Seletores descendentes**: Um elemento pode estar contido dentro de outro elemento.
 
 Exemplo:
 &lt;H1&gt;Este texto é &lt;EM&gt;muito&lt;/EM&gt; importante&lt;/H1&gt;</p>
@@ -491,8 +487,7 @@ em { color: red } /* indica que todos os elementos em possuem a cor vermelha */
 h1 em { color: blue } /* indica que os elementos em contidos em um elemento h1 possuem a cor azul */
 </pre>
 
-### Seletores filhos
-Um elemento filho é caraterizado quando os elementos são separados por “>".
+**Seletores filhos**: Um elemento filho é caraterizado quando os elementos são separados por “>".
 <pre>div ol &gt; li p {color: green }</pre>
 
 <p>Este exemplo, todos os elementos <strong>p</strong> serão de cor verde quando estiverem dentro de um elemento item &lt;li&gt;, filho de uma lista &lt;ol&gt; dentro de uma &lt;div&gt;.</p>
