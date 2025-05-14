@@ -1908,33 +1908,9 @@ div.rotate_left{
 # 📺 [Front] Displays
 
 # 📱 [Front] Responsive Layout
-
-## Flexbox Layout
-<img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="177" align="right"/>
-
-## Grid Layout
-<img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="177" align="right"/>
-
-## Unidades de resolução responsivas
-`vh`, `%`, `em`
-
-## Mobile First
-
-## Padrão para tela inteira responsiva (Responsive Landing Page)
-```css
-section {
-   width: 100%; height: 100vh;
-}
-```
-
-## Viewport 
-
-## Media Queries
 <img src="https://user-images.githubusercontent.com/61624336/112909640-3ca16080-90c8-11eb-85a4-d5cc3a6aaa85.gif" align="right" height="177">
 
-Podemos definir **media queries** como a maneira que o navegador define que formatação de página vai apresentar a cada tipo de dispositivo.
-
-Os <strong>media types</strong> são definidos para cada tipo de media recebendo um certo código CSS, fazendo com que o navegador direcione a abertura da página de uma certa forma. O HTML foi gerado para ser portátil, ou seja, lido e interpretado por qualquer tipo de dispositivo. Só que cada dispositivo exibe o HTML de uma maneira, devido a fatores como, por exemplo, as dimensões da tela.
+Podemos definir **media queries** como a maneira que o navegador define que formatação de página vai apresentar a cada tipo de dispositivo. Os **media types** são definidos para cada tipo de media recebendo um certo código CSS, fazendo com que o navegador direcione a abertura da página de uma certa forma. O HTML foi gerado para ser portátil, ou seja, lido e interpretado por qualquer tipo de dispositivo. Só que cada dispositivo exibe o HTML de uma maneira, devido a fatores como, por exemplo, as dimensões da tela.
 
 Imagine que visitamos um site em um desktop; ele não terá o mesmo aspecto se visitarmos o mesmo site em um dispositivo móvel. Isso ocorre porque são dispositivos diferentes e formas diferentes de navegação. Por isso, a importância de usar essa nova forma de definição de CSS. Isso facilita a leitura do site em mídias diferentes.
 
@@ -1963,6 +1939,27 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
 <p>Com esse arquivo definimos que ele será usado quando for acessado pela mídia correspondente. Dessa maneira, o CSS não será aplicado em <strong>dispositivos monocromáticos.</strong></p>
 
 <p>Nas <em>media queries</em> são utilizados três operadores lógicos:</p>
+
+
+## Flexbox Layout
+<img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="177" align="right"/>
+
+## Grid Layout
+<img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="177" align="right"/>
+
+## Unidades de resolução responsivas
+`vh`, `%`, `em`
+
+## Mobile First
+
+## Padrão para tela inteira responsiva (Responsive Landing Page)
+```css
+section {
+   width: 100%; height: 100vh;
+}
+```
+
+## Viewport 
 
 ### `not`
 <p>Usamos para dispositivos monocromáticos, pois estamos negando o atributo color.</p>
