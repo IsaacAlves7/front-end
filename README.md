@@ -306,6 +306,47 @@ Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adiciona
 <p style="color:olive;font-size:19px;background-color:black"></p>
 ```
 
+Estilo incorporado ou interno: Caracteriza-se por escrever o código CSS, utilizando o comando <strong>&lt;style&gt;</strong> do HTML. Esse método é superior ao anterior, pois <b>todas as regras CSS</b> estão localizadas no início do código HTML5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
+
+Exemplo de utilização:
+
+```html
+ <head>
+  <style>
+   * {margin: 0; padding: 0; box-sizing: border-box;}
+   body {width: 100%; height: 100vh;}
+  </style>
+ </head>
+```
+
+Estilo externo: As regras foram escritas em um arquivo com extensão <b>.css</b> e podem ser carregadas ao documento HTML5 de duas formas:
+
+Utilizando o elemento &lt;link&gt; no HTML
+
+```html
+<head>
+  <link rel="stylesheet" href="default.css">
+  <link rel="stylesheet" href="green.css" title="Green styles">
+  <link rel="alternate stylesheet" href="contrast.css" title="High contrast">
+  <link rel="alternate stylesheet" href="big.css" title="Big fonts">
+  <link rel="alternate stylesheet" href="wide.css" title="Wide screen">
+</head>
+```
+
+Utilização do elemento `@import` no CSS permite <b>importar</b> regras de estilo dentro de outras regras de estilo. Esse método permite aplicar regras comuns a todos os documentos HTML.
+
+**Exemplo de utilização**:
+
+Dentro de um documento `.css` podemos aplicar nas primeiras linhas, a chamada de arquivos externos, para utilizar comandos já existentes.
+
+```css
+@import "mystyle.css";
+@import url("mystyle.css");
+@import url("fineprint.css") print; /* mídia específica para impressão */
+@import url("bluish.css") projection, tv; /* mídia específica grandes mídias*/
+@import url("narrow.css") handheld and (max-width: 400px); /* mídia específica mídias portáteis*/
+```
+
 Os principais conceitos do CSS são divididas em categorias conforme a seguir:
 
 - <a href="">Seletores, Declarações, Propriedades e Valores</a>
@@ -383,49 +424,6 @@ ul {
 ```
 
 > OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.
-
-### Estilo incorporado ou interno
-Caracteriza-se por escrever o código CSS, utilizando o comando <strong>&lt;style&gt;</strong> do HTML. Esse método é superior ao anterior, pois <b>todas as regras CSS</b> estão localizadas no início do código HTML5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
-
-Exemplo de utilização:
-
-```html
- <head>
-  <style>
-   * {margin: 0; padding: 0; box-sizing: border-box;}
-   body {width: 100%; height: 100vh;}
-  </style>
- </head>
-```
-
-### Estilo externo
-As regras foram escritas em um arquivo com extensão <b>.css</b> e podem ser carregadas ao documento HTML5 de duas formas:
-
-#### Utilizando o elemento &lt;link&gt; no HTML
-```html
-<head>
-  <link rel="stylesheet" href="default.css">
-  <link rel="stylesheet" href="green.css" title="Green styles">
-  <link rel="alternate stylesheet" href="contrast.css" title="High contrast">
-  <link rel="alternate stylesheet" href="big.css" title="Big fonts">
-  <link rel="alternate stylesheet" href="wide.css" title="Wide screen">
-</head>
-```
-
-#### Utilização do elemento `@import` no CSS
-Permite <b>importar</b> regras de estilo dentro de outras regras de estilo. Esse método permite aplicar regras comuns a todos os documentos HTML.
-
-**Exemplo de utilização**:
-
-Dentro de um documento `.css` podemos aplicar nas primeiras linhas, a chamada de arquivos externos, para utilizar comandos já existentes.
-
-```css
-@import "mystyle.css";
-@import url("mystyle.css");
-@import url("fineprint.css") print; /* mídia específica para impressão */
-@import url("bluish.css") projection, tv; /* mídia específica grandes mídias*/
-@import url("narrow.css") handheld and (max-width: 400px); /* mídia específica mídias portáteis*/
-```
 
 ## Conceito de Módulos
 O CSS nível 3 implementou o conceito de módulos, em que cada módulo é desenvolvido de forma independente, seguindo um cronograma próprio. A principal vantagem é independência na construção das novas funcionalidades.
