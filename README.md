@@ -2095,7 +2095,8 @@ Tornar o box flexível:
 }
 ```
 
-### Definir as medias do box
+Definir as medias do box:
+
 ```css
 .box-flex {
 /* width: 80px; */
