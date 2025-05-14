@@ -22,7 +22,6 @@
 - https://www.greatfrontend.com/pt-BR
 - https://echarts.apache.org/en/index.html
 
-# 🌐 O que é um website?
 Quando falamos sobre website, podemos notar que este termo se trata da junção de duas palavras em inglês: “web”, que significa rede e faz referência a rede mundial de computadores, e “site”, que quer dizer lugar. Nesse sentido, um website ou site é um local que pode ser acessado na internet, por meio de uma URL, e possui um conjunto de páginas programadas em alguma linguagem. 
 
 Para entendermos melhor sobre esse assunto, vamos a um exemplo: quando você digita em seu navegador de internet o endereço blog.betrybe.com para acessar o blog da Trybe, o navegador vai buscar onde este site está localizado na internet. Em seguida, será feita uma requisição ao servidor. 
