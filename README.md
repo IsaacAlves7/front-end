@@ -1936,10 +1936,19 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
   <li><strong>media</strong> = define o tipo de saída do arquivo.</li>
 </ul>
 
-<p>Com esse arquivo definimos que ele será usado quando for acessado pela mídia correspondente. Dessa maneira, o CSS não será aplicado em <strong>dispositivos monocromáticos.</strong></p>
+Com esse arquivo definimos que ele será usado quando for acessado pela mídia correspondente. Dessa maneira, o CSS não será aplicado em <strong>dispositivos monocromáticos.</strong>
 
-<p>Nas <em>media queries</em> são utilizados três operadores lógicos:</p>
+Nas <em>media queries</em> são utilizados três operadores lógicos:
 
+Unidades de resolução responsivas: `vh`, `%`, `em`
+
+Padrão para tela inteira responsiva (Responsive Landing Page):
+
+```css
+section {
+   width: 100%; height: 100vh;
+}
+```
 
 ## Flexbox Layout
 <img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="177" align="right"/>
@@ -1947,17 +1956,7 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
 ## Grid Layout
 <img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="177" align="right"/>
 
-## Unidades de resolução responsivas
-`vh`, `%`, `em`
-
 ## Mobile First
-
-## Padrão para tela inteira responsiva (Responsive Landing Page)
-```css
-section {
-   width: 100%; height: 100vh;
-}
-```
 
 ## Viewport 
 
