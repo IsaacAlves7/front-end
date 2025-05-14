@@ -1488,7 +1488,7 @@ Gradientes são muito usado para mesclar duas ou mais cores no background, o que
 
 Linear-gradient
 
-# [CSS] Trabalhando com textos
+# [Front] Textos
 <p>Uma das novidades do CSS 3 é o uso de fontes da própria internet, podemos agora usar fontes livres que são disponíveis na internet, sem que tenha a necessidade de estar instalada na máquina do usuário.
 
 O site do Google disponibiliza uma quantidade grande de fontes livres. No endereço https://fonts.google.com/ encontramos as fontes e a forma de como colocar no nosso código.
@@ -1582,7 +1582,7 @@ Exemplo:
  }
 </pre>
 
-## Estilizando listas
+Estilizando listas:
 <table>
   <tr>
     <td>Propriedade</td>
@@ -1616,13 +1616,12 @@ ul {
 }
 </pre>
 
-# [CSS] Positions and dimensions
+# [Front] Positions and dimensions
 <p>As propriedades CSS <strong>position</strong> e <strong>float</strong> determinam como um box será posicionado no modelo visual de formatação de um documento. Esse box pode conter imagens, textos, listas, entre outros e, com isso, podemos montar layouts com a mesma qualidade de um programa gráfico feito para este fim.
 
 As recomendações do W3C para as CSS 3 preveem a existência de três esquemas de posicionamento:</p>
 
-### 1. Esquema Normal
-<p>Esse esquema segue o fluxo normal em que os elementos são exibidos um após o outro e de cima para baixo. Ele é simples e atualmente a maioria das páginas usam essa forma.
+1. Esquema Normal esse esquema segue o fluxo normal em que os elementos são exibidos um após o outro e de cima para baixo. Ele é simples e atualmente a maioria das páginas usam essa forma.
 
 Um exemplo usando textos em sequência:</p>
 <pre>
@@ -1635,8 +1634,7 @@ em{
 }
 </pre>
 
-### 2. Esquema Float (Flutuante)
-<p>Definido pela regra <b>float</b> de posicionamento, juntamente com as regras <strong>left, right, none e inherit (herdado)</strong>.
+2. Esquema Float (Flutuante) definido pela regra <b>float</b> de posicionamento, juntamente com as regras <strong>left, right, none e inherit (herdado)</strong>.
 
 O box é deslocado para uma nova posição e seu espaço original é preenchido por outro elemento, na medida do possível.
 
@@ -1651,11 +1649,10 @@ body, p, img {
 }
 </pre>
 
-### 4. Esquema Relativo
+4. Esquema Relativo
 ![EuKdtFOVcAIac3j](https://user-images.githubusercontent.com/61624336/113332439-8de36700-92f7-11eb-9e31-7a356f8d03cf.jpg)
 
-### 3. Esquema Absoluto
-<p>Definido pela regra position com valores <b>absolute</b> e <b>fixed</b>. O box é removido do fluxo completamente sem impactar nos elementos posteriores.
+3. Esquema Absoluto definido pela regra position com valores <b>absolute</b> e <b>fixed</b>. O box é removido do fluxo completamente sem impactar nos elementos posteriores.
 
 No exemplo, seu uso para montar layouts com várias partes:</p>
 <pre>
