@@ -121,7 +121,7 @@ Podemos observar, atualmente, uma enorme variedade de interfaces, nos mais varia
 
 O projeto de construção de um sistema é muito mais complexo do que apenas a criação de uma interface. Toda a interação entre o homem e o sistema deve ser levada em consideração desde a sua concepção. Na área de Tecnologia da Informação, o design de interfaces refere-se à criação da interface do usuário para softwares, sites ou aplicativos. Trata-se de programar o visual da aplicação, visando sempre a facilitar a usabilidade e melhorar a experiência do usuário final.
 
-# 📙 [HTML5] Hypertext Makup Language 5
+# 📙 HTML5 - Hypertext Makup Language 5
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="77" align="right"/>
 
 A linguagem de formatação de documentos com a capacidade de links de hipertexto (termo que remete a um texto ao qual se agregam outros conjuntos de informação na forma de blocos de textos, palavras, imagens ou sons, cujo acesso ocorre através de referências específicas, no meio digital, denominadas hiperlinks, ou simplesmente links) e que tornou-se o formato básico para publicação na web.
@@ -149,6 +149,36 @@ Em 1998, a W3C decidiu que não continuaria a evoluir o HTML. O futuro da progra
 Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava convencido que o XML era o futuro para todos os autores web. Este grupo começou a desenvolver um trabalho separado, para criar uma nova forma de utilização dos antigos códigos HTML, principalmente ligado ao uso de formulários, sem deixar de atender às determinações básicas do XML. Aquela especificação eventualmente se tornou Web Forms 2.0 e, subsequentemente, foi incorporado na especificação HTML5.
 
 Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XML. Essas ideias foram implementadas e outras rejeitadas independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.
+
+<img src="https://www.w3schools.com/html/img_sem_elements.gif" align="right" height="177"/>
+
+O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.
+
+Até a versão 4 do HTML as divs eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma <b>folha de jornal</b>, pois ambas contém cabeçalhos, rodapés, artigos e seções.
+
+- O elemento <code>&lt;section&gt;</code> (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.
+
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736626-c63f8100-5f13-11eb-81b8-f6c3e341ea4b.jpg)
+
+- O elemento <code>&lt;header&gt;</code> (cabeçalho) utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.
+
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736972-28988180-5f14-11eb-83c6-bbceb25bf757.jpg)
+
+- <code>&lt;nav&gt;</code> (navegação) este elemento é a seção onde ficam as informações de de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.
+
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/105737577-defc6680-5f14-11eb-8363-9b10b09089a6.jpg)
+
+- <code>&lt;article&gt;</code> (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento <code>&lt;section&gt;</code>. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento <code>&lt;header&gt;</code> que é o título e um elemento <code>&lt;footer&gt;</code> que é o rodapé do elemento.
+
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/105737941-461a1b00-5f15-11eb-8528-d9bf452796ab.jpg)
+
+- <code>&lt;footer&gt;</code> (rodapé) este elemento é um que contém basicamente as informações sobre o conteúdo da seção, como, por exemplo, o autor, links relacionados etc.
+
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/105738329-add06600-5f15-11eb-8cac-403ab42f3e3a.jpg)
+
+- <code>&lt;aside&gt;</code> (de lado) neste elemento estão contidas as informações que não estão relacionadas diretamente com o texto. Por exemplo: comerciais pagos, links promocionais etc.
+
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/105738607-f720b580-5f15-11eb-9440-76725a31f908.jpg)
 
 ## [HTML5] TAGs essenciais
 É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code>&lt;meta&gt;</code>, <code>&lt;h1&gt;</code>, <code>&lt;img&gt;</code> etc. 
@@ -929,37 +959,6 @@ Os elementos `<a>`, `<input>` e `<button>` são todos usados para criar botões 
 ```
 
 Em resumo, se você está criando um botão para navegação, use `<a>`. Se está criando um botão para enviar dados de um formulário, use `<input type="submit">` ou `<button type="submit">`. Se está criando um botão para executar uma ação específica na página (como mostrar ou ocultar conteúdo), use `<button type="button">`.
-
-# 📰 [HTML5] HTML Semântico
-<img src="https://www.w3schools.com/html/img_sem_elements.gif" align="right" height="177"/>
-
-O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.
-
-Até a versão 4 do HTML as divs eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma <b>folha de jornal</b>, pois ambas contém cabeçalhos, rodapés, artigos e seções.
-
-- O elemento <code>&lt;section&gt;</code> (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.
-
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736626-c63f8100-5f13-11eb-81b8-f6c3e341ea4b.jpg)
-
-- O elemento <code>&lt;header&gt;</code> (cabeçalho) utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.
-
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736972-28988180-5f14-11eb-83c6-bbceb25bf757.jpg)
-
-- <code>&lt;nav&gt;</code> (navegação) este elemento é a seção onde ficam as informações de de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.
-
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/105737577-defc6680-5f14-11eb-8363-9b10b09089a6.jpg)
-
-- <code>&lt;article&gt;</code> (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento <code>&lt;section&gt;</code>. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento <code>&lt;header&gt;</code> que é o título e um elemento <code>&lt;footer&gt;</code> que é o rodapé do elemento.
-
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/105737941-461a1b00-5f15-11eb-8528-d9bf452796ab.jpg)
-
-- <code>&lt;footer&gt;</code> (rodapé) este elemento é um que contém basicamente as informações sobre o conteúdo da seção, como, por exemplo, o autor, links relacionados etc.
-
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/105738329-add06600-5f15-11eb-8cac-403ab42f3e3a.jpg)
-
-- <code>&lt;aside&gt;</code> (de lado) neste elemento estão contidas as informações que não estão relacionadas diretamente com o texto. Por exemplo: comerciais pagos, links promocionais etc.
-
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/105738607-f720b580-5f15-11eb-9440-76725a31f908.jpg)
 
 ### Estilo incorporado ou interno
 Caracteriza-se por escrever o código CSS, utilizando o comando <strong>&lt;style&gt;</strong> do HTML. Esse método é superior ao anterior, pois <b>todas as regras CSS</b> estão localizadas no início do código HTML5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
