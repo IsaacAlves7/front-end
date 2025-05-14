@@ -344,7 +344,7 @@ Besides that, the Box model have his positions:
 
 > 📦 **Box Model**: ` top, right, down, left `
 
-> OBS: Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda (top, right, bottom, left)
+Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda (top, right, bottom, left).
 
 Exemplo:
 
