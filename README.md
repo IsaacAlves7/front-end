@@ -1712,7 +1712,7 @@ body {
 }
 </pre>
 
-# [CSS] Transition e Transform
+# [Front] Transition e Transform
 O <b>CSS3</b> em conjunto com o <b>JavasScript</b> e o <b>HTML5</b> passaram a dar suporte a transformações em tempo real, de objetos HTML.
 
 Podemos modificar posição, rotacionar, aumentar e diminuir, tudo isso dentro de todos os eixos gráficos disponíveis na sua tela.
@@ -1910,15 +1910,15 @@ div.rotate_left{
 }
 </pre>
 
-# 📺 [CSS] Displays
+# 📺 [Front] Displays
+
+# 📱 [Front] Responsive Layout
 
 ## Flexbox Layout
 <img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="177" align="right"/>
 
 ## Grid Layout
 <img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="177" align="right"/>
-
-# 📱 [CSS] Responsive Layout
 
 ## Unidades de resolução responsivas
 `vh`, `%`, `em`
