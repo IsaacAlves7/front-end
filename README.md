@@ -2041,10 +2041,9 @@ Veja as propriedades a seguir:</p>
   <li><strong>flex-flow: ;</strong> /*forma abreviada para declarar flex-direction e flex-wrap*/</li>
 </ul>
 
-#### Vamos ao exemplo!
-<p>Renderização dos boxes (.box1 e .box2) contidos no div#container renderizados segundo o Box Model CSS 2.1.
+Vamos ao exemplo! Renderização dos boxes (.box1 e .box2) contidos no div#container renderizados segundo o Box Model CSS 2.1.
 
-Observe agora a estilização padrão da marcação e sua respectiva renderização.</p>
+Observe agora a estilização padrão da marcação e sua respectiva renderização.
 <pre>
 &nbsp;
 .container {
