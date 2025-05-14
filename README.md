@@ -384,6 +384,463 @@ ul {
 
 > OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.
 
+### Estilo incorporado ou interno
+Caracteriza-se por escrever o código CSS, utilizando o comando <strong>&lt;style&gt;</strong> do HTML. Esse método é superior ao anterior, pois <b>todas as regras CSS</b> estão localizadas no início do código HTML5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
+
+Exemplo de utilização:
+
+```html
+ <head>
+  <style>
+   * {margin: 0; padding: 0; box-sizing: border-box;}
+   body {width: 100%; height: 100vh;}
+  </style>
+ </head>
+```
+
+### Estilo externo
+As regras foram escritas em um arquivo com extensão <b>.css</b> e podem ser carregadas ao documento HTML5 de duas formas:
+
+#### Utilizando o elemento &lt;link&gt; no HTML
+```html
+<head>
+  <link rel="stylesheet" href="default.css">
+  <link rel="stylesheet" href="green.css" title="Green styles">
+  <link rel="alternate stylesheet" href="contrast.css" title="High contrast">
+  <link rel="alternate stylesheet" href="big.css" title="Big fonts">
+  <link rel="alternate stylesheet" href="wide.css" title="Wide screen">
+</head>
+```
+
+#### Utilização do elemento `@import` no CSS
+Permite <b>importar</b> regras de estilo dentro de outras regras de estilo. Esse método permite aplicar regras comuns a todos os documentos HTML.
+
+**Exemplo de utilização**:
+
+Dentro de um documento `.css` podemos aplicar nas primeiras linhas, a chamada de arquivos externos, para utilizar comandos já existentes.
+
+```css
+@import "mystyle.css";
+@import url("mystyle.css");
+@import url("fineprint.css") print; /* mídia específica para impressão */
+@import url("bluish.css") projection, tv; /* mídia específica grandes mídias*/
+@import url("narrow.css") handheld and (max-width: 400px); /* mídia específica mídias portáteis*/
+```
+
+## Conceito de Módulos
+O CSS nível 3 implementou o conceito de módulos, em que cada módulo é desenvolvido de forma independente, seguindo um cronograma próprio. A principal vantagem é independência na construção das novas funcionalidades.
+
+## Seletores e Declarações
+Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
+
+A sintaxe é bem simples e pode ser explicada com a frase "você cria regras de estilo para elementos ou grupos de elementos".
+
+Vamos usar um elemento HTML que vimos anteriormente, a âncora , para exemplificar.
+
+Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o <b>a</b>, então dentro de um par de chaves adicionamos as <strong>declarações</strong>, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as <b>declarações</b> são formadas por uma propriedade e um valor.</p>
+
+Uma regra CSS é representada por:
+<ul>
+<li><strong>Propriedade:</strong> Determina a modificação a ser feita.</li>
+<li><strong>Seletor:</strong> É o alvo da regra (nome do comando) CSS.</li>
+<li><strong>Valor:</strong> A alteração.</li>
+<li><strong>Declaração:</strong> É o conjunto de propriedades e valores.</li>
+</ul>
+<p>Exemplo:</p>
+
+```css
+ a { 
+    color: #000;
+   }
+```
+
+<ul>
+  <li>a = seletor</li>
+  <li>color = propriedade</li>
+  <li>#000 = valor</li>
+  <li>{color:#000;} = declaração</li>
+</ul>
+
+## Seleção de elementos
+<p>No CSS, a seleção de elementos pode variar de uma forma simplificada até padrões contextuais ricos.</p>
+
+## Tipos de seleção
+<p>Os tipos de seleção são muito importantes, pois a ordem deles alteram no resultado do processamento da página.</p>
+
+### Agrupamento
+<p>O CSS permite agrupar declarações repetidas.
+
+Exemplo:</p>
+<pre>
+h1 { font-family: sans-serif }
+h2 { font-family: sans-serif }
+h3 { font-family: sans-serif }
+</pre>
+
+<p>É equivalente a:</p>
+<pre>
+h1, h2, h3 {
+font-family: sans-serif
+}
+</pre>
+<blockquote>OBS: Todos os h1, todos os h2 e todos os h3</blockquote>
+
+### Seletores descendentes
+Um elemento pode estar contido dentro de outro elemento.
+
+Exemplo:
+&lt;H1&gt;Este texto é &lt;EM&gt;muito&lt;/EM&gt; importante&lt;/H1&gt;</p>
+<pre>
+h1 { color: red } /* indica que todos os elementos h1 possuem a cor vermelha */
+em { color: red } /* indica que todos os elementos em possuem a cor vermelha */
+h1 em { color: blue } /* indica que os elementos em contidos em um elemento h1 possuem a cor azul */
+</pre>
+
+### Seletores filhos
+Um elemento filho é caraterizado quando os elementos são separados por “>".
+<pre>div ol &gt; li p {color: green }</pre>
+
+<p>Este exemplo, todos os elementos <strong>p</strong> serão de cor verde quando estiverem dentro de um elemento item &lt;li&gt;, filho de uma lista &lt;ol&gt; dentro de uma &lt;div&gt;.</p>
+
+### Seletores por prioridade
+<p>Um elemento por prioridade é caracterizado quando os elementos são separados por "+". Ou seja, o primeiro parágrafo que vem depois da div.</p>
+<pre>
+ div + p {
+   color: red;
+ }
+</pre>
+
+### Seletores por atributos
+<p>Especifica regras para os elementos que possuem determinado atributo.
+
+Exemplo:</p>
+<pre>span[hello="Cleveland"][goodbye="Columbus"] { color: blue; }</pre>
+
+<p>A regra será aplicada a todos os elementos span que possuem o atributo hello="Cleveland" e o atributo goodbye="Columbus".</p>
+
+### Seletores por classes
+<p>Uma classe permite atribuir um conjunto de regras a um determinado elemento. É determinado por asterisco ponto (*.) ou simplesmente ponto (.).
+
+Exemplo:</p>
+<pre>
+.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
+/*ou*/
+*.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
+</pre>
+
+### Seletores por ID
+<p>O atributo ID permite identificar um elemento único no documento HTML. Para selecionar este elemento basta utilizar o caracter “#” seguindo pelo nome do elemento.
+
+Exemplo:</p>
+<pre>
+h1#titulo1 { text-align: center } /* aplica a regra ao elemento h1 com o id=titulo */
+*.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
+</pre>
+
+## ID x Class
+<p>No exemplo anterior criamos uma regra que altera um elemento HTML diretamente, mas isso significa que todos os elementos <a> ficarão com aquela aparência, e normalmente temos sites mais complexos que precisam de várias regras diferentes para elementos iguais.
+
+Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer no módulo passado, ele tinha vários elementos header, mas não vamos querer que o header principal tenha a mesma formatação que o header de uma postagem, é aí que entram os IDs e Classes.
+
+O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele representa um elemento HTML, e com IDs e Classes podemos representar qualquer tipo de elemento mas há algumas diferenças entre eles:
+
+<strong>ID</strong>: é representado pelo símbolo # (hash) seguido de um nome para esse ID. Só pode ser utilizado uma única vez!
+<pre><code>#id{
+  }</code></pre>
+
+<strong>Classe</strong>: a classe é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash. Pode ser utilizado mais de uma vez!
+<pre><code>.class{
+  }</code></pre>
+
+E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
+
+
+## Pseudo-Classes
+<p>E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento. As pseudo-classes são bem parecidas com os eventos do JavaScript, porém não possuem o mesmo poder de manipular os elementos.
+  
+### Syntax
+<pre>
+ seletor:pseudo-class { 
+    property: value;
+   }
+</pre>
+
+O <code>a:hover</code> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
+
+### Tipos de Pseudo-Classes
+<table>
+  <tr>
+    <td><b>Pseudo-classe</b></td>
+    <td><b>Definição</b></td>
+  </tr>
+  <tr>
+    <td><code>:hover</code></td>
+    <td>Altera o elemento por passar o mouse por cima.</td>
+  </tr>  
+  <tr>
+    <td><code>:active</code></td>
+    <td>Altera o elemento por clica-lo.</td>
+  </tr>
+   <tr>
+    <td><code>:link</code></td>
+    <td>Altera todos os links não visitados.</td>
+  </tr>
+   <tr>
+    <td><code>:visited</code></td>
+    <td>Altera todos os links visitados.</td>
+  </tr>
+  <tr>
+    <td><code>:focus</code></td>
+    <td>Altera o elemento <code>&lt;input&gt;</code> que tem o foco.</td>
+  </tr>
+  <tr>
+    <td><code>:checked</code></td>
+    <td>Altera todos os elementos <code>&lt;input&gt;</code> marcados.</td>
+  </tr>
+  <tr>
+    <td><code>:disable</code></td>
+    <td>Altera todos os elementos <code>&lt;input&gt;</code> desativados.</td>
+  </tr>
+   <tr>
+    <td><code>:enabled</code></td>
+    <td>Altera todos os elementos <code>&lt;input&gt;</code> habilitados.</td>
+  </tr>
+  <tr>
+    <td><code>:empty</code></td>
+    <td>Altera todos os elementos <code>&lt;p&gt;</code> que não têm filhos.</td>
+  </tr>
+  <tr>
+    <td><code>:first-child</code></td>
+    <td>Altera cada elemento <code>&lt;input&gt;</code> habilitado.</td>
+  </tr>
+  <tr>
+    <td><code>:enabled</code></td>
+    <td>Altera cada elemento <code>&lt;input&gt;</code> habilitado.</td>
+  </tr>
+  <tr>
+    <td><code>:first-child</code></td>
+    <td>Altera cada elemento <code>&lt;p&gt;</code> que é primeiro filho do elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:first-of-type</code></td>
+    <td>Altera cada elemento <code>&lt;p&gt;</code> que é o primeiro elemento <code>&lt;p&gt;</code> de seu elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:in-range</code></td>
+    <td>Altera elementos <code>&lt;input&gt;</code> com um valor dentro de um intervalo especificado.</td>
+  </tr>
+  <tr>
+    <td><code>:invalid</code></td>
+    <td>Altera todos os elementos <code>&lt;input&gt;</code> com um valor inválido.</td>
+  </tr>
+  <tr>
+    <td><code>:lang(language)</code></td>
+    <td>Altera cada elemento <code>&lt;p&gt;</code> com um valor de atributo lang começando com "<code>it</code>".</td>
+  </tr>
+  <tr>
+    <td><code>:last-child</code></td>
+    <td>Altera todos os elementos <code>&lt;p&gt;</code> que são os últimos filhos de seu elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:last-of-type</code></td>
+    <td>Altera todos os elementos <code>&lt;p&gt;</code> que é o último elemento <code>&lt;p&gt;</code> de seu elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:link</code></td>
+    <td>Altera todos os links não visitados.</td>
+  </tr>
+  <tr>
+    <td><code>:not(selector)</code></td>
+    <td>Altera cada elemento que não é o elemento <code>&lt;p&gt;</code>.</td>
+  </tr>
+  <tr>
+    <td><code>:nth-child(n)</code></td>
+    <td>Altera cada elemento &lt;p&gt; que é ordenado do seu elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:nth-last-child(n)</code></td>
+    <td>Altera cada elemento &lt;p&gt; que é ordenado do seu elemento pai, contando a partir do último filho.</td>
+  </tr>
+  <tr>
+    <td><code>:nth-last-of-type(n)</code></td>
+    <td>Altera cada elemento &lt;p&gt; que é o segundo elemento &lt;p&gt; de seu pai, contando a partir do último filho.</td>
+  </tr>
+  <tr>
+    <td><code>:nth-of-type(n)</code></td>
+    <td>Altera cada elemento &lt;p&gt; que é o segundo elemento &lt;p&gt; de seu elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:only-of-type</code></td>
+    <td>Altera o elemento &lt;p&gt; que é o único elemento &lt;p&gt; de seu elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:only-child</code></td>
+    <td>Altera cada elemento &lt;p&gt; que é o único filho de seu elemento pai.</td>
+  </tr>
+  <tr>
+    <td><code>:optional</code></td>
+    <td>Altera os elementos &lt;input&gt; sem atributo "obrigatório".</td>
+  </tr>
+  <tr>
+    <td><code>:out-of-range</code></td>
+    <td>Altera os elementos &lt;input&gt; com um atributo "somente leitura" especificado.</td>
+  </tr>
+  <tr>
+    <td><code>:read-write</code></td>
+    <td>Altera os elementos &lt;input&gt; sem o atributo "somente escrita" especificado.</td>
+  </tr>
+  <tr>
+    <td><code>:required</code></td>
+    <td>Altera os elementos &lt;input&gt; com um atributo "obrigatório" especificado.</td>
+  </tr>
+  <tr>
+    <td><code>:root</code></td>
+    <td>Altera o elemento raiz do documento.</td>
+  </tr>
+  <tr>
+    <td><code>:target</code></td>
+    <td>Altera o elemento ativo atual (clicado em um URL contendo o nome da âncora).</td>
+  </tr>
+  <tr>
+    <td><code>:valid</code></td>
+    <td>Altera todos os elementos <code>&lt;input&gt;</code> com um valor válido.</td>
+  </tr>
+</table>
+
+Aplicações:
+![img11](https://user-images.githubusercontent.com/61624336/112897063-8a609d80-90b5-11eb-84a6-977c76e21cf2.jpg)
+![img12](https://user-images.githubusercontent.com/61624336/112897068-8b91ca80-90b5-11eb-9683-751146a318d6.jpg)
+![img13](https://user-images.githubusercontent.com/61624336/112897072-8d5b8e00-90b5-11eb-9961-9fa0e8dc799a.jpg)
+![img14](https://user-images.githubusercontent.com/61624336/112897086-90567e80-90b5-11eb-8d76-541b90de78e5.jpg)
+![img15](https://user-images.githubusercontent.com/61624336/112897092-92204200-90b5-11eb-9319-883412d62ee9.jpg)
+![img16](https://user-images.githubusercontent.com/61624336/112897098-93ea0580-90b5-11eb-8f98-01cce0f8eb4f.jpg)
+![img17](https://user-images.githubusercontent.com/61624336/112897107-964c5f80-90b5-11eb-97f4-eec02f0f0bcd.jpg)
+
+Exemplo 1:
+<pre>
+p:first-child {
+  color: blue;
+}
+</pre>
+<pre>
+p i:first-child {
+  color: blue;
+}
+</pre>
+<pre>
+p:first-child i {
+  color: blue;
+}
+</pre>
+
+## [CSS3] Pseudo-Elementos
+Os <strong>pseudo-elementos</strong> são usados para estilizar partes específicas de um elemento. Como por exemplo: a primeira letra ou linha de um elemento ou talvez inserir um conteúdo antes ou depois do conteúdo de um elemento.
+
+Sintaxe:
+
+<pre>
+selector::pseudo-element {
+  property: value;
+}
+</pre>
+
+Tipos de Pseudo-Elementos:
+
+<table>
+  <tr>
+    <td><b>Pseudo-elemento</b></td>
+    <td><b>Definição</b></td>
+  </tr>
+  <tr>
+    <td><code>::after</code></td>
+    <td>Insire algo após o conteúdo de cada elemento.</td>
+  </tr>
+  <tr>
+    <td><code>::before</code></td>
+    <td>Insire algo antes do conteúdo de cada elemento.</td>
+  </tr>
+  <tr>
+    <td><code>::first-letter</code></td>
+    <td>Seleciona a primeira letra de cada elemento.</td>
+  </tr>
+   <tr>
+    <td><code>::first-line</code></td>
+    <td>Seleciona a primeira linha de cada elemento.</td>
+  </tr>
+  <tr>
+    <td><code>::selection</code></td>
+    <td>Seleciona a parte de um elemento que é selecionado por um usuário (A mancha/ marca da seleção nos contents).</td>
+  </tr> 
+</table>
+
+Exemplo 1:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p::after { 
+  content: " - Remember this";
+}
+</style>
+</head>
+<body>
+   <p>My name is Donald</p>
+   <p>I live in Ducksburg</p>
+</body>
+</html>
+```
+
+```css
+::selection {
+  color: red;
+  background: yellow;
+}
+```
+
+## [CSS3] Variáveis no CSS
+As <strong>variáveis no CSS</strong> servem para definir um padrão para a maioria dos elementos HTML5, poupando assim muitas linhas de código na folha de estilo. É muito comum usar as variáveis para fazer uma paleta de cores para uma página web mais complexa.
+
+Sintaxe:
+
+```css
+:root{
+    --nome da variável: #141414;
+}
+
+.bg{
+  background-color: var(--nome da variável);
+}
+```
+
+Basta utilizarmos a pseudo-classe <code>:root</code> e inserirmos os seletores <code>--nome da variável</code> para podermos atribuir os valores. Para chama-la é simples, basta somente utilizar o seletor desejável e o valor <code>var(--nome da variável)</code>.
+
+## Border (A Borda do elemento)
+
+<p>No entanto, a <strong>border</strong> é diferente da <strong>margin</strong> e do <strong>padding</strong>: 'border-top-width', 'border-right-width', 'border-bottom-width', e 'border-left-width‘.
+&nbsp;
+Exemplo de utilização:
+&nbsp;
+<pre>
+h1 { border-width: thin } /* thin thin thin thin */
+h1 { border-width: thin thick } /* thin thick thin thick */
+h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
+</pre>
+
+<p><strong>Estilos da borda:</strong> 'border-top-style', 'border-right-style', 'border-bottom-style', 'border-left-style', and 'border-style‘, 'border'.
+
+Exemplo de utilização:</p>
+<pre>#xy34 { border-style: solid dotted }</pre>
+
+Tipos de Borda:
+![Tipos de bordas](https://user-images.githubusercontent.com/61624336/108574726-eb4ac800-72f6-11eb-9906-b8f8e1ca5d5c.png)
+
+🔺 Como fazer Bordas de Triângulos:
+![como fazer triângulos com bordas](https://user-images.githubusercontent.com/61624336/107122854-0ccc9e00-6879-11eb-9ec0-9f604afc59c8.gif)
+
+## Content (O Conteúdo do Elemento)
+
 # 📜 JavaScript (JS)
 <a href="https://github.com/IsaacAlves7/js"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="77" align="right"/></a>
 
@@ -959,464 +1416,6 @@ Os elementos `<a>`, `<input>` e `<button>` são todos usados para criar botões 
 ```
 
 Em resumo, se você está criando um botão para navegação, use `<a>`. Se está criando um botão para enviar dados de um formulário, use `<input type="submit">` ou `<button type="submit">`. Se está criando um botão para executar uma ação específica na página (como mostrar ou ocultar conteúdo), use `<button type="button">`.
-
-### Estilo incorporado ou interno
-Caracteriza-se por escrever o código CSS, utilizando o comando <strong>&lt;style&gt;</strong> do HTML. Esse método é superior ao anterior, pois <b>todas as regras CSS</b> estão localizadas no início do código HTML5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
-
-Exemplo de utilização:
-
-```html
- <head>
-  <style>
-   * {margin: 0; padding: 0; box-sizing: border-box;}
-   body {width: 100%; height: 100vh;}
-  </style>
- </head>
-```
-
-### Estilo externo
-As regras foram escritas em um arquivo com extensão <b>.css</b> e podem ser carregadas ao documento HTML5 de duas formas:
-
-#### Utilizando o elemento &lt;link&gt; no HTML
-```html
-<head>
-  <link rel="stylesheet" href="default.css">
-  <link rel="stylesheet" href="green.css" title="Green styles">
-  <link rel="alternate stylesheet" href="contrast.css" title="High contrast">
-  <link rel="alternate stylesheet" href="big.css" title="Big fonts">
-  <link rel="alternate stylesheet" href="wide.css" title="Wide screen">
-</head>
-```
-
-#### Utilização do elemento `@import` no CSS
-Permite <b>importar</b> regras de estilo dentro de outras regras de estilo. Esse método permite aplicar regras comuns a todos os documentos HTML.
-
-**Exemplo de utilização**:
-
-Dentro de um documento `.css` podemos aplicar nas primeiras linhas, a chamada de arquivos externos, para utilizar comandos já existentes.
-
-```css
-@import "mystyle.css";
-@import url("mystyle.css");
-@import url("fineprint.css") print; /* mídia específica para impressão */
-@import url("bluish.css") projection, tv; /* mídia específica grandes mídias*/
-@import url("narrow.css") handheld and (max-width: 400px); /* mídia específica mídias portáteis*/
-```
-
-## Conceito de Módulos
-O CSS nível 3 implementou o conceito de módulos, em que cada módulo é desenvolvido de forma independente, seguindo um cronograma próprio. A principal vantagem é independência na construção das novas funcionalidades.
-
-## Seletores e Declarações
-Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
-
-A sintaxe é bem simples e pode ser explicada com a frase "você cria regras de estilo para elementos ou grupos de elementos".
-
-Vamos usar um elemento HTML que vimos anteriormente, a âncora , para exemplificar.
-
-Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o <b>a</b>, então dentro de um par de chaves adicionamos as <strong>declarações</strong>, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as <b>declarações</b> são formadas por uma propriedade e um valor.</p>
-
-Uma regra CSS é representada por:
-<ul>
-<li><strong>Propriedade:</strong> Determina a modificação a ser feita.</li>
-<li><strong>Seletor:</strong> É o alvo da regra (nome do comando) CSS.</li>
-<li><strong>Valor:</strong> A alteração.</li>
-<li><strong>Declaração:</strong> É o conjunto de propriedades e valores.</li>
-</ul>
-<p>Exemplo:</p>
-
-```css
- a { 
-    color: #000;
-   }
-```
-
-<ul>
-  <li>a = seletor</li>
-  <li>color = propriedade</li>
-  <li>#000 = valor</li>
-  <li>{color:#000;} = declaração</li>
-</ul>
-
-## Seleção de elementos
-<p>No CSS, a seleção de elementos pode variar de uma forma simplificada até padrões contextuais ricos.</p>
-
-## Tipos de seleção
-<p>Os tipos de seleção são muito importantes, pois a ordem deles alteram no resultado do processamento da página.</p>
-
-### Agrupamento
-<p>O CSS permite agrupar declarações repetidas.
-
-Exemplo:</p>
-<pre>
-h1 { font-family: sans-serif }
-h2 { font-family: sans-serif }
-h3 { font-family: sans-serif }
-</pre>
-
-<p>É equivalente a:</p>
-<pre>
-h1, h2, h3 {
-font-family: sans-serif
-}
-</pre>
-<blockquote>OBS: Todos os h1, todos os h2 e todos os h3</blockquote>
-
-### Seletores descendentes
-Um elemento pode estar contido dentro de outro elemento.
-
-Exemplo:
-&lt;H1&gt;Este texto é &lt;EM&gt;muito&lt;/EM&gt; importante&lt;/H1&gt;</p>
-<pre>
-h1 { color: red } /* indica que todos os elementos h1 possuem a cor vermelha */
-em { color: red } /* indica que todos os elementos em possuem a cor vermelha */
-h1 em { color: blue } /* indica que os elementos em contidos em um elemento h1 possuem a cor azul */
-</pre>
-
-### Seletores filhos
-Um elemento filho é caraterizado quando os elementos são separados por “>".
-<pre>div ol &gt; li p {color: green }</pre>
-
-<p>Este exemplo, todos os elementos <strong>p</strong> serão de cor verde quando estiverem dentro de um elemento item &lt;li&gt;, filho de uma lista &lt;ol&gt; dentro de uma &lt;div&gt;.</p>
-
-### Seletores por prioridade
-<p>Um elemento por prioridade é caracterizado quando os elementos são separados por "+". Ou seja, o primeiro parágrafo que vem depois da div.</p>
-<pre>
- div + p {
-   color: red;
- }
-</pre>
-
-### Seletores por atributos
-<p>Especifica regras para os elementos que possuem determinado atributo.
-
-Exemplo:</p>
-<pre>span[hello="Cleveland"][goodbye="Columbus"] { color: blue; }</pre>
-
-<p>A regra será aplicada a todos os elementos span que possuem o atributo hello="Cleveland" e o atributo goodbye="Columbus".</p>
-
-### Seletores por classes
-<p>Uma classe permite atribuir um conjunto de regras a um determinado elemento. É determinado por asterisco ponto (*.) ou simplesmente ponto (.).
-
-Exemplo:</p>
-<pre>
-.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
-/*ou*/
-*.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
-</pre>
-
-### Seletores por ID
-<p>O atributo ID permite identificar um elemento único no documento HTML. Para selecionar este elemento basta utilizar o caracter “#” seguindo pelo nome do elemento.
-
-Exemplo:</p>
-<pre>
-h1#titulo1 { text-align: center } /* aplica a regra ao elemento h1 com o id=titulo */
-*.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
-</pre>
-
-## ID x Class
-<p>No exemplo anterior criamos uma regra que altera um elemento HTML diretamente, mas isso significa que todos os elementos <a> ficarão com aquela aparência, e normalmente temos sites mais complexos que precisam de várias regras diferentes para elementos iguais.
-
-Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer no módulo passado, ele tinha vários elementos header, mas não vamos querer que o header principal tenha a mesma formatação que o header de uma postagem, é aí que entram os IDs e Classes.
-
-O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele representa um elemento HTML, e com IDs e Classes podemos representar qualquer tipo de elemento mas há algumas diferenças entre eles:
-
-<strong>ID</strong>: é representado pelo símbolo # (hash) seguido de um nome para esse ID. Só pode ser utilizado uma única vez!
-<pre><code>#id{
-  }</code></pre>
-
-<strong>Classe</strong>: a classe é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash. Pode ser utilizado mais de uma vez!
-<pre><code>.class{
-  }</code></pre>
-
-E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
-
-
-## Pseudo-Classes
-<p>E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento. As pseudo-classes são bem parecidas com os eventos do JavaScript, porém não possuem o mesmo poder de manipular os elementos.
-  
-### Syntax
-<pre>
- seletor:pseudo-class { 
-    property: value;
-   }
-</pre>
-
-O <code>a:hover</code> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
-
-### Tipos de Pseudo-Classes
-<table>
-  <tr>
-    <td><b>Pseudo-classe</b></td>
-    <td><b>Definição</b></td>
-  </tr>
-  <tr>
-    <td><code>:hover</code></td>
-    <td>Altera o elemento por passar o mouse por cima.</td>
-  </tr>  
-  <tr>
-    <td><code>:active</code></td>
-    <td>Altera o elemento por clica-lo.</td>
-  </tr>
-   <tr>
-    <td><code>:link</code></td>
-    <td>Altera todos os links não visitados.</td>
-  </tr>
-   <tr>
-    <td><code>:visited</code></td>
-    <td>Altera todos os links visitados.</td>
-  </tr>
-  <tr>
-    <td><code>:focus</code></td>
-    <td>Altera o elemento <code>&lt;input&gt;</code> que tem o foco.</td>
-  </tr>
-  <tr>
-    <td><code>:checked</code></td>
-    <td>Altera todos os elementos <code>&lt;input&gt;</code> marcados.</td>
-  </tr>
-  <tr>
-    <td><code>:disable</code></td>
-    <td>Altera todos os elementos <code>&lt;input&gt;</code> desativados.</td>
-  </tr>
-   <tr>
-    <td><code>:enabled</code></td>
-    <td>Altera todos os elementos <code>&lt;input&gt;</code> habilitados.</td>
-  </tr>
-  <tr>
-    <td><code>:empty</code></td>
-    <td>Altera todos os elementos <code>&lt;p&gt;</code> que não têm filhos.</td>
-  </tr>
-  <tr>
-    <td><code>:first-child</code></td>
-    <td>Altera cada elemento <code>&lt;input&gt;</code> habilitado.</td>
-  </tr>
-  <tr>
-    <td><code>:enabled</code></td>
-    <td>Altera cada elemento <code>&lt;input&gt;</code> habilitado.</td>
-  </tr>
-  <tr>
-    <td><code>:first-child</code></td>
-    <td>Altera cada elemento <code>&lt;p&gt;</code> que é primeiro filho do elemento pai.</td>
-  </tr>
-  <tr>
-    <td><code>:first-of-type</code></td>
-    <td>Altera cada elemento <code>&lt;p&gt;</code> que é o primeiro elemento <code>&lt;p&gt;</code> de seu elemento pai.</td>
-  </tr>
-  <tr>
-    <td><code>:in-range</code></td>
-    <td>Altera elementos <code>&lt;input&gt;</code> com um valor dentro de um intervalo especificado.</td>
-  </tr>
-  <tr>
-    <td><code>:invalid</code></td>
-    <td>Altera todos os elementos <code>&lt;input&gt;</code> com um valor inválido.</td>
-  </tr>
-  <tr>
-    <td><code>:lang(language)</code></td>
-    <td>Altera cada elemento <code>&lt;p&gt;</code> com um valor de atributo lang começando com "<code>it</code>".</td>
-  </tr>
-  <tr>
-    <td><code>:last-child</code></td>
-    <td>Altera todos os elementos <code>&lt;p&gt;</code> que são os últimos filhos de seu elemento pai.</td>
-  </tr>
-  <tr>
-    <td><code>:last-of-type</code></td>
-    <td>Altera todos os elementos <code>&lt;p&gt;</code> que é o último elemento <code>&lt;p&gt;</code> de seu elemento pai.</td>
-  </tr>
-  <tr>
-    <td><code>:link</code></td>
-    <td>Altera todos os links não visitados.</td>
-  </tr>
-  <tr>
-    <td><code>:not(selector)</code></td>
-    <td>Altera cada elemento que não é o elemento <code>&lt;p&gt;</code>.</td>
-  </tr>
-  <tr>
-    <td><code>:nth-child(n)</code></td>
-    <td>Altera cada elemento &lt;p&gt; que é ordenado do seu elemento pai.</td>
-  </tr>
-  <tr>
-    <td><code>:nth-last-child(n)</code></td>
-    <td>Altera cada elemento &lt;p&gt; que é ordenado do seu elemento pai, contando a partir do último filho.</td>
-  </tr>
-  <tr>
-    <td><code>:nth-last-of-type(n)</code></td>
-    <td>Altera cada elemento &lt;p&gt; que é o segundo elemento &lt;p&gt; de seu pai, contando a partir do último filho.</td>
-  </tr>
-  <tr>
-    <td><code>:nth-of-type(n)</code></td>
-    <td>Altera cada elemento &lt;p&gt; que é o segundo elemento &lt;p&gt; de seu elemento pai.</td>
-  </tr>
-  <tr>
-    <td><code>:only-of-type</code></td>
-    <td>Altera o elemento &lt;p&gt; que é o único elemento &lt;p&gt; de seu elemento pai.</td>
-  </tr>
-  <tr>
-    <td><code>:only-child</code></td>
-    <td>Altera cada elemento &lt;p&gt; que é o único filho de seu elemento pai.</td>
-  </tr>
-  <tr>
-    <td><code>:optional</code></td>
-    <td>Altera os elementos &lt;input&gt; sem atributo "obrigatório".</td>
-  </tr>
-  <tr>
-    <td><code>:out-of-range</code></td>
-    <td>Altera os elementos &lt;input&gt; com um atributo "somente leitura" especificado.</td>
-  </tr>
-  <tr>
-    <td><code>:read-write</code></td>
-    <td>Altera os elementos &lt;input&gt; sem o atributo "somente escrita" especificado.</td>
-  </tr>
-  <tr>
-    <td><code>:required</code></td>
-    <td>Altera os elementos &lt;input&gt; com um atributo "obrigatório" especificado.</td>
-  </tr>
-  <tr>
-    <td><code>:root</code></td>
-    <td>Altera o elemento raiz do documento.</td>
-  </tr>
-  <tr>
-    <td><code>:target</code></td>
-    <td>Altera o elemento ativo atual (clicado em um URL contendo o nome da âncora).</td>
-  </tr>
-  <tr>
-    <td><code>:valid</code></td>
-    <td>Altera todos os elementos <code>&lt;input&gt;</code> com um valor válido.</td>
-  </tr>
-</table>
-
-Aplicações:
-![img11](https://user-images.githubusercontent.com/61624336/112897063-8a609d80-90b5-11eb-84a6-977c76e21cf2.jpg)
-![img12](https://user-images.githubusercontent.com/61624336/112897068-8b91ca80-90b5-11eb-9683-751146a318d6.jpg)
-![img13](https://user-images.githubusercontent.com/61624336/112897072-8d5b8e00-90b5-11eb-9961-9fa0e8dc799a.jpg)
-![img14](https://user-images.githubusercontent.com/61624336/112897086-90567e80-90b5-11eb-8d76-541b90de78e5.jpg)
-![img15](https://user-images.githubusercontent.com/61624336/112897092-92204200-90b5-11eb-9319-883412d62ee9.jpg)
-![img16](https://user-images.githubusercontent.com/61624336/112897098-93ea0580-90b5-11eb-8f98-01cce0f8eb4f.jpg)
-![img17](https://user-images.githubusercontent.com/61624336/112897107-964c5f80-90b5-11eb-97f4-eec02f0f0bcd.jpg)
-
-
-Exemplo 1:
-<pre>
-p:first-child {
-  color: blue;
-}
-</pre>
-<pre>
-p i:first-child {
-  color: blue;
-}
-</pre>
-<pre>
-p:first-child i {
-  color: blue;
-}
-</pre>
-
-## [CSS3] Pseudo-Elementos
-Os <strong>pseudo-elementos</strong> são usados para estilizar partes específicas de um elemento. Como por exemplo: a primeira letra ou linha de um elemento ou talvez inserir um conteúdo antes ou depois do conteúdo de um elemento.
-
-Sintaxe:
-
-<pre>
-selector::pseudo-element {
-  property: value;
-}
-</pre>
-
-Tipos de Pseudo-Elementos:
-
-<table>
-  <tr>
-    <td><b>Pseudo-elemento</b></td>
-    <td><b>Definição</b></td>
-  </tr>
-  <tr>
-    <td><code>::after</code></td>
-    <td>Insire algo após o conteúdo de cada elemento.</td>
-  </tr>
-  <tr>
-    <td><code>::before</code></td>
-    <td>Insire algo antes do conteúdo de cada elemento.</td>
-  </tr>
-  <tr>
-    <td><code>::first-letter</code></td>
-    <td>Seleciona a primeira letra de cada elemento.</td>
-  </tr>
-   <tr>
-    <td><code>::first-line</code></td>
-    <td>Seleciona a primeira linha de cada elemento.</td>
-  </tr>
-  <tr>
-    <td><code>::selection</code></td>
-    <td>Seleciona a parte de um elemento que é selecionado por um usuário (A mancha/ marca da seleção nos contents).</td>
-  </tr> 
-</table>
-
-Exemplo 1:
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-p::after { 
-  content: " - Remember this";
-}
-</style>
-</head>
-<body>
-   <p>My name is Donald</p>
-   <p>I live in Ducksburg</p>
-</body>
-</html>
-```
-
-```css
-::selection {
-  color: red;
-  background: yellow;
-}
-```
-
-## [CSS3] Variáveis no CSS
-As <strong>variáveis no CSS</strong> servem para definir um padrão para a maioria dos elementos HTML5, poupando assim muitas linhas de código na folha de estilo. É muito comum usar as variáveis para fazer uma paleta de cores para uma página web mais complexa.
-
-Sintaxe:
-
-```css
-:root{
-    --nome da variável: #141414;
-}
-
-.bg{
-  background-color: var(--nome da variável);
-}
-```
-
-Basta utilizarmos a pseudo-classe <code>:root</code> e inserirmos os seletores <code>--nome da variável</code> para podermos atribuir os valores. Para chama-la é simples, basta somente utilizar o seletor desejável e o valor <code>var(--nome da variável)</code>.
-
-## Border (A Borda do elemento)
-
-<p>No entanto, a <strong>border</strong> é diferente da <strong>margin</strong> e do <strong>padding</strong>: 'border-top-width', 'border-right-width', 'border-bottom-width', e 'border-left-width‘.
-&nbsp;
-Exemplo de utilização:
-&nbsp;
-<pre>
-h1 { border-width: thin } /* thin thin thin thin */
-h1 { border-width: thin thick } /* thin thick thin thick */
-h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
-</pre>
-
-<p><strong>Estilos da borda:</strong> 'border-top-style', 'border-right-style', 'border-bottom-style', 'border-left-style', and 'border-style‘, 'border'.
-
-Exemplo de utilização:</p>
-<pre>#xy34 { border-style: solid dotted }</pre>
-
-Tipos de Borda:
-![Tipos de bordas](https://user-images.githubusercontent.com/61624336/108574726-eb4ac800-72f6-11eb-9906-b8f8e1ca5d5c.png)
-
-🔺 Como fazer Bordas de Triângulos:
-![como fazer triângulos com bordas](https://user-images.githubusercontent.com/61624336/107122854-0ccc9e00-6879-11eb-9ec0-9f604afc59c8.gif)
-
-## Content (O Conteúdo do Elemento)
 
 # 🖼️ [Front] Foreground e Background
 O CSS permite alterar as cores de primeiro plano (<em>foreground</em>) e plano de fundo (<em>background</em>) dos elementos. O W3C recomenda que a regra background seja utilizado no elemento <em>body</em>.
