@@ -1759,7 +1759,7 @@ function rotate(value){
 }
 </pre>
 
-<blockquote>Agora veja como ficará a página. Arrastando a barra de rolagem, teremos a modificação da caixa amarela.</blockquote>
+> Agora veja como ficará a página. Arrastando a barra de rolagem, teremos a modificação da caixa amarela.
 
 Tipos de transformações possíveis:
 
@@ -1859,6 +1859,7 @@ Tipos de transformações possíveis:
 </table>
 
 Exemplo de aplicação: Fotos de uma câmera Polaroid
+
 ```html
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
@@ -1879,8 +1880,9 @@ Exemplo de aplicação: Fotos de uma câmera Polaroid
 &lt;/html&gt;
 ```
 
+style.css
+
 <pre>
-<h4>📘 style.css</h4>
 body {
   margin: 30px;
   background-color: #E9E9E9;
