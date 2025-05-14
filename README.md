@@ -803,7 +803,7 @@ Veja alguns exemplos:
 <pre><code>&lt;table border rules="groups"6&gt;</code></pre>
 <pre><code>&lt;table border rules="rows"6&gt;</code></pre>
 
-# 🆗 TAGs de Formulários
+# 🆗 [Front] Formulários
 A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:
 
 **Formulário de Login (boilerplate)**:
