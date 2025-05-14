@@ -259,31 +259,24 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 
 Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos da Web. O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5 e, portanto, existem algumas formas de fazer isso, veja abaixo quais são e as suas sintaxes:
 
-<ul>
-<li><b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML.</li>
-<br><b>Exemplo de CSS interno:</b><br>
+<b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML. Exemplo de CSS interno:
   
 ```html
 <style> * { margin: 0; padding: 0;} </style>
 ```
   
-<li><b>CSS externo</b>: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML.</li>
-<br><b>Exemplo de CSS externo:</b><br>
+<b>CSS externo</b>: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML. <b>Exemplo de CSS externo:
   
 ```html
 <link rel="stylesheet" href="/assets/public/styles/css/style.css">
 ```
   
-<li><b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada. Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código.</li>
-<br><b>Exemplo de CSS inline:</b><br>
+<b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada. Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código. <b>Exemplo de CSS inline:</b><br>
   
 ```html
 <p style="color:olive;font-size:19px;background-color:black"></p>
 ```
-  
-</ul>
 
-## Principais conceitos do CSS3
 Os principais conceitos do CSS são divididas em categorias conforme a seguir:
 
 - <a href="">Seletores, Declarações, Propriedades e Valores</a>
