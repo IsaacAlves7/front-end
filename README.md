@@ -290,7 +290,7 @@ Os principais conceitos do CSS são divididas em categorias conforme a seguir:
 - <a href="">Positions, Dimensions e Displays</a>
 - <a href="">Media Queries e Layouts Responsivos</a>
 
-# 📦 [CSS] Box Model
+## [CSS] Box Model
 <img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="77" align="right">
 
 When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.
