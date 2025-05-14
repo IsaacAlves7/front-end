@@ -431,8 +431,7 @@ Você também perceberá que não colocamos aspas no atributo <code>charset=utf-
 
 Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada como text/html (apenas um validador XHTML se importaria). Assim, favorecer uma forma em detrimento da outra no HTML5 seria totalmente arbitrário e tornaria inválidas as páginas que não seguissem o formato, apesar delas funcionarem perfeitamente em qualquer navegador. Desse modo, não importa para o HTML5 qual forma você utiliza.</p>
 
-## `<!Doctype html>`
-É o tipo do documento, vale ressaltar que não é obrigatório.
+`<!Doctype html>` é o tipo do documento, vale ressaltar que não é obrigatório.
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
@@ -440,8 +439,7 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 <!Doctype html>
 ```
 
-## `<html>`
-É a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar. Possui o atributo <code>lang=""</code> que define a língua regional do documento.
+`<html>` é a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar. Possui o atributo <code>lang=""</code> que define a língua regional do documento.
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 <pre>&lt;html lang="pt-br"&gt;&lt;/html&gt;</pre>
@@ -458,14 +456,14 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
   <pre><code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code></pre>
   <li><code>&lt;link&gt;</code> que representa ligação com os arquivos externos:</li><br/>
   
-  ### Chamando uma folha de estilo externa
+Chamando uma folha de estilo externa:
  
  [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
  [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
  
  <pre>&lt;link rel="stylesheet" href="style.css"&gt;</pre>
  
- ### Chamando uma ícone para a guia do navegador
+Chamando uma ícone para a guia do navegador:
  
  [![SVG](https://img.shields.io/badge/-icon.svg-000000?style=social&logo=SVG&logoColor=FFB13B)](#)
  
