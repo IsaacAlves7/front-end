@@ -551,9 +551,10 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
 
 
 ## Pseudo-Classes
-<p>E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento. As pseudo-classes são bem parecidas com os eventos do JavaScript, porém não possuem o mesmo poder de manipular os elementos.
+E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento. As pseudo-classes são bem parecidas com os eventos do JavaScript, porém não possuem o mesmo poder de manipular os elementos.
   
-### Syntax
+Sintaxe:
+
 <pre>
  seletor:pseudo-class { 
     property: value;
@@ -562,7 +563,8 @@ E a diferença mais importante entre eles é a forma como devem ser usados: o ID
 
 O <code>a:hover</code> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
 
-### Tipos de Pseudo-Classes
+Tipos de Pseudo-Classes:
+
 <table>
   <tr>
     <td><b>Pseudo-classe</b></td>
