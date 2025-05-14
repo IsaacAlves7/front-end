@@ -1950,9 +1950,6 @@ section {
 }
 ```
 
-## Flexbox Layout
-<img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="177" align="right"/>
-
 ## Grid Layout
 <img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="177" align="right"/>
 
@@ -1981,9 +1978,7 @@ section {
 ### A importância do Viewport para layouts responsivos
 
 ### Layout multicolunas
-<p>Sua principal vantagem é a flexibilidade, pois independe de dispositivo.
-
-Esta especificação permite que o conteúdo da página se adeque de uma coluna para outra e o número de colunas pode variar dependendo do tamanho da janela.
+Sua principal vantagem é a flexibilidade, pois independe de dispositivo. Esta especificação permite que o conteúdo da página se adeque de uma coluna para outra e o número de colunas pode variar dependendo do tamanho da janela.
 
 Para facilitar o seu entendimento, vamos direto a um exemplo:
 
@@ -2026,8 +2021,10 @@ img {
   p { margin: 0; padding: 0 }
 </pre>
 
-### Layout de Box Flexível
-<p>É um novo algoritmo para disposição de boxes dentro do HTML. Este modelo permite um controle mais apurado do Box permitindo “dobrar” suas dimensões para preencher espaços não utilizados.
+## Flexbox Layout
+<img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="177" align="right"/>
+
+É um novo algoritmo para disposição de boxes dentro do HTML. Este modelo permite um controle mais apurado do Box permitindo “dobrar” suas dimensões para preencher espaços não utilizados.
 
 Veja as propriedades a seguir:</p>
 <ul>
@@ -2080,7 +2077,7 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 
 Agora, iremos criar um identificador container e configurar como queremos colocar as caixas.
 
-### Criar container
+Criar container:
 ```css
 #container {
     display: box;
@@ -2089,7 +2086,7 @@ Agora, iremos criar um identificador container e configurar como queremos coloca
 }
 ```
 
-### Definir a largura das caixas
+Definir a largura das caixas:
 ```css
 .container {
     /*width: 240px;*/
@@ -2097,7 +2094,7 @@ Agora, iremos criar um identificador container e configurar como queremos coloca
 }
 ```
 
-### Tornar o box flexível
+Tornar o box flexível:
 ```css
 .box-flex {
     box-flex: 1;
