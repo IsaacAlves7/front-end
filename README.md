@@ -802,9 +802,8 @@ Sintaxe:
 
 Basta utilizarmos a pseudo-classe <code>:root</code> e inserirmos os seletores <code>--nome da variável</code> para podermos atribuir os valores. Para chama-la é simples, basta somente utilizar o seletor desejável e o valor <code>var(--nome da variável)</code>.
 
-## Border (A Borda do elemento)
-
-<p>No entanto, a <strong>border</strong> é diferente da <strong>margin</strong> e do <strong>padding</strong>: 'border-top-width', 'border-right-width', 'border-bottom-width', e 'border-left-width‘.
+## [CSS3] Border
+No entanto, a <strong>border</strong> é diferente da <strong>margin</strong> e do <strong>padding</strong>: 'border-top-width', 'border-right-width', 'border-bottom-width', e 'border-left-width‘.
 &nbsp;
 Exemplo de utilização:
 &nbsp;
@@ -824,8 +823,6 @@ Tipos de Borda:
 
 🔺 Como fazer Bordas de Triângulos:
 ![como fazer triângulos com bordas](https://user-images.githubusercontent.com/61624336/107122854-0ccc9e00-6879-11eb-9ec0-9f604afc59c8.gif)
-
-## Content (O Conteúdo do Elemento)
 
 # 📜 JavaScript (JS)
 <a href="https://github.com/IsaacAlves7/js"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="77" align="right"/></a>
