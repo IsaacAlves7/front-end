@@ -1938,6 +1938,10 @@ section {
 ## Grid Layout
 <img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="177" align="right"/>
 
+O Módulo de **Grid Layout** oferece um sistema de layout baseado em grade, com linhas e colunas (rows and columns). O Módulo de Layout em Grade permite que os desenvolvedores criem facilmente layouts web complexos. O Módulo de Layout em Grade facilita a criação de uma estrutura de layout responsiva, sem usar flutuação ou posicionamento.
+
+As propriedades de grade CSS são suportadas em todos os navegadores modernos.
+
 ## Mobile First
 
 ## Viewport 
