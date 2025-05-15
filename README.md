@@ -1728,7 +1728,7 @@ Vamos começar com um exemplo de como mudar uma div de posição sem precisar ch
 }
 </pre>
 
-<pre>
+```javascript
 function rotate(value){
    document.getElementById('div1').style.webkitTransform="rotate("+value+"deg)";
    document.getElementById('div1').style.webkitTransform="rotate("+value+"deg)";
@@ -1739,7 +1739,7 @@ function rotate(value){
    document.getElementById('div1').style.tranform="rotate("+value+"deg)";
    document.getElementById('span1').innerHTML=value+"deg";
 }
-</pre>
+```
 
 > Agora veja como ficará a página. Arrastando a barra de rolagem, teremos a modificação da caixa amarela.
 
