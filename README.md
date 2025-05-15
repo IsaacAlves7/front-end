@@ -1960,7 +1960,7 @@ As propriedades de grade CSS são suportadas em todos os navegadores modernos.
 
 `only` Define o tipo de saída do arquivo.
 
-### Layout multicolunas
+## Layout multicolunas
 Sua principal vantagem é a flexibilidade, pois independe de dispositivo. Esta especificação permite que o conteúdo da página se adeque de uma coluna para outra e o número de colunas pode variar dependendo do tamanho da janela.
 
 Para facilitar o seu entendimento, vamos direto a um exemplo:
