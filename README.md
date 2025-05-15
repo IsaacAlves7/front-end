@@ -1470,28 +1470,28 @@ Gradientes são muito usado para mesclar duas ou mais cores no background, o que
 
 Linear-gradient
 
-# [Front] Textos
+# 🔡 [Front] Textos
 <p>Uma das novidades do CSS 3 é o uso de fontes da própria internet, podemos agora usar fontes livres que são disponíveis na internet, sem que tenha a necessidade de estar instalada na máquina do usuário.
 
 O site do Google disponibiliza uma quantidade grande de fontes livres. No endereço https://fonts.google.com/ encontramos as fontes e a forma de como colocar no nosso código.
 
 Para colocar no código da página, escolhemos a fonte e depois copiamos o código que vai ser colocado no <code>&lt;head&gt;</code> da página.</p>
-<pre>
- &lt;head&gt;
-  &lt;link href="https://fonts.googleapis.com/css?family=Abhaya+Libre|Bungee+Inline" rel="stylesheet"&gt;
- &lt;/head&gt;
-</pre>
 
-<p>Depois no CSS colocamos o comando para o seu uso.</p>
+```html
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre|Bungee+Inline" rel="stylesheet"/>
+</head>
+```
 
-<pre>
+Depois no CSS colocamos o comando para o seu uso.
+
+```html
 font-family:'Bungee Inline', cursive;
 font-family:'Abhaya Libre', serif;
-</pre>
+```
 
-<p>O comando <code>font-family</code> é o que determina a fonte que será usada.
+O comando <code>font-family</code> é o que determina a fonte que será usada. No CSS, temos ainda uma série de definições de comandos para fonte como:
 
-No CSS, temos ainda uma série de definições de comandos para fonte como:</p>
 <table>
   <tr>
      <td><strong>Propriedade</strong></td>
