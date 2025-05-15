@@ -1485,7 +1485,7 @@ Para colocar no código da página, escolhemos a fonte e depois copiamos o códi
 
 Depois no CSS colocamos o comando para o seu uso.
 
-```html
+```css
 font-family:'Bungee Inline', cursive;
 font-family:'Abhaya Libre', serif;
 ```
