@@ -1691,14 +1691,15 @@ body {
 </pre>
 
 # ⤴️ [Front] Transition e Transform
+[![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/pen/zYKowjP)
+
 O <b>CSS3</b> em conjunto com o <b>JavasScript</b> e o <b>HTML5</b> passaram a dar suporte a transformações em tempo real, de objetos HTML.
 
 Podemos modificar posição, rotacionar, aumentar e diminuir, tudo isso dentro de todos os eixos gráficos disponíveis na sua tela.
 
 Vamos começar com um exemplo de como mudar uma div de posição sem precisar chamar novamente a página, isto é, diretamente no navegador.</p>
 
-**Vejamos os códigos**:
-[![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/pen/zYKowjP)
+Vejamos os códigos:
 
 ```html
 <!DOCTYPE html>
@@ -1716,7 +1717,7 @@ Vamos começar com um exemplo de como mudar uma div de posição sem precisar ch
 </html>
 ```
 
-<pre>
+```css
 #div1 {
    width: 120px;
    height: 100px;
@@ -1726,7 +1727,7 @@ Vamos começar com um exemplo de como mudar uma div de posição sem precisar ch
    -ms-transform: rotate(7deg); /*IE 9*/
    -webkit-transform: rotate(7deg); /*Opera, Chrome and Safari*/
 }
-</pre>
+```
 
 ```javascript
 function rotate(value){
