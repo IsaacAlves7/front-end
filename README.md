@@ -1532,37 +1532,38 @@ O comando <code>font-family</code> é o que determina a fonte que será usada. N
 </table>
 
 Exemplo:
-<pre>
+
+```css
  h1{
    font-size: 250%;
    font-style: normal;
    font-variant: small-caps;
  }
- &nbsp;
+
  h2{
    font-size: 100px;
    font-style: italic;
    font-weight: normal;
  }
- &nbsp;
+
  h3{
    font-size: 2cm;
    font-style: italic;
    font-weight: bold;
  }
- &nbsp;
+
  h4{
    font-size: 10rem;
    font-style: italic;
    font-weight: 900;
  }
- &nbsp;
+
  p{
    font-size: 100pc;
    font-style: oblique;
    letter-spacing: 2px;
  }
-</pre>
+```
 
 Estilizando listas:
 <table>
@@ -1577,7 +1578,8 @@ Estilizando listas:
 </table>
 
 Exemplo:
-<pre>
+
+```css
 ul {
   list-style-type: square;
 }
@@ -1589,14 +1591,15 @@ ol {
 ul {
   list-style-type: "\1F44D"; /*Código do Emoji de um joinha*/
 }
-</pre>
+```
 
 Exemplo: Estilizando a lista com imagem
-<pre>
+
+```css
 ul {
   list-style-type: url('rocket.png');
 }
-</pre>
+```
 
 # [Front] Positions and dimensions
 <p>As propriedades CSS <strong>position</strong> e <strong>float</strong> determinam como um box será posicionado no modelo visual de formatação de um documento. Esse box pode conter imagens, textos, listas, entre outros e, com isso, podemos montar layouts com a mesma qualidade de um programa gráfico feito para este fim.
