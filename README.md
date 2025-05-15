@@ -306,7 +306,7 @@ Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adiciona
 <p style="color:olive;font-size:19px;background-color:black"></p>
 ```
 
-Estilo incorporado ou interno: Caracteriza-se por escrever o código CSS, utilizando o comando <strong>&lt;style&gt;</strong> do HTML. Esse método é superior ao anterior, pois <b>todas as regras CSS</b> estão localizadas no início do código HTML5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
+Estilo incorporado ou interno: Caracteriza-se por escrever o código CSS, utilizando o comando `<style>` do HTML. Esse método é superior ao anterior, pois <b>todas as regras CSS</b> estão localizadas no início do código HTML5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
 
 Exemplo de utilização:
 
