@@ -1944,7 +1944,6 @@ O Módulo de **Grid Layout** oferece um sistema de layout baseado em grade, com 
 
 As propriedades de grade CSS são suportadas em todos os navegadores modernos.
 
-## Viewport 
 `not` usamos para dispositivos monocromáticos, pois estamos negando o atributo color.
 
 <pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
