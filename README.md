@@ -2003,6 +2003,8 @@ img {
 ## Flexbox Layout
 <img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="177" align="right"/>
 
+O CSS Flexible Box Layout, conhecido como Flexbox, é um modelo de layout da Web CSS3. Está no estágio de recomendação de candidatos (CR) do W3C. O layout flexível permite que os elementos responsivos dentro de um contêiner sejam organizados automaticamente, dependendo do tamanho da tela (ou dispositivo).
+
 É um novo algoritmo para disposição de boxes dentro do HTML. Este modelo permite um controle mais apurado do Box permitindo “dobrar” suas dimensões para preencher espaços não utilizados.
 
 Veja as propriedades a seguir:</p>
