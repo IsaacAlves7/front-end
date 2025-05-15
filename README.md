@@ -1690,7 +1690,7 @@ body {
 }
 </pre>
 
-# [Front] Transition e Transform
+# ⤴️ [Front] Transition e Transform
 O <b>CSS3</b> em conjunto com o <b>JavasScript</b> e o <b>HTML5</b> passaram a dar suporte a transformações em tempo real, de objetos HTML.
 
 Podemos modificar posição, rotacionar, aumentar e diminuir, tudo isso dentro de todos os eixos gráficos disponíveis na sua tela.
