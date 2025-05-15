@@ -1895,6 +1895,8 @@ div.rotate_left{
 # 📱 [Front] Responsive Layout
 <img src="https://user-images.githubusercontent.com/61624336/112909640-3ca16080-90c8-11eb-85a4-d5cc3a6aaa85.gif" align="right" height="177">
 
+**Mobile First** propõe que, ao desenvolver um site ou outro produto, o mobile seja levado em conta primeiro. Ao contrário do que se fazia antes, as adaptações devem ser feitas de mobile para desktop.
+
 Podemos definir **media queries** como a maneira que o navegador define que formatação de página vai apresentar a cada tipo de dispositivo. Os **media types** são definidos para cada tipo de media recebendo um certo código CSS, fazendo com que o navegador direcione a abertura da página de uma certa forma. O HTML foi gerado para ser portátil, ou seja, lido e interpretado por qualquer tipo de dispositivo. Só que cada dispositivo exibe o HTML de uma maneira, devido a fatores como, por exemplo, as dimensões da tela.
 
 Imagine que visitamos um site em um desktop; ele não terá o mesmo aspecto se visitarmos o mesmo site em um dispositivo móvel. Isso ocorre porque são dispositivos diferentes e formas diferentes de navegação. Por isso, a importância de usar essa nova forma de definição de CSS. Isso facilita a leitura do site em mídias diferentes.
@@ -1941,8 +1943,6 @@ section {
 O Módulo de **Grid Layout** oferece um sistema de layout baseado em grade, com linhas e colunas (rows and columns). O Módulo de Layout em Grade permite que os desenvolvedores criem facilmente layouts web complexos. O Módulo de Layout em Grade facilita a criação de uma estrutura de layout responsiva, sem usar flutuação ou posicionamento.
 
 As propriedades de grade CSS são suportadas em todos os navegadores modernos.
-
-## Mobile First
 
 ## Viewport 
 `not` usamos para dispositivos monocromáticos, pois estamos negando o atributo color.
