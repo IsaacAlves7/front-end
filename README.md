@@ -90,7 +90,7 @@ utilizando padrões altamente especificados, ao invés de apenas artimanhas mal-
 Ainda mais importante é a necessidade de um padrão aberto livre (para utilizar e para implementar) que possa competir com padrões proprietários como
 Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas tecnologias ou empresas, acreditamos que a Web seja uma plataforma vital à sociedade, comércio e comunicações para estar nas mãos de um fabricante.
 
-Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  <code><font></code>, <code><center></code> e outras novas, pois milhões de páginas web as utilizam.
+Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  `<font>`, `<center>` e outras novas, pois milhões de páginas web as utilizam.
 
 # 🎨 Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a **possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa**.
@@ -126,7 +126,7 @@ O projeto de construção de um sistema é muito mais complexo do que apenas a c
 
 A linguagem de formatação de documentos com a capacidade de links de hipertexto (termo que remete a um texto ao qual se agregam outros conjuntos de informação na forma de blocos de textos, palavras, imagens ou sons, cujo acesso ocorre através de referências específicas, no meio digital, denominadas hiperlinks, ou simplesmente links) e que tornou-se o formato básico para publicação na web.
 
-In 1990, the <b>HTML</b> (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
+In 1990, the **HTML** (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
 
 **HTML Timeline**
 1. HTML é tornado público - 1989
@@ -152,11 +152,11 @@ Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de
 
 <img src="https://www.w3schools.com/html/img_sem_elements.gif" align="right" height="177"/>
 
-O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.
+O **HTML Semântico** serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.
 
-Até a versão 4 do HTML as divs eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma <b>folha de jornal</b>, pois ambas contém cabeçalhos, rodapés, artigos e seções.
+Até a versão 4 do HTML as divs eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma **folha de jornal**, pois ambas contém cabeçalhos, rodapés, artigos e seções.
 
-- O elemento <code><section></code> (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.
+- O elemento `<section>` (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736626-c63f8100-5f13-11eb-81b8-f6c3e341ea4b.jpg)
 
@@ -164,7 +164,7 @@ Até a versão 4 do HTML as divs eram as principais semânticas de estruturament
 
 ```
 
-- O elemento <code><header></code> (cabeçalho) utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.
+- O elemento `<header>` (cabeçalho) utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.
 
 ```html
 
@@ -172,7 +172,7 @@ Até a versão 4 do HTML as divs eram as principais semânticas de estruturament
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736972-28988180-5f14-11eb-83c6-bbceb25bf757.jpg)
 
-- <code><nav></code> (navegação) este elemento é a seção onde ficam as informações de de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.
+- `<nav>` (navegação) este elemento é a seção onde ficam as informações de de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.
 
 ```html
 
@@ -180,7 +180,7 @@ Até a versão 4 do HTML as divs eram as principais semânticas de estruturament
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105737577-defc6680-5f14-11eb-8363-9b10b09089a6.jpg)
 
-- <code><article></code> (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento <code><section></code>. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento <code><header></code> que é o título e um elemento <code><footer></code> que é o rodapé do elemento.
+- `<article>` (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento `<section>`. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento `<header>` que é o título e um elemento `<footer>` que é o rodapé do elemento.
 
 ```html
 
@@ -188,7 +188,7 @@ Até a versão 4 do HTML as divs eram as principais semânticas de estruturament
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105737941-461a1b00-5f15-11eb-8528-d9bf452796ab.jpg)
 
-- <code><footer></code> (rodapé) este elemento é um que contém basicamente as informações sobre o conteúdo da seção, como, por exemplo, o autor, links relacionados etc.
+- `<footer>` (rodapé) este elemento é um que contém basicamente as informações sobre o conteúdo da seção, como, por exemplo, o autor, links relacionados etc.
 
 ```html
 
@@ -196,7 +196,7 @@ Até a versão 4 do HTML as divs eram as principais semânticas de estruturament
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105738329-add06600-5f15-11eb-8cac-403ab42f3e3a.jpg)
 
-- <code><aside></code> (de lado) neste elemento estão contidas as informações que não estão relacionadas diretamente com o texto. Por exemplo: comerciais pagos, links promocionais etc.
+- `<aside>` (de lado) neste elemento estão contidas as informações que não estão relacionadas diretamente com o texto. Por exemplo: comerciais pagos, links promocionais etc.
 
 ```html
 
@@ -205,9 +205,9 @@ Até a versão 4 do HTML as divs eram as principais semânticas de estruturament
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105738607-f720b580-5f15-11eb-9440-76725a31f908.jpg)
 
 ## [HTML5] TAGs essenciais
-É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( `<` ) e terminado com o símbolo maior ( `>` ), como por exemplo: <code><meta></code>, <code><h1></code>, <code><img></code> etc. 
+É necessário entender o que é **TAG** (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( `<` ) e terminado com o símbolo maior ( `>` ), como por exemplo: `<meta>`, `<h1>`, `<img>` etc. 
 
-Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b><tag aberta></b> e de fechamento <b></tag fechada></b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <code><meta></code> e <code><link></code>.
+Ou seja, todo elemento HTML é chamado de **tag** que é definida pelos os sinais de abertura **<tag aberta>** e de fechamento **</tag fechada>**, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do `<meta>` e `<link>`.
 
 Além disso, são divididas em categorias conforme a seguir:
 
@@ -223,19 +223,19 @@ Além disso, são divididas em categorias conforme a seguir:
 - <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Formulários</a>
 - <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Interativo</a>
 
-Uma TAG pode conter <b>atributos</b>, que são informações que alteram o comportamento da TAG. Os atributos podem ser divididos em atributos específicos para cada TAG e atributos globais que são comuns a todas as tags.
+Uma TAG pode conter **atributos**, que são informações que alteram o comportamento da TAG. Os atributos podem ser divididos em atributos específicos para cada TAG e atributos globais que são comuns a todas as tags.
 
-Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o <b>CSS</b>, o <b>Javascript</b>.
+Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o **CSS**, o **Javascript**.
 
-<b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
+**Atributos** são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem **atributos globais** (que funcionam em todas as Tags) e **específicos** (que são direcionados para cada Tag, através de especificação).
 
-Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <code><link></code>:
+Os Atributos possuem **nome** e um **valor**. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag `<link>`:
 
 ```html
 <link rel="stylesheet" href="/assets/public/styles/css/style.css">
 ```
 
-Como pode ver o atributo <code>rel=""</code> indica o valor da conexão, que no caso é <code>rel="stylesheet"</code> que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo <code>href=""</code> significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
+Como pode ver o atributo `rel=""` indica o valor da conexão, que no caso é `rel="stylesheet"` que significa "folha de estilo" para reconhecer o arquivo CSS externo. O atributo `href=""` significa o endereço dessa conexão, é importante que o endereço seja bem declarado para a conexão funcionar, caso contrário não irá funcionar.
 
 Atributos Específicos de uma TAG:
 
@@ -245,39 +245,39 @@ Atributos Específicos de uma TAG:
     <td><strong>Função do atributo</strong></td>
   </tr>
   <tr>
-    <td><code>rel=""</code></td>
+    <td>`rel=""`</td>
     <td>Especifica o relacionamento entre o documento atual e o documento linkado</td>
   </tr>
   <tr>
-    <td><code>src=""</code></td>
+    <td>`src=""`</td>
     <td>Especifica a URL do arquivo de mídia</td>
   </tr>
   <tr>
-    <td><code>type=""</code></td>
+    <td>`type=""`</td>
     <td>Especifica o tipo do documento</td>
   </tr>
   <tr>
-    <td><code>alt=""</code></td>
+    <td>`alt=""`</td>
     <td>Mostra o texto quando a aparência não renderiza</td>
   </tr>
   <tr>
-    <td><code>target=""</code></td>
+    <td>`target=""`</td>
     <td>Especifica o modo de abrir o link em janela</td>
   </tr>
   <tr>
-    <td><code>width=""</code></td>
+    <td>`width=""`</td>
     <td>Especifica a largura do elemento</td>
   </tr>
   <tr>
-    <td><code>height=""</code></td>
+    <td>`height=""`</td>
     <td>Especifica a altura do elemento</td>
   </tr>
   <tr>
-    <td><code>name=""</code></td>
+    <td>`name=""`</td>
     <td>Especifica o nome do elemento</td>
   </tr>
   <tr>
-    <td><code>value=""</code></td>
+    <td>`value=""`</td>
     <td>Especifica o valor do elemento</td>
   </tr>
 </table>
@@ -290,15 +290,15 @@ Atributos Globais de uma TAG:
     <td><strong>Função do atributo</strong></td>
   </tr>
   <tr>
-    <td><code>title=""</code></td>
+    <td>`title=""`</td>
     <td>Especifica a informação extra sobre o elemento, como um balãosinho de texto</td>
   </tr>
   <tr>
-    <td><code>class=""</code></td>
+    <td>`class=""`</td>
     <td>Especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS)</td>
   </tr>
     <tr>
-    <td><code>id=""</code></td>
+    <td>`id=""`</td>
     <td>Especifica uma unica id para um elemento (referência de id para o CSS)</td>
   </tr>
 </table>
@@ -312,25 +312,25 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 
 Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos da Web. O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5 e, portanto, existem algumas formas de fazer isso, veja abaixo quais são e as suas sintaxes:
 
-<b>CSS interno</b>: as formatações são definidas dentro do arquivo HTML. Exemplo de CSS interno:
+**CSS interno**: as formatações são definidas dentro do arquivo HTML. Exemplo de CSS interno:
   
 ```html
 <style> * { margin: 0; padding: 0;} </style>
 ```
   
-<b>CSS externo</b>: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML. Exemplo de CSS externo:
+**CSS externo**: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML. Exemplo de CSS externo:
   
 ```html
 <link rel="stylesheet" href="/assets/public/styles/css/style.css">
 ```
   
-<b>CSS inline</b>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada. Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código. Exemplo de CSS inline:
+**CSS inline**: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada. Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código. Exemplo de CSS inline:
   
 ```html
 <p style="color:olive;font-size:19px;background-color:black"></p>
 ```
 
-Estilo incorporado ou interno: Caracteriza-se por escrever o código CSS, utilizando o comando `<style>` do HTML. Esse método é superior ao anterior, pois <b>todas as regras CSS</b> estão localizadas no início do código HTML5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
+Estilo incorporado ou interno: Caracteriza-se por escrever o código CSS, utilizando o comando `<style>` do HTML. Esse método é superior ao anterior, pois **todas as regras CSS** estão localizadas no início do código HTML5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
 
 Exemplo de utilização:
 
@@ -343,7 +343,7 @@ Exemplo de utilização:
  </head>
 ```
 
-Estilo externo: As regras foram escritas em um arquivo com extensão <b>.css</b> e podem ser carregadas ao documento HTML5 de duas formas:
+Estilo externo: As regras foram escritas em um arquivo com extensão **.css** e podem ser carregadas ao documento HTML5 de duas formas:
 
 Utilizando o elemento <link> no HTML
 
@@ -357,7 +357,7 @@ Utilizando o elemento <link> no HTML
 </head>
 ```
 
-Utilização do elemento `@import` no CSS permite <b>importar</b> regras de estilo dentro de outras regras de estilo. Esse método permite aplicar regras comuns a todos os documentos HTML.
+Utilização do elemento `@import` no CSS permite **importar** regras de estilo dentro de outras regras de estilo. Esse método permite aplicar regras comuns a todos os documentos HTML.
 
 **Exemplo de utilização**:
 
@@ -387,13 +387,13 @@ O CSS nível 3 implementou o conceito de módulos, em que cada módulo é desenv
 ## [CSS] Box Model
 <img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="277" align="right">
 
-When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the <b>box-model</b>. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.
+When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the **box-model**. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.
 
 <ol>
-  <li><b>margin</b> - São os espaçamentos entre elementos (transparente).</li>
-  <li><b>border</b> - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura, cor e forma.</li>
-  <li><b>padding</b> - Espaçamento entre a borda e o conteúdo.</li>
-  <li><b>content</b> - O conteúdo inserido no elemento HTML.</li>
+  <li>**margin** - São os espaçamentos entre elementos (transparente).</li>
+  <li>**border** - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura, cor e forma.</li>
+  <li>**padding** - Espaçamento entre a borda e o conteúdo.</li>
+  <li>**content** - O conteúdo inserido no elemento HTML.</li>
 </ol>
 
 Besides that, the Box model have his positions:
@@ -401,10 +401,10 @@ Besides that, the Box model have his positions:
 <img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="177" align="right"/>
 
 <ul>
-  <li><b>top</b>: Up position</li>
-  <li><b>right</b>: Right position</li>
-  <li><b>bottom</b>: Down position</li>
-  <li><b>left</b>: Left position</li>
+  <li>**top**: Up position</li>
+  <li>**right**: Right position</li>
+  <li>**bottom**: Down position</li>
+  <li>**left**: Left position</li>
 </ul>
 
 > 📦 **Box Model**: ` top, right, down, left `
@@ -450,13 +450,13 @@ ul {
 > OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.
 
 ## [CSS3] Seletores, Declarações, Propriedades e Valores
-Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por <b>CSS</b>.
+Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por **CSS**.
 
 A sintaxe é bem simples e pode ser explicada com a frase "você cria regras de estilo para elementos ou grupos de elementos".
 
 Vamos usar um elemento HTML que vimos anteriormente, a âncora , para exemplificar.
 
-Uma regra CSS é representada por um <b>seletor</b> ou um <b>grupo de seletores</b>, no nosso caso é o <b>a</b>, então dentro de um par de chaves adicionamos as <strong>declarações</strong>, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as <b>declarações</b> são formadas por uma propriedade e um valor.</p>
+Uma regra CSS é representada por um **seletor** ou um **grupo de seletores**, no nosso caso é o **a**, então dentro de um par de chaves adicionamos as <strong>declarações</strong>, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as **declarações** são formadas por uma propriedade e um valor.</p>
 
 Uma regra CSS é representada por:
 <ul>
@@ -554,17 +554,17 @@ Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer
 O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele representa um elemento HTML, e com IDs e Classes podemos representar qualquer tipo de elemento mas há algumas diferenças entre eles:
 
 <strong>ID</strong>: é representado pelo símbolo # (hash) seguido de um nome para esse ID. Só pode ser utilizado uma única vez!
-<pre><code>#id{
-  }</code></pre>
+<pre>`#id{
+  }`</pre>
 
 <strong>Classe</strong>: a classe é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash. Pode ser utilizado mais de uma vez!
-<pre><code>.class{
-  }</code></pre>
+<pre>`.class{
+  }`</pre>
 
 E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
 
 ## [CSS3] Pseudo-Classes
-E há um último detalhe nesse exemplo: a <b>pseudo-classe</b>. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento. As pseudo-classes são bem parecidas com os eventos do JavaScript, porém não possuem o mesmo poder de manipular os elementos.
+E há um último detalhe nesse exemplo: a **pseudo-classe**. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento. As pseudo-classes são bem parecidas com os eventos do JavaScript, porém não possuem o mesmo poder de manipular os elementos.
   
 Sintaxe:
 
@@ -574,146 +574,146 @@ Sintaxe:
    }
 </pre>
 
-O <code>a:hover</code> do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
+O `a:hover` do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
 
 Tipos de Pseudo-Classes:
 
 <table>
   <tr>
-    <td><b>Pseudo-classe</b></td>
-    <td><b>Definição</b></td>
+    <td>**Pseudo-classe**</td>
+    <td>**Definição**</td>
   </tr>
   <tr>
-    <td><code>:hover</code></td>
+    <td>`:hover`</td>
     <td>Altera o elemento por passar o mouse por cima.</td>
   </tr>  
   <tr>
-    <td><code>:active</code></td>
+    <td>`:active`</td>
     <td>Altera o elemento por clica-lo.</td>
   </tr>
    <tr>
-    <td><code>:link</code></td>
+    <td>`:link`</td>
     <td>Altera todos os links não visitados.</td>
   </tr>
    <tr>
-    <td><code>:visited</code></td>
+    <td>`:visited`</td>
     <td>Altera todos os links visitados.</td>
   </tr>
   <tr>
-    <td><code>:focus</code></td>
-    <td>Altera o elemento <code><input></code> que tem o foco.</td>
+    <td>`:focus`</td>
+    <td>Altera o elemento `<input>` que tem o foco.</td>
   </tr>
   <tr>
-    <td><code>:checked</code></td>
-    <td>Altera todos os elementos <code><input></code> marcados.</td>
+    <td>`:checked`</td>
+    <td>Altera todos os elementos `<input>` marcados.</td>
   </tr>
   <tr>
-    <td><code>:disable</code></td>
-    <td>Altera todos os elementos <code><input></code> desativados.</td>
+    <td>`:disable`</td>
+    <td>Altera todos os elementos `<input>` desativados.</td>
   </tr>
    <tr>
-    <td><code>:enabled</code></td>
-    <td>Altera todos os elementos <code><input></code> habilitados.</td>
+    <td>`:enabled`</td>
+    <td>Altera todos os elementos `<input>` habilitados.</td>
   </tr>
   <tr>
-    <td><code>:empty</code></td>
-    <td>Altera todos os elementos <code><p></code> que não têm filhos.</td>
+    <td>`:empty`</td>
+    <td>Altera todos os elementos `<p>` que não têm filhos.</td>
   </tr>
   <tr>
-    <td><code>:first-child</code></td>
-    <td>Altera cada elemento <code><input></code> habilitado.</td>
+    <td>`:first-child`</td>
+    <td>Altera cada elemento `<input>` habilitado.</td>
   </tr>
   <tr>
-    <td><code>:enabled</code></td>
-    <td>Altera cada elemento <code><input></code> habilitado.</td>
+    <td>`:enabled`</td>
+    <td>Altera cada elemento `<input>` habilitado.</td>
   </tr>
   <tr>
-    <td><code>:first-child</code></td>
-    <td>Altera cada elemento <code><p></code> que é primeiro filho do elemento pai.</td>
+    <td>`:first-child`</td>
+    <td>Altera cada elemento `<p>` que é primeiro filho do elemento pai.</td>
   </tr>
   <tr>
-    <td><code>:first-of-type</code></td>
-    <td>Altera cada elemento <code><p></code> que é o primeiro elemento <code><p></code> de seu elemento pai.</td>
+    <td>`:first-of-type`</td>
+    <td>Altera cada elemento `<p>` que é o primeiro elemento `<p>` de seu elemento pai.</td>
   </tr>
   <tr>
-    <td><code>:in-range</code></td>
-    <td>Altera elementos <code><input></code> com um valor dentro de um intervalo especificado.</td>
+    <td>`:in-range`</td>
+    <td>Altera elementos `<input>` com um valor dentro de um intervalo especificado.</td>
   </tr>
   <tr>
-    <td><code>:invalid</code></td>
-    <td>Altera todos os elementos <code><input></code> com um valor inválido.</td>
+    <td>`:invalid`</td>
+    <td>Altera todos os elementos `<input>` com um valor inválido.</td>
   </tr>
   <tr>
-    <td><code>:lang(language)</code></td>
-    <td>Altera cada elemento <code><p></code> com um valor de atributo lang começando com "<code>it</code>".</td>
+    <td>`:lang(language)`</td>
+    <td>Altera cada elemento `<p>` com um valor de atributo lang começando com "`it`".</td>
   </tr>
   <tr>
-    <td><code>:last-child</code></td>
-    <td>Altera todos os elementos <code><p></code> que são os últimos filhos de seu elemento pai.</td>
+    <td>`:last-child`</td>
+    <td>Altera todos os elementos `<p>` que são os últimos filhos de seu elemento pai.</td>
   </tr>
   <tr>
-    <td><code>:last-of-type</code></td>
-    <td>Altera todos os elementos <code><p></code> que é o último elemento <code><p></code> de seu elemento pai.</td>
+    <td>`:last-of-type`</td>
+    <td>Altera todos os elementos `<p>` que é o último elemento `<p>` de seu elemento pai.</td>
   </tr>
   <tr>
-    <td><code>:link</code></td>
+    <td>`:link`</td>
     <td>Altera todos os links não visitados.</td>
   </tr>
   <tr>
-    <td><code>:not(selector)</code></td>
-    <td>Altera cada elemento que não é o elemento <code><p></code>.</td>
+    <td>`:not(selector)`</td>
+    <td>Altera cada elemento que não é o elemento `<p>`.</td>
   </tr>
   <tr>
-    <td><code>:nth-child(n)</code></td>
+    <td>`:nth-child(n)`</td>
     <td>Altera cada elemento <p> que é ordenado do seu elemento pai.</td>
   </tr>
   <tr>
-    <td><code>:nth-last-child(n)</code></td>
+    <td>`:nth-last-child(n)`</td>
     <td>Altera cada elemento <p> que é ordenado do seu elemento pai, contando a partir do último filho.</td>
   </tr>
   <tr>
-    <td><code>:nth-last-of-type(n)</code></td>
+    <td>`:nth-last-of-type(n)`</td>
     <td>Altera cada elemento <p> que é o segundo elemento <p> de seu pai, contando a partir do último filho.</td>
   </tr>
   <tr>
-    <td><code>:nth-of-type(n)</code></td>
+    <td>`:nth-of-type(n)`</td>
     <td>Altera cada elemento <p> que é o segundo elemento <p> de seu elemento pai.</td>
   </tr>
   <tr>
-    <td><code>:only-of-type</code></td>
+    <td>`:only-of-type`</td>
     <td>Altera o elemento <p> que é o único elemento <p> de seu elemento pai.</td>
   </tr>
   <tr>
-    <td><code>:only-child</code></td>
+    <td>`:only-child`</td>
     <td>Altera cada elemento <p> que é o único filho de seu elemento pai.</td>
   </tr>
   <tr>
-    <td><code>:optional</code></td>
+    <td>`:optional`</td>
     <td>Altera os elementos <input> sem atributo "obrigatório".</td>
   </tr>
   <tr>
-    <td><code>:out-of-range</code></td>
+    <td>`:out-of-range`</td>
     <td>Altera os elementos <input> com um atributo "somente leitura" especificado.</td>
   </tr>
   <tr>
-    <td><code>:read-write</code></td>
+    <td>`:read-write`</td>
     <td>Altera os elementos <input> sem o atributo "somente escrita" especificado.</td>
   </tr>
   <tr>
-    <td><code>:required</code></td>
+    <td>`:required`</td>
     <td>Altera os elementos <input> com um atributo "obrigatório" especificado.</td>
   </tr>
   <tr>
-    <td><code>:root</code></td>
+    <td>`:root`</td>
     <td>Altera o elemento raiz do documento.</td>
   </tr>
   <tr>
-    <td><code>:target</code></td>
+    <td>`:target`</td>
     <td>Altera o elemento ativo atual (clicado em um URL contendo o nome da âncora).</td>
   </tr>
   <tr>
-    <td><code>:valid</code></td>
-    <td>Altera todos os elementos <code><input></code> com um valor válido.</td>
+    <td>`:valid`</td>
+    <td>Altera todos os elementos `<input>` com um valor válido.</td>
   </tr>
 </table>
 
@@ -758,27 +758,27 @@ Tipos de Pseudo-Elementos:
 
 <table>
   <tr>
-    <td><b>Pseudo-elemento</b></td>
-    <td><b>Definição</b></td>
+    <td>**Pseudo-elemento**</td>
+    <td>**Definição**</td>
   </tr>
   <tr>
-    <td><code>::after</code></td>
+    <td>`::after`</td>
     <td>Insire algo após o conteúdo de cada elemento.</td>
   </tr>
   <tr>
-    <td><code>::before</code></td>
+    <td>`::before`</td>
     <td>Insire algo antes do conteúdo de cada elemento.</td>
   </tr>
   <tr>
-    <td><code>::first-letter</code></td>
+    <td>`::first-letter`</td>
     <td>Seleciona a primeira letra de cada elemento.</td>
   </tr>
    <tr>
-    <td><code>::first-line</code></td>
+    <td>`::first-line`</td>
     <td>Seleciona a primeira linha de cada elemento.</td>
   </tr>
   <tr>
-    <td><code>::selection</code></td>
+    <td>`::selection`</td>
     <td>Seleciona a parte de um elemento que é selecionado por um usuário (A mancha/ marca da seleção nos contents).</td>
   </tr> 
 </table>
@@ -824,7 +824,7 @@ Sintaxe:
 }
 ```
 
-Basta utilizarmos a pseudo-classe <code>:root</code> e inserirmos os seletores <code>--nome da variável</code> para podermos atribuir os valores. Para chama-la é simples, basta somente utilizar o seletor desejável e o valor <code>var(--nome da variável)</code>.
+Basta utilizarmos a pseudo-classe `:root` e inserirmos os seletores `--nome da variável` para podermos atribuir os valores. Para chama-la é simples, basta somente utilizar o seletor desejável e o valor `var(--nome da variável)`.
 
 ## [CSS3] Border
 No entanto, a <strong>border</strong> é diferente da <strong>margin</strong> e do <strong>padding</strong>: 'border-top-width', 'border-right-width', 'border-bottom-width', e 'border-left-width‘.
@@ -851,13 +851,13 @@ Tipos de Borda:
 # 📜 JavaScript (JS)
 <a href="https://github.com/IsaacAlves7/js"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="77" align="right"/></a>
 
-O <b>JavaScript</b> (JS) é uma linguagem de programação do <b>lado cliente</b>, ou seja, é processada pelo próprio navegador (processada pelo cliente).
+O **JavaScript** (JS) é uma linguagem de programação do **lado cliente**, ou seja, é processada pelo próprio navegador (processada pelo cliente).
 
 Com o JavaScript podemos criar efeitos especiais para nossas páginas na Web, além de podermos proporcionar maior interatividade com nossos usuários. O JavaScript é uma linguagem orientada a objetos, ou seja, ela trata todos os elementos da página como objetos distintos, facilitando a tarefa da programação.
 
 Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem deseja criar páginas Web dinâmicas e interativas.
 
-É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por <b>Brendan Eich</b> (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.
+É uma linguagem de programação baseada em scripts e padronizada pela ECMA Internacional. Foi criada por **Brendan Eich** (Netscape) e surgiu em 1995 como linguagem de script client-side de páginas web.
   
 > Atualmente, o JavaScript compete com outras linguagens de programação em alta no mercado, sendo indispensável o seu aprendizado.
 
@@ -913,7 +913,7 @@ Basicamente, a estrutura do documento html se baseia em `<!Doctype html>`, `<htm
 
 Isso ainda é possível, mas a versão mais curta é preferível, já que é mais fácil de digitar e funciona em todo lugar.
 
-Você também perceberá que não colocamos aspas no atributo <code>charset=utf-8</code> nem utilizamos o autoencerramento na tag. O HTML5 não é uma linguagem XML, então você não precisa dessas coisas.
+Você também perceberá que não colocamos aspas no atributo `charset=utf-8` nem utilizamos o autoencerramento na tag. O HTML5 não é uma linguagem XML, então você não precisa dessas coisas.
 
 Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada como text/html (apenas um validador XHTML se importaria). Assim, favorecer uma forma em detrimento da outra no HTML5 seria totalmente arbitrário e tornaria inválidas as páginas que não seguissem o formato, apesar delas funcionarem perfeitamente em qualquer navegador. Desse modo, não importa para o HTML5 qual forma você utiliza.</p>
 
@@ -925,21 +925,21 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 <!Doctype html>
 ```
 
-`<html>` é a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar. Possui o atributo <code>lang=""</code> que define a língua regional do documento.
+`<html>` é a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar. Possui o atributo `lang=""` que define a língua regional do documento.
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 <pre><html lang="pt-br"></html></pre>
 
-<p>O <code><head></code> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <b>metadados</b>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos <b>CSS</b> e <strong>JavaScript</strong>.
+<p>O `<head>` representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como **metadados**. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos **CSS** e <strong>JavaScript</strong>.
 
-<p>No <b><head></b> encontramos:
+<p>No **<head>** encontramos:
   <ul>
-  <li><code><title></code> que representa o título do documento da página HTML:</li><br/>
+  <li>`<title>` que representa o título do documento da página HTML:</li><br/>
     
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
-  <pre><code><title>Estrutura do HTML</title></code></pre>
-  <li><code><link></code> que representa ligação com os arquivos externos:</li><br/>
+  <pre>`<title>Estrutura do HTML</title>`</pre>
+  <li>`<link>` que representa ligação com os arquivos externos:</li><br/>
   
 Chamando uma folha de estilo externa:
  
@@ -961,17 +961,17 @@ Chamando uma ícone para a guia do navegador:
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
   <pre>
-   <code><meta charset="utf-8"></code>
-   <code><meta name="description" content="Free Web Tutorials"></code>
-   <code><meta name="keywords" contents="HTML,CSS,XML,JavaScript"></code>
-   <code><meta name="author" content="Hege Refsnes"></code>
-   <code><meta http-equiv="refresh" content="30"></code>
+   `<meta charset="utf-8">`
+   `<meta name="description" content="Free Web Tutorials">`
+   `<meta name="keywords" contents="HTML,CSS,XML,JavaScript">`
+   `<meta name="author" content="Hege Refsnes">`
+   `<meta http-equiv="refresh" content="30">`
   </pre>
   
-  <b>Atualizar a página depois de 1 segundo sem JavaScript!</b>
+  **Atualizar a página depois de 1 segundo sem JavaScript!**
   <pre><meta http-equiv="refresh" content="1;url=index.html"></pre>
   
-  <li><code><script></code> comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:</li><br/>
+  <li>`<script>` comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:</li><br/>
   
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
@@ -983,7 +983,7 @@ Chamando uma ícone para a guia do navegador:
 <script type="script/javascript" src="main.js"></script>
 </pre>
 
-<li><code><style></code> comando para estilização do CSS do tipo interno:</li><br/>
+<li>`<style>` comando para estilização do CSS do tipo interno:</li><br/>
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
@@ -998,73 +998,73 @@ Chamando uma ícone para a guia do navegador:
 </ul>
 
 
-O <code><body></code> localizado no mesmo nível do <code><head></code>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
+O `<body>` localizado no mesmo nível do `<head>`, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
 <ul>
-<li><code><h1><h2><h3><h4><h5><h6></code> tags de títulos que são por ordem de h1-h6 diminuindo a fonte (do maior para o menor). <code><hgroup></code> é uma tag para um grupo de tags, não possui valor semântico, apenas serve para deixar o código mais legível.</li>
+<li>`<h1><h2><h3><h4><h5><h6>` tags de títulos que são por ordem de h1-h6 diminuindo a fonte (do maior para o menor). `<hgroup>` é uma tag para um grupo de tags, não possui valor semântico, apenas serve para deixar o código mais legível.</li>
 <pre>
-<code><hgroup></code>
-  <code><h1>título 1</h1></code>
-  <code><h2>título 2</h2></code>
-  <code><h3>título 3</h3></code>
-  <code><h4>título 4</h4></code>
-  <code><h5>título 5</h5></code>
-  <code><h6>título 6</h6></code>
-<code></hgroup></code>
+`<hgroup>`
+  `<h1>título 1</h1>`
+  `<h2>título 2</h2>`
+  `<h3>título 3</h3>`
+  `<h4>título 4</h4>`
+  `<h5>título 5</h5>`
+  `<h6>título 6</h6>`
+`</hgroup>`
 </pre>
-<li><p><code><p></code> elemento que representa um parágrafo:</p></li>
-<pre><code><p>parágrafo</p></code></pre>
-<li><p><code><i></code> e <code><em></code> elementos que representam o texto do estilo do tipo <em>itálico</em>.</p></li>
+<li><p>`<p>` elemento que representa um parágrafo:</p></li>
+<pre>`<p>parágrafo</p>`</pre>
+<li><p>`<i>` e `<em>` elementos que representam o texto do estilo do tipo <em>itálico</em>.</p></li>
 <pre><i>itálico</i>
      <em>itálico</em></pre>
-<li><p><code><b></code> e <code><strong></code> elementos que representam o texto do estilo do tipo <b>negrito</b>.</p></li>
-<pre><b>negrito</b>
+<li><p>`**` e `<strong>` elementos que representam o texto do estilo do tipo **negrito**.</p></li>
+<pre>**negrito**
      <strong>negrito</strong></pre>
-<li><p><code><pre></code> elemento que apresenta um bloco de texto pré-formatado, preservando seu conteúdo.<b></b>.</p></li>
+<li><p>`<pre>` elemento que apresenta um bloco de texto pré-formatado, preservando seu conteúdo.****.</p></li>
 <pre><pre>Bloco de texto pré-formatado.</pre></pre>
-<li><p><code><br></code> elemento que serve para quebrar uma linha da página.</p></li>
-<code><br></code>
-<li><p><code><hr></code> elemento que possui uma forma linha horizontal com a função para dividir os elementos da página.</p></li>
-<code><hr></code>
-<li><p><code><wbr></code> elemento que dá uma oportunidade de quebra de linha, se necessário.<b></b>.</p></li>
-<code><wbr></code>
-<li><p><code><sub></code> elemento que representam o texto do estilo do tipo sobscrito.</p></li>
+<li><p>`<br>` elemento que serve para quebrar uma linha da página.</p></li>
+`<br>`
+<li><p>`<hr>` elemento que possui uma forma linha horizontal com a função para dividir os elementos da página.</p></li>
+`<hr>`
+<li><p>`<wbr>` elemento que dá uma oportunidade de quebra de linha, se necessário.****.</p></li>
+`<wbr>`
+<li><p>`<sub>` elemento que representam o texto do estilo do tipo sobscrito.</p></li>
 <pre><sub>texto sobscrito</sub></pre>
-<li><p><code><sup></code> elemento que representam o texto do estilo do tipo sobrescrito.</p></li>
+<li><p>`<sup>` elemento que representam o texto do estilo do tipo sobrescrito.</p></li>
 <pre><sup>texto sobrescrito</sup></pre>
-<li><p><code><big></code> elemento que representa o texto com fonte maior que o padrão.</p></li>
+<li><p>`<big>` elemento que representa o texto com fonte maior que o padrão.</p></li>
 <pre><big>texto com fonte maior do que o padrão</big></pre>
-<li><p><code><small></code> elemento que representa o texto com fonte menor que o padrão.</p></li>
+<li><p>`<small>` elemento que representa o texto com fonte menor que o padrão.</p></li>
 <pre><small>texto com fonte menor do que o padrão</small></pre>
-<li><p><code><del></code> elemento que representa o texto com a fonte rabiscada.</p></li>
+<li><p>`<del>` elemento que representa o texto com a fonte rabiscada.</p></li>
 <pre><p>texto com a <del><del>fonte rabiscada</del></del><p></pre>
-<li><p><code><blockquote></code> elemento que tem como função exibir o texto indicando de qual referência foi retirado (citação).</p></li>
+<li><p>`<blockquote>` elemento que tem como função exibir o texto indicando de qual referência foi retirado (citação).</p></li>
 <pre><bloquote cite="http://www.quote.com/sample.html">
     <p>Elemento textual.</p>
   </blockquote></pre>
   
-<li><p><code><figure></code> elemento que permite definir logicamente as informações de uma imagem. Trabalha com <code><figcaption></code>, que permite dar um título a uma imagem, e <code><img></code> elemento que exibe a imagem.</p></li>
+<li><p>`<figure>` elemento que permite definir logicamente as informações de uma imagem. Trabalha com `<figcaption>`, que permite dar um título a uma imagem, e `<img>` elemento que exibe a imagem.</p></li>
 <pre><figure>
     <figcaption>Foto de férias</figcaption>
    <img src="stata.jpg" alt="Fotos das férias no Rio de Janeiro"/>
   </figure></pre>
   
-<li><p><code><div></code> elemento que representa um bloco de texto. As TAGs <code><body></code>, <code><header></code>, <code><footer></code> etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da <code><div></code>. A <code><div></code> é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a <code><div></code> é usada para diagramar o layout de um site.</p></li>
+<li><p>`<div>` elemento que representa um bloco de texto. As TAGs `<body>`, `<header>`, `<footer>` etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da `<div>`. A `<div>` é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a `<div>` é usada para diagramar o layout de um site.</p></li>
 <pre><div>teste</div></pre>
 
-<li><p><code><span></code> elemento que possui uma utilização genérica semelhante ao elemento <code><div></code>.</p></li>
+<li><p>`<span>` elemento que possui uma utilização genérica semelhante ao elemento `<div>`.</p></li>
 <pre><span>texto de exemplo</span></pre>
 
-<li><p><code><s></code> elemento que transforma o texto em um conteúdo não relevante.</p></li>
+<li><p>`<s>` elemento que transforma o texto em um conteúdo não relevante.</p></li>
 <pre><p>O texto é <s>irrelevante</s></p></pre>
 
-<li><p><code><cite></code> elemento que transforma o texto em uma citação.</p></li>
+<li><p>`<cite>` elemento que transforma o texto em uma citação.</p></li>
 <pre><p>O texto é do <cite>star wars</cite></p></pre>
 
-<li><p><code><q></code> elemento que coloca aspas em um bloco de texto.</p></li>
+<li><p>`<q>` elemento que coloca aspas em um bloco de texto.</p></li>
 <pre><p>O texto é do <q>star wars</q></p></pre>
 
-<li><p><code><code></code> elemento que representa um fragmento de código de computador.</p></li>
-<pre><pre><code>console.log('Hello, World!');</code></pre></pre>
+<li><p>``` elemento que representa um fragmento de código de computador.</p></li>
+<pre><pre>`console.log('Hello, World!');`</pre></pre>
 </ul>
 
 # 🖼️ [Front] Imagem
@@ -1121,14 +1121,14 @@ As listas são importantes para a organização do texto e orientação do usuá
 
 # 🔗 [Front] Âncora
 <div align="center"><img src="https://www.computerhope.com/jargon/h/html-tag.gif"></div>
-<p><code><a></code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <code><b>href="mailto:webmaster@example.com"</b></code> que irá enviar uma mensagem para seu email.</p>  
+<p>`<a>` elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços `href=""`você pode barrar o endereço como `href="#"` , apenas com o `#` ou até mesmo seu email com `**href="mailto:webmaster@example.com"**` que irá enviar uma mensagem para seu email.</p>  
 
-<p>Além dos atributos citados, existe o <code>target=""</code> que possui a função de opção da abertura do link. Os valores do <code>target=""</code> podem ser:</p>
+<p>Além dos atributos citados, existe o `target=""` que possui a função de opção da abertura do link. Os valores do `target=""` podem ser:</p>
 <ul>
-  <li><code>_blank</code> abre o link em uma nova guia no navegador.</li>
-  <li><code>_self</code> abre o documento na mesma janela (esse é o padrão, portanto não é obrigatório!).</li> 
-  <li><code>_parent</code> abre o documento na armação parente.</li>
-  <li><code>_top</code> abre o documento no corpo todo da janela.</li>
+  <li>`_blank` abre o link em uma nova guia no navegador.</li>
+  <li>`_self` abre o documento na mesma janela (esse é o padrão, portanto não é obrigatório!).</li> 
+  <li>`_parent` abre o documento na armação parente.</li>
+  <li>`_top` abre o documento no corpo todo da janela.</li>
 </ul>
 
 Exemplo 1: Abrindo o link em uma nova guia
@@ -1145,35 +1145,35 @@ Exemplo 3: Enviando mensagem para o email
 
 O termo mídia digital é oposto de mídia analógica, esta era configurada por uma base material: o som era gravado em pequenos sulcos, sobre uma superfície de vinil e, quando uma agulha passava por esses sulcos o som era reproduzido. Nas mídias digitais o suporte físico praticamente desaparece, e os dados são convertidos em sequências numéricas ou de dígitos - por isso uso do termo digital. Dessa forma, os sons, imagens, textos, são na realidade sequências de números, o que permite o compartilhamento, armazenamento e conversão de dados. No sentido mais amplo, mídia digital pode ser definida como o conjunto de veículos e aparelhos de comunicação baseados em tecnologia digital, permitindo a distribuição ou comunicação digital das obras intelectuais escritas, sonoras ou visuais. Meios de origem eletrônica utilizados nas estratégias de comunicação das marcas com seus consumidores, geralmente chamada de mídia digital.
 
-O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
+O **Flash** sempre foi a alternativa mais viável para quem precisava adicionar vídeos e músicas nas páginas Web. Ele estava e ainda está presente em quase todos os navegadores e tínhamos um formato que podia ser usado sem maiores problemas.
 
-Bastava adicionar uma <b>chamada para o plugin</b> e funcionava.
+Bastava adicionar uma **chamada para o plugin** e funcionava.
 
 <pre>
- <code><object width="426" height="240"></code>
- <code><param name="movie" value=" https://youtu.be/S2Vty9srpFw"></code>
- <code></param></code>
- <code><param name="allowFullScreen" value="true"></param></code>
- <code><param name="allowscriptaccess" value="always"></param></code>
- <code><param name="allowscriptaccess" value="always"></param>
+ `<object width="426" height="240">`
+ `<param name="movie" value=" https://youtu.be/S2Vty9srpFw">`
+ `</param>`
+ `<param name="allowFullScreen" value="true"></param>`
+ `<param name="allowscriptaccess" value="always"></param>`
+ `<param name="allowscriptaccess" value="always"></param>
 <embed src= https://www.youtube.com/embed/S2Vty9srpFw
 type="application/x-shockwave-flash"
 allowscriptaccess="always"
 allowfullscreen="true"
 width="426"
-height="240"></code>
-<code></embed></code>
-<code></object></code>
+height="240">`
+`</embed>`
+`</object>`
 </pre>
 
-Em virtude das inconsistências dos navegadores, era preciso adicionar tanto o comando <code><object&gt</code>; quanto o comando <code><embed&gt</code>;, comandos específicos para utilização do plugin, duplicando muitos atributos. Isso sem falar que plugins como o Flash causam muitas instabilidades, ocasionando erros que levam até ao fechamento do navegador.
+Em virtude das inconsistências dos navegadores, era preciso adicionar tanto o comando `<object&gt`; quanto o comando `<embed&gt`;, comandos específicos para utilização do plugin, duplicando muitos atributos. Isso sem falar que plugins como o Flash causam muitas instabilidades, ocasionando erros que levam até ao fechamento do navegador.
 
 Devido a tudo isso, o HTML 5 vem com um novo suporte, nativo na linguagem, para evitar o uso de plugins e comandos desnecessários. Atualmente, basta colocar a chamada simples, como se fosse uma imagem e o arquivo é acionado.</p>
 <pre><video controls src="video.mp4" width="426" height="240"></video></pre>
 
-O problema apresentado pelo novo comando é o uso do atributo <code>src</code> que não funciona bem em alguns navegadores. E se pretendemos que todos possam abrir a página, com qualquer navegador, é necessário usar outro tipo de atributo. Por isso, é comum o uso do atributo <code><source></code> na tag <code><video></code>.
+O problema apresentado pelo novo comando é o uso do atributo `src` que não funciona bem em alguns navegadores. E se pretendemos que todos possam abrir a página, com qualquer navegador, é necessário usar outro tipo de atributo. Por isso, é comum o uso do atributo `<source>` na tag `<video>`.
 
-O elemento <code><source></code> pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.
+O elemento `<source>` pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.
 
 video:
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
@@ -1197,7 +1197,7 @@ audio:
 </audio>
 ```
 
-Existem diversos <b>codecs</b>, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior.
+Existem diversos **codecs**, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior.
 
 > **Obs**: Codecs são programas utilizados para codificar e decodificar arquivos de mídia. Eles compactam o formato original, favorecendo o armazenamento, e descompactam na hora da reprodução, transformando novamente em imagem ou áudio.
 
@@ -1206,7 +1206,7 @@ Todos os exemplos de audio e video citados são importados via documento no dire
 Vamos ver como importar videos do YouTube e do Vimeo, passo a passo!
 
 # 🔲 [Front] Tabelas
-Até o aparecimento do HTML5, as <b>tabelas</b> eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
+Até o aparecimento do HTML5, as **tabelas** eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
 
 Entretanto, hoje, o uso de tabelas está, de fato, interferindo na construção de sites melhores, mais acessíveis, flexíveis e funcionais, principalmente para as novas mídias, como os celulares, tablets etc.
 
@@ -1214,7 +1214,7 @@ Essas tabelas ainda continuam existindo no HTML 5 como recurso para exibição d
 
 O comando tabela não foi retirado da linguagem, mas ficou restrito o seu uso. Em contrapartida, ainda temos vários sites que utilizam esse recurso, portanto, é importante entendermos como funciona até para poder, se for necessário, dar manutenção nesse tipo de página.
 
-O comando para se inserir uma tabela é `<table>`. Para iniciar uma <b>linha</b>, devemos introduzir a tag `<tr>` e para uma <b>célula</b> `<td>`, que divide a linha da tabela. `<th>` divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como `</table>`, `</tr>` e `</td>` respectivamente.
+O comando para se inserir uma tabela é `<table>`. Para iniciar uma **linha**, devemos introduzir a tag `<tr>` e para uma **célula** `<td>`, que divide a linha da tabela. `<th>` divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como `</table>`, `</tr>` e `</td>` respectivamente.
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
@@ -1227,62 +1227,62 @@ O comando para se inserir uma tabela é `<table>`. Para iniciar uma <b>linha</b>
 </table>
 ```
 
-O comando <code><table></code> tem uma série de atributos que ajudam na formatação da tabela. Os principais são:
+O comando `<table>` tem uma série de atributos que ajudam na formatação da tabela. Os principais são:
 <table>
   <tr>
-    <td><code>align=""</code></td>
-    <td>alinha a tabela nas três posições: <code>center</code>, <code>left</code>, <code>right</code> e <code>justify</code></td>
+    <td>`align=""`</td>
+    <td>alinha a tabela nas três posições: `center`, `left`, `right` e `justify`</td>
   </tr>
   <tr>
-    <td><code>bgcolor=""</code></td> 
+    <td>`bgcolor=""`</td> 
     <td>determina a cor da tabela</td>
   </tr>
   <tr>
-    <td><code>border=""</code></td> 
+    <td>`border=""`</td> 
     <td>determina o tamanho da borda, se for zero não mostra a borda</td>
   </tr>
   <tr>
-    <td><code>cellspacing=""</code></td>
+    <td>`cellspacing=""`</td>
     <td>determina o espaçamento entre células</td>
   </tr> 
   <tr>
-    <td><code>colspan=""</code></td>
+    <td>`colspan=""`</td>
     <td>determina o agrupamento entre duas ou mais colunas da tabela (sentido para os lados)</td>
   </tr>
   <tr>
-    <td><code>rowspan=""</code></td>
+    <td>`rowspan=""`</td>
     <td>determina o agrupamento entre duas ou mais linhas da tabela. (sentido para baixo e cima)</td>
   </tr>
   <tr>
-    <td><code>cellpadding=""</code></td>
+    <td>`cellpadding=""`</td>
     <td>determina o espaçamento entre o texto e a borda da célula</td>
   </tr>
 </table>
 
 `<caption>` exibe um texto centralizado em relação à tabela, como se fosse uma legenda.
 
-Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo <code>RULES</code>, dentro da tag . Os complementos desse atributo são:
+Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o atributo `RULES`, dentro da tag . Os complementos desse atributo são:
 
 <table>
   <tr>
-    <td><code>none</code></td>
+    <td>`none`</td>
     <td>nenhuma linha inteira.</td>
   </tr>
   <tr>
-    <td><code>all</code></td>
+    <td>`all`</td>
     <td>para mostrar todas as linhas entre cada coluna e linha na tabela (default)</td>
   </tr>
   <tr>
-    <td><code>rows</code></td>
+    <td>`rows`</td>
     <td>para as linhas horizontais entre cada linha da tabela.</td>
   </tr>
   <tr>
-    <td><code>cols</code></td>
+    <td>`cols`</td>
     <td>para as linhas verticais entre cada coluna da tabela.</td>
   </tr>
   <tr>
-    <td><code>groups</code></td>
-    <td>para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como <code><colgroup></code> e <code><thead></code></td>
+    <td>`groups`</td>
+    <td>para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como `<colgroup>` e `<thead>`</td>
   </tr>  
 </table>
 
@@ -1292,10 +1292,10 @@ Veja alguns exemplos:
 <table border rules="all"6>
 ```
 
-<pre><code><table border rules="none"6></code></pre>
-<pre><code><table border rules="cols"6></code></pre>
-<pre><code><table border rules="groups"6></code></pre>
-<pre><code><table border rules="rows"6></code></pre>
+<pre>`<table border rules="none"6>`</pre>
+<pre>`<table border rules="cols"6>`</pre>
+<pre>`<table border rules="groups"6>`</pre>
+<pre>`<table border rules="rows"6>`</pre>
 
 # 🆗 [Front] Formulários
 A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:
@@ -1434,7 +1434,7 @@ O mesmo caso acontece com a cor da fonte (foreground) que deve ser definida da m
 Background para alterar a cor de fundo de uma página HTML, usando atributos do CSS, devemos usar conforme o exemplo:
 
 Modificando a cor do plano de fundo (background):
-<p>Dentro da Tag <body>, alteramos o atributo <b>background-color</b> com a cor desejada.</p>
+<p>Dentro da Tag <body>, alteramos o atributo **background-color** com a cor desejada.</p>
 
 ```html
 body {
@@ -1499,7 +1499,7 @@ Uma das novidades do CSS 3 é o uso de fontes da própria internet, podemos agor
 
 O site do Google disponibiliza uma quantidade grande de fontes livres. No endereço https://fonts.google.com/ encontramos as fontes e a forma de como colocar no nosso código.
 
-Para colocar no código da página, escolhemos a fonte e depois copiamos o código que vai ser colocado no <code><head></code> da página.
+Para colocar no código da página, escolhemos a fonte e depois copiamos o código que vai ser colocado no `<head>` da página.
 
 ```html
 <head>
@@ -1514,7 +1514,7 @@ font-family:'Bungee Inline', cursive;
 font-family:'Abhaya Libre', serif;
 ```
 
-O comando <code>font-family</code> é o que determina a fonte que será usada. No CSS, temos ainda uma série de definições de comandos para fonte como:
+O comando `font-family` é o que determina a fonte que será usada. No CSS, temos ainda uma série de definições de comandos para fonte como:
 
 <table>
   <tr>
@@ -1522,35 +1522,35 @@ O comando <code>font-family</code> é o que determina a fonte que será usada. N
      <td><strong>Função da propriedade</strong></td>
   </tr>
   <tr>
-    <td><code>font-family</code></td>
+    <td>`font-family`</td>
     <td>determina a fonte que será usada</td>
   </tr>
   <tr>
-     <td><code>font-size</code></td>
+     <td>`font-size`</td>
      <td>Define o tamanho da fonte</td>
   </tr>
   <tr>
-     <td><code>font-style</code></td>
+     <td>`font-style`</td>
      <td>Define o estilo da fonte</td>
   </tr>
   <tr>
-     <td><code>font-variant</code></td>
+     <td>`font-variant`</td>
      <td>Define a caixa da fonte</td>
   </tr>
   <tr>
-     <td><code>font-weight</code></td>
+     <td>`font-weight`</td>
      <td>Define o corpo da fonte</td>
   </tr>
   <tr>
-     <td><code>letter-spacing</code></td>
+     <td>`letter-spacing`</td>
      <td>Define o espaçamento das letras da fonte</td>
   </tr>
   <tr>
-     <td><code>text-transform</code></td>
+     <td>`text-transform`</td>
      <td>Alterna o texto entre maiúsculas e minúsculas</td>
   </tr>
   <tr>
-     <td><code>text-decoration</code></td>
+     <td>`text-decoration`</td>
      <td>Adiciona destaque a um texto (linhas)</td>
   </tr>
 </table>
@@ -1596,7 +1596,7 @@ Estilizando listas:
     <td>Função da propriedade</td>
   </tr>
   <tr>
-    <td><code>list-style-type</code></td>
+    <td>`list-style-type`</td>
     <td>Altera o marcador da lista</td>
   </tr>
 </table>
@@ -1643,7 +1643,7 @@ em{
 }
 ```
 
-2. Esquema Float (Flutuante) definido pela regra <b>float</b> de posicionamento, juntamente com as regras <strong>left, right, none e inherit (herdado)</strong>.
+2. Esquema Float (Flutuante) definido pela regra **float** de posicionamento, juntamente com as regras <strong>left, right, none e inherit (herdado)</strong>.
 
 O box é deslocado para uma nova posição e seu espaço original é preenchido por outro elemento, na medida do possível.
 
@@ -1662,7 +1662,7 @@ body, p, img {
 4. Esquema Relativo
 ![EuKdtFOVcAIac3j](https://user-images.githubusercontent.com/61624336/113332439-8de36700-92f7-11eb-9e31-7a356f8d03cf.jpg)
 
-3. Esquema Absoluto definido pela regra position com valores <b>absolute</b> e <b>fixed</b>. O box é removido do fluxo completamente sem impactar nos elementos posteriores.
+3. Esquema Absoluto definido pela regra position com valores **absolute** e **fixed**. O box é removido do fluxo completamente sem impactar nos elementos posteriores.
 
 No exemplo, seu uso para montar layouts com várias partes:
 
@@ -1719,7 +1719,7 @@ body {
 # ⤴️ [Front] Transition e Transform
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/pen/zYKowjP)
 
-O <b>CSS3</b> em conjunto com o <b>JavasScript</b> e o <b>HTML5</b> passaram a dar suporte a transformações em tempo real, de objetos HTML.
+O **CSS3** em conjunto com o **JavasScript** e o **HTML5** passaram a dar suporte a transformações em tempo real, de objetos HTML.
 
 Podemos modificar posição, rotacionar, aumentar e diminuir, tudo isso dentro de todos os eixos gráficos disponíveis na sua tela.
 
@@ -1935,7 +1935,7 @@ Podemos definir **media queries** como a maneira que o navegador define que form
 
 Imagine que visitamos um site em um desktop; ele não terá o mesmo aspecto se visitarmos o mesmo site em um dispositivo móvel. Isso ocorre porque são dispositivos diferentes e formas diferentes de navegação. Por isso, a importância de usar essa nova forma de definição de CSS. Isso facilita a leitura do site em mídias diferentes.
 
-Para que possamos manter nossas páginas sempre adequadas a cada tipo de visualização, utilizamos <b>media types</b> com a seguinte formatação:</p>
+Para que possamos manter nossas páginas sempre adequadas a cada tipo de visualização, utilizamos **media types** com a seguinte formatação:</p>
 <ul>
   <li><strong>all</strong> = para todos os dispositivos.</li>
   <li><strong>braille</strong> = para os dispositivos táteis.</li>
@@ -1950,7 +1950,7 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
 </ul>
 <p>Observe, abaixo, um exemplo de utilização:</p>
 <pre><link rel="stylesheet" href="estilo.css" media="screen and (color)"/></pre>
-<b>Onde:</b>
+**Onde:**
 <ul>
   <li><strong>rel</strong> = define o tipo do arquivo.</li>
   <li><strong>href</strong> = define a localização do arquivo.css.</li>
@@ -2214,7 +2214,7 @@ Similar ao:
 
 A nova sintaxe do Sass utiliza a extensão `.scss`, diferente da antiga que utilizava a extensão `.sass`.
 
-<blockquote><b>Resumindo:</b> “sass” e “scss” são as duas sintaxes do Sass. Você ainda pode utilizar a sintaxe .sass, mas o mais recomendado é usar a sintaxe <b>.scss</b>, por ser mais parecido com o CSS comum.</blockquote>
+<blockquote>**Resumindo:** “sass” e “scss” são as duas sintaxes do Sass. Você ainda pode utilizar a sintaxe .sass, mas o mais recomendado é usar a sintaxe **.scss**, por ser mais parecido com o CSS comum.</blockquote>
 
 Além disso, pela popularização do Sass, hoje em dia não somos mais obrigados a ter o Ruby em nossa máquina para usá-lo. Podemos compilar o Sass a partir de C, Go, Java, Node.js, PHP, Python, etc.
 
@@ -2238,4 +2238,4 @@ Para saber mais clique na imagem acima para acessar o repositório do Bootstrap.
 
 <img src="https://user-images.githubusercontent.com/61624336/106330804-a5a05f80-6262-11eb-990b-77961ab5ca76.jpg" align="right" height="177">
 
-O Bootstrap já possui um padrão para containers, divs e entre outras tags, como se fossem uma espécie de caixa, todas elas são chamadas pelos atributos <code>class</code>. Uma desvantagem do Bootstrap é a quantidade de linhas e classes no arquivo html, tornando o código mais longo do que estilizado pelo CSS puro. No entanto, é possível utilizar o Framework Bootstrap junto com a folha de Estilo, basta somente usar outros nomes para os seletores.
+O Bootstrap já possui um padrão para containers, divs e entre outras tags, como se fossem uma espécie de caixa, todas elas são chamadas pelos atributos `class`. Uma desvantagem do Bootstrap é a quantidade de linhas e classes no arquivo html, tornando o código mais longo do que estilizado pelo CSS puro. No entanto, é possível utilizar o Framework Bootstrap junto com a folha de Estilo, basta somente usar outros nomes para os seletores.
