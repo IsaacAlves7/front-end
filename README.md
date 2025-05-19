@@ -1894,6 +1894,11 @@ div.rotate_left{
 # 📺 [Front] Displays
 
 # ⬜ [Front] Canvas
+<img src="https://github.com/user-attachments/assets/0e3342cd-47c6-4e70-a580-c40129395938" align="right" height="77">
+
+O HTML Canvas é um elemento HTML5 que permite a criação de gráficos e imagens dinâmicas em uma página web, utilizando JavaScript. Também chamado de tela, o elemento HTML é usado para desenhar gráficos, em tempo real, via JavaScript com a tag `<canvas>`.
+
+O elemento é apenas um contêiner para gráficos. Você deve usar JavaScript para realmente desenhar os gráficos. O Canvas possui vários métodos para desenhar caminhos, caixas, círculos, texto e adicionar imagens. O Canvas é suportado por todos os principais navegadores.
 
 # 📱 [Front] Responsive Layout
 <img src="https://user-images.githubusercontent.com/61624336/112909640-3ca16080-90c8-11eb-85a4-d5cc3a6aaa85.gif" align="right" height="177">
