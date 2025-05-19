@@ -205,23 +205,23 @@ Até a versão 4 do HTML as divs eram as principais semânticas de estruturament
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105738607-f720b580-5f15-11eb-9440-76725a31f908.jpg)
 
 ## [HTML5] TAGs essenciais
-É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code><meta></code>, <code><h1></code>, <code><img></code> etc. 
+É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( `<` ) e terminado com o símbolo maior ( `>` ), como por exemplo: <code><meta></code>, <code><h1></code>, <code><img></code> etc. 
 
 Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b><tag aberta></b> e de fechamento <b></tag fechada></b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <code><meta></code> e <code><link></code>.
 
 Além disso, são divididas em categorias conforme a seguir:
 
-- Metadados
-- O elemento root
-- Agrupamento de conteúdo
-- Seções
-- Script
-- Edições
-- Semânticas de nível de texto
-- Conteúdo incorporado
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Metadados</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">O elemento root</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Agrupamento de conteúdo</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Seções</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Script</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Edições</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Semânticas de nível de texto</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Conteúdo incorporado</a>
 - <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Tabelas</a>
-- Formulários
-- Interativo
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Formulários</a>
+- <a href="https://github.com/IsaacAlves7/web#-html-tags-de-tabelas">Interativo</a>
 
 Uma TAG pode conter <b>atributos</b>, que são informações que alteram o comportamento da TAG. Os atributos podem ser divididos em atributos específicos para cada TAG e atributos globais que são comuns a todas as tags.
 
