@@ -1893,6 +1893,8 @@ div.rotate_left{
 
 # 📺 [Front] Displays
 
+# ⬜ [Front] Canvas
+
 # 📱 [Front] Responsive Layout
 <img src="https://user-images.githubusercontent.com/61624336/112909640-3ca16080-90c8-11eb-85a4-d5cc3a6aaa85.gif" align="right" height="177">
 
