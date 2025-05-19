@@ -90,7 +90,7 @@ utilizando padrões altamente especificados, ao invés de apenas artimanhas mal-
 Ainda mais importante é a necessidade de um padrão aberto livre (para utilizar e para implementar) que possa competir com padrões proprietários como
 Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas tecnologias ou empresas, acreditamos que a Web seja uma plataforma vital à sociedade, comércio e comunicações para estar nas mãos de um fabricante.
 
-Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  <code>&lt;font&gt;</code>, <code>&lt;center&gt;</code> e outras novas, pois milhões de páginas web as utilizam.
+Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  <code><font></code>, <code><center></code> e outras novas, pois milhões de páginas web as utilizam.
 
 # 🎨 Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a **possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa**.
@@ -156,7 +156,7 @@ O <b>HTML Semântico</b> serve para organizar e estruturar os elementos do docum
 
 Até a versão 4 do HTML as divs eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma <b>folha de jornal</b>, pois ambas contém cabeçalhos, rodapés, artigos e seções.
 
-- O elemento <code>&lt;section&gt;</code> (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.
+- O elemento <code><section></code> (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736626-c63f8100-5f13-11eb-81b8-f6c3e341ea4b.jpg)
 
@@ -164,7 +164,7 @@ Até a versão 4 do HTML as divs eram as principais semânticas de estruturament
 
 ```
 
-- O elemento <code>&lt;header&gt;</code> (cabeçalho) utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.
+- O elemento <code><header></code> (cabeçalho) utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.
 
 ```html
 
@@ -172,7 +172,7 @@ Até a versão 4 do HTML as divs eram as principais semânticas de estruturament
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736972-28988180-5f14-11eb-83c6-bbceb25bf757.jpg)
 
-- <code>&lt;nav&gt;</code> (navegação) este elemento é a seção onde ficam as informações de de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.
+- <code><nav></code> (navegação) este elemento é a seção onde ficam as informações de de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.
 
 ```html
 
@@ -180,7 +180,7 @@ Até a versão 4 do HTML as divs eram as principais semânticas de estruturament
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105737577-defc6680-5f14-11eb-8363-9b10b09089a6.jpg)
 
-- <code>&lt;article&gt;</code> (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento <code>&lt;section&gt;</code>. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento <code>&lt;header&gt;</code> que é o título e um elemento <code>&lt;footer&gt;</code> que é o rodapé do elemento.
+- <code><article></code> (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento <code><section></code>. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento <code><header></code> que é o título e um elemento <code><footer></code> que é o rodapé do elemento.
 
 ```html
 
@@ -188,7 +188,7 @@ Até a versão 4 do HTML as divs eram as principais semânticas de estruturament
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105737941-461a1b00-5f15-11eb-8528-d9bf452796ab.jpg)
 
-- <code>&lt;footer&gt;</code> (rodapé) este elemento é um que contém basicamente as informações sobre o conteúdo da seção, como, por exemplo, o autor, links relacionados etc.
+- <code><footer></code> (rodapé) este elemento é um que contém basicamente as informações sobre o conteúdo da seção, como, por exemplo, o autor, links relacionados etc.
 
 ```html
 
@@ -196,7 +196,7 @@ Até a versão 4 do HTML as divs eram as principais semânticas de estruturament
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105738329-add06600-5f15-11eb-8cac-403ab42f3e3a.jpg)
 
-- <code>&lt;aside&gt;</code> (de lado) neste elemento estão contidas as informações que não estão relacionadas diretamente com o texto. Por exemplo: comerciais pagos, links promocionais etc.
+- <code><aside></code> (de lado) neste elemento estão contidas as informações que não estão relacionadas diretamente com o texto. Por exemplo: comerciais pagos, links promocionais etc.
 
 ```html
 
@@ -205,9 +205,9 @@ Até a versão 4 do HTML as divs eram as principais semânticas de estruturament
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105738607-f720b580-5f15-11eb-9440-76725a31f908.jpg)
 
 ## [HTML5] TAGs essenciais
-É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code>&lt;meta&gt;</code>, <code>&lt;h1&gt;</code>, <code>&lt;img&gt;</code> etc. 
+É necessário entender o que é <b>TAG</b> (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( < ) e terminado com o símbolo maior ( > ), como por exemplo: <code><meta></code>, <code><h1></code>, <code><img></code> etc. 
 
-Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b>&lt;tag aberta&gt;</b> e de fechamento <b>&lt;/tag fechada&gt;</b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <code>&lt;meta&gt;</code> e <code>&lt;link&gt;</code>.
+Ou seja, todo elemento HTML é chamado de <b>tag</b> que é definida pelos os sinais de abertura <b><tag aberta></b> e de fechamento <b></tag fechada></b>, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do <code><meta></code> e <code><link></code>.
 
 Além disso, são divididas em categorias conforme a seguir:
 
@@ -229,7 +229,7 @@ Além das TAGs, existem outros elementos que ajudam na construção de documento
 
 <b>Atributos</b> são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem <b>atributos globais</b> (que funcionam em todas as Tags) e <b>específicos</b> (que são direcionados para cada Tag, através de especificação).
 
-Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <code>&lt;link&gt;</code>:
+Os Atributos possuem <b>nome</b> e um <b>valor</b>. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag <code><link></code>:
 
 ```html
 <link rel="stylesheet" href="/assets/public/styles/css/style.css">
@@ -345,7 +345,7 @@ Exemplo de utilização:
 
 Estilo externo: As regras foram escritas em um arquivo com extensão <b>.css</b> e podem ser carregadas ao documento HTML5 de duas formas:
 
-Utilizando o elemento &lt;link&gt; no HTML
+Utilizando o elemento <link> no HTML
 
 ```html
 <head>
@@ -504,7 +504,7 @@ font-family: sans-serif
 **Seletores descendentes**: Um elemento pode estar contido dentro de outro elemento.
 
 Exemplo:
-&lt;H1&gt;Este texto é &lt;EM&gt;muito&lt;/EM&gt; importante&lt;/H1&gt;</p>
+<H1>Este texto é <EM>muito</EM> importante</H1></p>
 <pre>
 h1 { color: red } /* indica que todos os elementos h1 possuem a cor vermelha */
 em { color: red } /* indica que todos os elementos em possuem a cor vermelha */
@@ -512,9 +512,9 @@ h1 em { color: blue } /* indica que os elementos em contidos em um elemento h1 p
 </pre>
 
 **Seletores filhos**: Um elemento filho é caraterizado quando os elementos são separados por “>".
-<pre>div ol &gt; li p {color: green }</pre>
+<pre>div ol > li p {color: green }</pre>
 
-<p>Este exemplo, todos os elementos <strong>p</strong> serão de cor verde quando estiverem dentro de um elemento item &lt;li&gt;, filho de uma lista &lt;ol&gt; dentro de uma &lt;div&gt;.</p>
+<p>Este exemplo, todos os elementos <strong>p</strong> serão de cor verde quando estiverem dentro de um elemento item <li>, filho de uma lista <ol> dentro de uma <div>.</p>
 
 Seletores por prioridade: Um elemento por prioridade é caracterizado quando os elementos são separados por "+". Ou seja, o primeiro parágrafo que vem depois da div.</p>
 <pre>
@@ -601,59 +601,59 @@ Tipos de Pseudo-Classes:
   </tr>
   <tr>
     <td><code>:focus</code></td>
-    <td>Altera o elemento <code>&lt;input&gt;</code> que tem o foco.</td>
+    <td>Altera o elemento <code><input></code> que tem o foco.</td>
   </tr>
   <tr>
     <td><code>:checked</code></td>
-    <td>Altera todos os elementos <code>&lt;input&gt;</code> marcados.</td>
+    <td>Altera todos os elementos <code><input></code> marcados.</td>
   </tr>
   <tr>
     <td><code>:disable</code></td>
-    <td>Altera todos os elementos <code>&lt;input&gt;</code> desativados.</td>
+    <td>Altera todos os elementos <code><input></code> desativados.</td>
   </tr>
    <tr>
     <td><code>:enabled</code></td>
-    <td>Altera todos os elementos <code>&lt;input&gt;</code> habilitados.</td>
+    <td>Altera todos os elementos <code><input></code> habilitados.</td>
   </tr>
   <tr>
     <td><code>:empty</code></td>
-    <td>Altera todos os elementos <code>&lt;p&gt;</code> que não têm filhos.</td>
+    <td>Altera todos os elementos <code><p></code> que não têm filhos.</td>
   </tr>
   <tr>
     <td><code>:first-child</code></td>
-    <td>Altera cada elemento <code>&lt;input&gt;</code> habilitado.</td>
+    <td>Altera cada elemento <code><input></code> habilitado.</td>
   </tr>
   <tr>
     <td><code>:enabled</code></td>
-    <td>Altera cada elemento <code>&lt;input&gt;</code> habilitado.</td>
+    <td>Altera cada elemento <code><input></code> habilitado.</td>
   </tr>
   <tr>
     <td><code>:first-child</code></td>
-    <td>Altera cada elemento <code>&lt;p&gt;</code> que é primeiro filho do elemento pai.</td>
+    <td>Altera cada elemento <code><p></code> que é primeiro filho do elemento pai.</td>
   </tr>
   <tr>
     <td><code>:first-of-type</code></td>
-    <td>Altera cada elemento <code>&lt;p&gt;</code> que é o primeiro elemento <code>&lt;p&gt;</code> de seu elemento pai.</td>
+    <td>Altera cada elemento <code><p></code> que é o primeiro elemento <code><p></code> de seu elemento pai.</td>
   </tr>
   <tr>
     <td><code>:in-range</code></td>
-    <td>Altera elementos <code>&lt;input&gt;</code> com um valor dentro de um intervalo especificado.</td>
+    <td>Altera elementos <code><input></code> com um valor dentro de um intervalo especificado.</td>
   </tr>
   <tr>
     <td><code>:invalid</code></td>
-    <td>Altera todos os elementos <code>&lt;input&gt;</code> com um valor inválido.</td>
+    <td>Altera todos os elementos <code><input></code> com um valor inválido.</td>
   </tr>
   <tr>
     <td><code>:lang(language)</code></td>
-    <td>Altera cada elemento <code>&lt;p&gt;</code> com um valor de atributo lang começando com "<code>it</code>".</td>
+    <td>Altera cada elemento <code><p></code> com um valor de atributo lang começando com "<code>it</code>".</td>
   </tr>
   <tr>
     <td><code>:last-child</code></td>
-    <td>Altera todos os elementos <code>&lt;p&gt;</code> que são os últimos filhos de seu elemento pai.</td>
+    <td>Altera todos os elementos <code><p></code> que são os últimos filhos de seu elemento pai.</td>
   </tr>
   <tr>
     <td><code>:last-of-type</code></td>
-    <td>Altera todos os elementos <code>&lt;p&gt;</code> que é o último elemento <code>&lt;p&gt;</code> de seu elemento pai.</td>
+    <td>Altera todos os elementos <code><p></code> que é o último elemento <code><p></code> de seu elemento pai.</td>
   </tr>
   <tr>
     <td><code>:link</code></td>
@@ -661,47 +661,47 @@ Tipos de Pseudo-Classes:
   </tr>
   <tr>
     <td><code>:not(selector)</code></td>
-    <td>Altera cada elemento que não é o elemento <code>&lt;p&gt;</code>.</td>
+    <td>Altera cada elemento que não é o elemento <code><p></code>.</td>
   </tr>
   <tr>
     <td><code>:nth-child(n)</code></td>
-    <td>Altera cada elemento &lt;p&gt; que é ordenado do seu elemento pai.</td>
+    <td>Altera cada elemento <p> que é ordenado do seu elemento pai.</td>
   </tr>
   <tr>
     <td><code>:nth-last-child(n)</code></td>
-    <td>Altera cada elemento &lt;p&gt; que é ordenado do seu elemento pai, contando a partir do último filho.</td>
+    <td>Altera cada elemento <p> que é ordenado do seu elemento pai, contando a partir do último filho.</td>
   </tr>
   <tr>
     <td><code>:nth-last-of-type(n)</code></td>
-    <td>Altera cada elemento &lt;p&gt; que é o segundo elemento &lt;p&gt; de seu pai, contando a partir do último filho.</td>
+    <td>Altera cada elemento <p> que é o segundo elemento <p> de seu pai, contando a partir do último filho.</td>
   </tr>
   <tr>
     <td><code>:nth-of-type(n)</code></td>
-    <td>Altera cada elemento &lt;p&gt; que é o segundo elemento &lt;p&gt; de seu elemento pai.</td>
+    <td>Altera cada elemento <p> que é o segundo elemento <p> de seu elemento pai.</td>
   </tr>
   <tr>
     <td><code>:only-of-type</code></td>
-    <td>Altera o elemento &lt;p&gt; que é o único elemento &lt;p&gt; de seu elemento pai.</td>
+    <td>Altera o elemento <p> que é o único elemento <p> de seu elemento pai.</td>
   </tr>
   <tr>
     <td><code>:only-child</code></td>
-    <td>Altera cada elemento &lt;p&gt; que é o único filho de seu elemento pai.</td>
+    <td>Altera cada elemento <p> que é o único filho de seu elemento pai.</td>
   </tr>
   <tr>
     <td><code>:optional</code></td>
-    <td>Altera os elementos &lt;input&gt; sem atributo "obrigatório".</td>
+    <td>Altera os elementos <input> sem atributo "obrigatório".</td>
   </tr>
   <tr>
     <td><code>:out-of-range</code></td>
-    <td>Altera os elementos &lt;input&gt; com um atributo "somente leitura" especificado.</td>
+    <td>Altera os elementos <input> com um atributo "somente leitura" especificado.</td>
   </tr>
   <tr>
     <td><code>:read-write</code></td>
-    <td>Altera os elementos &lt;input&gt; sem o atributo "somente escrita" especificado.</td>
+    <td>Altera os elementos <input> sem o atributo "somente escrita" especificado.</td>
   </tr>
   <tr>
     <td><code>:required</code></td>
-    <td>Altera os elementos &lt;input&gt; com um atributo "obrigatório" especificado.</td>
+    <td>Altera os elementos <input> com um atributo "obrigatório" especificado.</td>
   </tr>
   <tr>
     <td><code>:root</code></td>
@@ -713,7 +713,7 @@ Tipos de Pseudo-Classes:
   </tr>
   <tr>
     <td><code>:valid</code></td>
-    <td>Altera todos os elementos <code>&lt;input&gt;</code> com um valor válido.</td>
+    <td>Altera todos os elementos <code><input></code> com um valor válido.</td>
   </tr>
 </table>
 
@@ -828,9 +828,9 @@ Basta utilizarmos a pseudo-classe <code>:root</code> e inserirmos os seletores <
 
 ## [CSS3] Border
 No entanto, a <strong>border</strong> é diferente da <strong>margin</strong> e do <strong>padding</strong>: 'border-top-width', 'border-right-width', 'border-bottom-width', e 'border-left-width‘.
-&nbsp;
+
 Exemplo de utilização:
-&nbsp;
+
 <pre>
 h1 { border-width: thin } /* thin thin thin thin */
 h1 { border-width: thin thick } /* thin thick thin thick */
@@ -928,25 +928,25 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 `<html>` é a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar. Possui o atributo <code>lang=""</code> que define a língua regional do documento.
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
-<pre>&lt;html lang="pt-br"&gt;&lt;/html&gt;</pre>
+<pre><html lang="pt-br"></html></pre>
 
-<p>O <code>&lt;head&gt;</code> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <b>metadados</b>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos <b>CSS</b> e <strong>JavaScript</strong>.
+<p>O <code><head></code> representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como <b>metadados</b>. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos <b>CSS</b> e <strong>JavaScript</strong>.
 
-<p>No <b>&lt;head&gt;</b> encontramos:
+<p>No <b><head></b> encontramos:
   <ul>
-  <li><code>&lt;title&gt;</code> que representa o título do documento da página HTML:</li><br/>
+  <li><code><title></code> que representa o título do documento da página HTML:</li><br/>
     
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
-  <pre><code>&lt;title&gt;Estrutura do HTML&lt;/title&gt;</code></pre>
-  <li><code>&lt;link&gt;</code> que representa ligação com os arquivos externos:</li><br/>
+  <pre><code><title>Estrutura do HTML</title></code></pre>
+  <li><code><link></code> que representa ligação com os arquivos externos:</li><br/>
   
 Chamando uma folha de estilo externa:
  
  [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
  [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
  
- <pre>&lt;link rel="stylesheet" href="style.css"&gt;</pre>
+ <pre><link rel="stylesheet" href="style.css"></pre>
  
 Chamando uma ícone para a guia do navegador:
  
@@ -961,114 +961,114 @@ Chamando uma ícone para a guia do navegador:
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
   <pre>
-   <code>&lt;meta charset="utf-8"&gt;</code>
-   <code>&lt;meta name="description" content="Free Web Tutorials"&gt;</code>
-   <code>&lt;meta name="keywords" contents="HTML,CSS,XML,JavaScript"&gt;</code>
-   <code>&lt;meta name="author" content="Hege Refsnes"&gt;</code>
-   <code>&lt;meta http-equiv="refresh" content="30"&gt;</code>
+   <code><meta charset="utf-8"></code>
+   <code><meta name="description" content="Free Web Tutorials"></code>
+   <code><meta name="keywords" contents="HTML,CSS,XML,JavaScript"></code>
+   <code><meta name="author" content="Hege Refsnes"></code>
+   <code><meta http-equiv="refresh" content="30"></code>
   </pre>
   
   <b>Atualizar a página depois de 1 segundo sem JavaScript!</b>
-  <pre>&lt;meta http-equiv="refresh" content="1;url=index.html"&gt;</pre>
+  <pre><meta http-equiv="refresh" content="1;url=index.html"></pre>
   
-  <li><code>&lt;script&gt;</code> comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:</li><br/>
+  <li><code><script></code> comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:</li><br/>
   
   [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
-  <pre>&lt;script&gt;
+  <pre><script>
      function myFunction {
          document.getElementById("demo").innerHTML = "Hello JavaScript!";
      }
-&lt;/script&gt;
-&lt;script type="script/javascript" src="main.js"&gt;&lt;/script&gt;
+</script>
+<script type="script/javascript" src="main.js"></script>
 </pre>
 
-<li><code>&lt;style&gt;</code> comando para estilização do CSS do tipo interno:</li><br/>
+<li><code><style></code> comando para estilização do CSS do tipo interno:</li><br/>
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
-  <pre>&lt;style&gt;
+  <pre><style>
     h1 {
     color: blue;
     font-size: 200px;
     }
-&lt;/style&gt;
+</style>
 </pre>
   </p>
 </ul>
 
 
-O <code>&lt;body&gt;</code> localizado no mesmo nível do <code>&lt;head&gt;</code>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
+O <code><body></code> localizado no mesmo nível do <code><head></code>, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
 <ul>
-<li><code>&lt;h1&gt;&lt;h2&gt;&lt;h3&gt;&lt;h4&gt;&lt;h5&gt;&lt;h6&gt;</code> tags de títulos que são por ordem de h1-h6 diminuindo a fonte (do maior para o menor). <code>&lt;hgroup&gt;</code> é uma tag para um grupo de tags, não possui valor semântico, apenas serve para deixar o código mais legível.</li>
+<li><code><h1><h2><h3><h4><h5><h6></code> tags de títulos que são por ordem de h1-h6 diminuindo a fonte (do maior para o menor). <code><hgroup></code> é uma tag para um grupo de tags, não possui valor semântico, apenas serve para deixar o código mais legível.</li>
 <pre>
-<code>&lt;hgroup&gt;</code>
-  <code>&lt;h1&gt;título 1&lt;/h1&gt;</code>
-  <code>&lt;h2&gt;título 2&lt;/h2&gt;</code>
-  <code>&lt;h3&gt;título 3&lt;/h3&gt;</code>
-  <code>&lt;h4&gt;título 4&lt;/h4&gt;</code>
-  <code>&lt;h5&gt;título 5&lt;/h5&gt;</code>
-  <code>&lt;h6&gt;título 6&lt;/h6&gt;</code>
-<code>&lt;/hgroup&gt;</code>
+<code><hgroup></code>
+  <code><h1>título 1</h1></code>
+  <code><h2>título 2</h2></code>
+  <code><h3>título 3</h3></code>
+  <code><h4>título 4</h4></code>
+  <code><h5>título 5</h5></code>
+  <code><h6>título 6</h6></code>
+<code></hgroup></code>
 </pre>
-<li><p><code>&lt;p&gt;</code> elemento que representa um parágrafo:</p></li>
-<pre><code>&lt;p&gt;parágrafo&lt;/p&gt;</code></pre>
-<li><p><code>&lt;i&gt;</code> e <code>&lt;em&gt;</code> elementos que representam o texto do estilo do tipo <em>itálico</em>.</p></li>
-<pre>&lt;i&gt;itálico&lt;/i&gt;
-     &lt;em&gt;itálico&lt;/em&gt;</pre>
-<li><p><code>&lt;b&gt;</code> e <code>&lt;strong&gt;</code> elementos que representam o texto do estilo do tipo <b>negrito</b>.</p></li>
-<pre>&lt;b&gt;negrito&lt;/b&gt;
-     &lt;strong&gt;negrito&lt;/strong&gt;</pre>
-<li><p><code>&lt;pre&gt;</code> elemento que apresenta um bloco de texto pré-formatado, preservando seu conteúdo.<b></b>.</p></li>
-<pre>&lt;pre&gt;Bloco de texto pré-formatado.&lt;/pre&gt;</pre>
-<li><p><code>&lt;br&gt;</code> elemento que serve para quebrar uma linha da página.</p></li>
-<code>&lt;br&gt;</code>
-<li><p><code>&lt;hr&gt;</code> elemento que possui uma forma linha horizontal com a função para dividir os elementos da página.</p></li>
-<code>&lt;hr&gt;</code>
-<li><p><code>&lt;wbr&gt;</code> elemento que dá uma oportunidade de quebra de linha, se necessário.<b></b>.</p></li>
-<code>&lt;wbr&gt;</code>
-<li><p><code>&lt;sub&gt;</code> elemento que representam o texto do estilo do tipo sobscrito.</p></li>
-<pre>&lt;sub&gt;texto sobscrito&lt;/sub&gt;</pre>
-<li><p><code>&lt;sup&gt;</code> elemento que representam o texto do estilo do tipo sobrescrito.</p></li>
-<pre>&lt;sup&gt;texto sobrescrito&lt;/sup&gt;</pre>
-<li><p><code>&lt;big&gt;</code> elemento que representa o texto com fonte maior que o padrão.</p></li>
-<pre>&lt;big&gt;texto com fonte maior do que o padrão&lt;/big&gt;</pre>
-<li><p><code>&lt;small&gt;</code> elemento que representa o texto com fonte menor que o padrão.</p></li>
-<pre>&lt;small&gt;texto com fonte menor do que o padrão&lt;/small&gt;</pre>
-<li><p><code>&lt;del&gt;</code> elemento que representa o texto com a fonte rabiscada.</p></li>
-<pre>&lt;p&gt;texto com a &lt;del&gt;<del>fonte rabiscada</del>&lt;/del&gt;&lt;p&gt;</pre>
-<li><p><code>&lt;blockquote&gt;</code> elemento que tem como função exibir o texto indicando de qual referência foi retirado (citação).</p></li>
-<pre>&lt;bloquote cite="http://www.quote.com/sample.html"&gt;
-    &lt;p&gt;Elemento textual.&lt;/p&gt;
-  &lt;/blockquote&gt;</pre>
+<li><p><code><p></code> elemento que representa um parágrafo:</p></li>
+<pre><code><p>parágrafo</p></code></pre>
+<li><p><code><i></code> e <code><em></code> elementos que representam o texto do estilo do tipo <em>itálico</em>.</p></li>
+<pre><i>itálico</i>
+     <em>itálico</em></pre>
+<li><p><code><b></code> e <code><strong></code> elementos que representam o texto do estilo do tipo <b>negrito</b>.</p></li>
+<pre><b>negrito</b>
+     <strong>negrito</strong></pre>
+<li><p><code><pre></code> elemento que apresenta um bloco de texto pré-formatado, preservando seu conteúdo.<b></b>.</p></li>
+<pre><pre>Bloco de texto pré-formatado.</pre></pre>
+<li><p><code><br></code> elemento que serve para quebrar uma linha da página.</p></li>
+<code><br></code>
+<li><p><code><hr></code> elemento que possui uma forma linha horizontal com a função para dividir os elementos da página.</p></li>
+<code><hr></code>
+<li><p><code><wbr></code> elemento que dá uma oportunidade de quebra de linha, se necessário.<b></b>.</p></li>
+<code><wbr></code>
+<li><p><code><sub></code> elemento que representam o texto do estilo do tipo sobscrito.</p></li>
+<pre><sub>texto sobscrito</sub></pre>
+<li><p><code><sup></code> elemento que representam o texto do estilo do tipo sobrescrito.</p></li>
+<pre><sup>texto sobrescrito</sup></pre>
+<li><p><code><big></code> elemento que representa o texto com fonte maior que o padrão.</p></li>
+<pre><big>texto com fonte maior do que o padrão</big></pre>
+<li><p><code><small></code> elemento que representa o texto com fonte menor que o padrão.</p></li>
+<pre><small>texto com fonte menor do que o padrão</small></pre>
+<li><p><code><del></code> elemento que representa o texto com a fonte rabiscada.</p></li>
+<pre><p>texto com a <del><del>fonte rabiscada</del></del><p></pre>
+<li><p><code><blockquote></code> elemento que tem como função exibir o texto indicando de qual referência foi retirado (citação).</p></li>
+<pre><bloquote cite="http://www.quote.com/sample.html">
+    <p>Elemento textual.</p>
+  </blockquote></pre>
   
-<li><p><code>&lt;figure&gt;</code> elemento que permite definir logicamente as informações de uma imagem. Trabalha com <code>&lt;figcaption&gt;</code>, que permite dar um título a uma imagem, e <code>&lt;img&gt;</code> elemento que exibe a imagem.</p></li>
-<pre>&lt;figure&gt;
-    &lt;figcaption&gt;Foto de férias&lt;/figcaption&gt;
-   &lt;img src="stata.jpg" alt="Fotos das férias no Rio de Janeiro"/&gt;
-  &lt;/figure&gt;</pre>
+<li><p><code><figure></code> elemento que permite definir logicamente as informações de uma imagem. Trabalha com <code><figcaption></code>, que permite dar um título a uma imagem, e <code><img></code> elemento que exibe a imagem.</p></li>
+<pre><figure>
+    <figcaption>Foto de férias</figcaption>
+   <img src="stata.jpg" alt="Fotos das férias no Rio de Janeiro"/>
+  </figure></pre>
   
-<li><p><code>&lt;div&gt;</code> elemento que representa um bloco de texto. As TAGs <code>&lt;body&gt;</code>, <code>&lt;header&gt;</code>, <code>&lt;footer&gt;</code> etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da <code>&lt;div&gt;</code>. A <code>&lt;div&gt;</code> é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a <code>&lt;div&gt;</code> é usada para diagramar o layout de um site.</p></li>
-<pre>&lt;div&gt;teste&lt;/div&gt;</pre>
+<li><p><code><div></code> elemento que representa um bloco de texto. As TAGs <code><body></code>, <code><header></code>, <code><footer></code> etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da <code><div></code>. A <code><div></code> é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a <code><div></code> é usada para diagramar o layout de um site.</p></li>
+<pre><div>teste</div></pre>
 
-<li><p><code>&lt;span&gt;</code> elemento que possui uma utilização genérica semelhante ao elemento <code>&lt;div&gt;</code>.</p></li>
-<pre>&lt;span&gt;texto de exemplo&lt;/span&gt;</pre>
+<li><p><code><span></code> elemento que possui uma utilização genérica semelhante ao elemento <code><div></code>.</p></li>
+<pre><span>texto de exemplo</span></pre>
 
-<li><p><code>&lt;s&gt;</code> elemento que transforma o texto em um conteúdo não relevante.</p></li>
-<pre>&lt;p&gt;O texto é &lt;s&gt;irrelevante&lt;/s&gt;&lt;/p&gt;</pre>
+<li><p><code><s></code> elemento que transforma o texto em um conteúdo não relevante.</p></li>
+<pre><p>O texto é <s>irrelevante</s></p></pre>
 
-<li><p><code>&lt;cite&gt;</code> elemento que transforma o texto em uma citação.</p></li>
-<pre>&lt;p&gt;O texto é do &lt;cite&gt;star wars&lt;/cite&gt;&lt;/p&gt;</pre>
+<li><p><code><cite></code> elemento que transforma o texto em uma citação.</p></li>
+<pre><p>O texto é do <cite>star wars</cite></p></pre>
 
-<li><p><code>&lt;q&gt;</code> elemento que coloca aspas em um bloco de texto.</p></li>
-<pre>&lt;p&gt;O texto é do &lt;q&gt;star wars&lt;/q&gt;&lt;/p&gt;</pre>
+<li><p><code><q></code> elemento que coloca aspas em um bloco de texto.</p></li>
+<pre><p>O texto é do <q>star wars</q></p></pre>
 
-<li><p><code>&lt;code&gt;</code> elemento que representa um fragmento de código de computador.</p></li>
-<pre>&lt;pre&gt;&lt;code&gt;console.log('Hello, World!');&lt;/code&gt;&lt;/pre&gt;</pre>
+<li><p><code><code></code> elemento que representa um fragmento de código de computador.</p></li>
+<pre><pre><code>console.log('Hello, World!');</code></pre></pre>
 </ul>
 
 # 🖼️ [Front] Imagem
-<pre>&lt;img src="/assets/public/img/img.svg"&gt;</pre>
+<pre><img src="/assets/public/img/img.svg"></pre>
 
 # 📋 [Front] Listas
 As listas são importantes para a organização do texto e orientação do usuário.
@@ -1121,7 +1121,7 @@ As listas são importantes para a organização do texto e orientação do usuá
 
 # 🔗 [Front] Âncora
 <div align="center"><img src="https://www.computerhope.com/jargon/h/html-tag.gif"></div>
-<p><code>&lt;a&gt;</code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <code><b>href="mailto:webmaster@example.com"</b></code> que irá enviar uma mensagem para seu email.</p>  
+<p><code><a></code> elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página html. Com o atributo para renderizar endereços <code>href=""</code>você pode barrar o endereço como <code>href="#"</code> , apenas com o <code>#</code> ou até mesmo seu email com <code><b>href="mailto:webmaster@example.com"</b></code> que irá enviar uma mensagem para seu email.</p>  
 
 <p>Além dos atributos citados, existe o <code>target=""</code> que possui a função de opção da abertura do link. Os valores do <code>target=""</code> podem ser:</p>
 <ul>
@@ -1132,13 +1132,13 @@ As listas são importantes para a organização do texto e orientação do usuá
 </ul>
 
 Exemplo 1: Abrindo o link em uma nova guia
-<pre>&lt;a href="https://www.google.com/" target="_blank"&gt;Clique no endereço&lt;/a&gt;</pre>
+<pre><a href="https://www.google.com/" target="_blank">Clique no endereço</a></pre>
 
 Exemplo 2: Linkando dentro das imagens
-<pre>&lt;a href="https://www.google.com/" target="_self"&gt;&lt;img src="/assets/public/images/img.svg" height="100"&gt;&lt;/a&gt;</pre>
+<pre><a href="https://www.google.com/" target="_self"><img src="/assets/public/images/img.svg" height="100"></a></pre>
 
 Exemplo 3: Enviando mensagem para o email
-<pre>&lt;a href="mailto:webmaster07@gmail.com"&gt;Enviar email&lt;/a&gt;</pre>
+<pre><a href="mailto:webmaster07@gmail.com">Enviar email</a></pre>
 
 # 🔊 [Front] Multimedia
 <img src="https://jibigit.github.io/cheat-html/images/media.png" align="right" height="77">
@@ -1150,30 +1150,30 @@ O <b>Flash</b> sempre foi a alternativa mais viável para quem precisava adicion
 Bastava adicionar uma <b>chamada para o plugin</b> e funcionava.
 
 <pre>
- <code>&lt;object width="426" height="240"&gt;</code>
- <code>&lt;param name="movie" value=" https://youtu.be/S2Vty9srpFw"&gt;</code>
- <code>&lt;/param&gt;</code>
- <code>&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;</code>
- <code>&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;</code>
- <code>&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;
-&lt;embed src= https://www.youtube.com/embed/S2Vty9srpFw
+ <code><object width="426" height="240"></code>
+ <code><param name="movie" value=" https://youtu.be/S2Vty9srpFw"></code>
+ <code></param></code>
+ <code><param name="allowFullScreen" value="true"></param></code>
+ <code><param name="allowscriptaccess" value="always"></param></code>
+ <code><param name="allowscriptaccess" value="always"></param>
+<embed src= https://www.youtube.com/embed/S2Vty9srpFw
 type="application/x-shockwave-flash"
 allowscriptaccess="always"
 allowfullscreen="true"
 width="426"
-height="240"&gt;</code>
-<code>&lt;/embed&gt;</code>
-<code>&lt;/object&gt;</code>
+height="240"></code>
+<code></embed></code>
+<code></object></code>
 </pre>
 
-Em virtude das inconsistências dos navegadores, era preciso adicionar tanto o comando <code>&lt;object&gt</code>; quanto o comando <code>&lt;embed&gt</code>;, comandos específicos para utilização do plugin, duplicando muitos atributos. Isso sem falar que plugins como o Flash causam muitas instabilidades, ocasionando erros que levam até ao fechamento do navegador.
+Em virtude das inconsistências dos navegadores, era preciso adicionar tanto o comando <code><object&gt</code>; quanto o comando <code><embed&gt</code>;, comandos específicos para utilização do plugin, duplicando muitos atributos. Isso sem falar que plugins como o Flash causam muitas instabilidades, ocasionando erros que levam até ao fechamento do navegador.
 
 Devido a tudo isso, o HTML 5 vem com um novo suporte, nativo na linguagem, para evitar o uso de plugins e comandos desnecessários. Atualmente, basta colocar a chamada simples, como se fosse uma imagem e o arquivo é acionado.</p>
-<pre>&lt;video controls src="video.mp4" width="426" height="240"&gt;&lt;/video&gt;</pre>
+<pre><video controls src="video.mp4" width="426" height="240"></video></pre>
 
-O problema apresentado pelo novo comando é o uso do atributo <code>src</code> que não funciona bem em alguns navegadores. E se pretendemos que todos possam abrir a página, com qualquer navegador, é necessário usar outro tipo de atributo. Por isso, é comum o uso do atributo <code>&lt;source&gt;</code> na tag <code>&lt;video&gt;</code>.
+O problema apresentado pelo novo comando é o uso do atributo <code>src</code> que não funciona bem em alguns navegadores. E se pretendemos que todos possam abrir a página, com qualquer navegador, é necessário usar outro tipo de atributo. Por isso, é comum o uso do atributo <code><source></code> na tag <code><video></code>.
 
-O elemento <code>&lt;source&gt;</code> pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.
+O elemento <code><source></code> pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.
 
 video:
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
@@ -1227,7 +1227,7 @@ O comando para se inserir uma tabela é `<table>`. Para iniciar uma <b>linha</b>
 </table>
 ```
 
-O comando <code>&lt;table&gt;</code> tem uma série de atributos que ajudam na formatação da tabela. Os principais são:
+O comando <code><table></code> tem uma série de atributos que ajudam na formatação da tabela. Os principais são:
 <table>
   <tr>
     <td><code>align=""</code></td>
@@ -1282,7 +1282,7 @@ Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o
   </tr>
   <tr>
     <td><code>groups</code></td>
-    <td>para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como <code>&lt;colgroup&gt;</code> e <code>&lt;thead&gt;</code></td>
+    <td>para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como <code><colgroup></code> e <code><thead></code></td>
   </tr>  
 </table>
 
@@ -1292,10 +1292,10 @@ Veja alguns exemplos:
 <table border rules="all"6>
 ```
 
-<pre><code>&lt;table border rules="none"6&gt;</code></pre>
-<pre><code>&lt;table border rules="cols"6&gt;</code></pre>
-<pre><code>&lt;table border rules="groups"6&gt;</code></pre>
-<pre><code>&lt;table border rules="rows"6&gt;</code></pre>
+<pre><code><table border rules="none"6></code></pre>
+<pre><code><table border rules="cols"6></code></pre>
+<pre><code><table border rules="groups"6></code></pre>
+<pre><code><table border rules="rows"6></code></pre>
 
 # 🆗 [Front] Formulários
 A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:
@@ -1434,7 +1434,7 @@ O mesmo caso acontece com a cor da fonte (foreground) que deve ser definida da m
 Background para alterar a cor de fundo de uma página HTML, usando atributos do CSS, devemos usar conforme o exemplo:
 
 Modificando a cor do plano de fundo (background):
-<p>Dentro da Tag &lt;body&gt;, alteramos o atributo <b>background-color</b> com a cor desejada.</p>
+<p>Dentro da Tag <body>, alteramos o atributo <b>background-color</b> com a cor desejada.</p>
 
 ```html
 body {
@@ -1499,7 +1499,7 @@ Uma das novidades do CSS 3 é o uso de fontes da própria internet, podemos agor
 
 O site do Google disponibiliza uma quantidade grande de fontes livres. No endereço https://fonts.google.com/ encontramos as fontes e a forma de como colocar no nosso código.
 
-Para colocar no código da página, escolhemos a fonte e depois copiamos o código que vai ser colocado no <code>&lt;head&gt;</code> da página.
+Para colocar no código da página, escolhemos a fonte e depois copiamos o código que vai ser colocado no <code><head></code> da página.
 
 ```html
 <head>
@@ -1653,7 +1653,7 @@ Exemplo de uso: Neste exemplo a imagem está com o float: LEFT o que a coloca ao
 img {
   float: left;
 }
-&nbsp;
+
 body, p, img {
       margin: 2em;
 }
@@ -1670,7 +1670,7 @@ No exemplo, seu uso para montar layouts com várias partes:
 body {
    height: 8.5in;
 }
-&nbsp;
+
 #header {
      position: fixed;
      width: 100%;
@@ -1681,7 +1681,7 @@ body {
      left: 0;
      background-color: red;
 }
-&nbsp;
+
 #sidebar {
      position: fixed;
      width: 10em;
@@ -1692,7 +1692,7 @@ body {
      left: 0;
      background-color: blue;
 }
-&nbsp;
+
 #main {
     position: fixed;
     width: auto;
@@ -1703,7 +1703,7 @@ body {
     left: 10em;
     background-color: yellow;
 }
-&nbsp;
+
 #footer{
      position: fixed;
      width: 100%;
@@ -1870,28 +1870,28 @@ Tipos de transformações possíveis:
 Exemplo de aplicação: Fotos de uma câmera Polaroid
 
 ```html
-&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
- &lt;link&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;div class="polaroid rotate_right"&gt;
-  &lt;img src="pulpitrock.jpg" alt="Pulpit rock" width="284" height="213"&gt;
-&lt;p class="caption"&gt;O púlpito em Lysefjorden, Noruega.&lt;/p&gt;
-&lt;/div&gt;
-&nbsp;
-&lt;div class="polaroid rotate_left"&gt;
-&lt;img src="cinqueterre.jpg" alt="Monterosso al Mare" width="284" height="213"&gt;
-&lt;p class="caption"&gt;Monterosso al Mare. Uma das cinco aldeias de Cinque Terre&lt;/p&gt;
-&lt;/div&gt;
-&lt;/body&gt;
-&lt;/html&gt;
+<!DOCTYPE html>
+<html>
+<head>
+ <link>
+</head>
+<body>
+<div class="polaroid rotate_right">
+  <img src="pulpitrock.jpg" alt="Pulpit rock" width="284" height="213">
+<p class="caption">O púlpito em Lysefjorden, Noruega.</p>
+</div>
+
+<div class="polaroid rotate_left">
+<img src="cinqueterre.jpg" alt="Monterosso al Mare" width="284" height="213">
+<p class="caption">Monterosso al Mare. Uma das cinco aldeias de Cinque Terre</p>
+</div>
+</body>
+</html>
 ```
 
 style.css
 
-<pre>
+```css
 body {
   margin: 30px;
   background-color: #E9E9E9;
@@ -1915,7 +1915,7 @@ div.rotate_left{
     -webkit-transform: rotate(-8deg);/*Safari*/
     transform: rotate(-8deg);
 }
-</pre>
+```
 
 # 📺 [Front] Displays
 
@@ -1949,7 +1949,7 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
   <li><strong>handheld</strong> = para dispositivos portáteis, geralmente com telas pequenas e banda limitada.</li>
 </ul>
 <p>Observe, abaixo, um exemplo de utilização:</p>
-<pre>&lt;link rel="stylesheet" href="estilo.css" media="screen and (color)"/&gt;</pre>
+<pre><link rel="stylesheet" href="estilo.css" media="screen and (color)"/></pre>
 <b>Onde:</b>
 <ul>
   <li><strong>rel</strong> = define o tipo do arquivo.</li>
@@ -1980,16 +1980,16 @@ As propriedades de grade CSS são suportadas em todos os navegadores modernos.
 
 `not` usamos para dispositivos monocromáticos, pois estamos negando o atributo color.
 
-<pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
+<pre><link rel="stylesheet" href="estilo.css" media="all and (not color)"/></pre>
 
 <p>No próximo exemplo, podemos definir a resolução de vídeo que queremos modificar:</p>
 
-<pre>&lt;link rel="stylesheet" href="estilo.css" media="screen and (max-width: 480px)"/&gt;</pre>
+<pre><link rel="stylesheet" href="estilo.css" media="screen and (max-width: 480px)"/></pre>
 
 > As modificações serão feitas em dispositivos de media screen e com resolução máxima de 480px.
 
 `or` Define a localização do arquivo.css.
-<pre>&lt;link rel="stylesheet" href="estilo.css" media="all and (not color)"/&gt;</pre>
+<pre><link rel="stylesheet" href="estilo.css" media="all and (not color)"/></pre>
 
 `only` Define o tipo de saída do arquivo.
 
@@ -2005,11 +2005,11 @@ div {
    -moz-column-count: 3; /* Firefox */
     column-count: 3;
     }
-&nbsp;
+
 p { 
   margin: 0; padding: 0; 
   }
-&nbsp;
+
 img { 
   display: none;
   }
@@ -2017,14 +2017,14 @@ img {
 
 <p>No HTML temos um código simples de texto.</p>
 <pre>
-&lt;html&gt;
-&lt;head&gt;&lt;/head&gt;
-&lt;body&gt;
-&lt;div&gt;
-   &lt;p&gt;Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Popularizou-se na década de 1960, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/body&gt;
-&lt;/html&gt;
+<html>
+<head></head>
+<body>
+<div>
+   <p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Popularizou-se na década de 1960, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
+</div>
+</body>
+</html>
 </pre>
 <blockquote>Se diminuirmos o navegador, o layout irá se ajustar. Podemos ainda dividir as colunas com uma linha. Para isso, utilizaremos o CSS.</blockquote>
 <pre>
@@ -2056,24 +2056,24 @@ Vamos ao exemplo! Renderização dos boxes (.box1 e .box2) contidos no div#conta
 
 Observe agora a estilização padrão da marcação e sua respectiva renderização.
 <pre>
-&nbsp;
+
 .container {
 width: 240px;
 height: 240px;
 }
-&nbsp;
+
 .box-flex {
 width: 80px;
 height: 80px;
 }
-&nbsp;
+
 .box-flex p {
 color: #fff;
 font-weight: bold;
 margin: 0 !important;
 padding: 0 !important;
 }
-&nbsp;
+
 .box1 {
 background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
 }
@@ -2082,13 +2082,13 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 </pre>
 
 <pre>
-&lt;div id="container" class="container"&gt;
-&nbsp;
-  &lt;div class="box-flex box1"&gt;
-&lt;p&gt;Box 1&lt;/p&gt;
-&lt;/div&gt;
-  &lt;div class="box-flex box2"&gt;
-&lt;p&gt;Box 2&lt;/p&gt;
+<div id="container" class="container">
+
+  <div class="box-flex box1">
+<p>Box 1</p>
+</div>
+  <div class="box-flex box2">
+<p>Box 2</p>
 </div>
   </div>
 </pre>
