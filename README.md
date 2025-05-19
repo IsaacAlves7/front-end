@@ -1436,13 +1436,13 @@ Background para alterar a cor de fundo de uma página HTML, usando atributos do 
 Modificando a cor do plano de fundo (background):
 <p>Dentro da Tag &lt;body&gt;, alteramos o atributo <b>background-color</b> com a cor desejada.</p>
 
-<pre>
+```html
 body {
   background-color: yellow;
 }
-</pre>
+```
 
-<p>Definindo, assim, uma cor amarela para o fundo da página.</p>
+Definindo, assim, uma cor amarela para o fundo da página.
 
 A definição do background pode ser feita também com a utilização de imagens como fundo, para isso devemos pensar da mesma forma e utilizar os comandos específicos para imagens de fundo.
 
@@ -1495,11 +1495,11 @@ Gradientes são muito usado para mesclar duas ou mais cores no background, o que
 Linear-gradient
 
 # 🔡 [Front] Textos
-<p>Uma das novidades do CSS 3 é o uso de fontes da própria internet, podemos agora usar fontes livres que são disponíveis na internet, sem que tenha a necessidade de estar instalada na máquina do usuário.
+Uma das novidades do CSS 3 é o uso de fontes da própria internet, podemos agora usar fontes livres que são disponíveis na internet, sem que tenha a necessidade de estar instalada na máquina do usuário.
 
 O site do Google disponibiliza uma quantidade grande de fontes livres. No endereço https://fonts.google.com/ encontramos as fontes e a forma de como colocar no nosso código.
 
-Para colocar no código da página, escolhemos a fonte e depois copiamos o código que vai ser colocado no <code>&lt;head&gt;</code> da página.</p>
+Para colocar no código da página, escolhemos a fonte e depois copiamos o código que vai ser colocado no <code>&lt;head&gt;</code> da página.
 
 ```html
 <head>
