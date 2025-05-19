@@ -1632,8 +1632,8 @@ As recomendações do W3C para as CSS 3 preveem a existência de três esquemas 
 
 1. Esquema Normal esse esquema segue o fluxo normal em que os elementos são exibidos um após o outro e de cima para baixo. Ele é simples e atualmente a maioria das páginas usam essa forma.
 
-Um exemplo usando textos em sequência:</p>
-<pre>
+Um exemplo usando textos em sequência:
+```css
 em{
   padding: 2px;
   margin: 2em;
@@ -1641,7 +1641,7 @@ em{
   border-style: dashed;
   line-height: 2.4em;
 }
-</pre>
+```
 
 2. Esquema Float (Flutuante) definido pela regra <b>float</b> de posicionamento, juntamente com as regras <strong>left, right, none e inherit (herdado)</strong>.
 
