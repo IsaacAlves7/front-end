@@ -1648,7 +1648,8 @@ em{
 O box é deslocado para uma nova posição e seu espaço original é preenchido por outro elemento, na medida do possível.
 
 Exemplo de uso: Neste exemplo a imagem está com o float: LEFT o que a coloca ao lado do texto.</p>
-<pre>
+
+```css
 img {
   float: left;
 }
@@ -1656,7 +1657,7 @@ img {
 body, p, img {
       margin: 2em;
 }
-</pre>
+```
 
 4. Esquema Relativo
 ![EuKdtFOVcAIac3j](https://user-images.githubusercontent.com/61624336/113332439-8de36700-92f7-11eb-9e31-7a356f8d03cf.jpg)
