@@ -1663,8 +1663,9 @@ body, p, img {
 
 3. Esquema Absoluto definido pela regra position com valores <b>absolute</b> e <b>fixed</b>. O box é removido do fluxo completamente sem impactar nos elementos posteriores.
 
-No exemplo, seu uso para montar layouts com várias partes:</p>
-<pre>
+No exemplo, seu uso para montar layouts com várias partes:
+
+```css
 body {
    height: 8.5in;
 }
@@ -1712,7 +1713,7 @@ body {
      left: 0;
      background-color: black;
 }
-</pre>
+```
 
 # ⤴️ [Front] Transition e Transform
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/pen/zYKowjP)
