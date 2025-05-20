@@ -487,18 +487,18 @@ Os tipos de seleção são muito importantes, pois a ordem deles alteram no resu
 **Agrupamento**: O CSS permite agrupar declarações repetidas.
 
 Exemplo:</p>
-<pre>
+```
 h1 { font-family: sans-serif }
 h2 { font-family: sans-serif }
 h3 { font-family: sans-serif }
-</pre>
+```
 
 <p>É equivalente a:</p>
-<pre>
+```
 h1, h2, h3 {
 font-family: sans-serif
 }
-</pre>
+```
 <blockquote>OBS: Todos os h1, todos os h2 e todos os h3</blockquote>
 
 **Seletores descendentes**: Um elemento pode estar contido dentro de outro elemento.
@@ -516,40 +516,40 @@ h1 em { color: blue } /* indica que os elementos em contidos em um elemento h1 p
 ```
 
 **Seletores filhos**: Um elemento filho é caraterizado quando os elementos são separados por “>".
-<pre>div ol > li p {color: green }</pre>
+```div ol > li p {color: green }```
 
 <p>Este exemplo, todos os elementos <strong>p</strong> serão de cor verde quando estiverem dentro de um elemento item <li>, filho de uma lista <ol> dentro de uma <div>.</p>
 
 Seletores por prioridade: Um elemento por prioridade é caracterizado quando os elementos são separados por "+". Ou seja, o primeiro parágrafo que vem depois da div.</p>
-<pre>
+```
  div + p {
    color: red;
  }
-</pre>
+```
 
 Seletores por atributos: Especifica regras para os elementos que possuem determinado atributo.
 
 Exemplo:</p>
-<pre>span[hello="Cleveland"][goodbye="Columbus"] { color: blue; }</pre>
+```span[hello="Cleveland"][goodbye="Columbus"] { color: blue; }```
 
 <p>A regra será aplicada a todos os elementos span que possuem o atributo hello="Cleveland" e o atributo goodbye="Columbus".</p>
 
 Seletores por classes: Uma classe permite atribuir um conjunto de regras a um determinado elemento. É determinado por asterisco ponto (*.) ou simplesmente ponto (.).
 
 Exemplo:</p>
-<pre>
+```
 .pastoral { color: green } /* todos os elementos com a classe~=pastoral */
 /*ou*/
 *.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
-</pre>
+```
 
 Seletores por ID: O atributo ID permite identificar um elemento único no documento HTML. Para selecionar este elemento basta utilizar o caracter “#” seguindo pelo nome do elemento.
 
 Exemplo:</p>
-<pre>
+```
 h1#titulo1 { text-align: center } /* aplica a regra ao elemento h1 com o id=titulo */
 *.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
-</pre>
+```
 
 No exemplo anterior criamos uma regra que altera um elemento HTML diretamente, mas isso significa que todos os elementos <a> ficarão com aquela aparência, e normalmente temos sites mais complexos que precisam de várias regras diferentes para elementos iguais.
 
@@ -558,12 +558,12 @@ Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer
 O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele representa um elemento HTML, e com IDs e Classes podemos representar qualquer tipo de elemento mas há algumas diferenças entre eles:
 
 <strong>ID</strong>: é representado pelo símbolo # (hash) seguido de um nome para esse ID. Só pode ser utilizado uma única vez!
-<pre>`#id{
-  }`</pre>
+````#id{
+  }````
 
 <strong>Classe</strong>: a classe é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash. Pode ser utilizado mais de uma vez!
-<pre>`.class{
-  }`</pre>
+````.class{
+  }````
 
 E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
 
@@ -572,11 +572,11 @@ E há um último detalhe nesse exemplo: a **pseudo-classe**. Elementos HTML sofr
   
 Sintaxe:
 
-<pre>
+```
  seletor:pseudo-class { 
     property: value;
    }
-</pre>
+```
 
 O `a:hover` do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.</p>
 
@@ -731,32 +731,32 @@ Aplicações:
 ![img17](https://user-images.githubusercontent.com/61624336/112897107-964c5f80-90b5-11eb-97f4-eec02f0f0bcd.jpg)
 
 Exemplo 1:
-<pre>
+```
 p:first-child {
   color: blue;
 }
-</pre>
-<pre>
+```
+```
 p i:first-child {
   color: blue;
 }
-</pre>
-<pre>
+```
+```
 p:first-child i {
   color: blue;
 }
-</pre>
+```
 
 ## [CSS3] Pseudo-Elementos
 Os <strong>pseudo-elementos</strong> são usados para estilizar partes específicas de um elemento. Como por exemplo: a primeira letra ou linha de um elemento ou talvez inserir um conteúdo antes ou depois do conteúdo de um elemento.
 
 Sintaxe:
 
-<pre>
+```
 selector::pseudo-element {
   property: value;
 }
-</pre>
+```
 
 Tipos de Pseudo-Elementos:
 
@@ -835,16 +835,16 @@ No entanto, a <strong>border</strong> é diferente da <strong>margin</strong> e 
 
 Exemplo de utilização:
 
-<pre>
+```
 h1 { border-width: thin } /* thin thin thin thin */
 h1 { border-width: thin thick } /* thin thick thin thick */
 h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
-</pre>
+```
 
 <p><strong>Estilos da borda:</strong> 'border-top-style', 'border-right-style', 'border-bottom-style', 'border-left-style', and 'border-style‘, 'border'.
 
 Exemplo de utilização:</p>
-<pre>#xy34 { border-style: solid dotted }</pre>
+```#xy34 { border-style: solid dotted }```
 
 Tipos de Borda:
 ![Tipos de bordas](https://user-images.githubusercontent.com/61624336/108574726-eb4ac800-72f6-11eb-9906-b8f8e1ca5d5c.png)
@@ -955,129 +955,142 @@ Chamando uma folha de estilo externa:
  
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#) [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
  
-<pre><link rel="stylesheet" href="style.css"></pre>
+```html
+<link rel="stylesheet" href="style.css">
+```
  
 Chamando uma ícone para a guia do navegador:
  
- [![SVG](https://img.shields.io/badge/-icon.svg-000000?style=social&logo=SVG&logoColor=FFB13B)](#)
+[![SVG](https://img.shields.io/badge/-icon.svg-000000?style=social&logo=SVG&logoColor=FFB13B)](#)
  
 ```html
 <link rel="shortcut icon" href="icon.svg">
 ```
 
-- `<meta>` que representa comandos para definições globais da página:
+`<meta>` que representa comandos para definições globais da página:
   
-  [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
-  <pre>
-   `<meta charset="utf-8">`
-   `<meta name="description" content="Free Web Tutorials">`
-   `<meta name="keywords" contents="HTML,CSS,XML,JavaScript">`
-   `<meta name="author" content="Hege Refsnes">`
-   `<meta http-equiv="refresh" content="30">`
-  </pre>
+```html
+   <meta charset="utf-8">
+   <meta name="description" content="Free Web Tutorials">
+   <meta name="keywords" contents="HTML,CSS,XML,JavaScript">
+   <meta name="author" content="Hege Refsnes">
+   <meta http-equiv="refresh" content="30">
+```
   
-  **Atualizar a página depois de 1 segundo sem JavaScript!**
-  <pre><meta http-equiv="refresh" content="1;url=index.html"></pre>
-  
-  <li>`<script>` comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:</li><br/>
-  
-  [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
-  
-  <pre><script>
-     function myFunction {
-         document.getElementById("demo").innerHTML = "Hello JavaScript!";
-     }
-</script>
-<script type="script/javascript" src="main.js"></script>
-</pre>
+Atualizar a página depois de 1 segundo sem JavaScript!
 
-<li>`<style>` comando para estilização do CSS do tipo interno:</li><br/>
+```html
+<meta http-equiv="refresh" content="1;url=index.html">
+```
+
+`<script>` comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
-  <pre><style>
+```html
+<script>
+     function myFunction {
+         document.getElementById("demo").innerHTML = "Hello JavaScript!";
+     }
+ </script>
+<script type="script/javascript" src="main.js"></script>
+```
+
+`<style>` comando para estilização do CSS do tipo interno:
+
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+
+  ```<style>
     h1 {
     color: blue;
     font-size: 200px;
     }
 </style>
-</pre>
+```
   </p>
 </ul>
 
 
-O `<body>` localizado no mesmo nível do `<head>`, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.</p>
+O `<body>` localizado no mesmo nível do `<head>`, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.
+
 <ul>
 <li>`<h1><h2><h3><h4><h5><h6>` tags de títulos que são por ordem de h1-h6 diminuindo a fonte (do maior para o menor). `<hgroup>` é uma tag para um grupo de tags, não possui valor semântico, apenas serve para deixar o código mais legível.</li>
-<pre>
-`<hgroup>`
-  `<h1>título 1</h1>`
-  `<h2>título 2</h2>`
-  `<h3>título 3</h3>`
-  `<h4>título 4</h4>`
-  `<h5>título 5</h5>`
-  `<h6>título 6</h6>`
-`</hgroup>`
-</pre>
-<li><p>`<p>` elemento que representa um parágrafo:</p></li>
-<pre>`<p>parágrafo</p>`</pre>
-<li><p>`<i>` e `<em>` elementos que representam o texto do estilo do tipo <em>itálico</em>.</p></li>
-<pre><i>itálico</i>
-     <em>itálico</em></pre>
-<li><p>`**` e `<strong>` elementos que representam o texto do estilo do tipo **negrito**.</p></li>
-<pre>**negrito**
-     <strong>negrito</strong></pre>
-<li><p>`<pre>` elemento que apresenta um bloco de texto pré-formatado, preservando seu conteúdo.****.</p></li>
-<pre><pre>Bloco de texto pré-formatado.</pre></pre>
-<li><p>`<br>` elemento que serve para quebrar uma linha da página.</p></li>
+
+```html
+<hgroup>
+  <h1>título 1</h1>
+  <h2>título 2</h2>
+  <h3>título 3</h3>
+  <h4>título 4</h4>
+  <h5>título 5</h5>
+  <h6>título 6</h6>
+</hgroup>
+```
+
+`<p>` elemento que representa um parágrafo:
+
+```html
+<p>parágrafo</p>
+```
+
+`<i>` e `<em>` elementos que representam o texto do estilo do tipo <em>itálico</em>.</p></li>
+```<i>itálico</i>
+     <em>itálico</em>```
+`**` e `<strong>` elementos que representam o texto do estilo do tipo **negrito**.</p></li>
+```**negrito**
+     <strong>negrito</strong>```
+````` elemento que apresenta um bloco de texto pré-formatado, preservando seu conteúdo.****.</p></li>
+``````Bloco de texto pré-formatado.``````
+`<br>` elemento que serve para quebrar uma linha da página.</p></li>
 `<br>`
-<li><p>`<hr>` elemento que possui uma forma linha horizontal com a função para dividir os elementos da página.</p></li>
+`<hr>` elemento que possui uma forma linha horizontal com a função para dividir os elementos da página.</p></li>
 `<hr>`
-<li><p>`<wbr>` elemento que dá uma oportunidade de quebra de linha, se necessário.****.</p></li>
+`<wbr>` elemento que dá uma oportunidade de quebra de linha, se necessário.****.</p></li>
 `<wbr>`
-<li><p>`<sub>` elemento que representam o texto do estilo do tipo sobscrito.</p></li>
-<pre><sub>texto sobscrito</sub></pre>
-<li><p>`<sup>` elemento que representam o texto do estilo do tipo sobrescrito.</p></li>
-<pre><sup>texto sobrescrito</sup></pre>
-<li><p>`<big>` elemento que representa o texto com fonte maior que o padrão.</p></li>
-<pre><big>texto com fonte maior do que o padrão</big></pre>
-<li><p>`<small>` elemento que representa o texto com fonte menor que o padrão.</p></li>
-<pre><small>texto com fonte menor do que o padrão</small></pre>
-<li><p>`<del>` elemento que representa o texto com a fonte rabiscada.</p></li>
-<pre><p>texto com a <del><del>fonte rabiscada</del></del><p></pre>
-<li><p>`<blockquote>` elemento que tem como função exibir o texto indicando de qual referência foi retirado (citação).</p></li>
-<pre><bloquote cite="http://www.quote.com/sample.html">
+`<sub>` elemento que representam o texto do estilo do tipo sobscrito.</p></li>
+```<sub>texto sobscrito</sub>```
+`<sup>` elemento que representam o texto do estilo do tipo sobrescrito.</p></li>
+```<sup>texto sobrescrito</sup>```
+`<big>` elemento que representa o texto com fonte maior que o padrão.</p></li>
+```<big>texto com fonte maior do que o padrão</big>```
+`<small>` elemento que representa o texto com fonte menor que o padrão.</p></li>
+```<small>texto com fonte menor do que o padrão</small>```
+`<del>` elemento que representa o texto com a fonte rabiscada.</p></li>
+```<p>texto com a <del><del>fonte rabiscada</del></del><p>```
+`<blockquote>` elemento que tem como função exibir o texto indicando de qual referência foi retirado (citação).</p></li>
+```<bloquote cite="http://www.quote.com/sample.html">
     <p>Elemento textual.</p>
-  </blockquote></pre>
+  </blockquote>```
   
-<li><p>`<figure>` elemento que permite definir logicamente as informações de uma imagem. Trabalha com `<figcaption>`, que permite dar um título a uma imagem, e `<img>` elemento que exibe a imagem.</p></li>
-<pre><figure>
+`<figure>` elemento que permite definir logicamente as informações de uma imagem. Trabalha com `<figcaption>`, que permite dar um título a uma imagem, e `<img>` elemento que exibe a imagem.</p></li>
+```<figure>
     <figcaption>Foto de férias</figcaption>
    <img src="stata.jpg" alt="Fotos das férias no Rio de Janeiro"/>
-  </figure></pre>
+  </figure>```
   
-<li><p>`<div>` elemento que representa um bloco de texto. As TAGs `<body>`, `<header>`, `<footer>` etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da `<div>`. A `<div>` é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a `<div>` é usada para diagramar o layout de um site.</p></li>
-<pre><div>teste</div></pre>
+`<div>` elemento que representa um bloco de texto. As TAGs `<body>`, `<header>`, `<footer>` etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da `<div>`. A `<div>` é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a `<div>` é usada para diagramar o layout de um site.</p></li>
+```<div>teste</div>```
 
-<li><p>`<span>` elemento que possui uma utilização genérica semelhante ao elemento `<div>`.</p></li>
-<pre><span>texto de exemplo</span></pre>
+`<span>` elemento que possui uma utilização genérica semelhante ao elemento `<div>`.</p></li>
+```<span>texto de exemplo</span>```
 
-<li><p>`<s>` elemento que transforma o texto em um conteúdo não relevante.</p></li>
-<pre><p>O texto é <s>irrelevante</s></p></pre>
+`<s>` elemento que transforma o texto em um conteúdo não relevante.</p></li>
+```<p>O texto é <s>irrelevante</s></p>```
 
-<li><p>`<cite>` elemento que transforma o texto em uma citação.</p></li>
-<pre><p>O texto é do <cite>star wars</cite></p></pre>
+`<cite>` elemento que transforma o texto em uma citação.</p></li>
+```<p>O texto é do <cite>star wars</cite></p>```
 
-<li><p>`<q>` elemento que coloca aspas em um bloco de texto.</p></li>
-<pre><p>O texto é do <q>star wars</q></p></pre>
+`<q>` elemento que coloca aspas em um bloco de texto.</p></li>
+```<p>O texto é do <q>star wars</q></p>```
 
-<li><p>``` elemento que representa um fragmento de código de computador.</p></li>
-<pre><pre>`console.log('Hello, World!');`</pre></pre>
+``` elemento que representa um fragmento de código de computador.</p></li>
+```````console.log('Hello, World!');```````
 </ul>
 
 # 🖼️ [Front] Imagem
-<pre><img src="/assets/public/img/img.svg"></pre>
+```<img src="/assets/public/img/img.svg">```
 
 # 📋 [Front] Listas
 As listas são importantes para a organização do texto e orientação do usuário.
@@ -1141,13 +1154,13 @@ As listas são importantes para a organização do texto e orientação do usuá
 </ul>
 
 Exemplo 1: Abrindo o link em uma nova guia
-<pre><a href="https://www.google.com/" target="_blank">Clique no endereço</a></pre>
+```<a href="https://www.google.com/" target="_blank">Clique no endereço</a>```
 
 Exemplo 2: Linkando dentro das imagens
-<pre><a href="https://www.google.com/" target="_self"><img src="/assets/public/images/img.svg" height="100"></a></pre>
+```<a href="https://www.google.com/" target="_self"><img src="/assets/public/images/img.svg" height="100"></a>```
 
 Exemplo 3: Enviando mensagem para o email
-<pre><a href="mailto:webmaster07@gmail.com">Enviar email</a></pre>
+```<a href="mailto:webmaster07@gmail.com">Enviar email</a>```
 
 # 🔊 [Front] Multimedia
 <img src="https://jibigit.github.io/cheat-html/images/media.png" align="right" height="77">
@@ -1158,7 +1171,7 @@ O **Flash** sempre foi a alternativa mais viável para quem precisava adicionar 
 
 Bastava adicionar uma **chamada para o plugin** e funcionava.
 
-<pre>
+```
  `<object width="426" height="240">`
  `<param name="movie" value=" https://youtu.be/S2Vty9srpFw">`
  `</param>`
@@ -1173,12 +1186,12 @@ width="426"
 height="240">`
 `</embed>`
 `</object>`
-</pre>
+```
 
 Em virtude das inconsistências dos navegadores, era preciso adicionar tanto o comando `<object&gt`; quanto o comando `<embed&gt`;, comandos específicos para utilização do plugin, duplicando muitos atributos. Isso sem falar que plugins como o Flash causam muitas instabilidades, ocasionando erros que levam até ao fechamento do navegador.
 
 Devido a tudo isso, o HTML 5 vem com um novo suporte, nativo na linguagem, para evitar o uso de plugins e comandos desnecessários. Atualmente, basta colocar a chamada simples, como se fosse uma imagem e o arquivo é acionado.</p>
-<pre><video controls src="video.mp4" width="426" height="240"></video></pre>
+```<video controls src="video.mp4" width="426" height="240"></video>```
 
 O problema apresentado pelo novo comando é o uso do atributo `src` que não funciona bem em alguns navegadores. E se pretendemos que todos possam abrir a página, com qualquer navegador, é necessário usar outro tipo de atributo. Por isso, é comum o uso do atributo `<source>` na tag `<video>`.
 
@@ -1301,10 +1314,10 @@ Veja alguns exemplos:
 <table border rules="all"6>
 ```
 
-<pre>`<table border rules="none"6>`</pre>
-<pre>`<table border rules="cols"6>`</pre>
-<pre>`<table border rules="groups"6>`</pre>
-<pre>`<table border rules="rows"6>`</pre>
+````<table border rules="none"6>````
+````<table border rules="cols"6>````
+````<table border rules="groups"6>````
+````<table border rules="rows"6>````
 
 # 🆗 [Front] Formulários
 A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:
@@ -1958,7 +1971,7 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
   <li><strong>handheld</strong> = para dispositivos portáteis, geralmente com telas pequenas e banda limitada.</li>
 </ul>
 <p>Observe, abaixo, um exemplo de utilização:</p>
-<pre><link rel="stylesheet" href="estilo.css" media="screen and (color)"/></pre>
+```<link rel="stylesheet" href="estilo.css" media="screen and (color)"/>```
 **Onde:**
 <ul>
   <li><strong>rel</strong> = define o tipo do arquivo.</li>
@@ -1989,16 +2002,16 @@ As propriedades de grade CSS são suportadas em todos os navegadores modernos.
 
 `not` usamos para dispositivos monocromáticos, pois estamos negando o atributo color.
 
-<pre><link rel="stylesheet" href="estilo.css" media="all and (not color)"/></pre>
+```<link rel="stylesheet" href="estilo.css" media="all and (not color)"/>```
 
 <p>No próximo exemplo, podemos definir a resolução de vídeo que queremos modificar:</p>
 
-<pre><link rel="stylesheet" href="estilo.css" media="screen and (max-width: 480px)"/></pre>
+```<link rel="stylesheet" href="estilo.css" media="screen and (max-width: 480px)"/>```
 
 > As modificações serão feitas em dispositivos de media screen e com resolução máxima de 480px.
 
 `or` Define a localização do arquivo.css.
-<pre><link rel="stylesheet" href="estilo.css" media="all and (not color)"/></pre>
+```<link rel="stylesheet" href="estilo.css" media="all and (not color)"/>```
 
 `only` Define o tipo de saída do arquivo.
 
@@ -2008,7 +2021,7 @@ Sua principal vantagem é a flexibilidade, pois independe de dispositivo. Esta e
 Para facilitar o seu entendimento, vamos direto a um exemplo:
 
 No código CSS definimos em quantas colunas apresentaremos o texto, fazendo distinção de navegador (existem comandos específicos para cada navegador).</p>
-<pre>
+```
 div {
    -webkit-column-count: 3; /* Chrome, Safari, Opera */
    -moz-column-count: 3; /* Firefox */
@@ -2022,10 +2035,10 @@ p {
 img { 
   display: none;
   }
-</pre>
+```
 
 <p>No HTML temos um código simples de texto.</p>
-<pre>
+```
 <html>
 <head></head>
 <body>
@@ -2034,9 +2047,9 @@ img {
 </div>
 </body>
 </html>
-</pre>
+```
 <blockquote>Se diminuirmos o navegador, o layout irá se ajustar. Podemos ainda dividir as colunas com uma linha. Para isso, utilizaremos o CSS.</blockquote>
-<pre>
+```
   div {
   -webkit-column-count: 3; /* Chrome, Safari, Opera */ -moz-column-count: 3; /* Firefox */ column-count: 3;
   /** Define o espaçamento entre as colunas **/ -webkit-column-gap: 30px; /* Chrome, Safari, Opera */ -moz-column-gap: 30px; /* Firefox */ column-gap: 30px;
@@ -2044,7 +2057,7 @@ img {
   -webkit-column-rule-style: solid; /* Chrome, Safari, Opera */ -moz-column-rule-style: solid; /* Firefox */ column-rule-style: solid; 
   } 
   p { margin: 0; padding: 0 }
-</pre>
+```
 
 ## Flexbox Layout
 <img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="177" align="right"/>
@@ -2064,7 +2077,7 @@ Veja as propriedades a seguir:</p>
 Vamos ao exemplo! Renderização dos boxes (.box1 e .box2) contidos no div#container renderizados segundo o Box Model CSS 2.1.
 
 Observe agora a estilização padrão da marcação e sua respectiva renderização.
-<pre>
+```
 
 .container {
 width: 240px;
@@ -2088,9 +2101,9 @@ background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
 }
 .box2 {
 background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
-</pre>
+```
 
-<pre>
+```
 <div id="container" class="container">
 
   <div class="box-flex box1">
@@ -2100,7 +2113,7 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 <p>Box 2</p>
 </div>
   </div>
-</pre>
+```
 
 Agora, iremos criar um identificador container e configurar como queremos colocar as caixas.
 
