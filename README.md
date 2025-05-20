@@ -504,12 +504,16 @@ font-family: sans-serif
 **Seletores descendentes**: Um elemento pode estar contido dentro de outro elemento.
 
 Exemplo:
-<H1>Este texto é <EM>muito</EM> importante</H1></p>
-<pre>
+
+```html
+<H1>Este texto é <EM>muito</EM> importante</H1>
+```
+
+```css
 h1 { color: red } /* indica que todos os elementos h1 possuem a cor vermelha */
 em { color: red } /* indica que todos os elementos em possuem a cor vermelha */
 h1 em { color: blue } /* indica que os elementos em contidos em um elemento h1 possuem a cor azul */
-</pre>
+```
 
 **Seletores filhos**: Um elemento filho é caraterizado quando os elementos são separados por “>".
 <pre>div ol > li p {color: green }</pre>
