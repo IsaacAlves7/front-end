@@ -940,20 +940,22 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 O `<head>` representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como **metadados**. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos **CSS** e <strong>JavaScript</strong>.
 
 No `<head>` encontramos:
-  <ul>
-  <li>`<title>` que representa o título do documento da página HTML:</li><br/>
-    
-  [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
+
+`<title>` que representa o título do documento da página HTML:
+
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
-  <pre>`<title>Estrutura do HTML</title>`</pre>
-  <li>`<link>` que representa ligação com os arquivos externos:</li><br/>
+```html
+<title>Estrutura do HTML</title>
+```
+  
+`<link>` que representa ligação com os arquivos externos:
   
 Chamando uma folha de estilo externa:
  
- [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
- [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
+[![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#) [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
  
- <pre><link rel="stylesheet" href="style.css"></pre>
+<pre><link rel="stylesheet" href="style.css"></pre>
  
 Chamando uma ícone para a guia do navegador:
  
