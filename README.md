@@ -928,11 +928,14 @@ Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada com
 `<html>` é a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar. Possui o atributo `lang=""` que define a língua regional do documento.
 
 [![HTML5](https://img.shields.io/badge/-index.html-000000?style=social&logo=HTML5&logoColor=orangered)](#)
-<pre><html lang="pt-br"></html></pre>
 
-<p>O `<head>` representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como **metadados**. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos **CSS** e <strong>JavaScript</strong>.
+```html
+<html lang="pt-br"></html>
+```
 
-<p>No **<head>** encontramos:
+O `<head>` representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como **metadados**. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos **CSS** e <strong>JavaScript</strong>.
+
+No `<head>` encontramos:
   <ul>
   <li>`<title>` que representa o título do documento da página HTML:</li><br/>
     
