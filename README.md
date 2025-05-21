@@ -486,20 +486,22 @@ Os tipos de seleção são muito importantes, pois a ordem deles alteram no resu
 
 **Agrupamento**: O CSS permite agrupar declarações repetidas.
 
-Exemplo:</p>
-```
+Exemplo:
+
+```html
 h1 { font-family: sans-serif }
 h2 { font-family: sans-serif }
 h3 { font-family: sans-serif }
 ```
 
-<p>É equivalente a:</p>
-```
+É equivalente a:
+
+```html
 h1, h2, h3 {
 font-family: sans-serif
 }
 ```
-<blockquote>OBS: Todos os h1, todos os h2 e todos os h3</blockquote>
+> OBS: Todos os `h1`, todos os `h2` e todos os `h3`
 
 **Seletores descendentes**: Um elemento pode estar contido dentro de outro elemento.
 
@@ -516,12 +518,16 @@ h1 em { color: blue } /* indica que os elementos em contidos em um elemento h1 p
 ```
 
 **Seletores filhos**: Um elemento filho é caraterizado quando os elementos são separados por “>".
-```div ol > li p {color: green }```
 
-<p>Este exemplo, todos os elementos <strong>p</strong> serão de cor verde quando estiverem dentro de um elemento item <li>, filho de uma lista <ol> dentro de uma <div>.</p>
-
-Seletores por prioridade: Um elemento por prioridade é caracterizado quando os elementos são separados por "+". Ou seja, o primeiro parágrafo que vem depois da div.</p>
+```css
+div ol > li p {color: green }
 ```
+
+Este exemplo, todos os elementos <strong>p</strong> serão de cor verde quando estiverem dentro de um elemento item `<li>`, filho de uma lista `<ol>` dentro de uma `<div>`.
+	
+Seletores por prioridade: Um elemento por prioridade é caracterizado quando os elementos são separados por "`+`". Ou seja, o primeiro parágrafo que vem depois da div.
+
+```css
  div + p {
    color: red;
  }
@@ -529,8 +535,11 @@ Seletores por prioridade: Um elemento por prioridade é caracterizado quando os 
 
 Seletores por atributos: Especifica regras para os elementos que possuem determinado atributo.
 
-Exemplo:</p>
-```span[hello="Cleveland"][goodbye="Columbus"] { color: blue; }```
+Exemplo:
+
+```css
+span[hello="Cleveland"][goodbye="Columbus"] { color: blue; }
+```
 
 <p>A regra será aplicada a todos os elementos span que possuem o atributo hello="Cleveland" e o atributo goodbye="Columbus".</p>
 
