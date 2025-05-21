@@ -1032,8 +1032,7 @@ Atualizar a página depois de 1 segundo sem JavaScript!
 
 O `<body>` localizado no mesmo nível do `<head>`, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.
 
-<ul>
-<li>`<h1><h2><h3><h4><h5><h6>` tags de títulos que são por ordem de h1-h6 diminuindo a fonte (do maior para o menor). `<hgroup>` é uma tag para um grupo de tags, não possui valor semântico, apenas serve para deixar o código mais legível.</li>
+`<h1><h2><h3><h4><h5><h6>` tags de títulos que são por ordem de h1-h6 diminuindo a fonte (do maior para o menor). `<hgroup>` é uma tag para um grupo de tags, não possui valor semântico, apenas serve para deixar o código mais legível.
 
 ```html
 <hgroup>
@@ -1052,59 +1051,116 @@ O `<body>` localizado no mesmo nível do `<head>`, este elemento representa o co
 <p>parágrafo</p>
 ```
 
-`<i>` e `<em>` elementos que representam o texto do estilo do tipo <em>itálico</em>.</p></li>
-```<i>itálico</i>
-     <em>itálico</em>```
-`**` e `<strong>` elementos que representam o texto do estilo do tipo **negrito**.</p></li>
-```**negrito**
-     <strong>negrito</strong>```
-````` elemento que apresenta um bloco de texto pré-formatado, preservando seu conteúdo.****.</p></li>
-``````Bloco de texto pré-formatado.``````
-`<br>` elemento que serve para quebrar uma linha da página.</p></li>
+`<i>` e `<em>` elementos que representam o texto do estilo do tipo <em>itálico</em>.
+
+```html
+<i>itálico</i>
+<em>itálico</em>
+```
+
+`<b>` e `<strong>` elementos que representam o texto do estilo do tipo **negrito**.
+
+```html
+<b>negrito</b>
+<strong>negrito</strong>
+```
+
+elemento que apresenta um bloco de texto pré-formatado, preservando seu conteúdo.
+Bloco de texto pré-formatado.
+
+`<br>` elemento que serve para quebrar uma linha da página.
+
 `<br>`
-`<hr>` elemento que possui uma forma linha horizontal com a função para dividir os elementos da página.</p></li>
+
+`<hr>` elemento que possui uma forma linha horizontal com a função para dividir os elementos da página.
+
 `<hr>`
-`<wbr>` elemento que dá uma oportunidade de quebra de linha, se necessário.****.</p></li>
+
+`<wbr>` elemento que dá uma oportunidade de quebra de linha, se necessário.****.
 `<wbr>`
-`<sub>` elemento que representam o texto do estilo do tipo sobscrito.</p></li>
-```<sub>texto sobscrito</sub>```
-`<sup>` elemento que representam o texto do estilo do tipo sobrescrito.</p></li>
-```<sup>texto sobrescrito</sup>```
-`<big>` elemento que representa o texto com fonte maior que o padrão.</p></li>
-```<big>texto com fonte maior do que o padrão</big>```
-`<small>` elemento que representa o texto com fonte menor que o padrão.</p></li>
-```<small>texto com fonte menor do que o padrão</small>```
-`<del>` elemento que representa o texto com a fonte rabiscada.</p></li>
-```<p>texto com a <del><del>fonte rabiscada</del></del><p>```
-`<blockquote>` elemento que tem como função exibir o texto indicando de qual referência foi retirado (citação).</p></li>
-```<bloquote cite="http://www.quote.com/sample.html">
+
+`<sub>` elemento que representam o texto do estilo do tipo sobscrito.
+
+```html
+<sub>texto sobscrito</sub>
+```
+
+`<sup>` elemento que representam o texto do estilo do tipo sobrescrito.
+
+```html
+<sup>texto sobrescrito</sup>
+```
+
+`<big>` elemento que representa o texto com fonte maior que o padrão.
+
+```html
+<big>texto com fonte maior do que o padrão</big>
+```
+
+`<small>` elemento que representa o texto com fonte menor que o padrão.
+
+```html
+<small>texto com fonte menor do que o padrão</small>
+```
+
+`<del>` elemento que representa o texto com a fonte rabiscada.
+
+```html
+<p>texto com a <del><del>fonte rabiscada</del></del><p>
+```
+
+`<blockquote>` elemento que tem como função exibir o texto indicando de qual referência foi retirado (citação).
+
+```html
+ <bloquote cite="http://www.quote.com/sample.html">
     <p>Elemento textual.</p>
-  </blockquote>```
+  </blockquote>
+```
   
-`<figure>` elemento que permite definir logicamente as informações de uma imagem. Trabalha com `<figcaption>`, que permite dar um título a uma imagem, e `<img>` elemento que exibe a imagem.</p></li>
-```<figure>
+`<figure>` elemento que permite definir logicamente as informações de uma imagem. Trabalha com `<figcaption>`, que permite dar um título a uma imagem, e `<img>` elemento que exibe a imagem.
+
+```html
+  <figure>
     <figcaption>Foto de férias</figcaption>
    <img src="stata.jpg" alt="Fotos das férias no Rio de Janeiro"/>
-  </figure>```
+  </figure>
+```
   
-`<div>` elemento que representa um bloco de texto. As TAGs `<body>`, `<header>`, `<footer>` etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da `<div>`. A `<div>` é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a `<div>` é usada para diagramar o layout de um site.</p></li>
-```<div>teste</div>```
+`<div>` elemento que representa um bloco de texto. As TAGs `<body>`, `<header>`, `<footer>` etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da `<div>`. A `<div>` é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a `<div>` é usada para diagramar o layout de um site.
 
-`<span>` elemento que possui uma utilização genérica semelhante ao elemento `<div>`.</p></li>
-```<span>texto de exemplo</span>```
+```html
+<div>teste</div>
+```
 
-`<s>` elemento que transforma o texto em um conteúdo não relevante.</p></li>
-```<p>O texto é <s>irrelevante</s></p>```
+`<span>` elemento que possui uma utilização genérica semelhante ao elemento `<div>`.
 
-`<cite>` elemento que transforma o texto em uma citação.</p></li>
-```<p>O texto é do <cite>star wars</cite></p>```
+```html
+<span>texto de exemplo</span>
+```
 
-`<q>` elemento que coloca aspas em um bloco de texto.</p></li>
-```<p>O texto é do <q>star wars</q></p>```
+`<s>` elemento que transforma o texto em um conteúdo não relevante.
 
-``` elemento que representa um fragmento de código de computador.</p></li>
-```````console.log('Hello, World!');```````
-</ul>
+```html
+<p>O texto é <s>irrelevante</s></p>
+```
+
+`<cite>` elemento que transforma o texto em uma citação.
+
+```html
+<p>O texto é do <cite>star wars</cite></p>
+```
+
+`<q>` elemento que coloca aspas em um bloco de texto.
+
+```html
+<p>O texto é do <q>star wars</q></p>
+```
+
+`<code>` elemento que representa um fragmento de código de computador.
+
+```html
+console.log('Hello, World!');
+```
 
 # 🖼️ [Front] Imagem
 ```<img src="/assets/public/img/img.svg">```
