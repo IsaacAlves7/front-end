@@ -488,7 +488,7 @@ Os tipos de seleção são muito importantes, pois a ordem deles alteram no resu
 
 Exemplo:
 
-```html
+```css
 h1 { font-family: sans-serif }
 h2 { font-family: sans-serif }
 h3 { font-family: sans-serif }
@@ -496,7 +496,7 @@ h3 { font-family: sans-serif }
 
 É equivalente a:
 
-```html
+```css
 h1, h2, h3 {
 font-family: sans-serif
 }
@@ -541,21 +541,23 @@ Exemplo:
 span[hello="Cleveland"][goodbye="Columbus"] { color: blue; }
 ```
 
-<p>A regra será aplicada a todos os elementos span que possuem o atributo hello="Cleveland" e o atributo goodbye="Columbus".</p>
+A regra será aplicada a todos os elementos span que possuem o atributo `hello="Cleveland"` e o atributo `goodbye="Columbus"`.
 
-Seletores por classes: Uma classe permite atribuir um conjunto de regras a um determinado elemento. É determinado por asterisco ponto (*.) ou simplesmente ponto (.).
+**Seletores por classes**: Uma classe permite atribuir um conjunto de regras a um determinado elemento. É determinado por asterisco ponto (`*.`) ou simplesmente ponto (`.`).
 
-Exemplo:</p>
-```
+Exemplo:
+
+```css
 .pastoral { color: green } /* todos os elementos com a classe~=pastoral */
 /*ou*/
 *.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
 ```
 
-Seletores por ID: O atributo ID permite identificar um elemento único no documento HTML. Para selecionar este elemento basta utilizar o caracter “#” seguindo pelo nome do elemento.
+**Seletores por ID**: O atributo ID permite identificar um elemento único no documento HTML. Para selecionar este elemento basta utilizar o caracter “`#`” seguindo pelo nome do elemento.
 
-Exemplo:</p>
-```
+Exemplo:
+
+```css
 h1#titulo1 { text-align: center } /* aplica a regra ao elemento h1 com o id=titulo */
 *.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
 ```
@@ -567,12 +569,18 @@ Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer
 O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele representa um elemento HTML, e com IDs e Classes podemos representar qualquer tipo de elemento mas há algumas diferenças entre eles:
 
 <strong>ID</strong>: é representado pelo símbolo # (hash) seguido de um nome para esse ID. Só pode ser utilizado uma única vez!
-````#id{
-  }````
+
+```css
+#id{
+  }
+```
 
 <strong>Classe</strong>: a classe é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash. Pode ser utilizado mais de uma vez!
-````.class{
-  }````
+
+```css
+.class{
+  }
+```
 
 E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
 
@@ -581,7 +589,7 @@ E há um último detalhe nesse exemplo: a **pseudo-classe**. Elementos HTML sofr
   
 Sintaxe:
 
-```
+```css
  seletor:pseudo-class { 
     property: value;
    }
