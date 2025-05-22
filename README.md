@@ -1,7 +1,7 @@
 <a href="https://github.com/IsaacAlves7/web"><img src="https://www.webinfonex.com/data/assets/uploads/service/ser_5.jpg"></a>
 
 # It's a repository of Web Development 🌐
-> 🌐 **Preparação**: Para este conteúdo, o aluno deverá dispor de um computador com acesso à internet, um web browser com suporte a HTResponsive 5 (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera etc.), um editor de texto (VSCode etc.) e uma plataforma de hospedagem (gratuita ou paga).
+> 🌐 **Preparação**: Para este conteúdo, o aluno deverá dispor de um computador com acesso à internet, um web browser com suporte a HTML 5 (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera etc.), um editor de texto (VSCode etc.) e uma plataforma de hospedagem (gratuita ou paga).
 
 <div align="center"><img src="https://images.fineartamerica.com/images/artworkimages/medium/3/keep-calm-and-let-the-web-developer-handle-it-funny-gift-ideas-transparent.png" height="177"></div>
 
@@ -17,10 +17,10 @@
 - https://caniuse.com/
 - https://www.magicpattern.design/tools/blob-generator
 - https://meyerweb.com/eric/tools/css/reset/
-- https://htResponsive5boilerplate.com/
+- https://HTML5boilerplate.com/
 - https://www.color-hex.com/color-palette/22942
 - https://www.greatfrontend.com/pt-BR
-- https://echarts.apache.org/en/index.htResponsive
+- https://echarts.apache.org/en/index.HTML
 
 Quando falamos sobre website, podemos notar que este termo se trata da junção de duas palavras em inglês: “web”, que significa rede e faz referência a rede mundial de computadores, e “site”, que quer dizer lugar. Nesse sentido, um website ou site é um local que pode ser acessado na internet, por meio de uma URL, e possui um conjunto de páginas programadas em alguma linguagem. 
 
@@ -30,9 +30,9 @@ Nesse servidor estão armazenados todos os arquivos de texto, imagem e estilo qu
 
 Os websites podem apresentar variadas formas e conteúdos. Entre algumas das opções, estão: as lojas virtuais, como Mercado Livre e Amazon, onde a compra e venda de produtos pode ser feita; os sites institucionais e portfólios, usados por empresas e pessoas para se apresentarem e serem encontradas por clientes; e os blogs, como este que você lê. 
 
-Além disso, os sites também podem ser classificados em estáticos ou dinâmicos. Os sites estáticos são desenvolvidos utilizando, de modo geral, HTResponsive, CSS e JavaScript. Seu conteúdo é mais simples e não há interação com uma base de dados.   
+Além disso, os sites também podem ser classificados em estáticos ou dinâmicos. Os sites estáticos são desenvolvidos utilizando, de modo geral, HTML, CSS e JavaScript. Seu conteúdo é mais simples e não há interação com uma base de dados.   
 
-Já os sites dinâmicos, além de usufruírem do HTResponsive, CSS e JavaScript, também utilizam linguagens de programação mais robustas, como PHP. Estes sites possuem funcionalidades conectadas a um banco de dados. Dessa forma, cada página acessada pode trazer dados específicos.  
+Já os sites dinâmicos, além de usufruírem do HTML, CSS e JavaScript, também utilizam linguagens de programação mais robustas, como PHP. Estes sites possuem funcionalidades conectadas a um banco de dados. Dessa forma, cada página acessada pode trazer dados específicos.  
 
 # 🎨 Web Design
 <a href="https://www.websitebuilderexpert.com/designing-websites/how-to-choose-color-for-your-website/"><img src="https://em-content.zobj.net/source/microsoft-teams/363/artist-palette_1f3a8.png" height="77" align="right"></a>
@@ -71,7 +71,7 @@ Gradientes:
 # 🌐 Web Development
 <img src="https://em-content.zobj.net/source/microsoft-teams/363/globe-with-meridians_1f310.png" height="77" align="right">
 
-Basicamente, desenvolvimento web significa codificar páginas para a internet. No entanto, essa tarefa vai além da utilização de HTResponsive e CSS, as ferramentas básicas para a criação de uma página estática — que apresenta informações que só podem ser modificadas com a edição do código fonte.
+Basicamente, desenvolvimento web significa codificar páginas para a internet. No entanto, essa tarefa vai além da utilização de HTML e CSS, as ferramentas básicas para a criação de uma página estática — que apresenta informações que só podem ser modificadas com a edição do código fonte.
 
 Ao contrário, as páginas em um site podem ser dinâmicas. Isso significa que o conteúdo exibido pode ser alterado sem a interferência no código fonte. Para que isso seja possível, as partes dinâmicas do site ficam armazenadas em um banco de dados, que é acessado sempre que for necessário recuperar esse conteúdo.
 
@@ -80,17 +80,17 @@ Essa característica permite o desenvolvimento de aplicações complexas, que ut
 > Exemplo de API com, a estrutura mais usada atualmente para Aplicações Web e Mobile, REST API também chamado de **RESTful API**.
 
 Aplicações Web são o número cada vez maior de sites na Web, isto é, eles imitam aplicações de desktop ao invés dos documentos tradicionais e
-estático de links de textos e imagens que compõem a maioria da Web. Como exemplo, temos os processadores onlines de texto, ferramentas de edição de foto, sites de mapeamento etc. Altamente movidos com JavaScript, eles levaram o HTResponsive4 à beira do limite de suas capacidades. O HTResponsive5 especifica novas APIs (Interface de Programação de Aplicações) para DOM (Modelo de Objeto de Documento), que é uma convenção multiplataforma e independente de linguagem para representação e interação com objetos e documentos HTResponsive, XHTResponsive e XResponsive.
+estático de links de textos e imagens que compõem a maioria da Web. Como exemplo, temos os processadores onlines de texto, ferramentas de edição de foto, sites de mapeamento etc. Altamente movidos com JavaScript, eles levaram o HTML4 à beira do limite de suas capacidades. O HTML5 especifica novas APIs (Interface de Programação de Aplicações) para DOM (Modelo de Objeto de Documento), que é uma convenção multiplataforma e independente de linguagem para representação e interação com objetos e documentos HTML, XHTML e XResponsive.
 
 Essas novas APIs ajudam a arrastar e soltar objetos enviados pelo servidor, tais como, desenho, vídeos e similares.
 
-Essas novas interfaces que as páginas HTResponsive expõem ao JavaScript via objetos na DOM tornam mais fácil escrever as aplicações,
+Essas novas interfaces que as páginas HTML expõem ao JavaScript via objetos na DOM tornam mais fácil escrever as aplicações,
 utilizando padrões altamente especificados, ao invés de apenas artimanhas mal-documentadas.
 
 Ainda mais importante é a necessidade de um padrão aberto livre (para utilizar e para implementar) que possa competir com padrões proprietários como
 Adobe Flash ou Microsoft Silverlight. Independentemente do que você acha dessas tecnologias ou empresas, acreditamos que a Web seja uma plataforma vital à sociedade, comércio e comunicações para estar nas mãos de um fabricante.
 
-Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTResponsive5 é, em sua maioria, um derivativo do HTResponsive4 que continua a definir como os navegadores devem lidar com marcações antigas como  `<font>`, `<center>` e outras novas, pois milhões de páginas web as utilizam.
+Há milhões de páginas Web já em uso por aí, e é imperativo que elas continuem a ser reproduzidas. Então, o HTML5 é, em sua maioria, um derivativo do HTML4 que continua a definir como os navegadores devem lidar com marcações antigas como  `<font>`, `<center>` e outras novas, pois milhões de páginas web as utilizam.
 
 # 🎨 Interface
 O termo **interface** pode dispor de vários significados dependendo da área na qual ela é estudada. Na área da Tecnologia da Informação, interface significa a **possibilidade de comunicação entre dois sistemas que não poderiam se comunicar naturalmente sem alguma ajuda externa**.
@@ -121,52 +121,52 @@ Podemos observar, atualmente, uma enorme variedade de interfaces, nos mais varia
 
 O projeto de construção de um sistema é muito mais complexo do que apenas a criação de uma interface. Toda a interação entre o homem e o sistema deve ser levada em consideração desde a sua concepção. Na área de Tecnologia da Informação, o design de interfaces refere-se à criação da interface do usuário para softwares, sites ou aplicativos. Trata-se de programar o visual da aplicação, visando sempre a facilitar a usabilidade e melhorar a experiência do usuário final.
 
-# 📙 HTResponsive5 - Hypertext Makup Language 5
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTResponsive5_logo_and_wordmark.svg" height="77" align="right"/>
+# 📙 HTML5 - Hypertext Makup Language 5
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="77" align="right"/>
 
 A linguagem de formatação de documentos com a capacidade de links de hipertexto (termo que remete a um texto ao qual se agregam outros conjuntos de informação na forma de blocos de textos, palavras, imagens ou sons, cujo acesso ocorre através de referências específicas, no meio digital, denominadas hiperlinks, ou simplesmente links) e que tornou-se o formato básico para publicação na web.
 
-In 1990, the **HTResponsive** (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTResponsive, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
+In 1990, the **HTML** (<i>HyperText Markup Language</i>) has been created by Tim Bernes-Lee. A mais nova versão do HTML, chamada de versão 5, representa uma evolução dos "padrões" para definição de páginas para internet, representando uma nova linguagem de marcação, com elementos, atributos e comportamentos, além de um conjunto maior de tecnologias que permitem o desenvolvimento de aplicações quando associadas a outras linguagens.
 
-**HTResponsive Timeline**
-1. HTResponsive é tornado público - 1989
-2. HTResponsive - 1991
+**HTML Timeline**
+1. HTML é tornado público - 1989
+2. HTML - 1991
 3. Primeira especificação - 1992
-4. HTResponsive 2.0 é publicado e é criado o JavaScript (JS)- 1995
+4. HTML 2.0 é publicado e é criado o JavaScript (JS)- 1995
 5. Inclusão de novos elementos e a apresentação do CSS 1 - 1996
-6. HTResponsive 3.2 - 1997
-7. HTResponsive 4 é publicado - 1998
-8. HTResponsive 4.01 - 1999
-9. Norma ISO para o HTResponsive e o XHTResponsive 1 - 2000
-10. HTResponsive5 é publicado - 2008
-11. 11W3C parou de trabalhar no XHTResponsive e a desviou recursos para HTResponsive5 - 2009
-12. HTResponsive5 - 2014
-13. HTResponsive5.1 - 2016 e 2017 (2nd ed.)
-14. HTResponsive5.2 - 2017/(Atualmente)
+6. HTML 3.2 - 1997
+7. HTML 4 é publicado - 1998
+8. HTML 4.01 - 1999
+9. Norma ISO para o HTML e o XHTML 1 - 2000
+10. HTML5 é publicado - 2008
+11. 11W3C parou de trabalhar no XHTML e a desviou recursos para HTML5 - 2009
+12. HTML5 - 2014
+13. HTML5.1 - 2016 e 2017 (2nd ed.)
+14. HTML5.2 - 2017/(Atualmente)
 
-Em 1998, a W3C decidiu que não continuaria a evoluir o HTResponsive. O futuro da programação para páginas de internet era o XResponsive. Então o HTResponsive foi congelado na versão 4.01 e uma especificação foi lançada com nome de XHTResponsive, que era uma versão do HTResponsive baseada no XResponsive, exigindo regras de sintaxe como atributos com aspas, algumas tags com fechamento, enquanto outras eram autocontidas.
+Em 1998, a W3C decidiu que não continuaria a evoluir o HTML. O futuro da programação para páginas de internet era o XResponsive. Então o HTML foi congelado na versão 4.01 e uma especificação foi lançada com nome de XHTML, que era uma versão do HTML baseada no XResponsive, exigindo regras de sintaxe como atributos com aspas, algumas tags com fechamento, enquanto outras eram autocontidas.
 
-Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava convencido que o XResponsive era o futuro para todos os autores web. Este grupo começou a desenvolver um trabalho separado, para criar uma nova forma de utilização dos antigos códigos HTResponsive, principalmente ligado ao uso de formulários, sem deixar de atender às determinações básicas do XResponsive. Aquela especificação eventualmente se tornou Web Forms 2.0 e, subsequentemente, foi incorporado na especificação HTResponsive5.
+Um pequeno grupo, dos criadores do navegador Opera, entretanto, não estava convencido que o XResponsive era o futuro para todos os autores web. Este grupo começou a desenvolver um trabalho separado, para criar uma nova forma de utilização dos antigos códigos HTML, principalmente ligado ao uso de formulários, sem deixar de atender às determinações básicas do XResponsive. Aquela especificação eventualmente se tornou Web Forms 2.0 e, subsequentemente, foi incorporado na especificação HTML5.
 
 Em 2006, a W3C percebeu que talvez tivesse sido otimista demais na esperança de que o mundo se mudasse para o XResponsive. Essas ideias foram implementadas e outras rejeitadas independentemente de qual fosse a fonte e quem ela representasse, ou até mesmo onde elas foram inicialmente debatidas.
 
-<img src="https://www.w3schools.com/htResponsive/img_sem_elements.gif" align="right" height="177"/>
+<img src="https://www.w3schools.com/HTML/img_sem_elements.gif" align="right" height="177"/>
 
-O **HTResponsive Semântico** serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.
+O **HTML Semântico** serve para organizar e estruturar os elementos do documento em partes específicas para não correrem soltos pelo body de maneira desorganizado e ilegível.
 
-Até a versão 4 do HTResponsive as divs eram as principais semânticas de estruturamento da página, com a chegada do HTResponsive5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma **folha de jornal**, pois ambas contém cabeçalhos, rodapés, artigos e seções.
+Até a versão 4 do HTML as divs eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma **folha de jornal**, pois ambas contém cabeçalhos, rodapés, artigos e seções.
 
 - O elemento `<section>` (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736626-c63f8100-5f13-11eb-81b8-f6c3e341ea4b.jpg)
 
-```htResponsive
+```HTML
 
 ```
 
 - O elemento `<header>` (cabeçalho) utilizado também para delimitar o título da seção, trabalha em conjunto com os elementos anteriores, no entanto, não é obrigatório.
 
-```htResponsive
+```HTML
 
 ```
 
@@ -174,7 +174,7 @@ Até a versão 4 do HTResponsive as divs eram as principais semânticas de estru
 
 - `<nav>` (navegação) este elemento é a seção onde ficam as informações de de página. Geralmente nesta seção são colocadas as ligações (links internos) para a própria página ou ligações externas para outras páginas de sites externos.
 
-```htResponsive
+```HTML
 
 ```
 
@@ -182,7 +182,7 @@ Até a versão 4 do HTResponsive as divs eram as principais semânticas de estru
 
 - `<article>` (artigo) este elemento é um artigo independente dentro de um texto, este elemento pode estar ou não dentro de um elemento `<section>`. Imagine um jornal com as seções de esportes, fofocas, etc. Dentro de cada seção existem vários artigos sobre textos específicos, por exemplo, na seção de esportes pode ter um artigo falando sobre o time A, outro sobre time B e o outro sobre o time C. Um artigo pode conter um elemento `<header>` que é o título e um elemento `<footer>` que é o rodapé do elemento.
 
-```htResponsive
+```HTML
 
 ```
 
@@ -190,7 +190,7 @@ Até a versão 4 do HTResponsive as divs eram as principais semânticas de estru
 
 - `<footer>` (rodapé) este elemento é um que contém basicamente as informações sobre o conteúdo da seção, como, por exemplo, o autor, links relacionados etc.
 
-```htResponsive
+```HTML
 
 ```
 
@@ -198,40 +198,40 @@ Até a versão 4 do HTResponsive as divs eram as principais semânticas de estru
 
 - `<aside>` (de lado) neste elemento estão contidas as informações que não estão relacionadas diretamente com o texto. Por exemplo: comerciais pagos, links promocionais etc.
 
-```htResponsive
+```HTML
 
 ```
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105738607-f720b580-5f15-11eb-9440-76725a31f908.jpg)
 
-## [HTResponsive5] TAGs essenciais
-É necessário entender o que é **TAG** (linguagens de marcação), o “comando” do HTResponsive. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTResponsive5 é iniciado com o símbolo menor ( `<` ) e terminado com o símbolo maior ( `>` ), como por exemplo: `<meta>`, `<h1>`, `<img>` etc. 
+## [HTML5] TAGs essenciais
+É necessário entender o que é **TAG** (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( `<` ) e terminado com o símbolo maior ( `>` ), como por exemplo: `<meta>`, `<h1>`, `<img>` etc. 
 
-Ou seja, todo elemento HTResponsive é chamado de **tag** que é definida pelos os sinais de abertura **<tag aberta>** e de fechamento **</tag fechada>**, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do `<meta>` e `<link>`.
+Ou seja, todo elemento HTML é chamado de **tag** que é definida pelos os sinais de abertura **<tag aberta>** e de fechamento **</tag fechada>**, há exceções de Tags que não precisam de um fechamento somente a Tag de abertura, como é o caso do `<meta>` e `<link>`.
 
 Além disso, são divididas em categorias conforme a seguir:
 
-- <a href="https://github.com/IsaacAlves7/web#-htResponsive-tags-de-tabelas">Metadados</a>
-- <a href="https://github.com/IsaacAlves7/web#-htResponsive-tags-de-tabelas">O elemento root</a>
-- <a href="https://github.com/IsaacAlves7/web#-htResponsive-tags-de-tabelas">Agrupamento de conteúdo</a>
-- <a href="https://github.com/IsaacAlves7/web#-htResponsive-tags-de-tabelas">Seções</a>
-- <a href="https://github.com/IsaacAlves7/web#-htResponsive-tags-de-tabelas">Script</a>
-- <a href="https://github.com/IsaacAlves7/web#-htResponsive-tags-de-tabelas">Edições</a>
-- <a href="https://github.com/IsaacAlves7/web#-htResponsive-tags-de-tabelas">Semânticas de nível de texto</a>
-- <a href="https://github.com/IsaacAlves7/web#-htResponsive-tags-de-tabelas">Conteúdo incorporado</a>
-- <a href="https://github.com/IsaacAlves7/web#-htResponsive-tags-de-tabelas">Tabelas</a>
-- <a href="https://github.com/IsaacAlves7/web#-htResponsive-tags-de-tabelas">Formulários</a>
-- <a href="https://github.com/IsaacAlves7/web#-htResponsive-tags-de-tabelas">Interativo</a>
+- <a href="https://github.com/IsaacAlves7/web#-HTML-tags-de-tabelas">Metadados</a>
+- <a href="https://github.com/IsaacAlves7/web#-HTML-tags-de-tabelas">O elemento root</a>
+- <a href="https://github.com/IsaacAlves7/web#-HTML-tags-de-tabelas">Agrupamento de conteúdo</a>
+- <a href="https://github.com/IsaacAlves7/web#-HTML-tags-de-tabelas">Seções</a>
+- <a href="https://github.com/IsaacAlves7/web#-HTML-tags-de-tabelas">Script</a>
+- <a href="https://github.com/IsaacAlves7/web#-HTML-tags-de-tabelas">Edições</a>
+- <a href="https://github.com/IsaacAlves7/web#-HTML-tags-de-tabelas">Semânticas de nível de texto</a>
+- <a href="https://github.com/IsaacAlves7/web#-HTML-tags-de-tabelas">Conteúdo incorporado</a>
+- <a href="https://github.com/IsaacAlves7/web#-HTML-tags-de-tabelas">Tabelas</a>
+- <a href="https://github.com/IsaacAlves7/web#-HTML-tags-de-tabelas">Formulários</a>
+- <a href="https://github.com/IsaacAlves7/web#-HTML-tags-de-tabelas">Interativo</a>
 
 Uma TAG pode conter **atributos**, que são informações que alteram o comportamento da TAG. Os atributos podem ser divididos em atributos específicos para cada TAG e atributos globais que são comuns a todas as tags.
 
-Além das TAGs, existem outros elementos que ajudam na construção de documentos HTResponsive5, que são: o **CSS**, o **Javascript**.
+Além das TAGs, existem outros elementos que ajudam na construção de documentos HTML5, que são: o **CSS**, o **Javascript**.
 
 **Atributos** são informações que passamos na Tag para que ela se comporte da maneira esperada. Existem **atributos globais** (que funcionam em todas as Tags) e **específicos** (que são direcionados para cada Tag, através de especificação).
 
 Os Atributos possuem **nome** e um **valor**. Existem Atributos que você vai usar sempre e existem outros que serão mais raros. Exemplo de atributo da tag `<link>`:
 
-```htResponsive
+```HTML
 <link rel="stylesheet" href="/assets/public/styles/css/style.css">
 ```
 
@@ -306,35 +306,35 @@ Atributos Globais de uma TAG:
 # 📘 CSS3 - Cascading Style Sheets 3
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="77" align="right"/>
 
-O **CSS** (Cascading Style Sheets), é um "Stylesheets" (folha de estilo) composta por "camadas" e usado para definir a aparência de páginas da internet que adotam para o seu desenvolvimento linguagens de marcação (como XResponsive, HTResponsive e XHTResponsive), criando assim as interfaces. O CSS define como serão exibidos os elementos contidos no código de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
+O **CSS** (Cascading Style Sheets), é um "Stylesheets" (folha de estilo) composta por "camadas" e usado para definir a aparência de páginas da internet que adotam para o seu desenvolvimento linguagens de marcação (como XResponsive, HTML e XHTML), criando assim as interfaces. O CSS define como serão exibidos os elementos contidos no código de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
 
-Há várias formas de inserir modificação no estilo com CSS. Com o CSS você pode especificar muitas propriedades de estilo para qualquer elemento HTResponsive. Cada propriedade tem um nome e um valor, separados por dois pontos `:`. Cada declaração de propriedade é separada por um ponto e vírgula `;`.
+Há várias formas de inserir modificação no estilo com CSS. Com o CSS você pode especificar muitas propriedades de estilo para qualquer elemento HTML. Cada propriedade tem um nome e um valor, separados por dois pontos `:`. Cada declaração de propriedade é separada por um ponto e vírgula `;`.
 
-Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos da Web. O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTResponsive 5 e, portanto, existem algumas formas de fazer isso, veja abaixo quais são e as suas sintaxes:
+Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos da Web. O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5 e, portanto, existem algumas formas de fazer isso, veja abaixo quais são e as suas sintaxes:
 
-**CSS interno**: as formatações são definidas dentro do arquivo HTResponsive. Exemplo de CSS interno:
+**CSS interno**: as formatações são definidas dentro do arquivo HTML. Exemplo de CSS interno:
   
-```htResponsive
+```HTML
 <style> * { margin: 0; padding: 0;} </style>
 ```
   
-**CSS externo**: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTResponsive. Exemplo de CSS externo:
+**CSS externo**: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML. Exemplo de CSS externo:
   
-```htResponsive
+```HTML
 <link rel="stylesheet" href="/assets/public/styles/css/style.css">
 ```
   
-**CSS inline**: a definição do estilo é feita na mesma linha da TAG HTResponsive a ser formatada. Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código. Exemplo de CSS inline:
+**CSS inline**: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada. Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código. Exemplo de CSS inline:
   
-```htResponsive
+```HTML
 <p style="color:olive;font-size:19px;background-color:black"></p>
 ```
 
-Estilo incorporado ou interno: Caracteriza-se por escrever o código CSS, utilizando o comando `<style>` do HTResponsive. Esse método é superior ao anterior, pois **todas as regras CSS** estão localizadas no início do código HTResponsive5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
+Estilo incorporado ou interno: Caracteriza-se por escrever o código CSS, utilizando o comando `<style>` do HTML. Esse método é superior ao anterior, pois **todas as regras CSS** estão localizadas no início do código HTML5. No entanto, essas regras só poderão ser utilizadas dentro deste documento, impedindo o compartilhamento e a reutilização das regras.
 
 Exemplo de utilização:
 
-```htResponsive
+```HTML
  <head>
   <style>
    * {margin: 0; padding: 0; box-sizing: border-box;}
@@ -343,11 +343,11 @@ Exemplo de utilização:
  </head>
 ```
 
-Estilo externo: As regras foram escritas em um arquivo com extensão **.css** e podem ser carregadas ao documento HTResponsive5 de duas formas:
+Estilo externo: As regras foram escritas em um arquivo com extensão **.css** e podem ser carregadas ao documento HTML5 de duas formas:
 
-Utilizando o elemento <link> no HTResponsive
+Utilizando o elemento <link> no HTML
 
-```htResponsive
+```HTML
 <head>
   <link rel="stylesheet" href="default.css">
   <link rel="stylesheet" href="green.css" title="Green styles">
@@ -357,7 +357,7 @@ Utilizando o elemento <link> no HTResponsive
 </head>
 ```
 
-Utilização do elemento `@import` no CSS permite **importar** regras de estilo dentro de outras regras de estilo. Esse método permite aplicar regras comuns a todos os documentos HTResponsive.
+Utilização do elemento `@import` no CSS permite **importar** regras de estilo dentro de outras regras de estilo. Esse método permite aplicar regras comuns a todos os documentos HTML.
 
 **Exemplo de utilização**:
 
@@ -387,13 +387,13 @@ O CSS nível 3 implementou o conceito de módulos, em que cada módulo é desenv
 ## [CSS] Box Model
 <img src="https://pressupinc.com/wp-content/uploads/2014/01/box-model.png" height="277" align="right">
 
-When we are creating the layout of a website the browser represents each HTResponsive element as a retangular box, this is the **box-model**. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.
+When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the **box-model**. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.
 
 <ol>
   <li>**margin** - São os espaçamentos entre elementos (transparente).</li>
   <li>**border** - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura, cor e forma.</li>
   <li>**padding** - Espaçamento entre a borda e o conteúdo.</li>
-  <li>**content** - O conteúdo inserido no elemento HTResponsive.</li>
+  <li>**content** - O conteúdo inserido no elemento HTML.</li>
 </ol>
 
 Besides that, the Box model have his positions:
@@ -450,11 +450,11 @@ ul {
 > OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.
 
 ## [CSS3] Seletores, Declarações, Propriedades e Valores
-Após a criação do HTResponsive a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por **CSS**.
+Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por **CSS**.
 
 A sintaxe é bem simples e pode ser explicada com a frase "você cria regras de estilo para elementos ou grupos de elementos".
 
-Vamos usar um elemento HTResponsive que vimos anteriormente, a âncora , para exemplificar.
+Vamos usar um elemento HTML que vimos anteriormente, a âncora , para exemplificar.
 
 Uma regra CSS é representada por um **seletor** ou um **grupo de seletores**, no nosso caso é o **a**, então dentro de um par de chaves adicionamos as <strong>declarações</strong>, no exemplo abaixo estamos alterando cor e tamanho da fonte desse título, as **declarações** são formadas por uma propriedade e um valor.</p>
 
@@ -507,7 +507,7 @@ font-family: sans-serif
 
 Exemplo:
 
-```htResponsive
+```HTML
 <H1>Este texto é <EM>muito</EM> importante</H1>
 ```
 
@@ -553,7 +553,7 @@ Exemplo:
 *.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
 ```
 
-**Seletores por ID**: O atributo ID permite identificar um elemento único no documento HTResponsive. Para selecionar este elemento basta utilizar o caracter “`#`” seguindo pelo nome do elemento.
+**Seletores por ID**: O atributo ID permite identificar um elemento único no documento HTML. Para selecionar este elemento basta utilizar o caracter “`#`” seguindo pelo nome do elemento.
 
 Exemplo:
 
@@ -562,11 +562,11 @@ h1#titulo1 { text-align: center } /* aplica a regra ao elemento h1 com o id=titu
 *.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
 ```
 
-No exemplo anterior criamos uma regra que altera um elemento HTResponsive diretamente, mas isso significa que todos os elementos <a> ficarão com aquela aparência, e normalmente temos sites mais complexos que precisam de várias regras diferentes para elementos iguais.
+No exemplo anterior criamos uma regra que altera um elemento HTML diretamente, mas isso significa que todos os elementos <a> ficarão com aquela aparência, e normalmente temos sites mais complexos que precisam de várias regras diferentes para elementos iguais.
 
 Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer no módulo passado, ele tinha vários elementos header, mas não vamos querer que o header principal tenha a mesma formatação que o header de uma postagem, é aí que entram os IDs e Classes.
 
-O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele representa um elemento HTResponsive, e com IDs e Classes podemos representar qualquer tipo de elemento mas há algumas diferenças entre eles:
+O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele representa um elemento HTML, e com IDs e Classes podemos representar qualquer tipo de elemento mas há algumas diferenças entre eles:
 
 <strong>ID</strong>: é representado pelo símbolo # (hash) seguido de um nome para esse ID. Só pode ser utilizado uma única vez!
 
@@ -582,10 +582,10 @@ O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele represen
   }
 ```
 
-E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTResponsive enquanto a classe não tem restrições.</p>
+E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.</p>
 
 ## [CSS3] Pseudo-Classes
-E há um último detalhe nesse exemplo: a **pseudo-classe**. Elementos HTResponsive sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento. As pseudo-classes são bem parecidas com os eventos do JavaScript, porém não possuem o mesmo poder de manipular os elementos.
+E há um último detalhe nesse exemplo: a **pseudo-classe**. Elementos HTML sofrem alterações causadas pela interação do usuário, como mover o mouse por cima ou clicar nesse elemento. As pseudo-classes são bem parecidas com os eventos do JavaScript, porém não possuem o mesmo poder de manipular os elementos.
   
 Sintaxe:
 
@@ -806,9 +806,9 @@ Tipos de Pseudo-Elementos:
 
 Exemplo 1:
 
-```htResponsive
-<!DOCTYPE htResponsive>
-<htResponsive>
+```HTML
+<!DOCTYPE HTML>
+<HTML>
 <head>
 <style>
 p::after { 
@@ -820,7 +820,7 @@ p::after {
    <p>My name is Donald</p>
    <p>I live in Ducksburg</p>
 </body>
-</htResponsive>
+</HTML>
 ```
 
 ```css
@@ -831,7 +831,7 @@ p::after {
 ```
 
 ## [CSS3] Variáveis no CSS
-As <strong>variáveis no CSS</strong> servem para definir um padrão para a maioria dos elementos HTResponsive5, poupando assim muitas linhas de código na folha de estilo. É muito comum usar as variáveis para fazer uma paleta de cores para uma página web mais complexa.
+As <strong>variáveis no CSS</strong> servem para definir um padrão para a maioria dos elementos HTML5, poupando assim muitas linhas de código na folha de estilo. É muito comum usar as variáveis para fazer uma paleta de cores para uma página web mais complexa.
 
 Sintaxe:
 
@@ -882,97 +882,97 @@ Resumindo, o JavaScript é uma poderosa linguagem que deve ser dominada por quem
   
 > Atualmente, o JavaScript compete com outras linguagens de programação em alta no mercado, sendo indispensável o seu aprendizado.
 
-```htResponsive
+```HTML
 <img src="1.jpg" onclick="functionClick()"/>
 ```
 
-O HTResponsive tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando uma função JavaScript quando o usuário interage em um elemento. Devido a extensão desse conteúdo criei um repositório mais focado no desenvolvimento JavaScript, clique no badge acima para saber mais sobre os Eventos!
+O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador, como iniciando uma função JavaScript quando o usuário interage em um elemento. Devido a extensão desse conteúdo criei um repositório mais focado no desenvolvimento JavaScript, clique no badge acima para saber mais sobre os Eventos!
 
-Em 1995, o desenvolvimento de páginas web ganha um poderosíssimo aliado, que o acompanha até os dias de hoje: o **Javascript**. Graças a essa nova tecnologia, designers do mundo inteiro puderam superar algumas das limitações do HTResponsive. A navegação na web começa a ficar menos estática e um pouco mais interativa. Com essa inovação, por exemplo, deu-se início às janelas pop-ups.
+Em 1995, o desenvolvimento de páginas web ganha um poderosíssimo aliado, que o acompanha até os dias de hoje: o **Javascript**. Graças a essa nova tecnologia, designers do mundo inteiro puderam superar algumas das limitações do HTML. A navegação na web começa a ficar menos estática e um pouco mais interativa. Com essa inovação, por exemplo, deu-se início às janelas pop-ups.
 
 > **Comentário**: Um dos problemas da utilização dessa até então nova tecnologia é que o Javascript necessitava ser carregado no topo da página, o que aumentava consideravelmente o tempo de carregamento dos sites. É de se salientar que em meados dos anos 1990, a velocidade máxima de conexão com a internet não ultrapassava a velocidade de 56Kpbs. Muitas das funções iniciais do Javascript acabaram sendo incorporadas ao CSS. 
 
 # 💻 [Front] A Estrutura do Website
 
-Tudo começa com o diretório, e dentro dele as pastas `/public/` e `/src/` , e lá os arquivos `index.htResponsive` e `style.css`.
+Tudo começa com o diretório, e dentro dele as pastas `/public/` e `/src/` , e lá os arquivos `index.HTML` e `style.css`.
 
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#)
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
 [![JS](https://img.shields.io/badge/-main.js-000000?style=social&logo=JavaScript&logoColor=yellow)](#)
 
-O `index.htResponsive` é o padrão da Web de ser o primeiro arquivo processado pelo navegador, geralmente é usado para uma áreas de Login ou a Home da página, e o `style.css` é o padrão para editar um ou mais arquivos HTResponsive.
+O `index.HTML` é o padrão da Web de ser o primeiro arquivo processado pelo navegador, geralmente é usado para uma áreas de Login ou a Home da página, e o `style.css` é o padrão para editar um ou mais arquivos HTML.
 
-**HTResponsive5 boilerplate**:
+**HTML5 boilerplate**:
 
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#)
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
-```htResponsive
-<!DOCTYPE htResponsive>
-<htResponsive lang="pt-br">
+```HTML
+<!DOCTYPE HTML>
+<HTML lang="pt-br">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="">
-	<title>HTResponsive5 boilerplate</title>
+	<title>HTML5 boilerplate</title>
     </head>
     <body>
 	<h1>Hello, World!</h1>
         <script src="" async defer></script>
     </body>
-</htResponsive>
+</HTML>
 ```
 
-Basicamente, a estrutura do documento htResponsive se baseia em `<!Doctype htResponsive>`, `<htResponsive>`, `<head>`, `<body>`. Observe a tag  muito cuidadosamente. Aqueles acostumados a escrever XHTResponsive perceberam três estranhezas. A primeira é que a tag está muito mais curta do que costumava ser até então - estávamos acostumados a utilizar:
+Basicamente, a estrutura do documento HTML se baseia em `<!Doctype HTML>`, `<HTML>`, `<head>`, `<body>`. Observe a tag  muito cuidadosamente. Aqueles acostumados a escrever XHTML perceberam três estranhezas. A primeira é que a tag está muito mais curta do que costumava ser até então - estávamos acostumados a utilizar:
 
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#)
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
-```htResponsive
-<meta http-equiv="Content-Type" content="text/htResponsive;charset=UTF-8">
+```HTML
+<meta http-equiv="Content-Type" content="text/HTML;charset=UTF-8">
 ```
 
 Isso ainda é possível, mas a versão mais curta é preferível, já que é mais fácil de digitar e funciona em todo lugar.
 
-Você também perceberá que não colocamos aspas no atributo `charset=utf-8` nem utilizamos o autoencerramento na tag. O HTResponsive5 não é uma linguagem XResponsive, então você não precisa dessas coisas.
+Você também perceberá que não colocamos aspas no atributo `charset=utf-8` nem utilizamos o autoencerramento na tag. O HTML5 não é uma linguagem XResponsive, então você não precisa dessas coisas.
 
-Os navegadores nunca se importaram com a sintaxe XHTResponsive, se ela fosse enviada como text/htResponsive (apenas um validador XHTResponsive se importaria). Assim, favorecer uma forma em detrimento da outra no HTResponsive5 seria totalmente arbitrário e tornaria inválidas as páginas que não seguissem o formato, apesar delas funcionarem perfeitamente em qualquer navegador. Desse modo, não importa para o HTResponsive5 qual forma você utiliza.</p>
+Os navegadores nunca se importaram com a sintaxe XHTML, se ela fosse enviada como text/HTML (apenas um validador XHTML se importaria). Assim, favorecer uma forma em detrimento da outra no HTML5 seria totalmente arbitrário e tornaria inválidas as páginas que não seguissem o formato, apesar delas funcionarem perfeitamente em qualquer navegador. Desse modo, não importa para o HTML5 qual forma você utiliza.</p>
 
-`<!Doctype htResponsive>` é o tipo do documento, vale ressaltar que não é obrigatório.
+`<!Doctype HTML>` é o tipo do documento, vale ressaltar que não é obrigatório.
 
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#)
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
-```htResponsive
-<!Doctype htResponsive>
+```HTML
+<!Doctype HTML>
 ```
 
-`<htResponsive>` é a tag onde editamos o documento HTResponsive, vale ressaltar que é obrigatória para o documento funcionar. Possui o atributo `lang=""` que define a língua regional do documento.
+`<HTML>` é a tag onde editamos o documento HTML, vale ressaltar que é obrigatória para o documento funcionar. Possui o atributo `lang=""` que define a língua regional do documento.
 
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#)
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
-```htResponsive
-<htResponsive lang="pt-br"></htResponsive>
+```HTML
+<HTML lang="pt-br"></HTML>
 ```
 
 O `<head>` representa uma coleção de comandos em que podemos definir as informações do site em si, caracterizadas, como **metadados**. Nesse elemento, são carregadas as informações referentes ao documento como, por exemplo, comandos **CSS** e <strong>JavaScript</strong>.
 
 No `<head>` encontramos:
 
-`<title>` que representa o título do documento da página HTResponsive:
+`<title>` que representa o título do documento da página HTML:
 
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#)
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
-```htResponsive
-<title>Estrutura do HTResponsive</title>
+```HTML
+<title>Estrutura do HTML</title>
 ```
   
 `<link>` que representa ligação com os arquivos externos:
   
 Chamando uma folha de estilo externa:
  
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#) [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#) [![CSS3](https://img.shields.io/badge/-style.css-000000?style=social&logo=CSS3&logoColor=1877F2)](#)
  
-```htResponsive
+```HTML
 <link rel="stylesheet" href="style.css">
 ```
  
@@ -980,36 +980,36 @@ Chamando uma ícone para a guia do navegador:
  
 [![SVG](https://img.shields.io/badge/-icon.svg-000000?style=social&logo=SVG&logoColor=FFB13B)](#)
  
-```htResponsive
+```HTML
 <link rel="shortcut icon" href="icon.svg">
 ```
 
 `<meta>` que representa comandos para definições globais da página:
   
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#)
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
   
-```htResponsive
+```HTML
    <meta charset="utf-8">
    <meta name="description" content="Free Web Tutorials">
-   <meta name="keywords" contents="HTResponsive,CSS,XResponsive,JavaScript">
+   <meta name="keywords" contents="HTML,CSS,XResponsive,JavaScript">
    <meta name="author" content="Hege Refsnes">
    <meta http-equiv="refresh" content="30">
 ```
   
 Atualizar a página depois de 1 segundo sem JavaScript!
 
-```htResponsive
-<meta http-equiv="refresh" content="1;url=index.htResponsive">
+```HTML
+<meta http-equiv="refresh" content="1;url=index.HTML">
 ```
 
 `<script>` comando para chamada de rotinas em JavaScript e ligação com os arquivos js externos:
 
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#)
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
-```htResponsive
+```HTML
 <script>
      function myFunction {
-         document.getElementById("demo").innerHTResponsive = "Hello JavaScript!";
+         document.getElementById("demo").innerHTML = "Hello JavaScript!";
      }
  </script>
 <script type="script/javascript" src="main.js"></script>
@@ -1017,7 +1017,7 @@ Atualizar a página depois de 1 segundo sem JavaScript!
 
 `<style>` comando para estilização do CSS do tipo interno:
 
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#)
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
   ```<style>
     h1 {
@@ -1030,11 +1030,11 @@ Atualizar a página depois de 1 segundo sem JavaScript!
 </ul>
 
 
-O `<body>` localizado no mesmo nível do `<head>`, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTResponsive.
+O `<body>` localizado no mesmo nível do `<head>`, este elemento representa o conteúdo principal da página. Aqui estão localizados todos os comandos necessários para a criação do documento HTML.
 
 `<h1><h2><h3><h4><h5><h6>` tags de títulos que são por ordem de h1-h6 diminuindo a fonte (do maior para o menor). `<hgroup>` é uma tag para um grupo de tags, não possui valor semântico, apenas serve para deixar o código mais legível.
 
-```htResponsive
+```HTML
 <hgroup>
   <h1>título 1</h1>
   <h2>título 2</h2>
@@ -1047,20 +1047,20 @@ O `<body>` localizado no mesmo nível do `<head>`, este elemento representa o co
 
 `<p>` elemento que representa um parágrafo:
 
-```htResponsive
+```HTML
 <p>parágrafo</p>
 ```
 
 `<i>` e `<em>` elementos que representam o texto do estilo do tipo <em>itálico</em>.
 
-```htResponsive
+```HTML
 <i>itálico</i>
 <em>itálico</em>
 ```
 
 `<b>` e `<strong>` elementos que representam o texto do estilo do tipo **negrito**.
 
-```htResponsive
+```HTML
 <b>negrito</b>
 <strong>negrito</strong>
 ```
@@ -1081,45 +1081,45 @@ Bloco de texto pré-formatado.
 
 `<sub>` elemento que representam o texto do estilo do tipo sobscrito.
 
-```htResponsive
+```HTML
 <sub>texto sobscrito</sub>
 ```
 
 `<sup>` elemento que representam o texto do estilo do tipo sobrescrito.
 
-```htResponsive
+```HTML
 <sup>texto sobrescrito</sup>
 ```
 
 `<big>` elemento que representa o texto com fonte maior que o padrão.
 
-```htResponsive
+```HTML
 <big>texto com fonte maior do que o padrão</big>
 ```
 
 `<small>` elemento que representa o texto com fonte menor que o padrão.
 
-```htResponsive
+```HTML
 <small>texto com fonte menor do que o padrão</small>
 ```
 
 `<del>` elemento que representa o texto com a fonte rabiscada.
 
-```htResponsive
+```HTML
 <p>texto com a <del><del>fonte rabiscada</del></del><p>
 ```
 
 `<blockquote>` elemento que tem como função exibir o texto indicando de qual referência foi retirado (citação).
 
-```htResponsive
- <bloquote cite="http://www.quote.com/sample.htResponsive">
+```HTML
+ <bloquote cite="http://www.quote.com/sample.HTML">
     <p>Elemento textual.</p>
   </blockquote>
 ```
   
 `<figure>` elemento que permite definir logicamente as informações de uma imagem. Trabalha com `<figcaption>`, que permite dar um título a uma imagem, e `<img>` elemento que exibe a imagem.
 
-```htResponsive
+```HTML
   <figure>
     <figcaption>Foto de férias</figcaption>
    <img src="stata.jpg" alt="Fotos das férias no Rio de Janeiro"/>
@@ -1128,37 +1128,37 @@ Bloco de texto pré-formatado.
   
 `<div>` elemento que representa um bloco de texto. As TAGs `<body>`, `<header>`, `<footer>` etc. possuem regras de utilização bem definidas. Caso o desenvolvedor necessite da criação de um bloco de texto que não se encaixe em alguma regra defina de bloco, pode-se utilizar o recurso da `<div>`. A `<div>` é um bloco de texto que pode ser usado em qualquer lugar do documento. Geralmente a `<div>` é usada para diagramar o layout de um site.
 
-```htResponsive
+```HTML
 <div>teste</div>
 ```
 
 `<span>` elemento que possui uma utilização genérica semelhante ao elemento `<div>`.
 
-```htResponsive
+```HTML
 <span>texto de exemplo</span>
 ```
 
 `<s>` elemento que transforma o texto em um conteúdo não relevante.
 
-```htResponsive
+```HTML
 <p>O texto é <s>irrelevante</s></p>
 ```
 
 `<cite>` elemento que transforma o texto em uma citação.
 
-```htResponsive
+```HTML
 <p>O texto é do <cite>star wars</cite></p>
 ```
 
 `<q>` elemento que coloca aspas em um bloco de texto.
 
-```htResponsive
+```HTML
 <p>O texto é do <q>star wars</q></p>
 ```
 
 `<code>` elemento que representa um fragmento de código de computador.
 
-```htResponsive
+```HTML
 console.log('Hello, World!');
 ```
 
@@ -1170,7 +1170,7 @@ As listas são importantes para a organização do texto e orientação do usuá
 
 - `<ul>` define uma lista comum, não-numerada (não-ordenada).
 
-```htResponsive
+```HTML
 <ul>
    <li>exemplo 1</li>
    <li>exemplo 2</li>
@@ -1181,7 +1181,7 @@ As listas são importantes para a organização do texto e orientação do usuá
 
  - `<li>` elemento que representa um os itens das listas.
 
-```htResponsive
+```HTML
 <!-- Lista não ordenada: circle, square, disc -->
 <ul type="disc"> <!-- padrão -->
  <li>exemplo 1</li>
@@ -1192,7 +1192,7 @@ As listas são importantes para a organização do texto e orientação do usuá
   
 - `<ol>` define uma lista numerada (ordenada).
 
-```htResponsive
+```HTML
 <!-- Lista ordenada: 1, A, a, 2 -->
 <ol type="1"> <!-- padrão -->
   <li>Comida favorita?</li>
@@ -1203,7 +1203,7 @@ As listas são importantes para a organização do texto e orientação do usuá
  
 - `<dl>` elemento textual que exibe uma lista de definições, com termos específicos. Trabalha com as tags `<dt>` termo a ser exibido e `<dd>` elementos do termo.
 
-```htResponsive
+```HTML
 <dl>
   <dt>Carro</dt>
    <dd>Uno</dd>
@@ -1215,8 +1215,8 @@ As listas são importantes para a organização do texto e orientação do usuá
 ```
 
 # 🔗 [Front] Âncora
-<div align="center"><img src="https://www.computerhope.com/jargon/h/htResponsive-tag.gif"></div>
-<p>`<a>` elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página htResponsive. Com o atributo para renderizar endereços `href=""`você pode barrar o endereço como `href="#"` , apenas com o `#` ou até mesmo seu email com `**href="mailto:webmaster@example.com"**` que irá enviar uma mensagem para seu email.</p>  
+<div align="center"><img src="https://www.computerhope.com/jargon/h/HTML-tag.gif"></div>
+<p>`<a>` elemento que representa uma âncora de endereço. Você pode âncorar um endereço de um site e inclusive criar links da sua página HTML. Com o atributo para renderizar endereços `href=""`você pode barrar o endereço como `href="#"` , apenas com o `#` ou até mesmo seu email com `**href="mailto:webmaster@example.com"**` que irá enviar uma mensagem para seu email.</p>  
 
 <p>Além dos atributos citados, existe o `target=""` que possui a função de opção da abertura do link. Os valores do `target=""` podem ser:</p>
 <ul>
@@ -1236,7 +1236,7 @@ Exemplo 3: Enviando mensagem para o email
 ```<a href="mailto:webmaster07@gmail.com">Enviar email</a>```
 
 # 🔊 [Front] Multimedia
-<img src="https://jibigit.github.io/cheat-htResponsive/images/media.png" align="right" height="77">
+<img src="https://jibigit.github.io/cheat-HTML/images/media.png" align="right" height="77">
 
 O termo mídia digital é oposto de mídia analógica, esta era configurada por uma base material: o som era gravado em pequenos sulcos, sobre uma superfície de vinil e, quando uma agulha passava por esses sulcos o som era reproduzido. Nas mídias digitais o suporte físico praticamente desaparece, e os dados são convertidos em sequências numéricas ou de dígitos - por isso uso do termo digital. Dessa forma, os sons, imagens, textos, são na realidade sequências de números, o que permite o compartilhamento, armazenamento e conversão de dados. No sentido mais amplo, mídia digital pode ser definida como o conjunto de veículos e aparelhos de comunicação baseados em tecnologia digital, permitindo a distribuição ou comunicação digital das obras intelectuais escritas, sonoras ou visuais. Meios de origem eletrônica utilizados nas estratégias de comunicação das marcas com seus consumidores, geralmente chamada de mídia digital.
 
@@ -1263,7 +1263,7 @@ height="240">`
 
 Em virtude das inconsistências dos navegadores, era preciso adicionar tanto o comando `<object&gt`; quanto o comando `<embed&gt`;, comandos específicos para utilização do plugin, duplicando muitos atributos. Isso sem falar que plugins como o Flash causam muitas instabilidades, ocasionando erros que levam até ao fechamento do navegador.
 
-Devido a tudo isso, o HTResponsive 5 vem com um novo suporte, nativo na linguagem, para evitar o uso de plugins e comandos desnecessários. Atualmente, basta colocar a chamada simples, como se fosse uma imagem e o arquivo é acionado.</p>
+Devido a tudo isso, o HTML 5 vem com um novo suporte, nativo na linguagem, para evitar o uso de plugins e comandos desnecessários. Atualmente, basta colocar a chamada simples, como se fosse uma imagem e o arquivo é acionado.</p>
 ```<video controls src="video.mp4" width="426" height="240"></video>```
 
 O problema apresentado pelo novo comando é o uso do atributo `src` que não funciona bem em alguns navegadores. E se pretendemos que todos possam abrir a página, com qualquer navegador, é necessário usar outro tipo de atributo. Por isso, é comum o uso do atributo `<source>` na tag `<video>`.
@@ -1271,9 +1271,9 @@ O problema apresentado pelo novo comando é o uso do atributo `src` que não fun
 O elemento `<source>` pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.
 
 video:
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#)
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
-```htResponsive
+```HTML
 <video width="426" height="240" controls>
   <source src="video.mp4" type="video/mp4">
   <source src="video.webm" type="video/webm">
@@ -1282,9 +1282,9 @@ video:
 ```
 
 audio:
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#)
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
-```htResponsive
+```HTML
 <audio controls>
  <source src="audio.mp3" type="audio/mpeg">
  <source src="audio.ogg" type="audio/ogg">
@@ -1301,19 +1301,19 @@ Todos os exemplos de audio e video citados são importados via documento no dire
 Vamos ver como importar videos do YouTube e do Vimeo, passo a passo!
 
 # 🔲 [Front] Tabelas
-Até o aparecimento do HTResponsive5, as **tabelas** eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
+Até o aparecimento do HTML5, as **tabelas** eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
 
 Entretanto, hoje, o uso de tabelas está, de fato, interferindo na construção de sites melhores, mais acessíveis, flexíveis e funcionais, principalmente para as novas mídias, como os celulares, tablets etc.
 
-Essas tabelas ainda continuam existindo no HTResponsive 5 como recurso para exibição de dados tabulares, informações vindas de base de dados. Com a nova versão do HTResponsive, podemos criar sites feitos completamente sem tabelas (tableless), criando assim layouts dinâmicos que aparecem em telas grandes como no computador e se adaptam bem para uma tela pequena do smartphone. Mais pra frente você verá como construir layouts e layouts responsivos com HTResponsive5 e CSS3.
+Essas tabelas ainda continuam existindo no HTML 5 como recurso para exibição de dados tabulares, informações vindas de base de dados. Com a nova versão do HTML, podemos criar sites feitos completamente sem tabelas (tableless), criando assim layouts dinâmicos que aparecem em telas grandes como no computador e se adaptam bem para uma tela pequena do smartphone. Mais pra frente você verá como construir layouts e layouts responsivos com HTML5 e CSS3.
 
 O comando tabela não foi retirado da linguagem, mas ficou restrito o seu uso. Em contrapartida, ainda temos vários sites que utilizam esse recurso, portanto, é importante entendermos como funciona até para poder, se for necessário, dar manutenção nesse tipo de página.
 
 O comando para se inserir uma tabela é `<table>`. Para iniciar uma **linha**, devemos introduzir a tag `<tr>` e para uma **célula** `<td>`, que divide a linha da tabela. `<th>` divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como `</table>`, `</tr>` e `</td>` respectivamente.
 
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#)
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
-```htResponsive
+```HTML
 <table>
   <tr>
     <td></td>
@@ -1383,7 +1383,7 @@ Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o
 
 Veja alguns exemplos:
 
-```htResponsive
+```HTML
 <table border rules="all"6>
 ```
 
@@ -1393,14 +1393,14 @@ Veja alguns exemplos:
 ````<table border rules="rows"6>````
 
 # 🆗 [Front] Formulários
-A parte de formulários em HTResponsive é muito importante para o preenchimento de dados que os usuários inserem na página HTResponsive. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:
+A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:
 
 **Formulário de Login (boilerplate)**:
 
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#)
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
-```htResponsive
-<htResponsive>
+```HTML
+<HTML>
   <body>
      <h2>Login</h2>
      <form>
@@ -1411,17 +1411,17 @@ A parte de formulários em HTResponsive é muito importante para o preenchimento
 	<input type="submit" value="Logar">
      </form>
   </body>
-</htResponsive>
+</HTML>
 ```
 
 Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atributo `name=''` podemos processar os dados enviados através de uma linguagem de programação. 
 
 **Formulário de Login (boilerplate) - Com PHP**:
 
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#) [![PHP](https://img.shields.io/badge/-processa.php-000000?style=social&logo=PHP&logoColor=indigo)](#) 
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#) [![PHP](https://img.shields.io/badge/-processa.php-000000?style=social&logo=PHP&logoColor=indigo)](#) 
 
-```htResponsive
-<htResponsive>
+```HTML
+<HTML>
   <body>
      <h2>Login</h2>
      <form action="processa.php">
@@ -1432,15 +1432,15 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
 	<input type="submit" value="Logar">
      </form>
   </body>
-</htResponsive>
+</HTML>
 ```
 
 **Formulário de Cadastro (boilerplate)**:
 
-[![HTResponsive5](https://img.shields.io/badge/-index.htResponsive-000000?style=social&logo=HTResponsive5&logoColor=orangered)](#) [![PHP](https://img.shields.io/badge/-processa.php-000000?style=social&logo=PHP&logoColor=indigo)](#) 
+[![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#) [![PHP](https://img.shields.io/badge/-processa.php-000000?style=social&logo=PHP&logoColor=indigo)](#) 
 
-```htResponsive
-<htResponsive>
+```HTML
+<HTML>
   <head>
     <title>Cadastro</title>
   </head>
@@ -1480,7 +1480,7 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
 	  <input type="submit" value="Cadastrar">
        </form>
    </body>
-</htResponsive>
+</HTML>
 ```
 
 Só vamos poder conseguir fazer o `input` entre radios se o `name` for o mesmo, dessa forma conseguimos agrupar essas informações e apenas uma dela será marcada.
@@ -1495,25 +1495,25 @@ Podemos definir os tipos de `<input>` e seus atributos:
 - `password`
 - `text`
 
-<img src="https://davidwalsh.name/demo/htResponsive5-buttons.png" height="77" align="right">
+<img src="https://davidwalsh.name/demo/HTML5-buttons.png" height="77" align="right">
 
-Os elementos `<a>`, `<input>` e `<button>` são todos usados para criar botões em uma página HTResponsive, mas cada um tem finalidades ligeiramente diferentes e é usado em diferentes contextos.
+Os elementos `<a>`, `<input>` e `<button>` são todos usados para criar botões em uma página HTML, mas cada um tem finalidades ligeiramente diferentes e é usado em diferentes contextos.
 
-`<a>` o âncora é usado para criar links em HTResponsive. Ele é usado principalmente para navegar entre diferentes páginas da web ou ancorar-se em diferentes seções de uma página. Quando um usuário clica em um elemento `<a>`, ele é direcionado para o URL especificado no atributo `href`. Os elementos `<a>` geralmente são estilizados com CSS para se parecerem com botões, mas eles têm comportamento de link padrão.
+`<a>` o âncora é usado para criar links em HTML. Ele é usado principalmente para navegar entre diferentes páginas da web ou ancorar-se em diferentes seções de uma página. Quando um usuário clica em um elemento `<a>`, ele é direcionado para o URL especificado no atributo `href`. Os elementos `<a>` geralmente são estilizados com CSS para se parecerem com botões, mas eles têm comportamento de link padrão.
 
-```htResponsive
-<a href="pagina.htResponsive">Link</a>
+```HTML
+<a href="pagina.HTML">Link</a>
 ```
 
-`<input>` é usado para criar elementos de entrada em um formulário HTResponsive. Embora seja frequentemente usado para criar campos de entrada de texto, também pode ser usado para criar botões. O tipo de botão é especificado pelo atributo `type`. Alguns valores comuns para o atributo `type` são `"button"`, `"submit"` e `"reset"`. Os botões `<input>` são úteis quando você precisa enviar dados de um formulário para um servidor ou executar ações específicas quando um botão é clicado.
+`<input>` é usado para criar elementos de entrada em um formulário HTML. Embora seja frequentemente usado para criar campos de entrada de texto, também pode ser usado para criar botões. O tipo de botão é especificado pelo atributo `type`. Alguns valores comuns para o atributo `type` são `"button"`, `"submit"` e `"reset"`. Os botões `<input>` são úteis quando você precisa enviar dados de um formulário para um servidor ou executar ações específicas quando um botão é clicado.
 
-```htResponsive
+```HTML
 <input type="button" value="Clique Aqui">
 ```
 
-`<button>` é usado para criar botões em HTResponsive. Ele pode conter texto, elementos de imagem ou outros elementos HTResponsive. Assim como os botões `<input>`, os botões `<button>` podem ter um tipo específico especificado pelo atributo `type`, como `"button"`, `"submit"` ou `"reset"`. Os botões `<button>` oferecem mais flexibilidade em termos de conteúdo e comportamento do que os botões `<input>`, especialmente quando se trata de estilização e manipulação de eventos usando JavaScript.
+`<button>` é usado para criar botões em HTML. Ele pode conter texto, elementos de imagem ou outros elementos HTML. Assim como os botões `<input>`, os botões `<button>` podem ter um tipo específico especificado pelo atributo `type`, como `"button"`, `"submit"` ou `"reset"`. Os botões `<button>` oferecem mais flexibilidade em termos de conteúdo e comportamento do que os botões `<input>`, especialmente quando se trata de estilização e manipulação de eventos usando JavaScript.
 
-```htResponsive
+```HTML
 <button type="button">Clique Aqui</button>
 ```
 
@@ -1522,16 +1522,16 @@ Em resumo, se você está criando um botão para navegação, use `<a>`. Se est�
 # 🖼️ [Front] Foreground e Background
 O CSS permite alterar as cores de primeiro plano (<em>foreground</em>) e plano de fundo (<em>background</em>) dos elementos. O W3C recomenda que a regra background seja utilizado no elemento <em>body</em>.
 
-Sempre que pensamos em criar um layout, devemos configurar a cor de fundo (background) para que a página que será aberta apresente a mesma cor em qualquer navegador. Caso não seja definida, corre o risco do usuário ter modificado a cor padrão da máquina e como não está configurada no HTResponsive, a página vai mostrar a cor padrão, alterando, assim, o que foi definido no layout.
+Sempre que pensamos em criar um layout, devemos configurar a cor de fundo (background) para que a página que será aberta apresente a mesma cor em qualquer navegador. Caso não seja definida, corre o risco do usuário ter modificado a cor padrão da máquina e como não está configurada no HTML, a página vai mostrar a cor padrão, alterando, assim, o que foi definido no layout.
 
 O mesmo caso acontece com a cor da fonte (foreground) que deve ser definida da mesma forma. O W3C recomenda sempre que o body contenha essas definições para que todas as páginas apresentem uma formatação.
 
-Background para alterar a cor de fundo de uma página HTResponsive, usando atributos do CSS, devemos usar conforme o exemplo:
+Background para alterar a cor de fundo de uma página HTML, usando atributos do CSS, devemos usar conforme o exemplo:
 
 Modificando a cor do plano de fundo (background):
 <p>Dentro da Tag <body>, alteramos o atributo **background-color** com a cor desejada.</p>
 
-```htResponsive
+```HTML
 body {
   background-color: yellow;
 }
@@ -1596,7 +1596,7 @@ O site do Google disponibiliza uma quantidade grande de fontes livres. No endere
 
 Para colocar no código da página, escolhemos a fonte e depois copiamos o código que vai ser colocado no `<head>` da página.
 
-```htResponsive
+```HTML
 <head>
   <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre|Bungee+Inline" rel="stylesheet"/>
 </head>
@@ -1814,7 +1814,7 @@ body {
 # ⤴️ [Front] Transition e Transform
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/pen/zYKowjP)
 
-O **CSS3** em conjunto com o **JavasScript** e o **HTResponsive5** passaram a dar suporte a transformações em tempo real, de objetos HTResponsive.
+O **CSS3** em conjunto com o **JavasScript** e o **HTML5** passaram a dar suporte a transformações em tempo real, de objetos HTML.
 
 Podemos modificar posição, rotacionar, aumentar e diminuir, tudo isso dentro de todos os eixos gráficos disponíveis na sua tela.
 
@@ -1822,9 +1822,9 @@ Vamos começar com um exemplo de como mudar uma div de posição sem precisar ch
 
 Vejamos os códigos:
 
-```htResponsive
-<!DOCTYPE htResponsive>
-<htResponsive>
+```HTML
+<!DOCTYPE HTML>
+<HTML>
 <head>
  <link>
 </head>
@@ -1835,7 +1835,7 @@ Vejamos os códigos:
   <input type="range" min="-360" max="360" value="7" onchange="rotate(this.value)"/><br>
   transformação: rotacionar(<span id="span1">7deg</span>);
 </body>
-</htResponsive>
+</HTML>
 ```
 
 ```css
@@ -1859,7 +1859,7 @@ function rotate(value){
    document.getElementById('div1').style.MozTransform="rotate("+value+"deg)";
    document.getElementById('div1').style.OTransform="rotate("+value+"deg)";
    document.getElementById('div1').style.tranform="rotate("+value+"deg)";
-   document.getElementById('span1').innerHTResponsive=value+"deg";
+   document.getElementById('span1').innerHTML=value+"deg";
 }
 ```
 
@@ -1964,9 +1964,9 @@ Tipos de transformações possíveis:
 
 Exemplo de aplicação: Fotos de uma câmera Polaroid
 
-```htResponsive
-<!DOCTYPE htResponsive>
-<htResponsive>
+```HTML
+<!DOCTYPE HTML>
+<HTML>
 <head>
  <link>
 </head>
@@ -1981,7 +1981,7 @@ Exemplo de aplicação: Fotos de uma câmera Polaroid
 <p class="caption">Monterosso al Mare. Uma das cinco aldeias de Cinque Terre</p>
 </div>
 </body>
-</htResponsive>
+</HTML>
 ```
 
 style.css
@@ -2017,7 +2017,7 @@ div.rotate_left{
 # ⬜ [Front] Canvas
 <img src="https://github.com/user-attachments/assets/0e3342cd-47c6-4e70-a580-c40129395938" align="right" height="77">
 
-O HTResponsive Canvas é um elemento HTResponsive5 que permite a criação de gráficos e imagens dinâmicas em uma página web, utilizando JavaScript. Também chamado de tela, o elemento HTResponsive é usado para desenhar gráficos, em tempo real, via JavaScript com a tag `<canvas>`.
+O HTML Canvas é um elemento HTML5 que permite a criação de gráficos e imagens dinâmicas em uma página web, utilizando JavaScript. Também chamado de tela, o elemento HTML é usado para desenhar gráficos, em tempo real, via JavaScript com a tag `<canvas>`.
 
 O elemento é apenas um contêiner para gráficos. Você deve usar JavaScript para realmente desenhar os gráficos. O Canvas possui vários métodos para desenhar caminhos, caixas, círculos, texto e adicionar imagens. O Canvas é suportado por todos os principais navegadores.
 
@@ -2028,7 +2028,7 @@ O elemento é apenas um contêiner para gráficos. Você deve usar JavaScript pa
 
 **Mobile First** propõe que, ao desenvolver um site ou outro produto, o mobile seja levado em conta primeiro. Ao contrário do que se fazia antes, as adaptações devem ser feitas de mobile para desktop.
 
-Podemos definir **media queries** como a maneira que o navegador define que formatação de página vai apresentar a cada tipo de dispositivo. Os **media types** são definidos para cada tipo de media recebendo um certo código CSS, fazendo com que o navegador direcione a abertura da página de uma certa forma. O HTResponsive foi gerado para ser portátil, ou seja, lido e interpretado por qualquer tipo de dispositivo. Só que cada dispositivo exibe o HTResponsive de uma maneira, devido a fatores como, por exemplo, as dimensões da tela.
+Podemos definir **media queries** como a maneira que o navegador define que formatação de página vai apresentar a cada tipo de dispositivo. Os **media types** são definidos para cada tipo de media recebendo um certo código CSS, fazendo com que o navegador direcione a abertura da página de uma certa forma. O HTML foi gerado para ser portátil, ou seja, lido e interpretado por qualquer tipo de dispositivo. Só que cada dispositivo exibe o HTML de uma maneira, devido a fatores como, por exemplo, as dimensões da tela.
 
 Imagine que visitamos um site em um desktop; ele não terá o mesmo aspecto se visitarmos o mesmo site em um dispositivo móvel. Isso ocorre porque são dispositivos diferentes e formas diferentes de navegação. Por isso, a importância de usar essa nova forma de definição de CSS. Isso facilita a leitura do site em mídias diferentes.
 
@@ -2112,16 +2112,16 @@ img {
   }
 ```
 
-<p>No HTResponsive temos um código simples de texto.</p>
+<p>No HTML temos um código simples de texto.</p>
 ```
-<htResponsive>
+<HTML>
 <head></head>
 <body>
 <div>
    <p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Popularizou-se na década de 1960, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
 </div>
 </body>
-</htResponsive>
+</HTML>
 ```
 <blockquote>Se diminuirmos o navegador, o layout irá se ajustar. Podemos ainda dividir as colunas com uma linha. Para isso, utilizaremos o CSS.</blockquote>
 ```
@@ -2139,7 +2139,7 @@ img {
 
 O CSS Flexible Box Layout, conhecido como Flexbox, é um modelo de layout da Web CSS3. Está no estágio de recomendação de candidatos (CR) do W3C. O layout flexível permite que os elementos responsivos dentro de um contêiner sejam organizados automaticamente, dependendo do tamanho da tela (ou dispositivo).
 
-É um novo algoritmo para disposição de boxes dentro do HTResponsive. Este modelo permite um controle mais apurado do Box permitindo “dobrar” suas dimensões para preencher espaços não utilizados.
+É um novo algoritmo para disposição de boxes dentro do HTML. Este modelo permite um controle mais apurado do Box permitindo “dobrar” suas dimensões para preencher espaços não utilizados.
 
 Veja as propriedades a seguir:</p>
 <ul>
@@ -2246,15 +2246,15 @@ Para um desenvolvimento web moderno, o CSS é muitas vezes visto como primitivo 
 
 Assim, podemos trabalhar melhor e com mais produtividade, fazendo proveito de funcionalidades que são inexistentes no CSS comum. Há vários pré-processadores, não só para CSS, mas também para JavaScript. Para CSS, os mais famosos são **Sass**, Less e Stylus. 
 
-O HTResponsive5, por si só, não possui pré-processadores, como o CSS tem o Sass ou Less. No entanto, existem ferramentas e linguagens que podem ser usadas em conjunto com HTResponsive5 para facilitar o desenvolvimento web. Alguns exemplos incluem:
+O HTML5, por si só, não possui pré-processadores, como o CSS tem o Sass ou Less. No entanto, existem ferramentas e linguagens que podem ser usadas em conjunto com HTML5 para facilitar o desenvolvimento web. Alguns exemplos incluem:
 
-1. **Pug (anteriormente conhecido como Jade)**: Pug é uma linguagem de modelagem que compila para HTResponsive. Ele permite que você escreva HTResponsive de maneira mais concisa e legível, usando uma sintaxe simplificada.
+1. **Pug (anteriormente conhecido como Jade)**: Pug é uma linguagem de modelagem que compila para HTML. Ele permite que você escreva HTML de maneira mais concisa e legível, usando uma sintaxe simplificada.
 
-2. **HaResponsive**: Assim como o Pug, o HaResponsive é outra linguagem de modelagem que visa simplificar a criação de HTResponsive. Ele usa uma sintaxe mais limpa e minimalista do que o HTResponsive tradicional.
+2. **HaResponsive**: Assim como o Pug, o HaResponsive é outra linguagem de modelagem que visa simplificar a criação de HTML. Ele usa uma sintaxe mais limpa e minimalista do que o HTML tradicional.
 
-3. **Slim**: Slim é semelhante ao HaResponsive e ao Pug, oferecendo uma sintaxe mais simples para escrever HTResponsive. Ele é projetado para ser mais expressivo e fácil de ler do que o HTResponsive padrão.
+3. **Slim**: Slim é semelhante ao HaResponsive e ao Pug, oferecendo uma sintaxe mais simples para escrever HTML. Ele é projetado para ser mais expressivo e fácil de ler do que o HTML padrão.
 
-Essas linguagens não são tecnicamente pré-processadores de HTResponsive, mas podem ser usadas para gerar HTResponsive de uma maneira mais eficiente e legível. Assim como o CSS tem pré-processadores como Sass e Less, o JavaScript também possui algumas ferramentas que podem ser consideradas pré-processadores ou linguagens que compilam para JavaScript. Alguns exemplos populares incluem:
+Essas linguagens não são tecnicamente pré-processadores de HTML, mas podem ser usadas para gerar HTML de uma maneira mais eficiente e legível. Assim como o CSS tem pré-processadores como Sass e Less, o JavaScript também possui algumas ferramentas que podem ser consideradas pré-processadores ou linguagens que compilam para JavaScript. Alguns exemplos populares incluem:
 
 1. **TypeScript**: TypeScript é um superconjunto tipado de JavaScript que adiciona tipos estáticos opcionais ao JavaScript. Ele compila para JavaScript padrão e é amplamente adotado em projetos grandes e complexos para fornecer verificação de tipo durante o desenvolvimento.
 
@@ -2335,4 +2335,4 @@ Para saber mais clique na imagem acima para acessar o repositório do Bootstrap.
 
 <img src="https://user-images.githubusercontent.com/61624336/106330804-a5a05f80-6262-11eb-990b-77961ab5ca76.jpg" align="right" height="177">
 
-O Bootstrap já possui um padrão para containers, divs e entre outras tags, como se fossem uma espécie de caixa, todas elas são chamadas pelos atributos `class`. Uma desvantagem do Bootstrap é a quantidade de linhas e classes no arquivo htResponsive, tornando o código mais longo do que estilizado pelo CSS puro. No entanto, é possível utilizar o Framework Bootstrap junto com a folha de Estilo, basta somente usar outros nomes para os seletores.
+O Bootstrap já possui um padrão para containers, divs e entre outras tags, como se fossem uma espécie de caixa, todas elas são chamadas pelos atributos `class`. Uma desvantagem do Bootstrap é a quantidade de linhas e classes no arquivo HTML, tornando o código mais longo do que estilizado pelo CSS puro. No entanto, é possível utilizar o Framework Bootstrap junto com a folha de Estilo, basta somente usar outros nomes para os seletores.
