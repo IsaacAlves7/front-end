@@ -2152,8 +2152,8 @@ Veja as propriedades a seguir:</p>
 Vamos ao exemplo! Renderização dos boxes (.box1 e .box2) contidos no div#container renderizados segundo o Box Model CSS 2.1.
 
 Observe agora a estilização padrão da marcação e sua respectiva renderização.
-```
 
+```css
 .container {
 width: 240px;
 height: 240px;
@@ -2178,7 +2178,7 @@ background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
 background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 ```
 
-```
+```html
 <div id="container" class="container">
 
   <div class="box-flex box1">
@@ -2193,6 +2193,7 @@ background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 Agora, iremos criar um identificador container e configurar como queremos colocar as caixas.
 
 Criar container:
+
 ```css
 #container {
     display: box;
