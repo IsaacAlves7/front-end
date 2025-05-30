@@ -1325,8 +1325,8 @@ O comando para se inserir uma tabela é `<table>`. Para iniciar uma **linha**, d
 O comando `<table>` tem uma série de atributos que ajudam na formatação da tabela. Os principais são:
 <table>
   <tr>
-    <td>`align=""`</td>
-    <td>alinha a tabela nas três posições: `center`, `left`, `right` e `justify`</td>
+    <td><code>align=""</code></td>
+    <td>alinha a tabela nas três posições: <code>center</code>, <code>left</code>, <code>right</code> e <code>justify</code></td>
   </tr>
   <tr>
     <td>`bgcolor=""`</td> 
