@@ -78,6 +78,12 @@ Icons:
 - https://www.svgrepo.com/
 - https://freesvgicons.com/
 
+Fontes:
+
+- https://www.dafont.com/pt/
+- https://www.1001freefonts.com/pt/
+- https://fonts.google.com/
+
 # 🌐 Web Development
 <img src="https://em-content.zobj.net/source/microsoft-teams/363/globe-with-meridians_1f310.png" height="77" align="right">
 
