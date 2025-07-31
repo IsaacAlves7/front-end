@@ -247,39 +247,39 @@ Atributos Específicos de uma TAG:
     <td><strong>Função do atributo</strong></td>
   </tr>
   <tr>
-    <td>`rel=""`</td>
+    <td><code>rel=""</code></td>
     <td>Especifica o relacionamento entre o documento atual e o documento linkado</td>
   </tr>
   <tr>
-    <td>`src=""`</td>
+    <td><code>src=""</code></td>
     <td>Especifica a URL do arquivo de mídia</td>
   </tr>
   <tr>
-    <td>`type=""`</td>
+    <td><code>type=""</code></td>
     <td>Especifica o tipo do documento</td>
   </tr>
   <tr>
-    <td>`alt=""`</td>
+    <td><code>alt=""</code></td>
     <td>Mostra o texto quando a aparência não renderiza</td>
   </tr>
   <tr>
-    <td>`target=""`</td>
+    <td><code>target=""</code></td>
     <td>Especifica o modo de abrir o link em janela</td>
   </tr>
   <tr>
-    <td>`width=""`</td>
+    <td><code>width=""</code></td>
     <td>Especifica a largura do elemento</td>
   </tr>
   <tr>
-    <td>`height=""`</td>
+    <td><code>height=""</code></td>
     <td>Especifica a altura do elemento</td>
   </tr>
   <tr>
-    <td>`name=""`</td>
+    <td><code>name=""</code></td>
     <td>Especifica o nome do elemento</td>
   </tr>
   <tr>
-    <td>`value=""`</td>
+    <td><code>value=""</code></td>
     <td>Especifica o valor do elemento</td>
   </tr>
 </table>
@@ -292,15 +292,15 @@ Atributos Globais de uma TAG:
     <td><strong>Função do atributo</strong></td>
   </tr>
   <tr>
-    <td>`title=""`</td>
+    <td><code>title=""</code></td>
     <td>Especifica a informação extra sobre o elemento, como um balãosinho de texto</td>
   </tr>
   <tr>
-    <td>`class=""`</td>
+    <td><code>class=""</code></td>
     <td>Especifica uma ou mais classes para um elemento ou varios elementos (referência de classe para o CSS)</td>
   </tr>
     <tr>
-    <td>`id=""`</td>
+    <td><code>id=""</code></td>
     <td>Especifica uma unica id para um elemento (referência de id para o CSS)</td>
   </tr>
 </table>
@@ -607,135 +607,135 @@ Tipos de Pseudo-Classes:
     <td>**Definição**</td>
   </tr>
   <tr>
-    <td>`:hover`</td>
+    <td><code>:hover</code></td>
     <td>Altera o elemento por passar o mouse por cima.</td>
   </tr>  
   <tr>
-    <td>`:active`</td>
+    <td><code>:active</code></td>
     <td>Altera o elemento por clica-lo.</td>
   </tr>
    <tr>
-    <td>`:link`</td>
+    <td><code>:link</code></td>
     <td>Altera todos os links não visitados.</td>
   </tr>
    <tr>
-    <td>`:visited`</td>
+    <td><code>:visited</code></td>
     <td>Altera todos os links visitados.</td>
   </tr>
   <tr>
-    <td>`:focus`</td>
+    <td><code>:focus</code></td>
     <td>Altera o elemento `<input>` que tem o foco.</td>
   </tr>
   <tr>
-    <td>`:checked`</td>
+    <td><code>:checked</code></td>
     <td>Altera todos os elementos `<input>` marcados.</td>
   </tr>
   <tr>
-    <td>`:disable`</td>
+    <td><code>:disable</code></td>
     <td>Altera todos os elementos `<input>` desativados.</td>
   </tr>
    <tr>
-    <td>`:enabled`</td>
+    <td><code>:enabled</code></td>
     <td>Altera todos os elementos `<input>` habilitados.</td>
   </tr>
   <tr>
-    <td>`:empty`</td>
+    <td><code>:empty</code></td>
     <td>Altera todos os elementos `<p>` que não têm filhos.</td>
   </tr>
   <tr>
-    <td>`:first-child`</td>
+    <td><code>:first-child</code></td>
     <td>Altera cada elemento `<input>` habilitado.</td>
   </tr>
   <tr>
-    <td>`:enabled`</td>
+    <td><code>:enabled</code></td>
     <td>Altera cada elemento `<input>` habilitado.</td>
   </tr>
   <tr>
-    <td>`:first-child`</td>
+    <td><code>:first-child</code></td>
     <td>Altera cada elemento `<p>` que é primeiro filho do elemento pai.</td>
   </tr>
   <tr>
-    <td>`:first-of-type`</td>
+    <td><code>:first-of-type</code></td>
     <td>Altera cada elemento `<p>` que é o primeiro elemento `<p>` de seu elemento pai.</td>
   </tr>
   <tr>
-    <td>`:in-range`</td>
+    <td><code>:in-range</code></td>
     <td>Altera elementos `<input>` com um valor dentro de um intervalo especificado.</td>
   </tr>
   <tr>
-    <td>`:invalid`</td>
+    <td><code>:invalid</code></td>
     <td>Altera todos os elementos `<input>` com um valor inválido.</td>
   </tr>
   <tr>
-    <td>`:lang(language)`</td>
+    <td><code>:lang(language)</code></td>
     <td>Altera cada elemento `<p>` com um valor de atributo lang começando com "`it`".</td>
   </tr>
   <tr>
-    <td>`:last-child`</td>
+    <td><code>:last-child</code></td>
     <td>Altera todos os elementos `<p>` que são os últimos filhos de seu elemento pai.</td>
   </tr>
   <tr>
-    <td>`:last-of-type`</td>
+    <td><code>:last-of-type</code></td>
     <td>Altera todos os elementos `<p>` que é o último elemento `<p>` de seu elemento pai.</td>
   </tr>
   <tr>
-    <td>`:link`</td>
+    <td><code>:link</code></td>
     <td>Altera todos os links não visitados.</td>
   </tr>
   <tr>
-    <td>`:not(selector)`</td>
+    <td><code>:not(selector)</code></td>
     <td>Altera cada elemento que não é o elemento `<p>`.</td>
   </tr>
   <tr>
-    <td>`:nth-child(n)`</td>
+    <td><code>:nth-child(n)</code></td>
     <td>Altera cada elemento <p> que é ordenado do seu elemento pai.</td>
   </tr>
   <tr>
-    <td>`:nth-last-child(n)`</td>
+    <td><code>:nth-last-child(n)</code></td>
     <td>Altera cada elemento <p> que é ordenado do seu elemento pai, contando a partir do último filho.</td>
   </tr>
   <tr>
-    <td>`:nth-last-of-type(n)`</td>
+    <td><code>:nth-last-of-type(n)</code></td>
     <td>Altera cada elemento <p> que é o segundo elemento <p> de seu pai, contando a partir do último filho.</td>
   </tr>
   <tr>
-    <td>`:nth-of-type(n)`</td>
+    <td><code>:nth-of-type(n)</code></td>
     <td>Altera cada elemento <p> que é o segundo elemento <p> de seu elemento pai.</td>
   </tr>
   <tr>
-    <td>`:only-of-type`</td>
+    <td><code>:only-of-type</code></td>
     <td>Altera o elemento <p> que é o único elemento <p> de seu elemento pai.</td>
   </tr>
   <tr>
-    <td>`:only-child`</td>
+    <td><code>:only-child</code></td>
     <td>Altera cada elemento <p> que é o único filho de seu elemento pai.</td>
   </tr>
   <tr>
-    <td>`:optional`</td>
+    <td><code>:optional</code></td>
     <td>Altera os elementos <input> sem atributo "obrigatório".</td>
   </tr>
   <tr>
-    <td>`:out-of-range`</td>
+    <td><code>:out-of-range</code></td>
     <td>Altera os elementos <input> com um atributo "somente leitura" especificado.</td>
   </tr>
   <tr>
-    <td>`:read-write`</td>
+    <td><code>:read-write</code></td>
     <td>Altera os elementos <input> sem o atributo "somente escrita" especificado.</td>
   </tr>
   <tr>
-    <td>`:required`</td>
+    <td><code>:required</code></td>
     <td>Altera os elementos <input> com um atributo "obrigatório" especificado.</td>
   </tr>
   <tr>
-    <td>`:root`</td>
+    <td><code>:root</code></td>
     <td>Altera o elemento raiz do documento.</td>
   </tr>
   <tr>
-    <td>`:target`</td>
+    <td><code>:target</code></td>
     <td>Altera o elemento ativo atual (clicado em um URL contendo o nome da âncora).</td>
   </tr>
   <tr>
-    <td>`:valid`</td>
+    <td><code>:valid</code></td>
     <td>Altera todos os elementos `<input>` com um valor válido.</td>
   </tr>
 </table>
@@ -785,23 +785,23 @@ Tipos de Pseudo-Elementos:
     <td>**Definição**</td>
   </tr>
   <tr>
-    <td>`::after`</td>
+    <td><code>::after</code></td>
     <td>Insire algo após o conteúdo de cada elemento.</td>
   </tr>
   <tr>
-    <td>`::before`</td>
+    <td><code>::before</code></td>
     <td>Insire algo antes do conteúdo de cada elemento.</td>
   </tr>
   <tr>
-    <td>`::first-letter`</td>
+    <td><code>::first-letter</code></td>
     <td>Seleciona a primeira letra de cada elemento.</td>
   </tr>
    <tr>
-    <td>`::first-line`</td>
+    <td><code>::first-line</code></td>
     <td>Seleciona a primeira linha de cada elemento.</td>
   </tr>
   <tr>
-    <td>`::selection`</td>
+    <td><code>::selection</code></td>
     <td>Seleciona a parte de um elemento que é selecionado por um usuário (A mancha/ marca da seleção nos contents).</td>
   </tr> 
 </table>
@@ -1311,7 +1311,7 @@ Essas tabelas ainda continuam existindo no HTML 5 como recurso para exibição d
 
 O comando tabela não foi retirado da linguagem, mas ficou restrito o seu uso. Em contrapartida, ainda temos vários sites que utilizam esse recurso, portanto, é importante entendermos como funciona até para poder, se for necessário, dar manutenção nesse tipo de página.
 
-O comando para se inserir uma tabela é `<table>`. Para iniciar uma **linha**, devemos introduzir a tag `<tr>` e para uma **célula** `<td>`, que divide a linha da tabela. `<th>` divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como `</table>`, `</tr>` e `</td>` respectivamente.
+O comando para se inserir uma tabela é `<table>`. Para iniciar uma **linha**, devemos introduzir a tag `<tr>` e para uma **célula** `<td><code>, que divide a linha da tabela. `<th>` divide a linha da tabela colocando o conteúdo em negrito. Todos esses comandos são encerrados como `</table>`, `</tr>` e </code></td>` respectivamente.
 
 [![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
@@ -1331,27 +1331,27 @@ O comando `<table>` tem uma série de atributos que ajudam na formatação da ta
     <td>alinha a tabela nas três posições: <code>center</code>, <code>left</code>, <code>right</code> e <code>justify</code></td>
   </tr>
   <tr>
-    <td>`bgcolor=""`</td> 
+    <td><code>bgcolor=""</code></td> 
     <td>determina a cor da tabela</td>
   </tr>
   <tr>
-    <td>`border=""`</td> 
+    <td><code>border=""</code></td> 
     <td>determina o tamanho da borda, se for zero não mostra a borda</td>
   </tr>
   <tr>
-    <td>`cellspacing=""`</td>
+    <td><code>cellspacing=""</code></td>
     <td>determina o espaçamento entre células</td>
   </tr> 
   <tr>
-    <td>`colspan=""`</td>
+    <td><code>colspan=""</code></td>
     <td>determina o agrupamento entre duas ou mais colunas da tabela (sentido para os lados)</td>
   </tr>
   <tr>
-    <td>`rowspan=""`</td>
+    <td><code>rowspan=""</code></td>
     <td>determina o agrupamento entre duas ou mais linhas da tabela. (sentido para baixo e cima)</td>
   </tr>
   <tr>
-    <td>`cellpadding=""`</td>
+    <td><code>cellpadding=""</code></td>
     <td>determina o espaçamento entre o texto e a borda da célula</td>
   </tr>
 </table>
@@ -1362,24 +1362,24 @@ Para escolher as linhas internas que serão mostradas dentro da tabela, usamos o
 
 <table>
   <tr>
-    <td>`none`</td>
+    <td><code>none</code></td>
     <td>nenhuma linha inteira.</td>
   </tr>
   <tr>
-    <td>`all`</td>
+    <td><code>all</code></td>
     <td>para mostrar todas as linhas entre cada coluna e linha na tabela (default)</td>
   </tr>
   <tr>
-    <td>`rows`</td>
+    <td><code>rows</code></td>
     <td>para as linhas horizontais entre cada linha da tabela.</td>
   </tr>
   <tr>
-    <td>`cols`</td>
+    <td><code>cols</code></td>
     <td>para as linhas verticais entre cada coluna da tabela.</td>
   </tr>
   <tr>
-    <td>`groups`</td>
-    <td>para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como `<colgroup>` e `<thead>`</td>
+    <td><code>groups</code></td>
+    <td>para linhas entre grupos de colunas e seções horizontais, definidas por tags especiais como `<colgroup>` e `<thead></code></td>
   </tr>  
 </table>
 
@@ -1619,35 +1619,35 @@ O comando `font-family` é o que determina a fonte que será usada. No CSS, temo
      <td><strong>Função da propriedade</strong></td>
   </tr>
   <tr>
-    <td>`font-family`</td>
+    <td><code>font-family</code></td>
     <td>determina a fonte que será usada</td>
   </tr>
   <tr>
-     <td>`font-size`</td>
+     <td><code>font-size</code></td>
      <td>Define o tamanho da fonte</td>
   </tr>
   <tr>
-     <td>`font-style`</td>
+     <td><code>font-style</code></td>
      <td>Define o estilo da fonte</td>
   </tr>
   <tr>
-     <td>`font-variant`</td>
+     <td><code>font-variant</code></td>
      <td>Define a caixa da fonte</td>
   </tr>
   <tr>
-     <td>`font-weight`</td>
+     <td><code>font-weight</code></td>
      <td>Define o corpo da fonte</td>
   </tr>
   <tr>
-     <td>`letter-spacing`</td>
+     <td><code>letter-spacing</code></td>
      <td>Define o espaçamento das letras da fonte</td>
   </tr>
   <tr>
-     <td>`text-transform`</td>
+     <td><code>text-transform</code></td>
      <td>Alterna o texto entre maiúsculas e minúsculas</td>
   </tr>
   <tr>
-     <td>`text-decoration`</td>
+     <td><code>text-decoration</code></td>
      <td>Adiciona destaque a um texto (linhas)</td>
   </tr>
 </table>
@@ -1693,7 +1693,7 @@ Estilizando listas:
     <td>Função da propriedade</td>
   </tr>
   <tr>
-    <td>`list-style-type`</td>
+    <td><code>list-style-type</code></td>
     <td>Altera o marcador da lista</td>
   </tr>
 </table>
