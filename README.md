@@ -1,8 +1,94 @@
-# UI
+# UI - User Interface
 
-# UX
+# UX - User Experience
 
 # Teoria das Cores
+A **regra 30-20-10** em UI/UX Design (e também em design gráfico, moda, arquitetura, cinema e animação) é um **princípio de proporção de cores** que ajuda a criar **harmonia visual**, **foco** e **identidade clara**. A regra 30-20-10 é uma técnica poderosa e universal de composição cromática. Seja no **design de interface**, na **construção de personagens** ou na **ambientação de uma cena**, ela ajuda a **organizar a informação visual**, a **guiar o olhar do usuário/espectador** e a **comunicar emoção e identidade de marca ou estilo** com clareza. Ela é uma regra, mas como toda boa regra de design, pode ser quebrada — contanto que você **saiba o que está fazendo**.
+
+A lógica por trás dela é simples e poderosa: Ela define o **uso proporcional de três cores principais** em uma composição visual:
+
+* **30% – Cor Primária (Base)**
+  É a cor dominante da cena, tela, interface ou ambiente. Dá o tom geral, o pano de fundo.
+  Ex: uma interface com fundo branco ou um quarto com paredes bege.
+
+* **20% – Cor Secundária (Contraste)**
+  Cria contraste e define áreas secundárias, como blocos de conteúdo, elementos estruturais ou de apoio.
+  Ex: menus, seções, sombras ou objetos decorativos.
+
+* **10% – Cor de Destaque (Acento)**
+  Atrai atenção. Usada em botões, links, chamadas para ação, olhos de personagens ou detalhes específicos.
+  Ex: botão vermelho de "comprar", sapato azul vibrante no look neutro, ou o laço da Minnie.
+
+Por que funciona? Ela **reflete como o cérebro humano percebe equilíbrio visual**: muito de uma cor pode cansar, e pouco demais não se destaca. O 30-20-10 garante:
+
+* **Hierarquia clara**
+* **Direção de atenção**
+* **Estímulo sem sobrecarga**
+* **Estética consistente**
+
+A Disney, a Pixar e outras usam a regra em personagens para dar **apelo visual e reconhecimento imediato**, especialmente em **desenhos infantis**:
+
+* **Mickey Mouse**:
+
+  * 30% preto (corpo e orelhas)
+  * 20% vermelho (shorts)
+  * 10% amarelo (sapatos)
+
+* **Buzz Lightyear** (Toy Story):
+
+  * 30% branco
+  * 20% verde
+  * 10% roxo
+
+* **Bob Esponja**:
+
+  * 30% amarelo
+  * 20% marrom/vermelho (calça e gravata)
+  * 10% branco (camisa e olhos)
+
+Essas combinações fixam a imagem do personagem na memória visual da criança (e do adulto também).
+
+A regra também é usada para definir **mood (clima)** e **gênero** de filmes e séries:
+
+* **Terror/Suspense**:
+
+  * 30% tons escuros (cinza, preto)
+  * 20% vermelhos/oxidados
+  * 10% luz fria azul/branca para choque
+
+* **Romance ou Comédia Romântica**:
+
+  * 30% cores claras/pastéis
+  * 20% rosa ou lavanda
+  * 10% dourado ou vermelho vibrante (flores, detalhes)
+
+* **Ficção Científica**:
+
+  * 30% preto ou cinza metálico
+  * 20% azul ou verde neon
+  * 10% laranja/roxo
+
+Essa paleta ajuda o espectador a **"sentir o gênero" inconscientemente** já nas primeiras cenas ou thumbnails.
+
+Em UI/UX Design, podemos ter um exemplo clássico em um site:
+
+```css
+:root {
+  --color-primary: #ffffff;   /* 30% – fundo */
+  --color-secondary: #1e293b; /* 20% – header, rodapé, cards */
+  --color-accent: #f43f5e;    /* 10% – botões, ícones, CTAs */
+}
+```
+
+Aplicado:
+
+```jsx
+<div className="bg-white text-slate-900">
+  <header className="bg-slate-800 text-white p-4">...</header>
+  <main className="p-8">...</main>
+  <button className="bg-rose-500 text-white hover:bg-rose-600">Comprar</button>
+</div>
+```
 
 # Web design
 O design de interfaces é algo relativamente novo dentro do ramo da computação. Essa área de conhecimento visa a estudar as melhores formas de comunicação entre os seres humanos e os sistemas computacionais que podem ser desde websites, jogos de computador, aplicações empresariais, sistemas operacionais ou até uma simples aplicação do seu smartphone.
