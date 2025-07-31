@@ -60,6 +60,7 @@ Paleta de cores:
 - https://visme.co/blog/website-color-schemes/
 - https://colorpalettes.com/
 - https://colorpalettes.net/
+- https://oklch.com/#0.7,0.1505,252,100
 
 Gradientes:
 
