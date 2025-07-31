@@ -2077,7 +2077,7 @@ section {
 }
 ```
 
-## Grid Layout
+## [Front] Grid Layout
 <img src="https://miro.medium.com/max/840/1*kuzeYL058uQGHPt8_wuoqg.png" height="177" align="right"/>
 
 O Módulo de **Grid Layout** oferece um sistema de layout baseado em grade, com linhas e colunas (rows and columns). O Módulo de Layout em Grade permite que os desenvolvedores criem facilmente layouts web complexos. O Módulo de Layout em Grade facilita a criação de uma estrutura de layout responsiva, sem usar flutuação ou posicionamento.
@@ -2106,7 +2106,7 @@ No próximo exemplo, podemos definir a resolução de vídeo que queremos modifi
 
 `only` Define o tipo de saída do arquivo.
 
-## Layout multicolunas
+## [Front] Layout multicolunas
 Sua principal vantagem é a flexibilidade, pois independe de dispositivo. Esta especificação permite que o conteúdo da página se adeque de uma coluna para outra e o número de colunas pode variar dependendo do tamanho da janela.
 
 Para facilitar o seu entendimento, vamos direto a um exemplo:
@@ -2154,7 +2154,7 @@ No HTML temos um código simples de texto.
   p { margin: 0; padding: 0 }
 ```
 
-## Flexbox Layout
+## [Front] Flexbox Layout
 <img src="https://miro.medium.com/max/3200/1*K1TTuVckzyeMdv2qGIT_vA.png" height="177" align="right"/>
 
 O CSS Flexible Box Layout, conhecido como Flexbox, é um modelo de layout da Web CSS3. Está no estágio de recomendação de candidatos (CR) do W3C. O layout flexível permite que os elementos responsivos dentro de um contêiner sejam organizados automaticamente, dependendo do tamanho da tela (ou dispositivo).
@@ -2260,7 +2260,7 @@ background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
 background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 ```
 
-# 👓 Sass
+# 👓 [Front] Sass
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="77" align="right">
 
 Para um desenvolvimento web moderno, o CSS é muitas vezes visto como primitivo e incompleto. Há muitas funcionalidades que nos facilitaria na hora de desenvolver aplicações mais complexas. Um **pré-processador** é um programa que recebe um texto, realiza algumas alterações e nos devolve um novo texto. E isso já nos ajuda com parte do nosso problema! Só conseguimos estilizar nossas páginas com CSS. E se criássemos uma espécie de "CSS com superpoderes", criando novas funcionalidades? Então, nós usaríamos um pré-processador para utilizar esse código e transformar em CSS comum, fazendo com que qualquer navegador possa entender nosso código.
