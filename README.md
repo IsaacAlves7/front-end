@@ -35,6 +35,8 @@ Além disso, os sites também podem ser classificados em estáticos ou dinâmico
 Já os sites dinâmicos, além de usufruírem do HTML, CSS e JavaScript, também utilizam linguagens de programação mais robustas, como PHP. Estes sites possuem funcionalidades conectadas a um banco de dados. Dessa forma, cada página acessada pode trazer dados específicos.  
 
 # 🎨 Web Design
+<a href=""><img src="https://img.shields.io/badge/Canva-prototype-blue?style=flat&logo=Canva&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Figma-prototype-tomato?style=flat&logo=Figma&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Responsive-Flexbox-gold?style=flat&logo=CSS3&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Responsive-Grid-green?style=flat&logo=CSS3&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Responsive-Grid-yellow?style=flat&logo=CSS3&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Responsive-Grid-red?style=flat&logo=CSS3&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Responsive-Grid-blue?style=flat&logo=CSS3&logoColor=white"></a>
+
 <a href="https://www.websitebuilderexpert.com/designing-websites/how-to-choose-color-for-your-website/"><img src="https://em-content.zobj.net/source/microsoft-teams/363/artist-palette_1f3a8.png" height="77" align="right"></a>
 
 Com o **Web Design** você precisa observar a importância da interface para o desenvolvimento de websites, evolução das tecnologias utilizadas na construção de páginas web ricas (web 1.0, web 2.0, web 3.0 e web 4.0), evolução das interfaces (mudanças estéticas, funcionais e estruturais).
@@ -890,7 +892,7 @@ O HTML tem a habilidade de gerar eventos desencadeando ações para o navegador,
 
 Em 1995, o desenvolvimento de páginas web ganha um poderosíssimo aliado, que o acompanha até os dias de hoje: o **Javascript**. Graças a essa nova tecnologia, designers do mundo inteiro puderam superar algumas das limitações do HTML. A navegação na web começa a ficar menos estática e um pouco mais interativa. Com essa inovação, por exemplo, deu-se início às janelas pop-ups.
 
-> **Comentário**: Um dos problemas da utilização dessa até então nova tecnologia é que o Javascript necessitava ser carregado no topo da página, o que aumentava consideravelmente o tempo de carregamento dos sites. É de se salientar que em meados dos anos 1990, a velocidade máxima de conexão com a internet não ultrapassava a velocidade de 56Kpbs. Muitas das funções iniciais do Javascript acabaram sendo incorporadas ao CSS. 
+> Um dos problemas da utilização dessa até então nova tecnologia é que o Javascript necessitava ser carregado no topo da página, o que aumentava consideravelmente o tempo de carregamento dos sites. É de se salientar que em meados dos anos 1990, a velocidade máxima de conexão com a internet não ultrapassava a velocidade de 56Kpbs. Muitas das funções iniciais do Javascript acabaram sendo incorporadas ao CSS. 
 
 # 💻 [Front] A Estrutura do Website
 
