@@ -1246,33 +1246,36 @@ O **Flash** sempre foi a alternativa mais viável para quem precisava adicionar 
 
 Bastava adicionar uma **chamada para o plugin** e funcionava.
 
-```
- `<object width="426" height="240">`
- `<param name="movie" value=" https://youtu.be/S2Vty9srpFw">`
- `</param>`
- `<param name="allowFullScreen" value="true"></param>`
- `<param name="allowscriptaccess" value="always"></param>`
- `<param name="allowscriptaccess" value="always"></param>
+```html
+<object width="426" height="240">
+<param name="movie" value=" https://youtu.be/S2Vty9srpFw"></param>
+<param name="allowFullScreen" value="true"></param>
+<param name="allowscriptaccess" value="always"></param>
+<param name="allowscriptaccess" value="always"></param>
 <embed src= https://www.youtube.com/embed/S2Vty9srpFw
 type="application/x-shockwave-flash"
 allowscriptaccess="always"
 allowfullscreen="true"
 width="426"
-height="240">`
-`</embed>`
-`</object>`
+height="240">
+</embed>
+</object>
 ```
 
-Em virtude das inconsistências dos navegadores, era preciso adicionar tanto o comando `<object&gt`; quanto o comando `<embed&gt`;, comandos específicos para utilização do plugin, duplicando muitos atributos. Isso sem falar que plugins como o Flash causam muitas instabilidades, ocasionando erros que levam até ao fechamento do navegador.
+Em virtude das inconsistências dos navegadores, era preciso adicionar tanto o comando `<object>`; quanto o comando `<embed>`;, comandos específicos para utilização do plugin, duplicando muitos atributos. Isso sem falar que plugins como o Flash causam muitas instabilidades, ocasionando erros que levam até ao fechamento do navegador.
 
-Devido a tudo isso, o HTML 5 vem com um novo suporte, nativo na linguagem, para evitar o uso de plugins e comandos desnecessários. Atualmente, basta colocar a chamada simples, como se fosse uma imagem e o arquivo é acionado.</p>
-```<video controls src="video.mp4" width="426" height="240"></video>```
+Devido a tudo isso, o HTML 5 vem com um novo suporte, nativo na linguagem, para evitar o uso de plugins e comandos desnecessários. Atualmente, basta colocar a chamada simples, como se fosse uma imagem e o arquivo é acionado.
+
+```html
+<video controls src="video.mp4" width="426" height="240"></video>
+```
 
 O problema apresentado pelo novo comando é o uso do atributo `src` que não funciona bem em alguns navegadores. E se pretendemos que todos possam abrir a página, com qualquer navegador, é necessário usar outro tipo de atributo. Por isso, é comum o uso do atributo `<source>` na tag `<video>`.
 
 O elemento `<source>` pode ser usado múltiplas vezes e permite definir um formato de vídeo para cada navegador, fazendo com que você tenha um alcance maior.
 
 video:
+
 [![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
 ```HTML
@@ -1284,6 +1287,7 @@ video:
 ```
 
 audio:
+
 [![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
 ```HTML
@@ -1296,11 +1300,9 @@ audio:
 
 Existem diversos **codecs**, possíveis e você precisará exportar pelo menos duas versões para ter um alcance maior.
 
-> **Obs**: Codecs são programas utilizados para codificar e decodificar arquivos de mídia. Eles compactam o formato original, favorecendo o armazenamento, e descompactam na hora da reprodução, transformando novamente em imagem ou áudio.
+> Codecs são programas utilizados para codificar e decodificar arquivos de mídia. Eles compactam o formato original, favorecendo o armazenamento, e descompactam na hora da reprodução, transformando novamente em imagem ou áudio.
 
-Todos os exemplos de audio e video citados são importados via documento no diretório. E a dúvida é, como faço para importar um vídeo já hospedado em um site como o YouTube ou o Vimeo? E qual das duas soluções (Via documento ou via server) é a mais vantajosa?
-
-Vamos ver como importar videos do YouTube e do Vimeo, passo a passo!
+Todos os exemplos de audio e video citados são importados via documento no diretório. E a dúvida é, como faço para importar um vídeo já hospedado em um site como o YouTube ou o Vimeo? E qual das duas soluções (Via documento ou via server) é a mais vantajosa? Vamos ver como importar videos do YouTube e do Vimeo, passo a passo!
 
 # 🔲 [Front] Tabelas
 Até o aparecimento do HTML5, as **tabelas** eram utilizadas como recurso para diagramação de layouts para páginas. Os designers usavam tabelas como uma grade para exibir imagens e textos, e foram amplamente utilizadas, tornando-se a forma predominante de projeto de sites, criando assim um visual rico.
