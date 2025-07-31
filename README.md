@@ -2032,7 +2032,8 @@ Podemos definir **media queries** como a maneira que o navegador define que form
 
 Imagine que visitamos um site em um desktop; ele não terá o mesmo aspecto se visitarmos o mesmo site em um dispositivo móvel. Isso ocorre porque são dispositivos diferentes e formas diferentes de navegação. Por isso, a importância de usar essa nova forma de definição de CSS. Isso facilita a leitura do site em mídias diferentes.
 
-Para que possamos manter nossas páginas sempre adequadas a cada tipo de visualização, utilizamos **media types** com a seguinte formatação:</p>
+Para que possamos manter nossas páginas sempre adequadas a cada tipo de visualização, utilizamos **media types** com a seguinte formatação:
+
 <ul>
   <li><strong>all</strong> = para todos os dispositivos.</li>
   <li><strong>braille</strong> = para os dispositivos táteis.</li>
@@ -2045,9 +2046,15 @@ Para que possamos manter nossas páginas sempre adequadas a cada tipo de visuali
   <li><strong>tv</strong> = para dispositivos como televisores, ou seja, com baixa resolução, quantidade de cores e scroll limitados.</li>
   <li><strong>handheld</strong> = para dispositivos portáteis, geralmente com telas pequenas e banda limitada.</li>
 </ul>
-<p>Observe, abaixo, um exemplo de utilização:</p>
-```<link rel="stylesheet" href="estilo.css" media="screen and (color)"/>```
-**Onde:**
+
+Observe, abaixo, um exemplo de utilização:
+
+```html
+<link rel="stylesheet" href="estilo.css" media="screen and (color)"/>
+```
+
+Onde:
+
 <ul>
   <li><strong>rel</strong> = define o tipo do arquivo.</li>
   <li><strong>href</strong> = define a localização do arquivo.css.</li>
@@ -2086,7 +2093,10 @@ As propriedades de grade CSS são suportadas em todos os navegadores modernos.
 > As modificações serão feitas em dispositivos de media screen e com resolução máxima de 480px.
 
 `or` Define a localização do arquivo.css.
-```<link rel="stylesheet" href="estilo.css" media="all and (not color)"/>```
+
+```html
+<link rel="stylesheet" href="estilo.css" media="all and (not color)"/>
+```
 
 `only` Define o tipo de saída do arquivo.
 
@@ -2095,7 +2105,8 @@ Sua principal vantagem é a flexibilidade, pois independe de dispositivo. Esta e
 
 Para facilitar o seu entendimento, vamos direto a um exemplo:
 
-No código CSS definimos em quantas colunas apresentaremos o texto, fazendo distinção de navegador (existem comandos específicos para cada navegador).</p>
+No código CSS definimos em quantas colunas apresentaremos o texto, fazendo distinção de navegador (existem comandos específicos para cada navegador).
+
 ```
 div {
    -webkit-column-count: 3; /* Chrome, Safari, Opera */
@@ -2112,7 +2123,8 @@ img {
   }
 ```
 
-<p>No HTML temos um código simples de texto.</p>
+No HTML temos um código simples de texto.
+
 ```
 <HTML>
 <head></head>
@@ -2123,7 +2135,9 @@ img {
 </body>
 </HTML>
 ```
+
 <blockquote>Se diminuirmos o navegador, o layout irá se ajustar. Podemos ainda dividir as colunas com uma linha. Para isso, utilizaremos o CSS.</blockquote>
+
 ```
   div {
   -webkit-column-count: 3; /* Chrome, Safari, Opera */ -moz-column-count: 3; /* Firefox */ column-count: 3;
