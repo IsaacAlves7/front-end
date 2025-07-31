@@ -71,6 +71,10 @@ Gradientes:
 - https://webgradients.com/
 - https://cssgradient.io/
 
+Icons:
+
+- https://lucide.dev/
+
 # 🌐 Web Development
 <img src="https://em-content.zobj.net/source/microsoft-teams/363/globe-with-meridians_1f310.png" height="77" align="right">
 
