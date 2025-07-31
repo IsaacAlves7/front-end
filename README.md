@@ -2086,11 +2086,15 @@ As propriedades de grade CSS são suportadas em todos os navegadores modernos.
 
 `not` usamos para dispositivos monocromáticos, pois estamos negando o atributo color.
 
-```<link rel="stylesheet" href="estilo.css" media="all and (not color)"/>```
+```html
+<link rel="stylesheet" href="estilo.css" media="all and (not color)"/>
+```
 
-<p>No próximo exemplo, podemos definir a resolução de vídeo que queremos modificar:</p>
+No próximo exemplo, podemos definir a resolução de vídeo que queremos modificar:
 
-```<link rel="stylesheet" href="estilo.css" media="screen and (max-width: 480px)"/>```
+```html
+<link rel="stylesheet" href="estilo.css" media="screen and (max-width: 480px)"/>
+```
 
 > As modificações serão feitas em dispositivos de media screen e com resolução máxima de 480px.
 
