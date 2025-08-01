@@ -527,7 +527,9 @@ Aplicado:
 </div>
 ```
 
-# Web design
+# 🎨 Web design
+<a href=""><img src="https://img.shields.io/badge/Canva-prototype-blue?style=flat&logo=Canva&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Figma-prototype-tomato?style=flat&logo=Figma&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Moqups-templates-blue?style=flat&logo=Moqups&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/GitHub-boilerplate-gold?style=flat&logo=GitHub&logoColor=white"></a>
+
 O design de interfaces é algo relativamente novo dentro do ramo da computação. Essa área de conhecimento visa a estudar as melhores formas de comunicação entre os seres humanos e os sistemas computacionais que podem ser desde websites, jogos de computador, aplicações empresariais, sistemas operacionais ou até uma simples aplicação do seu smartphone.
 
 > O estudo dessa área foca em aprimorar a interação do usuário com o sistema, a fim de deixá-la mais amigável e de simples utilização, facilitando o seu aprendizado. Quanto mais intuitivo for o acesso às suas funcionalidades, maior será a produtividade do usuário na execução desse sistema e mais agradável será para o usuário, contribuindo para que o sistema ou aplicativo tenha mais chance de sucesso ao ser lançado ao mercado.
@@ -540,7 +542,6 @@ Uma interface bem elaborada é um requisito fundamental de uma aplicação bem-s
 - **Qualidade externa**: O sistema é avaliado baseado no comportamento do software;
 - **Qualidade de uso**: Até que ponto o software atende às necessidades do usuário.
 
-## A evolução das interfaces nos sistemas computacionais
 <img src="https://user-images.githubusercontent.com/61624336/194951398-6ae28b05-17d8-4042-b69c-90a3d10014ca.jpg" title="ENIAC" height="277" align="right">
 
 À medida que avançamos no estudo da história dos computadores, podemos notar que a forma de interação entre o homem e a máquina evolui de um modo bem diferente comparado à evolução do poder de processamento dessas máquinas.
@@ -592,7 +593,6 @@ Convém ressaltar que, apesar de ser uma interface antiga e pouco intuitiva, ain
   </tr>
 </table>
 
-## O Desenvolvimento de interfaces para um Website
 O **desenvolvimento de um website** demanda um cuidado especial na concepção de sua interface, comparada com aplicações tradicionais de desktop. Elementos de design, como as cores, fontes e imagens, formam a identidade de um site e, portanto, ajudam a criar uma primeira impressão aos olhos do usuário. Esses elementos devem ser escolhidos com muito cuidado e devem ser bem trabalhados na construção de uma página.
 
 > A definição da **paleta de cores** correta pode estar diretamente ligada ao sucesso ou fracasso de um site, tendo em vista que o sentimento que as cores podem passar (teoria das cores) ao usuário reflete na percepção que ele terá de uma página web. As cores evocam certas emoções ou pensamentos nas pessoas, por exemplo, a cor azul está associada à confiança enquanto o preto à qualidade.
