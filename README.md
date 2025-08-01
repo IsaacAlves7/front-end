@@ -294,7 +294,103 @@ Um exemplo comum do uso de Chroma Key é a previsão do tempo em programas de te
 
 O necessário é um fundo de cor verde lima, podendo ser um tecido, onde precisa estar de acordo com o cenário e uma boa iluminação na pessoa e no fundo do local para que o efeito fique bom. Lembrando, que se for usar um fundo verde, para não usar elementos verdes, seja roupas ou acessórios, pois irão também ser contados na edição. Para usar melhor esse recurso, existem vários programas de edição de vídeo que podem fazer isso, o melhor para usar é o Adobe Premiere CC.
 
-# Teoria das Cores
+# [CGI] Teoria das Cores
+Existe uma infinidade de modos de cor diferentes por aí. Em geral, temos o **RGB**, e outro bastante comum é o **CMYK — ciano, magenta, amarelo e preto**. Esse 'K', aliás, representa tecnicamente o preto. O modo CMYK é usado principalmente em impressoras e em certos tipos de tinta. 
+
+Você pode saber se você se lembra das antigas impressoras jato de bolha ou impressoras jato de tinta digitais, você pode se lembrar você sabe que não era vermelho, era, você sabe, magenta, não era azul, ciano. Não vamos mexer muito com isso se você preferir trabalhar nesse formato ou nesse modo de cor. A maior parte do que vou dizer é praticamente o mesmo, independentemente do modo de cor em que você estiver.
+
+Por exemplo, se você estiver falando do nosso RGB ou ciano, magenta, amarelo e preto, você tem suas **cores quentes** aqui, que são como os amarelos, os vermelhos, os laranjas, você sabe, coisas que meio que fazem você pensar no sol ou em um dia quente e aqui você tem suas **cores frias**, mais terrosas, suas cores, mais oceânicas e você tem verdes, azuis e misturas dessas coisas que fazem você se sentir legal sempre que olha para elas, porque qualquer coisa sobre o oceano você pensa em legal sempre que você pensa em um campo macio, você pensa em legal, então é lá que você vai encontrar suas cores legais.
+
+E aqui é onde você encontra suas cores quentes.
+
+É o mesmo se você estiver falando do nosso G.B. ou Siam, gentil e preto.
+
+Então não vai fazer uma grande diferença.
+
+Não, predominantemente, vou falar em nosso GV. A próxima coisa importante a entender sobre
+
+cores é um pouco de terminologia.
+
+Há matiz, tom e sombra, então matiz é a própria cor, ou seja, se estou me referindo à cor azul,
+
+a matiz é azul, certo?
+
+Algo vermelho e amarelo, ou mesmo entrando nas cores secundárias e terciárias, você sabe, se a cor
+
+é água-marinha, você sabe que a matiz é água-marinha, tom e sombra são um pouco diferentes.
+
+E eles não precisam de um pouco de compreensão para se sentirem confortáveis com isso.
+
+Então, vamos começar falando sobre sombra. Sombra é a matiz mais a cor preta.
+
+Certo.
+
+E o que acontece é que quanto mais escuro for o seu tom, maior será a porcentagem de preto que você está adicionando à
+
+imagem.
+
+Então você pode ver aqui que temos um pequeno mapa de cores, que seria, você sabe, o que chamaríamos
+
+de tom, é mais escuro do que o próprio matiz, porque começamos a adicionar preto à imagem, ou preto
+
+à cor ou ao matiz.
+
+Então, que tipo de exemplo, você sabe, azul, simplesmente azul normal, se eu começar a colocar 25%
+
+da cor preta ali, 50% da cor ali, o que vai acontecer?
+
+Vai se tornar um azul mais escuro até o ponto em que se torna preto.
+
+E se você pensar em qualquer momento em que você brinca com amostras de cores ou algum outro espectro de cores,
+
+você está movendo seu ponto nas amostras de cores ou no espectro de cores,
+
+você vai ficando cada vez mais escuro, cada vez mais escuro, cada vez mais escuro, e os azuis até encontrar o
+
+azul fica tão escuro que fica indistinguível entre preto e azul.
+
+Este é um exemplo de sombra.
+
+No ano que vem, eu falo sobre a tenda, que é exatamente o oposto.
+
+Então, estamos adicionando branco à imagem e você pode ver que aqui temos a nossa tenda e
+
+temos um pouco de tenda aqui que está deixando a imagem com um azul mais claro.
+
+Até um ponto em que se torna branco.
+
+O mesmo tipo de história que brincar com o sombreamento de amostras de cores urbanas ou espectro de cores: você está brincando
+
+com o ponto e o movendo em direção a um azul cada vez mais claro, porque você está procurando
+
+por algo como o azul claro, claro, claro, claro.
+
+Bem, eventualmente, quando você exagera, vai acabar ficando apenas com o branco, e é mais ou menos assim que
+
+funciona.
+
+Sabe, pense na sombra e na tenda como se estivessem em um espectro, e no meio está o matiz.
+
+Então, se Hugh for o 0, a verdadeira tonalidade da cor estaria indo, tipo, menos um ...
+
+Digamos que é como se você soubesse que 10 seria branco, menos 10 seria preto e zero
+
+seria azul.
+
+Então, em algum lugar ali, estão todos os seus diferentes tons de azul claro ou azul escuro.
+
+E de uma maneira diferente, você pode criar cores.
+
+A última coisa a falar em termos de compreensão de alguma terminologia básica é que os tons são estranhos, porque
+
+eles adicionam cinza à sua cor e dificultam a compreensão se você não estiver familiarizado.
+
+Estou familiarizado com todos esses termos sobre o ruim, porque, tipo, vou continuar com o preto, eu entendo por que eu gostaria de adicionar cinza a uma cor.
+
+E haverá momentos em que isso fará sentido, dependendo da cor que você está tentando obter ou do clima que você está tentando criar.
+
+Então, funciona da mesma forma que a intenção de sombra, mas você está adicionando cinza ou, você sabe, metade da sombra, metade da sombra.
+
 A **Regra dos 3 tons**, também conhecida como **Regra 60/30/10**, é uma diretriz clássica de design visual aplicada com frequência em UI Design, design de interiores, moda, cinema e personagens animados. Ela ajuda a criar composições visuais equilibradas, agradáveis e intencionais, onde o olhar do usuário é naturalmente guiado para os elementos mais importantes da interface ou cena.
 
 Conceito da Regra 60/30/10 no UI Design:
