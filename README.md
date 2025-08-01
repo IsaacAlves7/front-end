@@ -35,7 +35,7 @@ Além disso, os sites também podem ser classificados em estáticos ou dinâmico
 Já os sites dinâmicos, além de usufruírem do HTML, CSS e JavaScript, também utilizam linguagens de programação mais robustas, como PHP. Estes sites possuem funcionalidades conectadas a um banco de dados. Dessa forma, cada página acessada pode trazer dados específicos.  
 
 # 🎨 Web Design
-<a href=""><img src="https://img.shields.io/badge/Canva-prototype-blue?style=flat&logo=Canva&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Figma-prototype-tomato?style=flat&logo=Figma&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Moqups-templates-blue?style=flat&logo=Moqups&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/Canva-prototype-blue?style=flat&logo=Canva&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Figma-prototype-tomato?style=flat&logo=Figma&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Moqups-templates-blue?style=flat&logo=Moqups&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/GitHub-boilerplate-gold?style=flat&logo=GitHub&logoColor=white"></a>
 
 <a href="https://www.websitebuilderexpert.com/designing-websites/how-to-choose-color-for-your-website/"><img src="https://em-content.zobj.net/source/microsoft-teams/363/artist-palette_1f3a8.png" height="77" align="right"></a>
 
