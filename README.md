@@ -667,10 +667,10 @@ A web 3.0 também veio para tentar solucionar uma das maiores preocupações do 
 
 > **Você sabia**: Nesse aspecto da segurança dos dados dos usuários nas mãos das grandes empresas, diversos países têm desenvolvido legislação com o objetivo de regulamentar como as corporações devem tratar as informações dos seus usuários e clientes. No caso do Brasil, a **Lei Geral de Proteção dos Dados Pessoais (LGPD)** e o Marco Civil da Internet são as leis que regulamentam o tratamento dos dados.
 
-### WEB SEMÂNTICA
 A **web semântica** é um movimento colaborativo liderado e organizado pelo próprio W3C. De acordo com Berners-Lee, Hendler e Miller (2002), a web semântica fornece uma estrutura comum que permite que os dados sejam compartilhados e reutilizados entre aplicativos, empresas e fronteiras pertencentes à comunidade.
 
-> **Atenção**: O objetivo central da web semântica é impulsionar a evolução da web atual, de modo que os usuários encontrem, compartilhem e combinem conhecimento de uma forma mais fácil. A web semântica é um sistema que permite às máquinas entender e responder solicitações humanas complexas com base em seu significado. Para essa compreensão ser bem executada, as fontes dessa informação devem estar semanticamente muito bem estruturadas.
+> [!Warning]
+> O objetivo central da web semântica é impulsionar a evolução da web atual, de modo que os usuários encontrem, compartilhem e combinem conhecimento de uma forma mais fácil. A web semântica é um sistema que permite às máquinas entender e responder solicitações humanas complexas com base em seu significado. Para essa compreensão ser bem executada, as fontes dessa informação devem estar semanticamente muito bem estruturadas.
 
 > “Se o HTML e a Web fizerem com que todos os documentos online pareçam um grande livro, RDF, esquema e linguagens de inferência farão com que todos os dados do mundo pareçam um enorme banco de dados.” - BERNERS-LEE; HENDLER; MILLER, 2002.
 
@@ -693,8 +693,6 @@ Os princípios da Linked Data são baseados em quatro conceitos:
 
 De acordo com o W3C, “O termo Web Semântica refere-se à visão do W3C da Web dos Dados Conectados” e a linkagem de dados é possível com tecnologias como RDF, SPARQL, OWL, SKOS.
 
-
-#### DESAFIOS
 A compreensão da linguagem humana pelas máquinas é um dos principais fatores que facilitaram a construção das mais modernas técnicas de pesquisa, tanto no entendimento das palavras quanto na forma como são executadas as buscas por esses mecanismos de recuperação de informação. Contudo, a web semântica tem enfrentado alguns problemas desafiadores, como:
 
 - **Vastidão**: A internet contém uma imensidão quase infinita de páginas. Por isso, ocorre uma redundância de dados (dados repetidos) que é muito difícil de ser controlada, sendo praticamente impossível eliminar termos semanticamente duplicados;
@@ -703,8 +701,7 @@ A compreensão da linguagem humana pelas máquinas é um dos principais fatores 
 - **Inconsistência**: São contradições lógicas que inevitavelmente surgem durante o desenvolvimento de grandes ontologias e quando ontologias de fontes separadas são combinadas. O raciocínio dedutivo falha miseravelmente quando confrontado com a inconsistência, porque "tudo resulta de uma contradição".
 - **Engano**: Ocorre quando o produtor da informação está intencionalmente enganando o consumidor da informação. Técnicas de criptografia são utilizadas atualmente para aliviar esse tipo de ameaça.
 
-#### COMPARAÇÕES
-Existem diferenças significativas entre a web 1.0, a web 2.0 e a web 3.0.
+Existem diferenças significativas entre a web 1.0, a web 2.0 e a web 3.0:
 
 1. A primeira geração da web se focava apenas na leitura de documentos, um grande livro disponível para que os usuários da Web pudessem consumir todo o conteúdo, de uma forma totalmente passiva.
 2. A segunda, se focava na criatividade do usuário como gerador de conteúdo. Agora ele atua de forma mais ativa, gerando e produzindo conteúdo que será disponibilizado para todos. Em alguns aspectos, a Web tornou-se um grande diário aberto, no qual as pessoas podem colocar suas opiniões, suas atividades e seus desejos.
