@@ -1,4 +1,6 @@
 # 🎨 [CGI] Computação Gráfica
+<img src="" align="right" height="77">
+
 A Computação Gráfica e Editoração Eletrônica é uma disciplina teórica e prática que ensina os conhecimentos básicos sobre os softwares Photoshop, Illustrator e InDesign, utilizados respectivamente para o tratamento de imagens fotográficas e imagens bitmap, desenhos vetoriais e diagramação e diagramação de jornais e revistas impressas. Os conhecimentos fornecidos sobre a editoração eletrônica, que é um campo da computação gráfica, apresentará os softwares de edição de imagens e textos mais utilizados no mercado.
 
 No início dos anos 1950, cientistas da Tecnologia da Informação sentiram a necessidade de transformar os dados do computador em imagens para oferecer uma interface ao usuário capaz de favorecer a interatividade entre o homem e a máquina.
@@ -496,7 +498,6 @@ Após a criação do HTML a necessidade de formatar as páginas ficou evidente, 
 
 Since 1999, the development of <b>HTML</b> language (<i>HyperText Markup Language</i>) stayed estacionado in the 4th version. De lá pra cá, a <b>W3C</b> esteve focada em linguagens como <b>XML</b> (<i>Extensible Markup Language</i>) and  <b>SVG</b> (<i>Scalable Vector Graphics</i>, the use of graphics vetorials on browsers). Enquanto isso, the developers of browsers estiveram preocupados em melhorar suas funcionalidades, como exibir páginas em abas e oferecer integração com leitores de RSS. Recentemente, organizações como Mozilla Foundation, Opera e Apple se uniram para atualizar o HTML e implementar novos e interessantes recursos.
 
-
 ## [CGI] Editoração eletrônica
 O desktop publishing - DTP, editoração eletrônica ou diagramação eletrônica, é o campo da computação gráfica que se dedica à composição de páginas realizadas no computador.
 
@@ -566,7 +567,7 @@ Sobrepondo essas camadas de bits, é possível chegar a 32 milhões de cores, n�
 QUANTIDADE DE PIXELS / ÁREA DE IMPRESSÃO = RESOLUÇÃO
 ```
 
-**Exemplo**:
+Exemplo:
 
 ```sql
 100 pixels / cm (centímetro)
@@ -717,55 +718,23 @@ Você pode saber se você se lembra das antigas impressoras jato de bolha ou imp
 
 Por exemplo, se você estiver falando do nosso RGB ou ciano, magenta, amarelo e preto, você tem suas **cores quentes** aqui, que são como os amarelos, os vermelhos, os laranjas, você sabe, coisas que meio que fazem você pensar no sol ou em um dia quente e aqui você tem suas **cores frias**, mais terrosas, suas cores, mais oceânicas e você tem verdes, azuis e misturas dessas coisas que fazem você se sentir legal sempre que olha para elas, porque qualquer coisa sobre o oceano você pensa em legal sempre que você pensa em um campo macio, você pensa em legal, então é lá que você vai encontrar suas cores legais.
 
-E aqui é onde você encontra suas cores quentes.
+E aqui é onde você encontra suas cores quentes, é o mesmo se você estiver falando do nosso RGB ou CMYK, gentil e preto. Então, não vai fazer uma grande diferença. Não, predominantemente, vou falar em nosso RGB. A próxima coisa importante a entender sobre cores é um pouco de terminologia.
 
-É o mesmo se você estiver falando do nosso G.B. ou Siam, gentil e preto.
+Há matriz, tom e sombra, então matiz é a própria cor, ou seja, se estou me referindo à cor azul, a matriz é azul, certo?
 
-Então não vai fazer uma grande diferença.
-
-Não, predominantemente, vou falar em nosso GV. A próxima coisa importante a entender sobre
-
-cores é um pouco de terminologia.
-
-Há matiz, tom e sombra, então matiz é a própria cor, ou seja, se estou me referindo à cor azul,
-
-a matiz é azul, certo?
-
-Algo vermelho e amarelo, ou mesmo entrando nas cores secundárias e terciárias, você sabe, se a cor
-
-é água-marinha, você sabe que a matiz é água-marinha, tom e sombra são um pouco diferentes.
+Algo vermelho e amarelo, ou mesmo entrando nas cores secundárias e terciárias, você sabe, se a cor é água-marinha, você sabe que a matiz é água-marinha, tom e sombra são um pouco diferentes.
 
 E eles não precisam de um pouco de compreensão para se sentirem confortáveis com isso.
 
-Então, vamos começar falando sobre sombra. Sombra é a matiz mais a cor preta.
-
-Certo.
-
-E o que acontece é que quanto mais escuro for o seu tom, maior será a porcentagem de preto que você está adicionando à
-
-imagem.
+Então, vamos começar falando sobre sombra. Sombra é a matiz mais a cor preta. E o que acontece é que quanto mais escuro for o seu tom, maior será a porcentagem de preto que você está adicionando à imagem.
 
 Então você pode ver aqui que temos um pequeno mapa de cores, que seria, você sabe, o que chamaríamos
 
-de tom, é mais escuro do que o próprio matiz, porque começamos a adicionar preto à imagem, ou preto
+de tom, é mais escuro do que o próprio matiz, porque começamos a adicionar preto à imagem, ou preto à cor ou ao matiz.
 
-à cor ou ao matiz.
+Então, que tipo de exemplo, você sabe, azul, simplesmente azul normal, se eu começar a colocar 25% da cor preta ali, 50% da cor ali, o que vai acontecer?
 
-Então, que tipo de exemplo, você sabe, azul, simplesmente azul normal, se eu começar a colocar 25%
-
-da cor preta ali, 50% da cor ali, o que vai acontecer?
-
-Vai se tornar um azul mais escuro até o ponto em que se torna preto.
-
-E se você pensar em qualquer momento em que você brinca com amostras de cores ou algum outro espectro de cores,
-
-você está movendo seu ponto nas amostras de cores ou no espectro de cores,
-
-você vai ficando cada vez mais escuro, cada vez mais escuro, cada vez mais escuro, e os azuis até encontrar o
-
-azul fica tão escuro que fica indistinguível entre preto e azul.
-
-Este é um exemplo de sombra.
+Vai se tornar um azul mais escuro até o ponto em que se torna preto. E se você pensar em qualquer momento em que você brinca com amostras de cores ou algum outro espectro de cores, você está movendo seu ponto nas amostras de cores ou no espectro de cores, você vai ficando cada vez mais escuro, cada vez mais escuro, cada vez mais escuro, e os azuis até encontrar o azul fica tão escuro que fica indistinguível entre preto e azul. Este é um exemplo de sombra.
 
 No ano que vem, eu falo sobre a tenda, que é exatamente o oposto.
 
