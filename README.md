@@ -83,7 +83,7 @@ Existem vários tipos de algoritmos gráficos utilizados para diferentes propós
 
 - **Algoritmos de Iluminação**: Diferentes técnicas de iluminação, como o modelo de iluminação de Phong, são usadas para simular a interação da luz com objetos em ambientes 3D.
 
-# 🌐 A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET
+# 🌐 [CGI] A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET
 
 <div align="center">
   
@@ -220,7 +220,7 @@ A seguir, vejamos alguns dos principais fatos históricos que marcaram a evoluç
 - Em outubro de 2014, o W3C lança a recomendação final sobre o HTML 5.
 - Em março de 2015, a Microsoft lança a primeira versão do seu novo navegador, o Microsoft Edge. Ele substitui o antigo Internet Explorer.
 
-## A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET: WEB 3.0 e WEB 4.0
+## [CGI] A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET: WEB 3.0 e WEB 4.0
 A **web 3.0** é naturalmente uma evolução da web 2.0. Esse termo foi utilizado pela primeira vez no ano de 2006 pelo jornalista John Markoff do jornal americano The New York Times. Neste texto publicado por Markoff, ele sugere que a terceira geração da web pode ser definida como a “web executável”. A ideia principal da web 3.0 é definir uma estrutura de dados e poder automatizar a descoberta dessas informações para que sua reutilização seja feita de uma forma mais eficaz, facilitando o seu compartilhamento.
 
 Também conhecida como web semântica, a web 3.0 foi idealizada por Tim Berners-Lee, inventor da World Wide Web. Dentro da W3C, existem diversas equipes que trabalham exaustivamente para melhorar, estender e padronizar o sistema, as linguagens, as publicações e as ferramentas que já foram desenvolvidas.
@@ -402,11 +402,10 @@ Como vimos, os primeiros websites eram totalmente baseados em textos e possuíam
 
 Com o lançamento dessa poderosa ferramenta e, posteriormente, com a chegada do **Internet Explorer**, as páginas web começaram a se desenvolver visualmente, criando layouts cada vez mais elaborados e que acabaram se tornando tendência entre os designers. À medida que a internet crescia, empresas enxergaram nessa nova mídia um novo canal de exposição para apresentar seus produtos e serviços a um novo público consumidor.
 
-### ESTRUTURAÇÃO E ORGANIZAÇÃO
+## [CGI] ESTRUTURAÇÃO E ORGANIZAÇÃO
 <img src="https://user-images.githubusercontent.com/61624336/200139685-6ed3f183-add1-4757-988a-1ce0dc5edecf.jpg" align="right" height="177">
 
 Nessa primeira fase do web design, a única forma possível de se criar uma página minimamente estruturada e com um layout um pouco mais desafiador era por meio de tabelas. Originalmente, as tabelas foram introduzidas no HTML para a confecção de planilhas e manipulação de números, porém a criatividade dos web designers da época fez com que essa estrutura fosse utilizada também para o arranjo de elementos em uma página, alinhando-os verticalmente. O grande problema dessa técnica estava na fragilidade considerável das estruturas e, principalmente, sua difícil manutenção.
-
 
 No final de 1996, é lançada a primeira versão do Flash pela Macromedia. Com o surgimento dessa nova ferramenta, desenvolvedores teriam a liberdade de criar as mais diferentes formas, adicionar animações e criar sites cada vez mais envolventes, utilizando apenas uma única ferramenta. Todo o site poderia ser compactado dentro de um único arquivo, que depois seria carregado pelo navegador.
 
@@ -428,7 +427,7 @@ Observando hoje o final dos anos 1990, podemos identificar alguns exageros que e
 
 Ainda no final dos anos 1990, os designers da época começaram a perceber que “menos” na verdade era “mais” e os sites aos poucos começaram a ficar cada vez mais sutis. Os designs foram ficando mais minimalistas e prezando por uma melhor estrutura, organização e navegabilidade.
 
-### INOVAÇÃO E MÍDIAS SOCIAIS
+## [CGI] INOVAÇÃO E MÍDIAS SOCIAIS
 No início do novo milênio, vimos um grande aumento na inovação, liderado pelo aumento das velocidades de banda larga e melhorias em software e hardware. Em 2003, mais de 50% dos internautas acessavam a web por meio de máquinas de 32 bits, o que permitia a exibição de mais de 16 mil cores diferentes. Ao mesmo tempo, a maioria dos usuários aumentavam as suas resoluções de 800 por 600 para 1024 por 768 pixels. Juntas, essas mudanças levam a uma tela maior e à produção de designs mais dinâmicos.
 
 - Alguns acontecimentos marcaram de vez a internet no início dos anos 2000. Em 2005, é lançada a plataforma para compartilhamento de vídeos denominada YouTube. Em 2003, novas plataformas entram em cena: WordPress, MySpace e Facebook.
@@ -441,9 +440,10 @@ Em 2004, o **MySpace** se tornou um ambiente onde usuários poderiam criar os se
 
 Tanto o Facebook quanto o WordPress acabaram modificando a cara das mídias sociais para sempre. Muito embora o lançamento dessas marcas não tenha afetado diretamente as tendências do web design na época, elas definitivamente tiveram um efeito indireto. Liderando em termos de experiência do usuário, o Facebook acabou por gerar muitos sites com um estilo semelhante. Os temas do WordPress tendem a estar na vanguarda das últimas tendências e estilos de design para a web.
 
-### A WEB MOBILE
+## [CGI] A WEB MOBILE
 Com a chegada dos primeiros dispositivos móveis e smartphones mais ou menos na metade da primeira década desse novo século, a maioria dos web sites não eram otimizados para serem visualizados nesses novos aparelhos. Utilizar a web em um dispositivo móvel nesse período significava uma tarefa por vezes frustrante, o que acabou fazendo com que designers do mundo debatessem como seria possível melhorar o desenvolvimento de sites para essa nova tendência.
 
+> [!Note]
 > **Você sabia**: Em um primeiro momento, surgiu a tendência de existirem sites separados, sendo um mais completo para acesso via desktop e outro mais simplificado visando as limitações dos dispositivos móveis da época. Essa lógica era aplicada do lado do servidor. Se o navegador do usuário parecesse estar em um telefone celular, o servidor o redirecionaria para o site com o conteúdo mobile, que era normalmente formatado para o uso em dispositivos com uma tela pequena e otimizado para priorizar a velocidade.
 
 Conceitualmente simples, esta é a opção mais fácil de adicionar a um site existente, especialmente se você estiver utilizando um sistema de gerenciamento de conteúdo (CMS) ou aplicação web que ofereça suporte a modelos.
