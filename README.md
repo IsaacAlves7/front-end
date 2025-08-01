@@ -715,6 +715,8 @@ Um exemplo comum do uso de Chroma Key é a previsão do tempo em programas de te
 O necessário é um fundo de cor verde lima, podendo ser um tecido, onde precisa estar de acordo com o cenário e uma boa iluminação na pessoa e no fundo do local para que o efeito fique bom. Lembrando, que se for usar um fundo verde, para não usar elementos verdes, seja roupas ou acessórios, pois irão também ser contados na edição. Para usar melhor esse recurso, existem vários programas de edição de vídeo que podem fazer isso, o melhor para usar é o Adobe Premiere CC.
 
 ## [CGI] Teoria das Cores
+<a href=""><img src="https://github.com/user-attachments/assets/e6e4a59b-2d93-4233-b6e9-ac15cd46cf37" align="right" height="177"></a>
+
 Existe uma infinidade de modos de cor diferentes por aí. Em geral, temos o **RGB**, e outro bastante comum é o **CMYK — ciano, magenta, amarelo e preto**. Esse 'K', aliás, representa tecnicamente o preto. O modo CMYK é usado principalmente em impressoras e em certos tipos de tinta. 
 
 Você pode saber se você se lembra das antigas impressoras jato de bolha ou impressoras jato de tinta digitais, você pode se lembrar você sabe que não era vermelho, era, você sabe, magenta, não era azul, ciano. Não vamos mexer muito com isso se você preferir trabalhar nesse formato ou nesse modo de cor. A maior parte do que vou dizer é praticamente o mesmo, independentemente do modo de cor em que você estiver.
