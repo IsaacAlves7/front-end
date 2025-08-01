@@ -991,3 +991,46 @@ A **acessibilidade**, por sua vez, aborda aspectos discriminatórios relacionado
 ![banner](https://github.com/user-attachments/assets/aee1a68c-7a01-42fd-b269-0d06f51d6708)
 
 Atualmente, algo em torno de 15% da população mundial possui algum tipo de deficiência ou necessidade especial. Com números como esses, além de algo importante e benéfico para o produto em si, é um dever ético do designer (UX/UI Designer) remover as barreiras de acesso enfrentadas por essas pessoas.
+
+Portanto, você necessita compreender a importância da elaboração de interfaces ricas para a construção de um website, visando a melhor experiência de navegação e usabilidade para o usuário final, conhecendo algumas tecnologias utilizadas no passado para a construção de sites online. A partir dessa visão, observar antigas tendências de mercado, assim como enxergar novas tendências na elaboração de interfaces.
+
+Paleta de cores:
+
+- https://paletadecolores.online/pt/magenta/
+- https://simpleicons.org/
+- https://colorhunt.co/
+- https://coolors.co/
+- https://colors.muz.li/
+- https://www.toptal.com/designers/colourcode/
+- https://lospec.com/palette-list
+- https://mycolor.space/
+- https://www.pantone.com/articles/color-palettes
+- https://atmos.style/color-generator
+- https://github.com/EmilHvitfeldt/r-color-palettes
+- https://www.color-hex.com/color-palettes/
+- https://visme.co/blog/website-color-schemes/
+- https://colorpalettes.com/
+- https://colorpalettes.net/
+- https://oklch.com/#0.7,0.1505,252,100
+
+Gradientes:
+
+- https://www.grabient.com/
+- http://gradientsguru.com/
+- https://www.eggradients.com/
+- https://uigradients.com/#Zinc
+- https://webgradients.com/
+- https://cssgradient.io/
+
+Icons:
+
+- https://lucide.dev/
+- https://iconscout.com/
+- https://www.svgrepo.com/
+- https://freesvgicons.com/
+
+Fontes:
+
+- https://www.dafont.com/pt/
+- https://www.1001freefonts.com/pt/
+- https://fonts.google.com/
