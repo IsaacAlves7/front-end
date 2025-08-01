@@ -427,7 +427,7 @@ Aplicado:
 # Web design
 O design de interfaces é algo relativamente novo dentro do ramo da computação. Essa área de conhecimento visa a estudar as melhores formas de comunicação entre os seres humanos e os sistemas computacionais que podem ser desde websites, jogos de computador, aplicações empresariais, sistemas operacionais ou até uma simples aplicação do seu smartphone.
 
-> **Saiba mais**: O estudo dessa área foca em aprimorar a interação do usuário com o sistema, a fim de deixá-la mais amigável e de simples utilização, facilitando o seu aprendizado. Quanto mais intuitivo for o acesso às suas funcionalidades, maior será a produtividade do usuário na execução desse sistema e mais agradável será para o usuário, contribuindo para que o sistema ou aplicativo tenha mais chance de sucesso ao ser lançado ao mercado.
+> O estudo dessa área foca em aprimorar a interação do usuário com o sistema, a fim de deixá-la mais amigável e de simples utilização, facilitando o seu aprendizado. Quanto mais intuitivo for o acesso às suas funcionalidades, maior será a produtividade do usuário na execução desse sistema e mais agradável será para o usuário, contribuindo para que o sistema ou aplicativo tenha mais chance de sucesso ao ser lançado ao mercado.
 
 Cada tipo de sistema possui uma exigência na construção de sua interface. Uma aplicação de edição de textos possuirá uma interface totalmente diferente da de um jogo de computador, por exemplo.
 
@@ -492,7 +492,7 @@ Convém ressaltar que, apesar de ser uma interface antiga e pouco intuitiva, ain
 ## O Desenvolvimento de interfaces para um Website
 O **desenvolvimento de um website** demanda um cuidado especial na concepção de sua interface, comparada com aplicações tradicionais de desktop. Elementos de design, como as cores, fontes e imagens, formam a identidade de um site e, portanto, ajudam a criar uma primeira impressão aos olhos do usuário. Esses elementos devem ser escolhidos com muito cuidado e devem ser bem trabalhados na construção de uma página.
 
-> 🎨 **Saiba mais**: A definição da **paleta de cores** correta pode estar diretamente ligada ao sucesso ou fracasso de um site, tendo em vista que o sentimento que as cores podem passar (teoria das cores) ao usuário reflete na percepção que ele terá de uma página web. As cores evocam certas emoções ou pensamentos nas pessoas, por exemplo, a cor azul está associada à confiança enquanto o preto à qualidade.
+> A definição da **paleta de cores** correta pode estar diretamente ligada ao sucesso ou fracasso de um site, tendo em vista que o sentimento que as cores podem passar (teoria das cores) ao usuário reflete na percepção que ele terá de uma página web. As cores evocam certas emoções ou pensamentos nas pessoas, por exemplo, a cor azul está associada à confiança enquanto o preto à qualidade.
 
 Como regra geral, quanto mais simples o layout de uma página, melhor (layout clean e minimalista). Um site deve ser projetado para chamar a atenção dos usuários para as partes mais importantes. Além disso, o número de opções e os elementos de navegação devem ser sempre baseados nas preferências do público-alvo.
 
@@ -500,13 +500,11 @@ Como regra geral, quanto mais simples o layout de uma página, melhor (layout cl
 
 Um site sempre deve ser projetado tendo em mente o seu público-alvo e deve garantir uma boa experiência de usuário. A construção da interface de um site é um assunto muito importante e que não deve ser deixado em segundo plano. Um website bem projetado ajuda a formar uma boa impressão sobre seus clientes em potencial, como também é capaz de agregar valor a um produto ali exposto.
 
-## USABILIDADE E ACESSIBILIDADE
+## UI/UX - USABILIDADE E ACESSIBILIDADE
 **Usabilidade** e **acessibilidade** são aspectos intimamente relacionados na criação de qualquer interface visual que deva funcionar para todas as pessoas e que deve ser considerado por todos os desenvolvedores.
 
-### Usabilidade (UI)
 A **usabilidade** significa projetar produtos para serem eficazes, eficientes e satisfatórios. Isso pode incluir aspectos gerais que afetam a todos e não afetam desproporcionalmente as pessoas com deficiência.
 
-### Acessibilidade (UX)
 A **acessibilidade**, por sua vez, aborda aspectos discriminatórios relacionados à **experiência de usuário**. Um software acessível significa que pessoas com deficiência podem igualmente perceber, compreender, navegar e interagir com essa ferramenta. Isso também significa que eles podem contribuir igualmente sem barreiras, permitindo que haja a inclusão digital.
 
 Atualmente, algo em torno de 15% da população mundial possui algum tipo de deficiência ou necessidade especial. Com números como esses, além de algo importante e benéfico para o produto em si, é um dever ético do designer (UX/UI Designer) remover as barreiras de acesso enfrentadas por essas pessoas.
