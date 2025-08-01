@@ -739,9 +739,7 @@ Vai se tornar um azul mais escuro até o ponto em que se torna preto. E se você
 
 A matiz, que é exatamente o oposto.
 
-Então, estamos adicionando branco à imagem e você pode ver que aqui temos a nossa matiz e
-
-temos um pouco de matiz aqui que está deixando a imagem com um azul mais claro. Até um ponto em que se torna branco.
+Então, estamos adicionando branco à imagem e você pode ver que aqui temos a nossa matiz e temos um pouco de matiz aqui que está deixando a imagem com um azul mais claro. Até um ponto em que se torna branco.
 
 O mesmo tipo de história que brincar com o sombreamento de amostras de cores urbanas ou espectro de cores: você está brincando com o ponto e o movendo em direção a um azul cada vez mais claro, porque você está procurando por algo como o azul claro, claro, claro, claro.
 
