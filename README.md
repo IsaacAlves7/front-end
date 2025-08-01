@@ -85,7 +85,7 @@ Existem vários tipos de algoritmos gráficos utilizados para diferentes propós
 
 - **Algoritmos de Iluminação**: Diferentes técnicas de iluminação, como o modelo de iluminação de Phong, são usadas para simular a interação da luz com objetos em ambientes 3D.
 
-# 🌐 [CGI] A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET
+## [CGI] A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET
 
 <div align="center">
   
