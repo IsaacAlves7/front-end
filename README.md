@@ -1,4 +1,4 @@
-# 🎨 [CGI] Computação Gráfica e Editoração Eletrônica
+# 🎨 [CGI] Computação Gráfica
 A Computação Gráfica e Editoração Eletrônica é uma disciplina teórica e prática que ensina os conhecimentos básicos sobre os softwares Photoshop, Illustrator e InDesign, utilizados respectivamente para o tratamento de imagens fotográficas e imagens bitmap, desenhos vetoriais e diagramação e diagramação de jornais e revistas impressas. Os conhecimentos fornecidos sobre a editoração eletrônica, que é um campo da computação gráfica, apresentará os softwares de edição de imagens e textos mais utilizados no mercado.
 
 No início dos anos 1950, cientistas da Tecnologia da Informação sentiram a necessidade de transformar os dados do computador em imagens para oferecer uma interface ao usuário capaz de favorecer a interatividade entre o homem e a máquina.
