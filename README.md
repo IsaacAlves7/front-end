@@ -235,7 +235,8 @@ As cores são essenciais na editoração eletrônica, pois são os elementos da 
 
 A escolha do modo de cor é definida em função da aplicação da arte criada. O modo RGB é usado em artes para web e o CMYK para impressão gráfica ou em impressoras caseiras.
 
-### [CGI] Escala RGB
+**Escala RGB**
+
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/35feea5b-7121-46d6-a5b3-f710e762ed9b" align="right" height="77">
 
 O modo RGB tem sua origem na síntese aditiva, um fenômeno físico em que as luzes geram cores. A ausência da luz resulta no preto (escuridão), e o somatório das luzes resulta no branco.
@@ -244,26 +245,30 @@ A síntese aditiva é formada pelas cores vermelha (red), verde (green) e azul (
 
 O que você está vendo agora na sua tela são cores RGB, portanto, as artes que serão aplicadas na web devem ser feitas nesta escala. As cores da escala RGB são representadas em decimais que vão de 0 a 255.
 
-### [CGI] Sistema hexadecimal
+**Sistema hexadecimal**
+
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/30be5d31-e9f4-4cba-8da8-1c616795d42b" height="77" align="right">
 
 O RGB é representado na internet com o sistema hexadecimal, um código formado por seis dígitos e precedido de “#”. O sistema é composto por 16 símbolos alfanuméricos, que são calculados diretamente pelos softwares.
 
 1 2 3 4 5 6 7 8 9 A B C D E F
 
-### [CGI] Escala CMYK
+**Escala CMYK**
+
 A síntese subtrativa utiliza tintas e suas cores primárias são o ciano, magenta e amarelo. O K representa a tinta preta (key: chave em inglês), que, no processo de impressão quadricromia (ou policromia, na forma mais usual), é utilizado para aumentar as definições de volumes, para dar melhor impressão aos textos e obter uma cor preta mais pura.
 
 A soma das três cores primárias CMY resulta no preto. Na realidade, não é um preto puro, mas um marrom bem escuro.
 
 A mistura de duas cores primárias da síntese subtrativa gera uma cor primária da síntese aditiva.
 
-### Escala acromática
+**Escala acromática**
+
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/5d312da1-63b1-4d5e-afa8-ffc189eedaa7" align="right" height="77">
 
 A escala de cinzas ou escala acromática (cor, croma = “khrôma” em grego; acromática, sem cor), ou escala das tonalidades, é utilizada em imagens preto e branco. Os tons de cinza são obtidos reduzindo percentualmente a cor preta.
 
-### Escala monocromática
+**Escala monocromática**
+
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/146a304b-bb60-4cdb-b965-b6f94a0ba431" align="right" height="77">
 
 A escala monocromática é formada por apenas uma cor (croma, matiz), adotando o mesmo princípio da escala acromática, reduzindo seu percentual ou a dessaturando.
