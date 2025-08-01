@@ -83,7 +83,7 @@ Existem vários tipos de algoritmos gráficos utilizados para diferentes propós
 
 - **Algoritmos de Iluminação**: Diferentes técnicas de iluminação, como o modelo de iluminação de Phong, são usadas para simular a interação da luz com objetos em ambientes 3D.
 
-# [CGI] Editoração eletrônica
+## [CGI] Editoração eletrônica
 O desktop publishing - DTP, editoração eletrônica ou diagramação eletrônica, é o campo da computação gráfica que se dedica à composição de páginas realizadas no computador.
 
 O DTP surgiu em 1985 com o programa PageMaker, criado pela Aldus Corporation, e com a impressora LaserWriter da Apple Computer.
