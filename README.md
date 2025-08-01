@@ -481,19 +481,20 @@ Uma regra CSS é representada por:
 <li><strong>Valor:</strong> A alteração.</li>
 <li><strong>Declaração:</strong> É o conjunto de propriedades e valores.</li>
 </ul>
-<p>Exemplo:</p>
+
+Exemplo:
 
 ```css
- a { 
-    color: #000;
-   }
+a { 
+ color: #000;
+}
 ```
 
 <ul>
-  <li>a = seletor</li>
-  <li>color = propriedade</li>
-  <li>#000 = valor</li>
-  <li>{color:#000;} = declaração</li>
+  <li><code>a</code> = seletor</li>
+  <li><code>color</code> = propriedade</li>
+  <li><code>#000</code> = valor</li>
+  <li><code>{color:#000;}</code> = declaração</li>
 </ul>
 
 No CSS, a seleção de elementos pode variar de uma forma simplificada até padrões contextuais ricos.
