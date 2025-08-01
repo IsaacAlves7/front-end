@@ -1,7 +1,7 @@
 <a href="https://github.com/IsaacAlves7/web"><img src="https://www.webinfonex.com/data/assets/uploads/service/ser_5.jpg"></a>
 
 # It's a repository of Web Development 🌐
-> 🌐 **Preparação**: Para este conteúdo, o aluno deverá dispor de um computador com acesso à internet, um web browser com suporte a HTML 5 (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera etc.), um editor de texto (VSCode etc.) e uma plataforma de hospedagem (gratuita ou paga).
+> 🌐 **Preparação</code>: Para este conteúdo, o aluno deverá dispor de um computador com acesso à internet, um web browser com suporte a HTML 5 (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera etc.), um editor de texto (VSCode etc.) e uma plataforma de hospedagem (gratuita ou paga).
 
 <div align="center"><img src="https://images.fineartamerica.com/images/artworkimages/medium/3/keep-calm-and-let-the-web-developer-handle-it-funny-gift-ideas-transparent.png" height="177"></div>
 
@@ -121,13 +121,13 @@ Por exemplo, um usuário de um site de e-commerce que está à procura de determ
 
 A forma pela qual a aplicação recebe essa informação do usuário pode ser considerada como a sua interface. A finalidade de uma interface é facilitar a interação de uma pessoa com um sistema ou até mesmo a comunicação entre diferentes sistemas.
 
-> **Comentário**: Para o caso específico da comunicação entre diferentes sistemas, existem vários recursos que podem ser utilizados. Alguns dos mais empregados atualmente são os **web services**. Para garantir a correta operação na interligação de sistemas, são utilizados outros recursos além do HTTP, como SOAP, REST e XResponsive-RPC. 
+> **Comentário</code>: Para o caso específico da comunicação entre diferentes sistemas, existem vários recursos que podem ser utilizados. Alguns dos mais empregados atualmente são os **web services**. Para garantir a correta operação na interligação de sistemas, são utilizados outros recursos além do HTTP, como SOAP, REST e XResponsive-RPC. 
 
 Segundo Benyon (2011), A interface para um sistema interativo são todas as peças do sistema com as quais as pessoas têm contato, física, perceptiva ou conceitualmente:
 
-- **Fisicamente**: Fisicamente, podemos interagir com um dispositivo apertando botões ou movimentando alavancas, e o dispositivo interativo pode responder fornecendo retorno através da pressão do botão ou alavanca;
-- **Perceptivamente**: Perceptivamente, o dispositivo exibe coisas em uma tela que podemos ver, ou emite sons que podemos ouvir;
-- **Conceitualmente**: Conceitualmente, interagimos com um dispositivo tentando concluir o que ele faz e o que deveríamos estar fazendo. O dispositivo fornece mensagens e outros indicadores feitos para nos ajudar nesse sentido.
+- **Fisicamente</code>: Fisicamente, podemos interagir com um dispositivo apertando botões ou movimentando alavancas, e o dispositivo interativo pode responder fornecendo retorno através da pressão do botão ou alavanca;
+- **Perceptivamente</code>: Perceptivamente, o dispositivo exibe coisas em uma tela que podemos ver, ou emite sons que podemos ouvir;
+- **Conceitualmente</code>: Conceitualmente, interagimos com um dispositivo tentando concluir o que ele faz e o que deveríamos estar fazendo. O dispositivo fornece mensagens e outros indicadores feitos para nos ajudar nesse sentido.
 
 > Uma interface deve oferecer meios para que um usuário possa passar instruções de forma simples, como também deverá informar ao usuário algum retorno, que pode ser uma informação, uma imagem, um aviso sonoro, uma animação ou até um filme.
 
@@ -328,19 +328,19 @@ Há várias formas de inserir modificação no estilo com CSS. Com o CSS você p
 
 Conforme W3C, Cascading Style Sheets (CSS) é um mecanismo simples para adicionar estilo (por exemplo, fontes, cores, espaçamento) nos documentos da Web. O <strong>CSS</strong> é um conjunto de comandos que alteram o comportamento dos elementos HTML 5 e, portanto, existem algumas formas de fazer isso, veja abaixo quais são e as suas sintaxes:
 
-**CSS interno**: as formatações são definidas dentro do arquivo HTML. Exemplo de CSS interno:
+**CSS interno</code>: as formatações são definidas dentro do arquivo HTML. Exemplo de CSS interno:
   
 ```HTML
 <style> * { margin: 0; padding: 0;} </style>
 ```
   
-**CSS externo**: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML. Exemplo de CSS externo:
+**CSS externo</code>: as formatações são definidas um arquivo CSS que é linkado ao arquivo HTML. Exemplo de CSS externo:
   
 ```HTML
 <link rel="stylesheet" href="/assets/public/styles/css/style.css">
 ```
   
-**CSS inline**: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada. Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código. Exemplo de CSS inline:
+**CSS inline</code>: a definição do estilo é feita na mesma linha da TAG HTML a ser formatada. Neste método, o CSS é aplicado diretamente no elemento, utilizando o atributo <strong>style</strong>. É caracterizado por possuir uma implementação mais simples, no entanto, este método dificulta a manutenção do código. Exemplo de CSS inline:
   
 ```HTML
 <p style="color:olive;font-size:19px;background-color:black"></p>
@@ -375,7 +375,7 @@ Utilizando o elemento <link> no HTML
 
 Utilização do elemento `@import` no CSS permite **importar** regras de estilo dentro de outras regras de estilo. Esse método permite aplicar regras comuns a todos os documentos HTML.
 
-**Exemplo de utilização**:
+**Exemplo de utilização</code>:
 
 Dentro de um documento `.css` podemos aplicar nas primeiras linhas, a chamada de arquivos externos, para utilizar comandos já existentes.
 
@@ -406,10 +406,10 @@ O CSS nível 3 implementou o conceito de módulos, em que cada módulo é desenv
 When we are creating the layout of a website the browser represents each HTML element as a retangular box, this is the **box-model**. And with the CSS we can alterate the aparence of this box (width, height, background color, etc.). That box is compost for 4 areas: the content, the padding, the border and the margin.
 
 <ol>
-  <li>**margin** - São os espaçamentos entre elementos (transparente).</li>
-  <li>**border** - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura, cor e forma.</li>
-  <li>**padding** - Espaçamento entre a borda e o conteúdo.</li>
-  <li>**content** - O conteúdo inserido no elemento HTML.</li>
+  <li><code>margin</code> - São os espaçamentos entre elementos (transparente).</li>
+  <li><code>border</code> - A borda, onde circulam o padding e o conteúdo, dá para alterar a largura, cor e forma.</li>
+  <li><code>padding</code> - Espaçamento entre a borda e o conteúdo.</li>
+  <li><code>content</code> - O conteúdo inserido no elemento HTML.</li>
 </ol>
 
 Besides that, the Box model have his positions:
@@ -417,13 +417,13 @@ Besides that, the Box model have his positions:
 <img src="https://www.csssolid.com/images/box-model/css-box-model.png" height="177" align="right"/>
 
 <ul>
-  <li>**top**: Up position</li>
-  <li>**right**: Right position</li>
-  <li>**bottom**: Down position</li>
-  <li>**left**: Left position</li>
+  <li><code>top</code>: Up position</li>
+  <li><code>right</code>: Right position</li>
+  <li><code>bottom</code>: Down position</li>
+  <li><code>left</code>: Left position</li>
 </ul>
 
-> 📦 **Box Model**: ` top, right, down, left `
+> 📦 <code>Box Model</code>: ` top, right, down, left `
 
 Sempre será referenciada por esta ordem: topo, direita, inferior e esquerda (top, right, bottom, left).
 
@@ -501,7 +501,7 @@ No CSS, a seleção de elementos pode variar de uma forma simplificada até padr
 
 Os tipos de seleção são muito importantes, pois a ordem deles alteram no resultado do processamento da página.
 
-**Agrupamento**: O CSS permite agrupar declarações repetidas.
+**Agrupamento</code>: O CSS permite agrupar declarações repetidas.
 
 Exemplo:
 
@@ -520,7 +520,7 @@ font-family: sans-serif
 ```
 > OBS: Todos os `h1`, todos os `h2` e todos os `h3`
 
-**Seletores descendentes**: Um elemento pode estar contido dentro de outro elemento.
+**Seletores descendentes</code>: Um elemento pode estar contido dentro de outro elemento.
 
 Exemplo:
 
@@ -534,7 +534,7 @@ em { color: red } /* indica que todos os elementos em possuem a cor vermelha */
 h1 em { color: blue } /* indica que os elementos em contidos em um elemento h1 possuem a cor azul */
 ```
 
-**Seletores filhos**: Um elemento filho é caraterizado quando os elementos são separados por “>".
+**Seletores filhos</code>: Um elemento filho é caraterizado quando os elementos são separados por “>".
 
 ```css
 div ol > li p {color: green }
@@ -560,7 +560,7 @@ span[hello="Cleveland"][goodbye="Columbus"] { color: blue; }
 
 A regra será aplicada a todos os elementos span que possuem o atributo `hello="Cleveland"` e o atributo `goodbye="Columbus"`.
 
-**Seletores por classes**: Uma classe permite atribuir um conjunto de regras a um determinado elemento. É determinado por asterisco ponto (`*.`) ou simplesmente ponto (`.`).
+**Seletores por classes</code>: Uma classe permite atribuir um conjunto de regras a um determinado elemento. É determinado por asterisco ponto (`*.`) ou simplesmente ponto (`.`).
 
 Exemplo:
 
@@ -570,7 +570,7 @@ Exemplo:
 *.pastoral { color: green } /* todos os elementos com a classe~=pastoral */
 ```
 
-**Seletores por ID**: O atributo ID permite identificar um elemento único no documento HTML. Para selecionar este elemento basta utilizar o caracter “`#`” seguindo pelo nome do elemento.
+**Seletores por ID</code>: O atributo ID permite identificar um elemento único no documento HTML. Para selecionar este elemento basta utilizar o caracter “`#`” seguindo pelo nome do elemento.
 
 Exemplo:
 
@@ -875,10 +875,13 @@ h1 { border-width: thin thick } /* thin thick thin thick */
 h1 { border-width: thin thick medium } /* thin thick medium thick */</p>
 ```
 
-<p><strong>Estilos da borda:</strong> 'border-top-style', 'border-right-style', 'border-bottom-style', 'border-left-style', and 'border-style‘, 'border'.
+Estilos da borda: 'border-top-style', 'border-right-style', 'border-bottom-style', 'border-left-style', and 'border-style‘, 'border'.
 
-Exemplo de utilização:</p>
-```#xy34 { border-style: solid dotted }```
+Exemplo de utilização:
+
+```css
+#xy34 { border-style: solid dotted }
+```
 
 Tipos de Borda:
 ![Tipos de bordas](https://user-images.githubusercontent.com/61624336/108574726-eb4ac800-72f6-11eb-9906-b8f8e1ca5d5c.png)
@@ -919,7 +922,7 @@ Tudo começa com o diretório, e dentro dele as pastas `/public/` e `/src/` , e 
 
 O `index.HTML` é o padrão da Web de ser o primeiro arquivo processado pelo navegador, geralmente é usado para uma áreas de Login ou a Home da página, e o `style.css` é o padrão para editar um ou mais arquivos HTML.
 
-**HTML5 boilerplate**:
+**HTML5 boilerplate</code>:
 
 [![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
@@ -1414,7 +1417,7 @@ Veja alguns exemplos:
 # 🆗 [Front] Formulários
 A parte de formulários em HTML é muito importante para o preenchimento de dados que os usuários inserem na página HTML. O recolhimento desses dados é feita pelo back-end com uma linguagem de programação back-end (PHP, JavaScript, Python, Java etc.) que armazena e consulta esses dados em um banco de dados (MySQL, PostgreSQL, MongoDB, OracleDB etc.). Vejamos as tags de formulários:
 
-**Formulário de Login (boilerplate)**:
+**Formulário de Login (boilerplate)</code>:
 
 [![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#)
 
@@ -1435,7 +1438,7 @@ A parte de formulários em HTML é muito importante para o preenchimento de dado
 
 Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atributo `name=''` podemos processar os dados enviados através de uma linguagem de programação. 
 
-**Formulário de Login (boilerplate) - Com PHP**:
+**Formulário de Login (boilerplate) - Com PHP</code>:
 
 [![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#) [![PHP](https://img.shields.io/badge/-processa.php-000000?style=social&logo=PHP&logoColor=indigo)](#) 
 
@@ -1454,7 +1457,7 @@ Através do atributo `type` podemos definir o tipo do nosso `input` usado, o atr
 </HTML>
 ```
 
-**Formulário de Cadastro (boilerplate)**:
+**Formulário de Cadastro (boilerplate)</code>:
 
 [![HTML5](https://img.shields.io/badge/-index.HTML-000000?style=social&logo=HTML5&logoColor=orangered)](#) [![PHP](https://img.shields.io/badge/-processa.php-000000?style=social&logo=PHP&logoColor=indigo)](#) 
 
@@ -2286,21 +2289,21 @@ Assim, podemos trabalhar melhor e com mais produtividade, fazendo proveito de fu
 
 O HTML5, por si só, não possui pré-processadores, como o CSS tem o Sass ou Less. No entanto, existem ferramentas e linguagens que podem ser usadas em conjunto com HTML5 para facilitar o desenvolvimento web. Alguns exemplos incluem:
 
-1. **Pug (anteriormente conhecido como Jade)**: Pug é uma linguagem de modelagem que compila para HTML. Ele permite que você escreva HTML de maneira mais concisa e legível, usando uma sintaxe simplificada.
+1. **Pug (anteriormente conhecido como Jade)</code>: Pug é uma linguagem de modelagem que compila para HTML. Ele permite que você escreva HTML de maneira mais concisa e legível, usando uma sintaxe simplificada.
 
-2. **HaResponsive**: Assim como o Pug, o HaResponsive é outra linguagem de modelagem que visa simplificar a criação de HTML. Ele usa uma sintaxe mais limpa e minimalista do que o HTML tradicional.
+2. **HaResponsive</code>: Assim como o Pug, o HaResponsive é outra linguagem de modelagem que visa simplificar a criação de HTML. Ele usa uma sintaxe mais limpa e minimalista do que o HTML tradicional.
 
-3. **Slim**: Slim é semelhante ao HaResponsive e ao Pug, oferecendo uma sintaxe mais simples para escrever HTML. Ele é projetado para ser mais expressivo e fácil de ler do que o HTML padrão.
+3. **Slim</code>: Slim é semelhante ao HaResponsive e ao Pug, oferecendo uma sintaxe mais simples para escrever HTML. Ele é projetado para ser mais expressivo e fácil de ler do que o HTML padrão.
 
 Essas linguagens não são tecnicamente pré-processadores de HTML, mas podem ser usadas para gerar HTML de uma maneira mais eficiente e legível. Assim como o CSS tem pré-processadores como Sass e Less, o JavaScript também possui algumas ferramentas que podem ser consideradas pré-processadores ou linguagens que compilam para JavaScript. Alguns exemplos populares incluem:
 
-1. **TypeScript**: TypeScript é um superconjunto tipado de JavaScript que adiciona tipos estáticos opcionais ao JavaScript. Ele compila para JavaScript padrão e é amplamente adotado em projetos grandes e complexos para fornecer verificação de tipo durante o desenvolvimento.
+1. **TypeScript</code>: TypeScript é um superconjunto tipado de JavaScript que adiciona tipos estáticos opcionais ao JavaScript. Ele compila para JavaScript padrão e é amplamente adotado em projetos grandes e complexos para fornecer verificação de tipo durante o desenvolvimento.
 
-2. **CoffeeScript**: CoffeeScript é uma linguagem que compila para JavaScript. Ela tem uma sintaxe mais sucinta e expressiva do que o JavaScript padrão e é projetada para tornar a escrita de código JavaScript mais rápida e fácil.
+2. **CoffeeScript</code>: CoffeeScript é uma linguagem que compila para JavaScript. Ela tem uma sintaxe mais sucinta e expressiva do que o JavaScript padrão e é projetada para tornar a escrita de código JavaScript mais rápida e fácil.
 
-3. **Babel**: Embora não seja estritamente um pré-processador, o Babel é uma ferramenta popular para transpilação de código JavaScript. Ele permite que você escreva código usando as últimas características do JavaScript (como as especificadas no ECMAScript 6 e posteriores) e compile esse código para uma versão compatível com navegadores mais antigos.
+3. **Babel</code>: Embora não seja estritamente um pré-processador, o Babel é uma ferramenta popular para transpilação de código JavaScript. Ele permite que você escreva código usando as últimas características do JavaScript (como as especificadas no ECMAScript 6 e posteriores) e compile esse código para uma versão compatível com navegadores mais antigos.
 
-4. **Elm**: Elm é uma linguagem funcional compilada para JavaScript. Ela é projetada para criar aplicativos web front-end robustos e escaláveis, enfatizando a imutabilidade e a arquitetura de aplicativos orientada a modelos.
+4. **Elm</code>: Elm é uma linguagem funcional compilada para JavaScript. Ela é projetada para criar aplicativos web front-end robustos e escaláveis, enfatizando a imutabilidade e a arquitetura de aplicativos orientada a modelos.
 
 Essas ferramentas e linguagens podem ser usadas para escrever JavaScript de maneira mais eficiente, segura e expressiva, facilitando o desenvolvimento de aplicativos web complexos.
 
