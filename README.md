@@ -603,7 +603,9 @@ Como regra geral, quanto mais simples o layout de uma página, melhor (layout cl
 
 Um site sempre deve ser projetado tendo em mente o seu público-alvo e deve garantir uma boa experiência de usuário. A construção da interface de um site é um assunto muito importante e que não deve ser deixado em segundo plano. Um website bem projetado ajuda a formar uma boa impressão sobre seus clientes em potencial, como também é capaz de agregar valor a um produto ali exposto.
 
-## UI/UX - USABILIDADE E ACESSIBILIDADE
+## [CGI] UI/UX Design
+<a href=""><img src="https://img.shields.io/badge/Canva-prototype-blue?style=flat&logo=Canva&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Figma-prototype-tomato?style=flat&logo=Figma&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Moqups-templates-blue?style=flat&logo=Moqups&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/GitHub-boilerplate-gold?style=flat&logo=GitHub&logoColor=white"></a>
+
 **Usabilidade** e **acessibilidade** são aspectos intimamente relacionados na criação de qualquer interface visual que deva funcionar para todas as pessoas e que deve ser considerado por todos os desenvolvedores.
 
 A **usabilidade** significa projetar produtos para serem eficazes, eficientes e satisfatórios. Isso pode incluir aspectos gerais que afetam a todos e não afetam desproporcionalmente as pessoas com deficiência.
