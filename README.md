@@ -529,11 +529,11 @@ O Illustrator é o software para o desenvolvimento de gráficos vetoriais ideal 
 O InDesign foi lançado em 1999 e substituiu o programa PageMaker, desenvolvido pela Aldus, empresa comprada pela Adobe em 1994. (SILVA, 2015) É um software dedicado ao desktop publishing, pois foi totalmente desenvolvido para a criação e a diagramação de páginas para impressão e mídia digital, podendo criar formulários e livros interativos. A interface do Indesign é semelhante ao do Photoshop e do Illustrator, mas seu diferencial é trabalhar com páginas sequenciais lado a lado.
 
 ## [CGI] Imagem bitmap
-A imagem bitmap é formada por pontos denominados pixels (picture elements), a menor unidade do mapa de bits. Quando trabalhamos com bitmaps, estamos editando pixels em grande quantidade, e não com formas, como é o caso da imagem vetorial.
+<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/9a51acf2-5770-4b2a-a9c9-22e21ae2be8a" align="right" height="177">
+
+A **imagem bitmap** é formada por pontos denominados pixels (picture elements), a menor unidade do mapa de bits. Quando trabalhamos com bitmaps, estamos editando pixels em grande quantidade, e não com formas, como é o caso da imagem vetorial.
 
 O mapa de bits é conhecido como raster, varredura ou matricial. Neste sistema, a tela do computador é dividida em linhas e colunas, e cada ponto tem uma coordenada cartesiana.
-
-<img src="https://github.com/IsaacAlves7/front-end/assets/61624336/9a51acf2-5770-4b2a-a9c9-22e21ae2be8a" align="right" height="177">
 
 > "O pixel é a representação gráfica da variação do bit. Ele é, na verdade, quadrado e indivisível. (...) Como o pixel é a menor unidade da imagem mapa de bits, ele acabou por se constituir como unidade de medida do planeta digital. (...)
 >
