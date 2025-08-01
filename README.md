@@ -546,7 +546,7 @@ O mapa de bits é conhecido como raster, varredura ou matricial. Neste sistema, 
 
 O **pixel** (PX), que é uma contração das palavras "picture element" (elemento de imagem, em português), é a menor unidade discreta em um dispositivo de exibição, como uma tela de computador, monitor, ou câmera digital e ele só tem uma cor, a preta. É gravado no bit a informação (1) para o preto e (0) para o branco. 
 
-Tudo o que você vê na tela é feito na combinação 1 e 0 do bit. Um pixel é um ponto único em uma grade bidimensional e representa a menor unidade de cor e intensidade em uma imagem digital. Os pixels são organizados em linhas e colunas para formar uma matriz, e cada pixel pode ser atribuído a uma cor específica. Na exibição de cores, os pixels são frequentemente compostos por três subpixels, que correspondem às cores primárias vermelho, verde e azul (RGB), permitindo a criação de uma ampla gama de cores quando combinados em diferentes intensidades.
+Tudo o que você vê na tela é feito na combinação 1 e 0 do bit. Um pixel é um ponto único em uma grade bidimensional e representa a menor unidade de cor e intensidade em uma imagem digital. Os pixels são organizados em linhas e colunas para formar uma matiz, e cada pixel pode ser atribuído a uma cor específica. Na exibição de cores, os pixels são frequentemente compostos por três subpixels, que correspondem às cores primárias vermelho, verde e azul (RGB), permitindo a criação de uma ampla gama de cores quando combinados em diferentes intensidades.
 
 > O pixel é a representação gráfica da variação do bit. Ele é, na verdade, quadrado e indivisível. (...) Como o pixel é a menor unidade da imagem mapa de bits, ele acabou por se constituir como unidade de medida do Planeta Digital. (...) Da mesma forma que medimos algo no Planeta Material usando o centímetro, por exemplo, no Planeta Digital nós usamos o pixel. (GAMBA Jr., 2013, p.14)
 
@@ -721,57 +721,37 @@ Por exemplo, se você estiver falando do nosso RGB ou ciano, magenta, amarelo e 
 
 E aqui é onde você encontra suas cores quentes, é o mesmo se você estiver falando do nosso RGB ou CMYK, gentil e preto. Então, não vai fazer uma grande diferença. Não, predominantemente, vou falar em nosso RGB. A próxima coisa importante a entender sobre cores é um pouco de terminologia.
 
-Há matriz, tom e sombra, então matiz é a própria cor, ou seja, se estou me referindo à cor azul, a matriz é azul, certo?
+Há **matiz** (tint), **tom** (tone) e **sombra** (shadow), então matiz é a própria cor, ou seja, se estou me referindo à cor azul, a matiz é azul, certo?
 
-Algo vermelho e amarelo, ou mesmo entrando nas cores secundárias e terciárias, você sabe, se a cor é água-marinha, você sabe que a matiz é água-marinha, tom e sombra são um pouco diferentes.
-
-E eles não precisam de um pouco de compreensão para se sentirem confortáveis com isso.
+Algo vermelho e amarelo, ou mesmo entrando nas cores secundárias e terciárias, você sabe, se a cor é água-marinha, você sabe que a matiz é água-marinha, tom e sombra são um pouco diferentes. E eles não precisam de um pouco de compreensão para se sentirem confortáveis com isso.
 
 Então, vamos começar falando sobre sombra. Sombra é a matiz mais a cor preta. E o que acontece é que quanto mais escuro for o seu tom, maior será a porcentagem de preto que você está adicionando à imagem.
 
-Então você pode ver aqui que temos um pequeno mapa de cores, que seria, você sabe, o que chamaríamos
-
-de tom, é mais escuro do que o próprio matiz, porque começamos a adicionar preto à imagem, ou preto à cor ou ao matiz.
+Então você pode ver aqui que temos um pequeno mapa de cores, que seria, você sabe, o que chamaríamos de tom, é mais escuro do que o próprio matiz, porque começamos a adicionar preto à imagem, ou preto à cor ou ao matiz.
 
 Então, que tipo de exemplo, você sabe, azul, simplesmente azul normal, se eu começar a colocar 25% da cor preta ali, 50% da cor ali, o que vai acontecer?
 
 Vai se tornar um azul mais escuro até o ponto em que se torna preto. E se você pensar em qualquer momento em que você brinca com amostras de cores ou algum outro espectro de cores, você está movendo seu ponto nas amostras de cores ou no espectro de cores, você vai ficando cada vez mais escuro, cada vez mais escuro, cada vez mais escuro, e os azuis até encontrar o azul fica tão escuro que fica indistinguível entre preto e azul. Este é um exemplo de sombra.
 
-No ano que vem, eu falo sobre a tenda, que é exatamente o oposto.
+A matiz, que é exatamente o oposto.
 
-Então, estamos adicionando branco à imagem e você pode ver que aqui temos a nossa tenda e
+Então, estamos adicionando branco à imagem e você pode ver que aqui temos a nossa matiz e
 
-temos um pouco de tenda aqui que está deixando a imagem com um azul mais claro.
+temos um pouco de matiz aqui que está deixando a imagem com um azul mais claro. Até um ponto em que se torna branco.
 
-Até um ponto em que se torna branco.
+O mesmo tipo de história que brincar com o sombreamento de amostras de cores urbanas ou espectro de cores: você está brincando com o ponto e o movendo em direção a um azul cada vez mais claro, porque você está procurando por algo como o azul claro, claro, claro, claro.
 
-O mesmo tipo de história que brincar com o sombreamento de amostras de cores urbanas ou espectro de cores: você está brincando
+Bem, eventualmente, quando você exagera, vai acabar ficando apenas com o branco, e é mais ou menos assim que funciona.
 
-com o ponto e o movendo em direção a um azul cada vez mais claro, porque você está procurando
-
-por algo como o azul claro, claro, claro, claro.
-
-Bem, eventualmente, quando você exagera, vai acabar ficando apenas com o branco, e é mais ou menos assim que
-
-funciona.
-
-Sabe, pense na sombra e na tenda como se estivessem em um espectro, e no meio está o matiz.
+Sabe, pense na sombra e na matiz como se estivessem em um espectro, e no meio está o matiz.
 
 Então, se Hugh for o 0, a verdadeira tonalidade da cor estaria indo, tipo, menos um ...
 
-Digamos que é como se você soubesse que 10 seria branco, menos 10 seria preto e zero
+Digamos que é como se você soubesse que 10 seria branco, menos 10 seria preto e zero seria azul.
 
-seria azul.
+Então, em algum lugar ali, estão todos os seus diferentes tons de azul claro ou azul escuro. E de uma maneira diferente, você pode criar cores.
 
-Então, em algum lugar ali, estão todos os seus diferentes tons de azul claro ou azul escuro.
-
-E de uma maneira diferente, você pode criar cores.
-
-A última coisa a falar em termos de compreensão de alguma terminologia básica é que os tons são estranhos, porque
-
-eles adicionam cinza à sua cor e dificultam a compreensão se você não estiver familiarizado.
-
-Estou familiarizado com todos esses termos sobre o ruim, porque, tipo, vou continuar com o preto, eu entendo por que eu gostaria de adicionar cinza a uma cor.
+A última coisa a falar em termos de compreensão de alguma terminologia básica é que os tons são estranhos, porque eles adicionam cinza à sua cor e dificultam a compreensão se você não estiver familiarizado. Estou familiarizado com todos esses termos sobre o ruim, porque, tipo, vou continuar com o preto, eu entendo por que eu gostaria de adicionar cinza a uma cor.
 
 E haverá momentos em que isso fará sentido, dependendo da cor que você está tentando obter ou do clima que você está tentando criar.
 
@@ -996,7 +976,7 @@ O **UI/UX Design** é uma área do design digital voltada para a criação de ex
 
 Embora muitos confundam os dois, é importante entender que UI foca no que o usuário vê, enquanto UX foca em como o usuário se sente ao interagir com aquilo que vê. Um bom design de interface pode chamar atenção, mas se não for intuitivo ou se causar frustração durante o uso, a experiência como um todo será prejudicada. Por isso, o trabalho de um designer de UI/UX envolve tanto o domínio de ferramentas visuais quanto a compreensão de princípios de usabilidade, psicologia cognitiva e comportamento humano.
 
-No processo de desenvolvimento, o UX Designer costuma iniciar com pesquisas com usuários, definição de personas, jornadas, fluxos de navegação e prototipagem de baixa fidelidade (wireframes), garantindo que o produto atenda a uma necessidade real e seja funcional. O UI Designer, por sua vez, entra na fase de protótipos visuais, aplicando identidade visual, hierarquia de informações, harmonia de cores, tipografia adequada e padrões de acessibilidade. Em muitos contextos — especialmente em startups ou times pequenos — essa separação não é rígida, e um mesmo profissional pode cuidar tanto da experiência quanto da interface, o que reforça a importância de entender bem os dois lados.
+No processo de desenvolvimento, o UX Designer costuma iniciar com pesquisas com usuários, definição de personas, jornadas, fluxos de navegação e prototipagem de baixa fidelidade (wireframes), garantindo que o produto amatiz a uma necessidade real e seja funcional. O UI Designer, por sua vez, entra na fase de protótipos visuais, aplicando identidade visual, hierarquia de informações, harmonia de cores, tipografia adequada e padrões de acessibilidade. Em muitos contextos — especialmente em startups ou times pequenos — essa separação não é rígida, e um mesmo profissional pode cuidar tanto da experiência quanto da interface, o que reforça a importância de entender bem os dois lados.
 
 UI/UX Design, portanto, vai além da estética: é um campo que busca alinhar beleza visual com lógica funcional, entregando produtos digitais que não apenas funcionem bem, mas que também encantem, comuniquem com clareza e respeitem o tempo e o esforço dos usuários.
 
