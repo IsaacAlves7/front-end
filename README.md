@@ -527,7 +527,7 @@ Aplicado:
 </div>
 ```
 
-# 🎨 Web design
+# 🎨 [CGI] Web design
 <a href=""><img src="https://img.shields.io/badge/Canva-prototype-blue?style=flat&logo=Canva&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Figma-prototype-tomato?style=flat&logo=Figma&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Moqups-templates-blue?style=flat&logo=Moqups&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/GitHub-boilerplate-gold?style=flat&logo=GitHub&logoColor=white"></a>
 
 O design de interfaces é algo relativamente novo dentro do ramo da computação. Essa área de conhecimento visa a estudar as melhores formas de comunicação entre os seres humanos e os sistemas computacionais que podem ser desde websites, jogos de computador, aplicações empresariais, sistemas operacionais ou até uma simples aplicação do seu smartphone.
@@ -606,7 +606,15 @@ Um site sempre deve ser projetado tendo em mente o seu público-alvo e deve gara
 ## [CGI] UI/UX Design
 <a href=""><img src="https://img.shields.io/badge/Canva-prototype-blue?style=flat&logo=Canva&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Figma-prototype-tomato?style=flat&logo=Figma&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Moqups-templates-blue?style=flat&logo=Moqups&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/GitHub-boilerplate-gold?style=flat&logo=GitHub&logoColor=white"></a>
 
-**Usabilidade** e **acessibilidade** são aspectos intimamente relacionados na criação de qualquer interface visual que deva funcionar para todas as pessoas e que deve ser considerado por todos os desenvolvedores.
+O **UI/UX Design** é uma área do design digital voltada para a criação de experiências e interfaces que sejam funcionais, agradáveis e eficientes para os usuários de produtos digitais, como sites, aplicativos e sistemas interativos. O termo une dois conceitos distintos, mas profundamente interligados: o **UI (User Interface)**, que diz respeito à interface do usuário — ou seja, à parte visual com a qual as pessoas interagem, como botões, menus, cores, tipografia e layout —, e o **UX (User Experience)**, que se refere à experiência como um todo que o usuário tem ao utilizar o produto, considerando fatores como facilidade de uso, fluidez, acessibilidade, satisfação e eficiência.
+
+Embora muitos confundam os dois, é importante entender que UI foca no que o usuário vê, enquanto UX foca em como o usuário se sente ao interagir com aquilo que vê. Um bom design de interface pode chamar atenção, mas se não for intuitivo ou se causar frustração durante o uso, a experiência como um todo será prejudicada. Por isso, o trabalho de um designer de UI/UX envolve tanto o domínio de ferramentas visuais quanto a compreensão de princípios de usabilidade, psicologia cognitiva e comportamento humano.
+
+No processo de desenvolvimento, o UX Designer costuma iniciar com pesquisas com usuários, definição de personas, jornadas, fluxos de navegação e prototipagem de baixa fidelidade (wireframes), garantindo que o produto atenda a uma necessidade real e seja funcional. O UI Designer, por sua vez, entra na fase de protótipos visuais, aplicando identidade visual, hierarquia de informações, harmonia de cores, tipografia adequada e padrões de acessibilidade. Em muitos contextos — especialmente em startups ou times pequenos — essa separação não é rígida, e um mesmo profissional pode cuidar tanto da experiência quanto da interface, o que reforça a importância de entender bem os dois lados.
+
+UI/UX Design, portanto, vai além da estética: é um campo que busca alinhar beleza visual com lógica funcional, entregando produtos digitais que não apenas funcionem bem, mas que também encantem, comuniquem com clareza e respeitem o tempo e o esforço dos usuários.
+
+A **Usabilidade** e **acessibilidade** são aspectos intimamente relacionados na criação de qualquer interface visual que deva funcionar para todas as pessoas e que deve ser considerado por todos os desenvolvedores.
 
 A **usabilidade** significa projetar produtos para serem eficazes, eficientes e satisfatórios. Isso pode incluir aspectos gerais que afetam a todos e não afetam desproporcionalmente as pessoas com deficiência.
 
