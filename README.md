@@ -3,7 +3,54 @@
 # UX - User Experience
 
 # Teoria das Cores
-A **regra 30-20-10** em UI/UX Design (e também em design gráfico, moda, arquitetura, cinema e animação) é um **princípio de proporção de cores** que ajuda a criar **harmonia visual**, **foco** e **identidade clara**. A regra 30-20-10 é uma técnica poderosa e universal de composição cromática. Seja no **design de interface**, na **construção de personagens** ou na **ambientação de uma cena**, ela ajuda a **organizar a informação visual**, a **guiar o olhar do usuário/espectador** e a **comunicar emoção e identidade de marca ou estilo** com clareza. Ela é uma regra, mas como toda boa regra de design, pode ser quebrada — contanto que você **saiba o que está fazendo**.
+A **Regra dos 3 tons**, também conhecida como **Regra 60/30/10**, é uma diretriz clássica de design visual aplicada com frequência em **UI Design**, **design de interiores**, **moda**, **cinema** e **personagens animados**. Ela ajuda a criar composições visuais equilibradas, agradáveis e intencionais, onde o olhar do usuário é naturalmente guiado para os elementos mais importantes da interface ou cena.
+
+Conceito da Regra 60/30/10 no UI Design:
+
+* **60% – Cor Primária (Base):** A cor dominante da interface. Normalmente neutra ou clara. Ela cobre o fundo, áreas grandes, cards, e fornece a estabilidade visual da tela.
+
+* **30% – Cor Secundária (Contraste):** Aparece nos menus, barras laterais, caixas de conteúdo e elementos de suporte. Serve para quebrar a monotonia da cor primária e criar contraste e organização.
+
+* **10% – Cor de Destaque (Accent):** É a cor que **atrai atenção**. Usada para botões, links, ícones importantes, notificações e CTAs. Deve ser aplicada com moderação — quanto menos, mais impacto.
+
+Exemplo prático no UI (com TailwindCSS):
+
+```jsx
+<div className="bg-gray-100 p-10"> {/* 60% */}
+  <aside className="bg-gray-300 p-4 w-1/3"> {/* 30% */}
+    <p className="text-gray-800">Menu lateral</p>
+  </aside>
+  <main>
+    <button className="bg-red-500 text-white px-4 py-2 rounded"> {/* 10% */}
+      Chamar atenção
+    </button>
+  </main>
+</div>
+```
+
+Exemplo cinematográfico ou de personagens: Na **Disney** ou **DreamWorks**, personagens seguem essa lógica:
+
+Exemplo: Woody (Toy Story)
+
+* 60% marrom/bege (roupa de caubói)
+* 30% amarelo (camisa)
+* 10% vermelho (lenço no pescoço)
+
+**Objetivo:** Criar harmonia visual com um ponto focal destacado (10%).
+
+Exemplo 2: Vilões de Kung Fu Panda = RGB
+
+Por que usar isso em UI/UX?
+
+* Guia o olho do usuário
+* Gera equilíbrio sem confusão visual
+* Destaca ações importantes (botões, alertas)
+* Funciona em **dark** ou **light mode**
+* Ajuda na **acessibilidade visual** com contraste bem distribuído
+
+Essa regra não é absoluta, mas é uma ótima base para começar. Designers experientes quebram essa lógica, mas só depois de dominar a harmonia básica das cores. Mas funciona bem com as crianças, principalmente as mais novas.
+
+A **regra 30-20-10** em UI/UX Design (e também em design gráfico, moda, arquitetura, cinema e animação) é um princípio de proporção de cores que ajuda a criar harmonia visual, foco e identidade clara. A regra 30-20-10 é uma técnica poderosa e universal de composição cromática. Seja no **design de interface**, na **construção de personagens** ou na **ambientação de uma cena**, ela ajuda a **organizar a informação visual**, a **guiar o olhar do usuário/espectador** e a **comunicar emoção e identidade de marca ou estilo** com clareza. Ela é uma regra, mas como toda boa regra de design, pode ser quebrada — contanto que você **saiba o que está fazendo**.
 
 A lógica por trás dela é simples e poderosa: Ela define o **uso proporcional de três cores principais** em uma composição visual:
 
