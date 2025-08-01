@@ -626,7 +626,7 @@ A **acessibilidade**, por sua vez, aborda aspectos discriminatórios relacionado
 
 Atualmente, algo em torno de 15% da população mundial possui algum tipo de deficiência ou necessidade especial. Com números como esses, além de algo importante e benéfico para o produto em si, é um dever ético do designer (UX/UI Designer) remover as barreiras de acesso enfrentadas por essas pessoas.
 
-# 🌐 A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET: WEB 1.0 e WEB 2.0
+# 🌐 A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET
 
 <div align="center">
   
@@ -663,7 +663,6 @@ A **World Wide Web** é um sistema de documentos de hipertexto interligados aces
 
 > O HTML (Linguagem de Marcação de Hipertexto) é o bloco de construção mais básico da web e define o significado e a estrutura do seu conteúdo. As versões iniciais do HTML permitiam apenas uma estrutura de construção muito básica com cabeçalhos, parágrafos e links. As versões subsequentes já permitiram a adição de imagens às páginas e, eventualmente, o suporte para tabelas foi adicionado.
 
-## WEB 1.0
 <img src="https://user-images.githubusercontent.com/61624336/197409934-2af60e78-b528-4873-a8ab-b29ccce22bb8.jpg" align="right" height="177" title="[Web 1.0] - Yahoo! 1996">
 
 A **web 1.0** foi a primeira implementação da web e durou de 1989 até o ano de 2005. Essa primeira fase é considerada por Tim Berners-Lee como uma **internet de apenas leitura**. Os sites dessa época, em geral, proporcionavam muito pouca interação com o usuário, pois ele apenas poderia consumir informações, mas não interagir diretamente com o site.
@@ -692,7 +691,6 @@ Um pouco antes da criação do Flash, por volta do ano de 1995, é lançado o Ma
 
 Durante esse tempo, com o início do Flash e a popularidade do DHTML, o conceito de páginas da web interativas que permitem aos usuários não apenas ler o conteúdo estático, mas também interagir com o conteúdo da web, começou.
 
-## WEB 2.0
 O termo **web 2.0** apareceu pela primeira vez no ano 2001, quando a bolha de TI que durou 5 anos estourou. Alguns comentaristas e analistas da época sugeriram que a internet tinha sido superestimada, enquanto outros afirmavam que a queda se dava pelo fim da primeira fase (web 1.0), sugerindo que coisas mais interessantes ainda estariam por vir. Essa segunda onda da internet foi chamada de web 2.0.
 
 Além de fazer referência a uma era específica da internet, o termo proposto evidencia que ocorreram profundas mudanças na maneira como as pessoas utilizam a web. Por exemplo, durante a web 1.0 era muito comum um usuário pagar por um serviço, fazer o seu logon em determinada plataforma e absorver passivamente as informações ali contidas. Nessa nova era da internet, o usuário, além de absorver o seu conteúdo, também é capaz de criar, divulgar e compartilhar sua própria visão de mundo.
@@ -707,7 +705,6 @@ Neste período, temos a evolução de aplicativos digitais que agora podem ser e
 
 A principal diferença entre a **internet** e **outras mídias** é a sua **interatividade**. A interatividade é um aspecto que sempre deve ser levado em consideração na criação de qualquer conteúdo online. O usuário de uma página web não é mais um objeto passivo, tendo se tornado também parte importante na captação de informações. Toda vez que um usuário preenche as informações de um formulário ou envia um e-mail, ele está, de certo modo, participando desse processo de interação. O processo de interatividade é um verdadeiro desafio para os designers, pois, quanto mais sofisticadas são as ferramentas à disposição, mais difícil é encontrar o limite das possibilidades.
 
-## 🕰️ Web Timeline
 A seguir, vejamos alguns dos principais fatos históricos que marcaram a evolução da internet até o início deste novo século:
 
 **1990-1993**
@@ -766,9 +763,7 @@ A seguir, vejamos alguns dos principais fatos históricos que marcaram a evoluç
 - Em outubro de 2014, o W3C lança a recomendação final sobre o HTML 5.
 - Em março de 2015, a Microsoft lança a primeira versão do seu novo navegador, o Microsoft Edge. Ele substitui o antigo Internet Explorer.
 
-# 🌐 A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET: WEB 3.0 e WEB 4.0
-
-## Web 3.0
+## A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET: WEB 3.0 e WEB 4.0
 A **web 3.0** é naturalmente uma evolução da web 2.0. Esse termo foi utilizado pela primeira vez no ano de 2006 pelo jornalista John Markoff do jornal americano The New York Times. Neste texto publicado por Markoff, ele sugere que a terceira geração da web pode ser definida como a “web executável”. A ideia principal da web 3.0 é definir uma estrutura de dados e poder automatizar a descoberta dessas informações para que sua reutilização seja feita de uma forma mais eficaz, facilitando o seu compartilhamento.
 
 Também conhecida como web semântica, a web 3.0 foi idealizada por Tim Berners-Lee, inventor da World Wide Web. Dentro da W3C, existem diversas equipes que trabalham exaustivamente para melhorar, estender e padronizar o sistema, as linguagens, as publicações e as ferramentas que já foram desenvolvidas.
@@ -927,12 +922,11 @@ A seguir, veremos um breve comparativo entre essas três gerações:
 								
 > Existem ótimas ferramentas para entrar em 3D na Web 3.0 como o <a href="https://app.spline.design/files">Spline</a>.
 								
-# WEB 4.0 E O FUTURO
 A **web 4.0**, também conhecida como “web simbiótica”, pode ser considerada como um agente eletrônico ultrainteligente. Esse sistema será capaz de suportar as interações dos indivíduos, utilizando dados disponíveis, instantâneos ou históricos, para propor ou suportar a tomada de decisão.
 
 A interação entre humanos e máquinas gerando e organizando metadados em simbiose é o motivo por trás dessa nova geração. A web 4.0 será capaz de pensar e tomar decisões baseadas em pesquisas e no conteúdo do próprio usuário. Ela será capaz também de dar sugestões com base em estudos de como nós vivemos, o que queremos ou precisamos.
 
-> **Exemplo**: Vamos supor que algum usuário descobriu certa falha dentro de uma tecnologia que foi recentemente lançada no mercado. É muito pouco tempo para que os desenvolvedores encontrem uma solução adequada, afinal esse problema passou despercebido por toda a fase de desenvolvimento e de testes do software. Então, teoricamente, a web 4.0 permitiria que um computador analisasse esse problema e oferecesse uma solução baseando-se em falhas que ocorreram anteriormente em softwares similares.
+Exemplo: Vamos supor que algum usuário descobriu certa falha dentro de uma tecnologia que foi recentemente lançada no mercado. É muito pouco tempo para que os desenvolvedores encontrem uma solução adequada, afinal esse problema passou despercebido por toda a fase de desenvolvimento e de testes do software. Então, teoricamente, a web 4.0 permitiria que um computador analisasse esse problema e oferecesse uma solução baseando-se em falhas que ocorreram anteriormente em softwares similares.
 
 A web 4.0 oferece um novo modelo de interação com o usuário, mais abrangente que as gerações anteriores, não se limitando simplesmente a exibir informações, mas se propondo a passar para o usuário soluções concretas baseadas em análises inteligentes.
 
@@ -943,8 +937,7 @@ Após analisarmos as características e a evolução da web desde sua criação 
 Porém, a web do futuro também encontrará uma série de desafios, principalmente no que diz respeito aos padrões da indústria, como conexões sem fio que devem se tornar cada vez mais rápidas além de serem mais acessíveis, bem como formas de comunicação cada vez mais compreensíveis, fazendo com que vários dispositivos se comuniquem mesmo não pertencendo à mesma empresa.
 
 ## EVOLUÇÃO DAS INTERFACES (MUDANÇAS ESTÉTICAS, FUNCIONAIS E ESTRUTURAIS)
-### Os primórdios da internet
-Uma das coisas mais impressionantes ao falarmos sobre o passado evolutivo da web é sua capacidade de adaptação e inovação. Desde que o primeiro website foi colocado no ar por Tim Bernes-Lee, no começo da década de 1990, a web não parou de crescer, se aperfeiçoar e se adaptar às mais novas tendências e tecnologias.
+Os primórdios da internet: Uma das coisas mais impressionantes ao falarmos sobre o passado evolutivo da web é sua capacidade de adaptação e inovação. Desde que o primeiro website foi colocado no ar por Tim Bernes-Lee, no começo da década de 1990, a web não parou de crescer, se aperfeiçoar e se adaptar às mais novas tendências e tecnologias.
 
 Como vimos, os primeiros websites eram totalmente baseados em textos e possuíam algumas dezenas de links. Em 1993, ocorre a primeira grande mudança significativa na construção de páginas. Com o lançamento do web browser **Mosaic**, a internet ganhava a adição de imagens para a elaboração de conteúdo online. No ano seguinte, em 1994, o **Netscape** é lançado e se torna o primeiro navegador a possuir suporte ao carregamento de páginas em tempo real. Anos mais tarde, o Netscape veio a se transformar no popular navegador **Mozilla Firefox**.
 
