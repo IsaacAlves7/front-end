@@ -513,7 +513,6 @@ Atualmente, algo em torno de 15% da população mundial possui algum tipo de def
 
 # 🌐 A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET: WEB 1.0 e WEB 2.0
 
-### A origem da internet
 <div align="center">
   
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Samuel_Morse.jpg/400px-Samuel_Morse.jpg" height="177"><br><sub>Samuel F.B Morse (1791-1872)</sub>](https://pt.wikipedia.org/wiki/Samuel_Morse) 
