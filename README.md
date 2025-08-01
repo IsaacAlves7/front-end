@@ -235,7 +235,7 @@ As cores são essenciais na editoração eletrônica, pois são os elementos da 
 
 A escolha do modo de cor é definida em função da aplicação da arte criada. O modo RGB é usado em artes para web e o CMYK para impressão gráfica ou em impressoras caseiras.
 
-**Escala RGB**
+**Escala RGB**:
 
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/35feea5b-7121-46d6-a5b3-f710e762ed9b" align="right" height="77">
 
@@ -245,15 +245,17 @@ A síntese aditiva é formada pelas cores vermelha (red), verde (green) e azul (
 
 O que você está vendo agora na sua tela são cores RGB, portanto, as artes que serão aplicadas na web devem ser feitas nesta escala. As cores da escala RGB são representadas em decimais que vão de 0 a 255.
 
-**Sistema hexadecimal**
+**Sistema hexadecimal**:
 
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/30be5d31-e9f4-4cba-8da8-1c616795d42b" height="77" align="right">
 
 O RGB é representado na internet com o sistema hexadecimal, um código formado por seis dígitos e precedido de “#”. O sistema é composto por 16 símbolos alfanuméricos, que são calculados diretamente pelos softwares.
 
+```
 1 2 3 4 5 6 7 8 9 A B C D E F
+```
 
-**Escala CMYK**
+**Escala CMYK**:
 
 A síntese subtrativa utiliza tintas e suas cores primárias são o ciano, magenta e amarelo. O K representa a tinta preta (key: chave em inglês), que, no processo de impressão quadricromia (ou policromia, na forma mais usual), é utilizado para aumentar as definições de volumes, para dar melhor impressão aos textos e obter uma cor preta mais pura.
 
@@ -261,19 +263,19 @@ A soma das três cores primárias CMY resulta no preto. Na realidade, não é um
 
 A mistura de duas cores primárias da síntese subtrativa gera uma cor primária da síntese aditiva.
 
-**Escala acromática**
+**Escala acromática**:
 
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/5d312da1-63b1-4d5e-afa8-ffc189eedaa7" align="right" height="77">
 
 A escala de cinzas ou escala acromática (cor, croma = “khrôma” em grego; acromática, sem cor), ou escala das tonalidades, é utilizada em imagens preto e branco. Os tons de cinza são obtidos reduzindo percentualmente a cor preta.
 
-**Escala monocromática**
+**Escala monocromática**:
 
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/146a304b-bb60-4cdb-b965-b6f94a0ba431" align="right" height="77">
 
 A escala monocromática é formada por apenas uma cor (croma, matiz), adotando o mesmo princípio da escala acromática, reduzindo seu percentual ou a dessaturando.
 
-## [Ae] Chroma Key
+## [CGI] Chroma Key
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/d5e28d73-fa31-4fe0-a881-b56bc5c20737" align="right" height="77">
 
 O **Chroma Key** é uma técnica usada em produções audiovisuais para combinar duas imagens ou vídeos diferentes, removendo uma cor específica (geralmente verde ou azul) de uma delas e substituindo essa área pela imagem ou vídeo da outra. Essa técnica é frequentemente usada em produção de filmes, televisão, transmissões ao vivo, e criação de conteúdo para vídeo.
@@ -294,7 +296,7 @@ Um exemplo comum do uso de Chroma Key é a previsão do tempo em programas de te
 
 O necessário é um fundo de cor verde lima, podendo ser um tecido, onde precisa estar de acordo com o cenário e uma boa iluminação na pessoa e no fundo do local para que o efeito fique bom. Lembrando, que se for usar um fundo verde, para não usar elementos verdes, seja roupas ou acessórios, pois irão também ser contados na edição. Para usar melhor esse recurso, existem vários programas de edição de vídeo que podem fazer isso, o melhor para usar é o Adobe Premiere CC.
 
-# [CGI] Teoria das Cores
+# 🎨 [CGI] Teoria das Cores
 Existe uma infinidade de modos de cor diferentes por aí. Em geral, temos o **RGB**, e outro bastante comum é o **CMYK — ciano, magenta, amarelo e preto**. Esse 'K', aliás, representa tecnicamente o preto. O modo CMYK é usado principalmente em impressoras e em certos tipos de tinta. 
 
 Você pode saber se você se lembra das antigas impressoras jato de bolha ou impressoras jato de tinta digitais, você pode se lembrar você sabe que não era vermelho, era, você sabe, magenta, não era azul, ciano. Não vamos mexer muito com isso se você preferir trabalhar nesse formato ou nesse modo de cor. A maior parte do que vou dizer é praticamente o mesmo, independentemente do modo de cor em que você estiver.
