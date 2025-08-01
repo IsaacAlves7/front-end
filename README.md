@@ -289,20 +289,6 @@ Um exemplo comum do uso de Chroma Key é a previsão do tempo em programas de te
 
 O necessário é um fundo de cor verde lima, podendo ser um tecido, onde precisa estar de acordo com o cenário e uma boa iluminação na pessoa e no fundo do local para que o efeito fique bom. Lembrando, que se for usar um fundo verde, para não usar elementos verdes, seja roupas ou acessórios, pois irão também ser contados na edição. Para usar melhor esse recurso, existem vários programas de edição de vídeo que podem fazer isso, o melhor para usar é o Adobe Premiere CC.
 
-# [2D] Ps - Adobe Photoshop CC
-
-# [2D] Adobe Ilustrator
-
-# Blender
-
-# [2D] Blender
-
-# [3D] Blender
-
-# UI - User Interface
-
-# UX - User Experience
-
 # Teoria das Cores
 A **Regra dos 3 tons**, também conhecida como **Regra 60/30/10**, é uma diretriz clássica de design visual aplicada com frequência em **UI Design**, **design de interiores**, **moda**, **cinema** e **personagens animados**. Ela ajuda a criar composições visuais equilibradas, agradáveis e intencionais, onde o olhar do usuário é naturalmente guiado para os elementos mais importantes da interface ou cena.
 
