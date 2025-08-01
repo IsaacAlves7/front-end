@@ -231,7 +231,8 @@ Nessa fase da web, o conceito de site ou página desaparece, pois agora os dados
 
 A web 3.0 também veio para tentar solucionar uma das maiores preocupações do início do século XXI: a **segurança de dados**. A exploração desregulamentada de informações por parte das empresas e sobretudo pelas redes sociais representa um acúmulo muito grande de poder na mão de poucas pessoas. A tendência é que os usuários busquem aplicações com algum tipo de criptografia e que tenham total controle sobre os seus próprios dados.
 
-> **Você sabia**: Nesse aspecto da segurança dos dados dos usuários nas mãos das grandes empresas, diversos países têm desenvolvido legislação com o objetivo de regulamentar como as corporações devem tratar as informações dos seus usuários e clientes. No caso do Brasil, a **Lei Geral de Proteção dos Dados Pessoais (LGPD)** e o Marco Civil da Internet são as leis que regulamentam o tratamento dos dados.
+> [!Note]
+> Nesse aspecto da segurança dos dados dos usuários nas mãos das grandes empresas, diversos países têm desenvolvido legislação com o objetivo de regulamentar como as corporações devem tratar as informações dos seus usuários e clientes. No caso do Brasil, a **Lei Geral de Proteção dos Dados Pessoais (LGPD)** e o Marco Civil da Internet são as leis que regulamentam o tratamento dos dados.
 
 A **web semântica** é um movimento colaborativo liderado e organizado pelo próprio W3C. De acordo com Berners-Lee, Hendler e Miller (2002), a web semântica fornece uma estrutura comum que permite que os dados sejam compartilhados e reutilizados entre aplicativos, empresas e fronteiras pertencentes à comunidade.
 
