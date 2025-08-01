@@ -295,7 +295,7 @@ Um exemplo comum do uso de Chroma Key é a previsão do tempo em programas de te
 O necessário é um fundo de cor verde lima, podendo ser um tecido, onde precisa estar de acordo com o cenário e uma boa iluminação na pessoa e no fundo do local para que o efeito fique bom. Lembrando, que se for usar um fundo verde, para não usar elementos verdes, seja roupas ou acessórios, pois irão também ser contados na edição. Para usar melhor esse recurso, existem vários programas de edição de vídeo que podem fazer isso, o melhor para usar é o Adobe Premiere CC.
 
 # Teoria das Cores
-A **Regra dos 3 tons**, também conhecida como **Regra 60/30/10**, é uma diretriz clássica de design visual aplicada com frequência em **UI Design**, **design de interiores**, **moda**, **cinema** e **personagens animados**. Ela ajuda a criar composições visuais equilibradas, agradáveis e intencionais, onde o olhar do usuário é naturalmente guiado para os elementos mais importantes da interface ou cena.
+A **Regra dos 3 tons**, também conhecida como **Regra 60/30/10**, é uma diretriz clássica de design visual aplicada com frequência em UI Design, design de interiores, moda, cinema e personagens animados. Ela ajuda a criar composições visuais equilibradas, agradáveis e intencionais, onde o olhar do usuário é naturalmente guiado para os elementos mais importantes da interface ou cena.
 
 Conceito da Regra 60/30/10 no UI Design:
 
@@ -342,7 +342,7 @@ Por que usar isso em UI/UX?
 
 Essa regra não é absoluta, mas é uma ótima base para começar. Designers experientes quebram essa lógica, mas só depois de dominar a harmonia básica das cores. Mas funciona bem com as crianças, principalmente as mais novas.
 
-A **regra 30-20-10** em UI/UX Design (e também em design gráfico, moda, arquitetura, cinema e animação) é um princípio de proporção de cores que ajuda a criar harmonia visual, foco e identidade clara. A regra 30-20-10 é uma técnica poderosa e universal de composição cromática. Seja no **design de interface**, na **construção de personagens** ou na **ambientação de uma cena**, ela ajuda a **organizar a informação visual**, a **guiar o olhar do usuário/espectador** e a **comunicar emoção e identidade de marca ou estilo** com clareza. Ela é uma regra, mas como toda boa regra de design, pode ser quebrada — contanto que você **saiba o que está fazendo**.
+A **regra 30-20-10** em UI/UX Design (e também em design gráfico, moda, arquitetura, cinema e animação) é um princípio de proporção de cores que ajuda a criar harmonia visual, foco e identidade clara. A regra 30-20-10 é uma técnica poderosa e universal de composição cromática. Seja no design de interface, na construção de personagens ou na ambientação de uma cena, ela ajuda a organizar a informação visual, a guiar o olhar do usuário/espectador e a comunicar emoção e identidade de marca ou estilo com clareza. Ela é uma regra, mas como toda boa regra de design, pode ser quebrada — contanto que você saiba o que está fazendo.
 
 A lógica por trás dela é simples e poderosa: Ela define o **uso proporcional de três cores principais** em uma composição visual:
 
