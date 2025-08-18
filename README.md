@@ -1,7 +1,9 @@
 <a href="https://github.com/IsaacAlves7/web"><img src="https://www.webinfonex.com/data/assets/uploads/service/ser_5.jpg"></a>
 
 # It's a repository of Web Development 🌐
-> 🌐 **Preparação</code>: Para este conteúdo, o aluno deverá dispor de um computador com acesso à internet, um web browser com suporte a HTML 5 (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera etc.), um editor de texto (VSCode etc.) e uma plataforma de hospedagem (gratuita ou paga).
+> Versículo chave: "Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos." - Provérbios 16:3
+> 
+> 🌐 **Preparação**: Para este conteúdo, o aluno deverá dispor de um computador com acesso à internet, um web browser com suporte a HTML 5 (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera etc.), um editor de texto (VSCode etc.) e uma plataforma de hospedagem (gratuita ou paga).
 
 <div align="center"><img src="https://images.fineartamerica.com/images/artworkimages/medium/3/keep-calm-and-let-the-web-developer-handle-it-funny-gift-ideas-transparent.png" height="177"></div>
 
