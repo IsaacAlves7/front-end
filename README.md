@@ -599,6 +599,14 @@ Uma imagem para impressão sobre papel, em modo de cores CMYK no formato A4, com
 
 Na prática, qual cuidado devemos ter com a imagem bitmap? Se você ampliar uma imagem bitmap, ela perde definição. E se você reduzir demais, perde a nitidez. Imagens bitmaps são mais “pesadas” que as vetoriais e às vezes podem ser impróprias para download ou para aplicação em uma arte digital.
 
+Para desenhar em pixel art, comece com **pixel art em perler beads** ou **pixel art em hama beads** — dependendo da marca do material usado. Os **perler beads**, também conhecidos como **fuse beads** ou **beads de fusão**, são aqueles pequenos cilindros de plástico colorido que você posiciona em uma base furada (pegboard) formando uma imagem pixelada. Depois, com o calor do ferro de passar roupa, os “passadores” (os beads) derretem parcialmente e se fundem, criando uma arte sólida e durável.
+
+Para software, pode utilizar um editor de imagem qualquer, mas é recomendável utilizar o **Aseprite**, que trabalha muito bem para fazer animações, paisagens e jogos.
+
+Esses trabalhos ficaram muito populares entre fãs de videogames retrô e cultura pop justamente porque imitam perfeitamente a estética pixelada dos jogos 8-bit e 16-bit. A técnica é simples, mas o resultado é muito visual, e por isso muitos artistas usam para fazer painéis enormes ou personagens em tamanho real — o processo é basicamente o mesmo, só que em escala ampliada, unindo várias placas de base para construir figuras grandes.
+
+Em resumo, o nome correto seria **“pixel art feita com perler beads (ou hama beads)”**, e o uso do ferro de passar é justamente para “fundir” os beads, não como ferramenta artística, mas para fixar o design de forma permanente.
+
 ## [CGI] Imagem vetorial
 <img src="https://github.com/IsaacAlves7/front-end/assets/61624336/1a5a1e62-c131-4509-b76d-6dc4b6709626" align="right" height="177">
 
