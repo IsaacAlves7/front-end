@@ -723,7 +723,7 @@ Um exemplo comum do uso de Chroma Key é a previsão do tempo em programas de te
 O necessário é um fundo de cor verde lima, podendo ser um tecido, onde precisa estar de acordo com o cenário e uma boa iluminação na pessoa e no fundo do local para que o efeito fique bom. Lembrando, que se for usar um fundo verde, para não usar elementos verdes, seja roupas ou acessórios, pois irão também ser contados na edição. Para usar melhor esse recurso, existem vários programas de edição de vídeo que podem fazer isso, o melhor para usar é o Adobe Premiere CC.
 
 ## [CGI] Teoria das Cores
-<a href=""><img src="https://img.shields.io/badge/Adobe_Color-color_palette-FF4B4B?style=flat&logo=Adobe&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Figma-prototypes-tomato?style=flat&logo=Figma&logoColor=white"></a> 
+<a href=""><img src="https://img.shields.io/badge/Adobe_Color-color_palette-FF4B4B?style=flat&logo=Adobe&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Figma-prototypes-tomato?style=flat&logo=Figma&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Canva-prototypes-blue?style=flat&logo=Canva&logoColor=white"></a> 
 
 <a href=""><img src="https://github.com/user-attachments/assets/e6e4a59b-2d93-4233-b6e9-ac15cd46cf37" align="right" height="177"></a>
 
