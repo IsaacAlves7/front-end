@@ -911,6 +911,9 @@ Aplicado:
 </div>
 ```
 
+![562393184_1271135698373979_6426238176058692134_n](https://github.com/user-attachments/assets/a3e471c3-c4c2-43e6-8924-4d51d3a21076)
+
+
 # 🎨 [CGI] Web design
 <a href=""><img src="https://img.shields.io/badge/Moqups-template-4285F4?style=flat&logo=Moqups&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Google_Analytics-analytics-669DF6?style=flat&logo=googleanalytics&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Looker-BI-AECBFA?style=flat&logo=Looker&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Figma-prototype-tomato?style=flat&logo=Figma&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/GitHub-boilerplate-gold?style=flat&logo=GitHub&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/ChatGPT-generator-34A853?style=flat&logo=OpenAI&logoColor=white"></a> 
 
