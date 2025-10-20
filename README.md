@@ -1,4 +1,6 @@
 # 🎨 CGI - Computação Gráfica
+<a href=""><img src="https://img.shields.io/badge/Blender-rigging-orange?style=flat&logo=Blender&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Adobe_Color-color_palette-FF4B4B?style=flat&logo=Adobe&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Figma-prototypes-tomato?style=flat&logo=Figma&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Canva-prototypes-blue?style=flat&logo=Canva&logoColor=white"></a>
+
 <img src="https://github.com/user-attachments/assets/c53cf90c-2ce2-4a88-9156-fce9ec2c3035" align="right" height="177">
 
 A **Computação Gráfica** e Editoração Eletrônica é uma disciplina teórica e prática que ensina os conhecimentos básicos sobre os softwares Photoshop, Illustrator e InDesign, utilizados respectivamente para o tratamento de imagens fotográficas e imagens bitmap, desenhos vetoriais e diagramação e diagramação de jornais e revistas impressas. Os conhecimentos fornecidos sobre a editoração eletrônica, que é um campo da computação gráfica, apresentará os softwares de edição de imagens e textos mais utilizados no mercado.
