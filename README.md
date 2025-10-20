@@ -1061,6 +1061,10 @@ Fontes:
 - https://fonts.google.com/
 
 # 🟧 [CGI] Modelagem 3D
+![3-d-printer-3d-icon-png-download-5438289](https://github.com/user-attachments/assets/434214fe-5b43-43e8-a823-a0004e5343f1)
+
+![sla-3d-printer-3d-icon-png-download-7980905](https://github.com/user-attachments/assets/81ce6db8-9b7c-4fcf-9ca0-d9f04a50adda)
+
 ![robotic-arm-3d-icon-png-download-7300279](https://github.com/user-attachments/assets/5f599849-fda0-4ffa-8284-790e44025879)
 
 Modelos 3D:
