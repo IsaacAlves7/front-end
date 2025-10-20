@@ -227,6 +227,8 @@ A seguir, vejamos alguns dos principais fatos históricos que marcaram a evoluç
 - Em março de 2015, a Microsoft lança a primeira versão do seu novo navegador, o Microsoft Edge. Ele substitui o antigo Internet Explorer.
 
 ## [CGI] A EVOLUÇÃO DAS TECNOLOGIAS DE INTERNET: WEB 3.0 e WEB 4.0
+<img height="177" align="right" src="https://github.com/user-attachments/assets/688cc6d3-c2ce-43a7-846a-3e5c2434f1ac" />
+
 A **web 3.0** é naturalmente uma evolução da web 2.0. Esse termo foi utilizado pela primeira vez no ano de 2006 pelo jornalista John Markoff do jornal americano The New York Times. Neste texto publicado por Markoff, ele sugere que a terceira geração da web pode ser definida como a “web executável”. A ideia principal da web 3.0 é definir uma estrutura de dados e poder automatizar a descoberta dessas informações para que sua reutilização seja feita de uma forma mais eficaz, facilitando o seu compartilhamento.
 
 Também conhecida como web semântica, a web 3.0 foi idealizada por Tim Berners-Lee, inventor da World Wide Web. Dentro da W3C, existem diversas equipes que trabalham exaustivamente para melhorar, estender e padronizar o sistema, as linguagens, as publicações e as ferramentas que já foram desenvolvidas.
