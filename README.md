@@ -1059,3 +1059,11 @@ Fontes:
 - https://www.dafont.com/pt/
 - https://www.1001freefonts.com/pt/
 - https://fonts.google.com/
+
+## [CGI] Modelagem 3D
+
+- https://www.cgtrader.com/3d-models
+- https://archive.org/details/3dmodels
+- https://archive.org/search?query=subject%3A%223DSMax%22
+- https://archive.org/search?query=subject%3A%223D+models%22
+- https://archive.org/details/thingverse
