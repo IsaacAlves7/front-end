@@ -168,6 +168,8 @@ A principal diferença entre a **internet** e **outras mídias** é a sua **inte
 
 A seguir, vejamos alguns dos principais fatos históricos que marcaram a evolução da internet até o início deste novo século:
 
+<img src="https://github.com/user-attachments/assets/c590f666-da94-48fa-96ac-0affeb09292d" align="right" height="277">
+
 **1990-1993**
 - Em setembro de 1990, é lançado o primeiro motor de buscas conhecido como Archie.
 - Em dezembro de 1990, é lançado o primeiro navegador web, conhecido como World Wide Web.
