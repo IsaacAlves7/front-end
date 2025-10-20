@@ -1,5 +1,5 @@
 # 🎨 CGI - Computação Gráfica
-<a href=""><img src="https://img.shields.io/badge/Blender-rigging-orange?style=flat&logo=Blender&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Adobe_Color-color_palette-FF4B4B?style=flat&logo=Adobe&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Figma-prototypes-tomato?style=flat&logo=Figma&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Canva-prototypes-blue?style=flat&logo=Canva&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/Blender-modeling-orange?style=flat&logo=Blender&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Blender-rigging-orange?style=flat&logo=Blender&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Adobe_Color-color_palette-FF4B4B?style=flat&logo=Adobe&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Figma-prototypes-tomato?style=flat&logo=Figma&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Canva-prototypes-blue?style=flat&logo=Canva&logoColor=white"></a>
 
 <img src="https://github.com/user-attachments/assets/c53cf90c-2ce2-4a88-9156-fce9ec2c3035" align="right" height="177">
 
