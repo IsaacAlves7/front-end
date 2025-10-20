@@ -1060,7 +1060,10 @@ Fontes:
 - https://www.1001freefonts.com/pt/
 - https://fonts.google.com/
 
-## [CGI] Modelagem 3D
+# 🟧 [CGI] Modelagem 3D
+![robotic-arm-3d-icon-png-download-7300279](https://github.com/user-attachments/assets/5f599849-fda0-4ffa-8284-790e44025879)
+
+Modelos 3D:
 
 - https://www.cgtrader.com/3d-models
 - https://archive.org/details/3dmodels
