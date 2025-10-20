@@ -849,7 +849,7 @@ Por que funciona? Ela **reflete como o cérebro humano percebe equilíbrio visua
 
 A Disney, a Pixar e outras usam a regra em personagens para dar **apelo visual e reconhecimento imediato**, especialmente em **desenhos infantis**:
 
-<img src="https://github.com/user-attachments/assets/7a485883-afa1-4656-bde3-005a4b02bbe2" align="right" height="177">
+<img src="https://github.com/user-attachments/assets/7a485883-afa1-4656-bde3-005a4b02bbe2" align="right" height="777">
 
 * **Mickey Mouse**:
 
@@ -872,6 +872,8 @@ A Disney, a Pixar e outras usam a regra em personagens para dar **apelo visual e
 Essas combinações fixam a imagem do personagem na memória visual da criança (e do adulto também).
 
 A regra também é usada para definir **mood (clima)** e **gênero** de filmes e séries:
+
+<img src="https://github.com/user-attachments/assets/eac94cb2-eb30-4e2a-9847-113733234a84" align="right" height="777">
 
 * **Terror/Suspense**:
 
