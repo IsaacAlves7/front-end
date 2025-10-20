@@ -849,6 +849,8 @@ Por que funciona? Ela **reflete como o cérebro humano percebe equilíbrio visua
 
 A Disney, a Pixar e outras usam a regra em personagens para dar **apelo visual e reconhecimento imediato**, especialmente em **desenhos infantis**:
 
+<img src="https://github.com/user-attachments/assets/7a485883-afa1-4656-bde3-005a4b02bbe2" align="right" height="177">
+
 * **Mickey Mouse**:
 
   * 30% preto (corpo e orelhas)
