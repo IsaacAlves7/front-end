@@ -657,6 +657,8 @@ Os arquivos de imagens vetoriais podem ser armazenados em vários formatos, send
 É importante notar que alguns desses formatos podem suportar tanto gráficos vetoriais quanto elementos de imagem rasterizada, dependendo de como são criados e salvos. A escolha do formato muitas vezes depende da aplicação específica e dos requisitos do projeto.
 
 ## [CGI] Escalas de cores em editoração eletrônica
+<img height="177" align="right" src="https://github.com/user-attachments/assets/0216fb9c-8bfb-4aeb-85bb-bfbd879c5027" />
+
 As cores são essenciais na editoração eletrônica, pois são os elementos da composição visual que mais emocionam. Os estudos sobre a psicodinâmica das cores nos mostram que por exemplo, o azul está associado ao gelo, por isso é utilizado em embalagens de água mineral.
 
 A escolha do modo de cor é definida em função da aplicação da arte criada. O modo RGB é usado em artes para web e o CMYK para impressão gráfica ou em impressoras caseiras.
