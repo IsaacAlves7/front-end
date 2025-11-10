@@ -889,7 +889,10 @@ Tipos de Borda:
 ![Tipos de bordas](https://user-images.githubusercontent.com/61624336/108574726-eb4ac800-72f6-11eb-9906-b8f8e1ca5d5c.png)
 
 🔺 Como fazer Bordas de Triângulos:
+
 ![como fazer triângulos com bordas](https://user-images.githubusercontent.com/61624336/107122854-0ccc9e00-6879-11eb-9ec0-9f604afc59c8.gif)
+
+![570ac42a6a10f8a3d64651569bdd60d1](https://github.com/user-attachments/assets/3ee55289-2e19-4ecb-8443-23e5d461db20)
 
 # 📜 JavaScript (JS)
 <a href="https://github.com/IsaacAlves7/js"><img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2016/11/js3.png" height="77" align="right"/></a>
