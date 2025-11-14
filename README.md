@@ -1063,7 +1063,7 @@ Fontes:
 # 🟧 [CGI] Modelagem 3D
 <img src="https://github.com/user-attachments/assets/434214fe-5b43-43e8-a823-a0004e5343f1" align="right" height="177">
 
-
+https://www.instagram.com/thisis3dprinted/
 
 https://www.instagram.com/jayo_3d/
 
