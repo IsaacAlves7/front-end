@@ -53,17 +53,17 @@ O contraste entre objetos 2D e 3D é fundamental. Enquanto objetos 2D têm apena
 
 Os principais campos da CG:
 
-**Graphical user interface - GUI**: significa interface gráfica com o usuário. Dispositivos como mouse, teclado e principalmente a interface gráfica das telas dos computadores foram criados para garantir uma interação entre o homem e a máquina. A primeira máquina com tecnologia GUI foi o MEMEX , criado por Vannevar Bush, em 1945.
+- **Graphical user interface - GUI**: significa interface gráfica com o usuário. Dispositivos como mouse, teclado e principalmente a interface gráfica das telas dos computadores foram criados para garantir uma interação entre o homem e a máquina. A primeira máquina com tecnologia GUI foi o MEMEX , criado por Vannevar Bush, em 1945.
  
-**Traçado interativo de gráficos e visualizações**: visualização de dados através de gráficos. A visualização de dados pode ser aplicada de inúmeras formas, desde painéis empresariais até visualizações sobre saúde pública e análises de tendências de moda.
+- **Traçado interativo de gráficos e visualizações**: visualização de dados através de gráficos. A visualização de dados pode ser aplicada de inúmeras formas, desde painéis empresariais até visualizações sobre saúde pública e análises de tendências de moda.
 
-**Computer aided design - CAD**: permite que os projetistas desenvolvam suas ideias de forma mais rápida e eficaz. Além de possibilitar algumas simulações, como iluminação, é possível produzir o objeto em impressoras 3D.
+- **Computer aided design - CAD**: permite que os projetistas desenvolvam suas ideias de forma mais rápida e eficaz. Além de possibilitar algumas simulações, como iluminação, é possível produzir o objeto em impressoras 3D.
 
-**VR - Realidade virtual**: Jaron Lanier, fundador da VPL Research Inc., criou o termo realidade virtual na década de 1980, para diferenciar as simulações tradicionais feitas por um computador para uma multiplicidade de usuários em um ambiente compartilhado. É considerada a forma mais avançada de interação homem/ máquina. Trata-se de uma interface que simula um ambiente real e permite aos participantes interagir com ele, (Latta, 1994) possibilitando às pessoas visualizar, manipular e interagir com representações extremamente complexas. (Aukstakalnis, 1992) O filme Matrix é um exemplo do uso da realidade virtual.
+- **VR - Realidade virtual**: Jaron Lanier, fundador da VPL Research Inc., criou o termo realidade virtual na década de 1980, para diferenciar as simulações tradicionais feitas por um computador para uma multiplicidade de usuários em um ambiente compartilhado. É considerada a forma mais avançada de interação homem/ máquina. Trata-se de uma interface que simula um ambiente real e permite aos participantes interagir com ele, (Latta, 1994) possibilitando às pessoas visualizar, manipular e interagir com representações extremamente complexas. (Aukstakalnis, 1992) O filme Matrix é um exemplo do uso da realidade virtual.
 
-**AR - Augmented Reality**: Realidade Aumentada (RA), é uma tecnologia que combina elementos do ambiente físico do usuário com elementos virtuais gerados por computador, em tempo real. Em outras palavras, a AR permite sobrepor informações digitais, como imagens, vídeos, ou dados, ao mundo real percebido pelo usuário.
+- **AR - Augmented Reality**: Realidade Aumentada (RA), é uma tecnologia que combina elementos do ambiente físico do usuário com elementos virtuais gerados por computador, em tempo real. Em outras palavras, a AR permite sobrepor informações digitais, como imagens, vídeos, ou dados, ao mundo real percebido pelo usuário.
 
-**Editoração Eletrônica**: é a edição de publicações intermediada por computador que oferece um resultado com qualidade igual ou superior ao processo convencional.
+- **Editoração Eletrônica**: é a edição de publicações intermediada por computador que oferece um resultado com qualidade igual ou superior ao processo convencional.
 
 Existem vários tipos de algoritmos gráficos utilizados para diferentes propósitos na computação gráfica, muitos dos quais podem ser usados para gerar efeitos visuais complexos e realistas. Aqui estão alguns exemplos de algoritmos gráficos e técnicas relacionadas:
 
