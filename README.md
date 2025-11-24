@@ -1067,9 +1067,11 @@ https://www.instagram.com/thisis3dprinted/
 
 https://www.instagram.com/jayo_3d/
 
-![sla-3d-printer-3d-icon-png-download-7980905](https://github.com/user-attachments/assets/81ce6db8-9b7c-4fcf-9ca0-d9f04a50adda)
+<img src="https://github.com/user-attachments/assets/81ce6db8-9b7c-4fcf-9ca0-d9f04a50adda" align="right">
 
-![robotic-arm-3d-icon-png-download-7300279](https://github.com/user-attachments/assets/5f599849-fda0-4ffa-8284-790e44025879)
+<img src="https://github.com/user-attachments/assets/5f599849-fda0-4ffa-8284-790e44025879" align="right">
+
+https://www.youtube.com/shorts/bT0l2wSQwd4?feature=share
 
 Modelos 3D:
 
