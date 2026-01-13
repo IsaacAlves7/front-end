@@ -1013,7 +1013,7 @@ A **usabilidade** significa projetar produtos para serem eficazes, eficientes e 
 
 A **acessibilidade**, por sua vez, aborda aspectos discriminatórios relacionados à **experiência de usuário**. Um software acessível significa que pessoas com deficiência podem igualmente perceber, compreender, navegar e interagir com essa ferramenta. Isso também significa que eles podem contribuir igualmente sem barreiras, permitindo que haja a inclusão digital.
 
-![banner](https://github.com/user-attachments/assets/aee1a68c-7a01-42fd-b269-0d06f51d6708)
+<a href="https://uxdesign.cc/emerging-interaction-patterns-in-generative-ai-experiences-8c351bb3392a"><img src="https://github.com/user-attachments/assets/aee1a68c-7a01-42fd-b269-0d06f51d6708"></a>
 
 Atualmente, algo em torno de 15% da população mundial possui algum tipo de deficiência ou necessidade especial. Com números como esses, além de algo importante e benéfico para o produto em si, é um dever ético do designer (UX/UI Designer) remover as barreiras de acesso enfrentadas por essas pessoas.
 
