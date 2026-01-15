@@ -467,6 +467,8 @@ ul {
 
 > OBS: Perceberam a discrepância entre os dois métodos? E como é mais prático o primeiro.
 
+https://tomaszs2.medium.com/stop-using-css-margin-and-padding-shorthands-use-this-instead-57659cf9cc20
+
 ## [CSS3] Seletores, Declarações, Propriedades e Valores
 Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por **CSS**.
 
