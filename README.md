@@ -779,6 +779,8 @@ Então, funciona da mesma forma que a intenção de sombra, mas você está adic
 
 A **Regra dos 3 tons**, também conhecida como **Regra 60/30/10**, é uma diretriz clássica de design visual aplicada com frequência em UI Design, design de interiores, moda, cinema e personagens animados. Ela ajuda a criar composições visuais equilibradas, agradáveis e intencionais, onde o olhar do usuário é naturalmente guiado para os elementos mais importantes da interface ou cena.
 
+<img width="1324" height="763" alt="Captura de tela 2026-01-08 142145" src="https://github.com/user-attachments/assets/58db9fed-9581-47df-9999-a3d602f432cc" />
+
 Conceito da Regra 60/30/10 no UI Design:
 
 * **60% – Cor Primária (Base):** A cor dominante da interface. Normalmente neutra ou clara. Ela cobre o fundo, áreas grandes, cards, e fornece a estabilidade visual da tela.
