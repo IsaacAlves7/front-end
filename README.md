@@ -1067,6 +1067,9 @@ Medium:
 - https://medium.com/@adhamdannaway/16-little-ui-design-rules-that-make-a-big-impact-ba2e7524d203?source=email-afeafff77325-1685597052433-digest.reader-819cc2aaeee0-ba2e7524d203----9-102------------------e9ef0b9b_3f84_43ce_a1fa_2934b9815a1f-1
 
 # 🟧 [CGI] Modelagem 3D
+
+![490730912_663808969931193_3569257131390077406_n](https://github.com/user-attachments/assets/a2c75589-e182-4cd2-a7d2-c20e66817a27)
+
 <img src="https://github.com/user-attachments/assets/434214fe-5b43-43e8-a823-a0004e5343f1" align="right" height="177">
 
 https://www.instagram.com/thisis3dprinted/
