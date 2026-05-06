@@ -1066,6 +1066,19 @@ Medium:
 
 - https://medium.com/@adhamdannaway/16-little-ui-design-rules-that-make-a-big-impact-ba2e7524d203?source=email-afeafff77325-1685597052433-digest.reader-819cc2aaeee0-ba2e7524d203----9-102------------------e9ef0b9b_3f84_43ce_a1fa_2934b9815a1f-1
 
+<img width="720" height="899" alt="FB_IMG_1731256220030" src="https://github.com/user-attachments/assets/9d625b9f-bd89-44f6-abd7-48c82cb4e29a" />
+
+<img width="720" height="899" alt="FB_IMG_1731256222330" src="https://github.com/user-attachments/assets/6530ffc5-271f-4474-b43e-6729122d165d" />
+
+<img width="720" height="899" alt="FB_IMG_1731256217765" src="https://github.com/user-attachments/assets/7f1bfd5e-7a4e-4304-9881-059b333d376c" />
+
+<img width="720" height="899" alt="FB_IMG_1731256215582" src="https://github.com/user-attachments/assets/2117bb0e-5c04-4b8b-9c36-f70a9b7c7aea" />
+
+<img width="720" height="899" alt="FB_IMG_1731256213370" src="https://github.com/user-attachments/assets/646070a6-6692-44eb-a3b2-c58298f8f556" />
+
+<img width="720" height="899" alt="FB_IMG_1731256210570" src="https://github.com/user-attachments/assets/b228a29e-0fd9-43bd-9673-aca3abcc1dcc" />
+
+
 # 🟧 [CGI] Modelagem 3D
 
 ![490730912_663808969931193_3569257131390077406_n](https://github.com/user-attachments/assets/a2c75589-e182-4cd2-a7d2-c20e66817a27)
