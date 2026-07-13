@@ -1078,6 +1078,7 @@ Medium:
 
 <img width="720" height="899" alt="FB_IMG_1731256210570" src="https://github.com/user-attachments/assets/b228a29e-0fd9-43bd-9673-aca3abcc1dcc" />
 
+<img width="720" height="900" alt="b3ad036f-0174-4def-afce-08a5d3ddf981" src="https://github.com/user-attachments/assets/c8dd6519-f2a5-4c6c-b8a3-ce804bc513bc" />
 
 # 🟧 [CGI] Modelagem 3D
 
