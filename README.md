@@ -2289,6 +2289,8 @@ background-color: rgba(0, 153, 0, 0.9); /* verde 10% transparente */
 background-color: rgba(204, 51, 0, 0.9); /* vermelho 10% transparente */
 ```
 
+<img width="720" height="851" alt="Screenshot_20240704-135326_Instagram" src="https://github.com/user-attachments/assets/8198214b-f42f-4d82-be88-13987d6df461" />
+
 # 👓 [Front] Sass
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="77" align="right">
 
