@@ -1084,6 +1084,18 @@ Medium:
 
 <img width="720" height="900" alt="b3ad036f-0174-4def-afce-08a5d3ddf981" src="https://github.com/user-attachments/assets/c8dd6519-f2a5-4c6c-b8a3-ce804bc513bc" />
 
+<img width="720" height="1026" alt="Screenshot_20241217-002939_Instagram" src="https://github.com/user-attachments/assets/3df4a702-dd2e-47f3-b1a4-8edc439eb579" />
+<img width="720" height="922" alt="Screenshot_20241217-002934_Instagram" src="https://github.com/user-attachments/assets/43e88fe1-fb40-4d5a-a7da-ba51d6358087" />
+<img width="720" height="919" alt="Screenshot_20241215-213929_Instagram" src="https://github.com/user-attachments/assets/f1a3039a-99fc-4236-bb65-abfb5afd8675" />
+<img width="720" height="912" alt="Screenshot_20241215-213925_Instagram" src="https://github.com/user-attachments/assets/ae06a269-ad21-419b-b48f-0b606fff73e8" />
+<img width="720" height="1029" alt="Screenshot_20241217-003014_Instagram" src="https://github.com/user-attachments/assets/c8b57d1e-4a87-4e47-a010-3987f832cb9d" />
+<img width="720" height="1020" alt="Screenshot_20241217-003009_Instagram" src="https://github.com/user-attachments/assets/b1b58660-31cb-4ce2-8888-af35e0969368" />
+<img width="720" height="1018" alt="Screenshot_20241217-003005_Instagram" src="https://github.com/user-attachments/assets/f70c7bcb-c818-4e11-8516-5edd84608daf" />
+<img width="720" height="1030" alt="Screenshot_20241217-002958_Instagram" src="https://github.com/user-attachments/assets/3026fb71-fd0e-402a-8a5f-b545d9158ccd" />
+<img width="720" height="1017" alt="Screenshot_20241217-002951_Instagram" src="https://github.com/user-attachments/assets/257febe9-619b-49bb-8039-6c47e878a618" />
+<img width="720" height="1041" alt="Screenshot_20241217-002941_Instagram" src="https://github.com/user-attachments/assets/cffd9645-a528-4e9a-b245-a9d21dac9dbf" />
+
+
 # 🟧 [CGI] Modelagem 3D
 
 ![490730912_663808969931193_3569257131390077406_n](https://github.com/user-attachments/assets/a2c75589-e182-4cd2-a7d2-c20e66817a27)
