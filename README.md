@@ -1070,31 +1070,34 @@ Medium:
 
 - https://medium.com/@adhamdannaway/16-little-ui-design-rules-that-make-a-big-impact-ba2e7524d203?source=email-afeafff77325-1685597052433-digest.reader-819cc2aaeee0-ba2e7524d203----9-102------------------e9ef0b9b_3f84_43ce_a1fa_2934b9815a1f-1
 
-<img width="720" height="899" alt="FB_IMG_1731256220030" src="https://github.com/user-attachments/assets/9d625b9f-bd89-44f6-abd7-48c82cb4e29a" />
+<table>
+	<tr>
+		<td><img width="720" height="899" alt="FB_IMG_1731256220030" src="https://github.com/user-attachments/assets/9d625b9f-bd89-44f6-abd7-48c82cb4e29a" /></td>
+		<td><img width="720" height="899" alt="FB_IMG_1731256222330" src="https://github.com/user-attachments/assets/6530ffc5-271f-4474-b43e-6729122d165d" /></td>
+		<td><img width="720" height="899" alt="FB_IMG_1731256217765" src="https://github.com/user-attachments/assets/7f1bfd5e-7a4e-4304-9881-059b333d376c" /></td>
+		<td><img width="720" height="899" alt="FB_IMG_1731256215582" src="https://github.com/user-attachments/assets/2117bb0e-5c04-4b8b-9c36-f70a9b7c7aea" /></td>
+		<td><img width="720" height="899" alt="FB_IMG_1731256213370" src="https://github.com/user-attachments/assets/646070a6-6692-44eb-a3b2-c58298f8f556" /></td>
+		<td><img width="720" height="899" alt="FB_IMG_1731256210570" src="https://github.com/user-attachments/assets/b228a29e-0fd9-43bd-9673-aca3abcc1dcc" /></td>
+		<td><img width="720" height="900" alt="b3ad036f-0174-4def-afce-08a5d3ddf981" src="https://github.com/user-attachments/assets/c8dd6519-f2a5-4c6c-b8a3-ce804bc513bc" /></td>
+	</tr>
+</table>
 
-<img width="720" height="899" alt="FB_IMG_1731256222330" src="https://github.com/user-attachments/assets/6530ffc5-271f-4474-b43e-6729122d165d" />
+<table>
+	<tr>
+		<td><img width="720" height="1026" alt="Screenshot_20241217-002939_Instagram" src="https://github.com/user-attachments/assets/3df4a702-dd2e-47f3-b1a4-8edc439eb579" /></td>
+		<td><img width="720" height="922" alt="Screenshot_20241217-002934_Instagram" src="https://github.com/user-attachments/assets/43e88fe1-fb40-4d5a-a7da-ba51d6358087" /></td>
+		<td><img width="720" height="919" alt="Screenshot_20241215-213929_Instagram" src="https://github.com/user-attachments/assets/f1a3039a-99fc-4236-bb65-abfb5afd8675" /></td>
+		<td><img width="720" height="912" alt="Screenshot_20241215-213925_Instagram" src="https://github.com/user-attachments/assets/ae06a269-ad21-419b-b48f-0b606fff73e8" /></td>
+		<td><img width="720" height="1029" alt="Screenshot_20241217-003014_Instagram" src="https://github.com/user-attachments/assets/c8b57d1e-4a87-4e47-a010-3987f832cb9d" /></td>
+		<td><img width="720" height="1020" alt="Screenshot_20241217-003009_Instagram" src="https://github.com/user-attachments/assets/b1b58660-31cb-4ce2-8888-af35e0969368" /></td>
+		<td><img width="720" height="1018" alt="Screenshot_20241217-003005_Instagram" src="https://github.com/user-attachments/assets/f70c7bcb-c818-4e11-8516-5edd84608daf" /></td>
+		<td><img width="720" height="1030" alt="Screenshot_20241217-002958_Instagram" src="https://github.com/user-attachments/assets/3026fb71-fd0e-402a-8a5f-b545d9158ccd" /></td>
+		<td><img width="720" height="1017" alt="Screenshot_20241217-002951_Instagram" src="https://github.com/user-attachments/assets/257febe9-619b-49bb-8039-6c47e878a618" /></td>
+		<td><img width="720" height="1041" alt="Screenshot_20241217-002941_Instagram" src="https://github.com/user-attachments/assets/cffd9645-a528-4e9a-b245-a9d21dac9dbf" /></td>
+	</tr>
+</table>
 
-<img width="720" height="899" alt="FB_IMG_1731256217765" src="https://github.com/user-attachments/assets/7f1bfd5e-7a4e-4304-9881-059b333d376c" />
-
-<img width="720" height="899" alt="FB_IMG_1731256215582" src="https://github.com/user-attachments/assets/2117bb0e-5c04-4b8b-9c36-f70a9b7c7aea" />
-
-<img width="720" height="899" alt="FB_IMG_1731256213370" src="https://github.com/user-attachments/assets/646070a6-6692-44eb-a3b2-c58298f8f556" />
-
-<img width="720" height="899" alt="FB_IMG_1731256210570" src="https://github.com/user-attachments/assets/b228a29e-0fd9-43bd-9673-aca3abcc1dcc" />
-
-<img width="720" height="900" alt="b3ad036f-0174-4def-afce-08a5d3ddf981" src="https://github.com/user-attachments/assets/c8dd6519-f2a5-4c6c-b8a3-ce804bc513bc" />
-
-<img width="720" height="1026" alt="Screenshot_20241217-002939_Instagram" src="https://github.com/user-attachments/assets/3df4a702-dd2e-47f3-b1a4-8edc439eb579" />
-<img width="720" height="922" alt="Screenshot_20241217-002934_Instagram" src="https://github.com/user-attachments/assets/43e88fe1-fb40-4d5a-a7da-ba51d6358087" />
-<img width="720" height="919" alt="Screenshot_20241215-213929_Instagram" src="https://github.com/user-attachments/assets/f1a3039a-99fc-4236-bb65-abfb5afd8675" />
-<img width="720" height="912" alt="Screenshot_20241215-213925_Instagram" src="https://github.com/user-attachments/assets/ae06a269-ad21-419b-b48f-0b606fff73e8" />
-<img width="720" height="1029" alt="Screenshot_20241217-003014_Instagram" src="https://github.com/user-attachments/assets/c8b57d1e-4a87-4e47-a010-3987f832cb9d" />
-<img width="720" height="1020" alt="Screenshot_20241217-003009_Instagram" src="https://github.com/user-attachments/assets/b1b58660-31cb-4ce2-8888-af35e0969368" />
-<img width="720" height="1018" alt="Screenshot_20241217-003005_Instagram" src="https://github.com/user-attachments/assets/f70c7bcb-c818-4e11-8516-5edd84608daf" />
-<img width="720" height="1030" alt="Screenshot_20241217-002958_Instagram" src="https://github.com/user-attachments/assets/3026fb71-fd0e-402a-8a5f-b545d9158ccd" />
-<img width="720" height="1017" alt="Screenshot_20241217-002951_Instagram" src="https://github.com/user-attachments/assets/257febe9-619b-49bb-8039-6c47e878a618" />
-<img width="720" height="1041" alt="Screenshot_20241217-002941_Instagram" src="https://github.com/user-attachments/assets/cffd9645-a528-4e9a-b245-a9d21dac9dbf" />
-
+<img width="2688" height="1734" alt="5cf0e1cee5cc996306a6a571_1" src="https://github.com/user-attachments/assets/f77826d8-42ba-4ff6-88f0-4d224e376d7e" />
 
 # 🟧 [CGI] Modelagem 3D
 
