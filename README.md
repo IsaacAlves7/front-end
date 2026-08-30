@@ -1099,6 +1099,20 @@ Medium:
 
 <img width="2688" height="1734" alt="5cf0e1cee5cc996306a6a571_1" src="https://github.com/user-attachments/assets/f77826d8-42ba-4ff6-88f0-4d224e376d7e" />
 
+<img width="720" height="1000" alt="Screenshot_20210814-163414_Instagram" src="https://github.com/user-attachments/assets/003a911b-6241-478c-aaf4-ade65b02cd37" />
+
+<img width="720" height="964" alt="Screenshot_20211204-174503_Instagram" src="https://github.com/user-attachments/assets/a2ca3b94-c9dc-45ac-bbdc-e1acf1e56d4b" />
+
+<img width="720" height="992" alt="Screenshot_20211225-144205_Instagram" src="https://github.com/user-attachments/assets/e435ed91-5219-4420-901f-e296cf02fa8c" />
+<img width="720" height="995" alt="Screenshot_20211225-144228_Instagram" src="https://github.com/user-attachments/assets/637ea4ef-8acb-41f7-b9a2-fe9ae0c619cf" />
+<img width="720" height="995" alt="Screenshot_20211225-144223_Instagram" src="https://github.com/user-attachments/assets/b8c6cc80-5f5f-4c63-88d1-34c3af648af6" />
+<img width="720" height="989" alt="Screenshot_20211225-144218_Instagram" src="https://github.com/user-attachments/assets/27907f1b-93a7-4335-8c5f-89ddcc8d7def" />
+<img width="720" height="995" alt="Screenshot_20211225-144212_Instagram" src="https://github.com/user-attachments/assets/adfb2386-c3d4-472f-aec7-1a663ac91841" />
+<img width="720" height="992" alt="Screenshot_20211225-144210_Instagram" src="https://github.com/user-attachments/assets/2c7beac1-ce71-453c-9fe1-5ca6efcc2a78" />
+<img width="720" height="986" alt="Screenshot_20211225-144207_Instagram" src="https://github.com/user-attachments/assets/0ddc6aec-9fb2-4c54-a5ea-93d390f65154" />
+
+<img width="720" height="1249" alt="Screenshot_20210808-221722_Instagram" src="https://github.com/user-attachments/assets/5d8feafd-819f-47bf-bf7b-ca010e06c577" /><img width="720" height="991" alt="Screenshot_20211225-144232_Instagram" src="https://github.com/user-attachments/assets/cf901b64-2905-4302-a930-ac0f96a4cbe2" />
+
 # 🟧 [CGI] Modelagem 3D
 
 ![490730912_663808969931193_3569257131390077406_n](https://github.com/user-attachments/assets/a2c75589-e182-4cd2-a7d2-c20e66817a27)
