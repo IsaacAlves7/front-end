@@ -1117,6 +1117,7 @@ Medium:
 <img width="736" height="920" alt="758422977_1049603084118573_6335246314771358311_n" src="https://github.com/user-attachments/assets/3134d9cc-0e04-4fee-bf1b-274f507be353" />
 <img width="736" height="920" alt="757480255_2081599889179778_7429278576013349335_n" src="https://github.com/user-attachments/assets/6826ead6-4caf-491e-a03f-7e799e3d0a23" />
 
+<img width="720" height="1106" alt="Screenshot_20240627-155233_Instagram" src="https://github.com/user-attachments/assets/93900b5c-c263-403b-8cad-20ca6cc59f4b" />
 
 # 🟧 [CGI] Modelagem 3D
 
