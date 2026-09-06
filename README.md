@@ -224,6 +224,8 @@ Até a versão 4 do HTML as divs eram as principais semânticas de estruturament
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105738607-f720b580-5f15-11eb-9440-76725a31f908.jpg)
 
+<img width="720" height="1138" alt="Screenshot_20240218-081721_Instagram" src="https://github.com/user-attachments/assets/d539841c-538f-432a-867f-1717e79930b5" />
+
 ## [HTML5] TAGs essenciais
 É necessário entender o que é **TAG** (linguagens de marcação), o “comando” do HTML. TAGs são estruturas de linguagem de marcação contendo instruções, tendo uma marca de início e outra de fim para que o navegador possa renderizar uma página. O elemento que compõe a estrutura do documento HTML5 é iniciado com o símbolo menor ( `<` ) e terminado com o símbolo maior ( `>` ), como por exemplo: `<meta>`, `<h1>`, `<img>` etc. 
 
