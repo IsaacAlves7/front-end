@@ -1550,6 +1550,10 @@ Os elementos `<a>`, `<input>` e `<button>` são todos usados para criar botões 
 
 Em resumo, se você está criando um botão para navegação, use `<a>`. Se está criando um botão para enviar dados de um formulário, use `<input type="submit">` ou `<button type="submit">`. Se está criando um botão para executar uma ação específica na página (como mostrar ou ocultar conteúdo), use `<button type="button">`.
 
+<img width="720" height="907" alt="Screenshot_20240203-125314_Instagram" src="https://github.com/user-attachments/assets/3bf9284c-b926-44b2-afd3-f2341aa691e1" />
+
+<img width="720" height="1020" alt="Screenshot_20240203-125303_Instagram" src="https://github.com/user-attachments/assets/0a65036a-230f-4b24-8cfb-1f0801622fe3" />
+
 # 🖼️ [Front] Foreground e Background
 O CSS permite alterar as cores de primeiro plano (<em>foreground</em>) e plano de fundo (<em>background</em>) dos elementos. O W3C recomenda que a regra background seja utilizado no elemento <em>body</em>.
 
