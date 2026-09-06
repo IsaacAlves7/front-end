@@ -1013,6 +1013,8 @@ No processo de desenvolvimento, o UX Designer costuma iniciar com pesquisas com 
 
 UI/UX Design, portanto, vai além da estética: é um campo que busca alinhar beleza visual com lógica funcional, entregando produtos digitais que não apenas funcionem bem, mas que também encantem, comuniquem com clareza e respeitem o tempo e o esforço dos usuários.
 
+<img width="720" height="975" alt="Screenshot_20221221-223627_Instagram" src="https://github.com/user-attachments/assets/9605fe37-c81c-45b0-bc20-bbfa462b4252" />
+
 A **Usabilidade** e **acessibilidade** são aspectos intimamente relacionados na criação de qualquer interface visual que deva funcionar para todas as pessoas e que deve ser considerado por todos os desenvolvedores.
 
 A **usabilidade** significa projetar produtos para serem eficazes, eficientes e satisfatórios. Isso pode incluir aspectos gerais que afetam a todos e não afetam desproporcionalmente as pessoas com deficiência.
