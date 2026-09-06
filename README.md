@@ -1624,7 +1624,7 @@ Gradientes são muito usado para mesclar duas ou mais cores no background, o que
 
 Linear-gradient
 
-# 🔡 [Front] Textos
+# 🔡 [Front] Fontes e Textos
 Uma das novidades do CSS 3 é o uso de fontes da própria internet, podemos agora usar fontes livres que são disponíveis na internet, sem que tenha a necessidade de estar instalada na máquina do usuário.
 
 O site do Google disponibiliza uma quantidade grande de fontes livres. No endereço https://fonts.google.com/ encontramos as fontes e a forma de como colocar no nosso código.
@@ -1754,6 +1754,13 @@ ul {
   list-style-type: url('rocket.png');
 }
 ```
+
+<img width="720" height="818" alt="Screenshot_20211230-001941_Instagram" src="https://github.com/user-attachments/assets/5ed268c9-db7d-416a-950e-0c97541128e0" />
+<img width="720" height="900" alt="FB_IMG_1680458239035" src="https://github.com/user-attachments/assets/7116613a-101a-45c6-8072-06c9aa040e0f" />
+<img width="720" height="900" alt="FB_IMG_1680458235791" src="https://github.com/user-attachments/assets/11ebe200-2a91-4452-9685-102acfdd6f2e" />
+<img width="720" height="900" alt="FB_IMG_1680458233567" src="https://github.com/user-attachments/assets/f0537a8e-eb7d-45b0-af48-50253baf4a7a" />
+<img width="720" height="900" alt="FB_IMG_1680458231302" src="https://github.com/user-attachments/assets/37218e87-cb74-4a87-a0df-ee8d9eee070f" />
+
 
 # ↕️ [Front] Positions and dimensions
 <p>As propriedades CSS <strong>position</strong> e <strong>float</strong> determinam como um box será posicionado no modelo visual de formatação de um documento. Esse box pode conter imagens, textos, listas, entre outros e, com isso, podemos montar layouts com a mesma qualidade de um programa gráfico feito para este fim.
