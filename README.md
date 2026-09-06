@@ -174,6 +174,8 @@ O **HTML Semântico** serve para organizar e estruturar os elementos do document
 
 Até a versão 4 do HTML as divs eram as principais semânticas de estruturamento da página, com a chegada do HTML5 surgiram novas TAGs com funções das divs que eram criadas para estruturar os elementos contidos no documento, o que facilitou muito no estruturamento da página. Nota-se que dá pra comparar a estrutura de uma página web com  layout de uma **folha de jornal**, pois ambas contém cabeçalhos, rodapés, artigos e seções.
 
+<img width="720" height="704" alt="Screenshot_20240227-170835_Instagram" src="https://github.com/user-attachments/assets/58b0b771-2090-439d-9563-9ec9b4dda31e" />
+
 - O elemento `<section>` (seção) representa uma seção genérica dentro de um documento. Esse elemento pode conter um agrupamento de textos com vários capítulos, seções numeradas etc. No exemplo a seguir, é apresentado um artigo contendo um assunto principal e, dentro desse assunto, várias seções com assuntos distintos.
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/105736626-c63f8100-5f13-11eb-81b8-f6c3e341ea4b.jpg)
