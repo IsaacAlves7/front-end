@@ -1121,6 +1121,13 @@ Medium:
 
 <img width="720" height="1106" alt="Screenshot_20240627-155233_Instagram" src="https://github.com/user-attachments/assets/93900b5c-c263-403b-8cad-20ca6cc59f4b" />
 
+<img width="720" height="617" alt="Screenshot_20211122-085213_Instagram" src="https://github.com/user-attachments/assets/e27f65c6-2b77-4363-9608-72721807aadf" />
+<img width="720" height="818" alt="Screenshot_20220903-013521_Instagram" src="https://github.com/user-attachments/assets/7787c8e9-1797-47a9-aebc-a6e030132835" />
+<img width="1274" height="720" alt="1657715703270" src="https://github.com/user-attachments/assets/8bb1e3dd-1649-485d-8a16-fb0cc432a85d" />
+<img width="1400" height="786" alt="1_IF2tY5hbOZm0GeWdPNofLA" src="https://github.com/user-attachments/assets/ae1140c9-4fdd-4531-9680-42ca45cb15c8" />
+<img width="720" height="951" alt="Screenshot_20230325-172013_Instagram" src="https://github.com/user-attachments/assets/f11a8047-8992-4718-8343-f1a6efba14ef" />
+
+
 # 🟧 [CGI] Modelagem 3D
 
 ![490730912_663808969931193_3569257131390077406_n](https://github.com/user-attachments/assets/a2c75589-e182-4cd2-a7d2-c20e66817a27)
