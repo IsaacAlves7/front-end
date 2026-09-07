@@ -626,8 +626,8 @@ Tipos de Pseudo-Classes:
 
 <table>
   <tr>
-    <td>**Pseudo-classe**</td>
-    <td>**Definição**</td>
+    <td>Pseudo-classe</td>
+    <td>Definição</td>
   </tr>
   <tr>
     <td><code>:hover</code></td>
@@ -762,6 +762,8 @@ Tipos de Pseudo-Classes:
     <td>Altera todos os elementos `<input>` com um valor válido.</td>
   </tr>
 </table>
+
+<img width="720" height="1008" alt="Screenshot_20230424-175801_Instagram" src="https://github.com/user-attachments/assets/8140b98c-561c-4c5b-9811-dae83a51b473" />
 
 Aplicações:
 ![img11](https://user-images.githubusercontent.com/61624336/112897063-8a609d80-90b5-11eb-84a6-977c76e21cf2.jpg)
