@@ -2156,6 +2156,8 @@ No próximo exemplo, podemos definir a resolução de vídeo que queremos modifi
 
 <img width="720" height="888" alt="Screenshot_20240209-174958_Instagram" src="https://github.com/user-attachments/assets/89fd804b-9370-4e6c-b843-7a85e2bfd94e" />
 
+<img width="720" height="1003" alt="Screenshot_20221116-100121_Instagram" src="https://github.com/user-attachments/assets/e87075d5-a3ea-4ace-b4ba-15bb11af25f6" />
+
 ## [Front] Layout multicolunas
 Sua principal vantagem é a flexibilidade, pois independe de dispositivo. Esta especificação permite que o conteúdo da página se adeque de uma coluna para outra e o número de colunas pode variar dependendo do tamanho da janela.
 
