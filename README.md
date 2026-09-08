@@ -996,11 +996,16 @@ O **desenvolvimento de um website** demanda um cuidado especial na concepção d
 
 Como regra geral, quanto mais simples o layout de uma página, melhor (layout clean e minimalista). Um site deve ser projetado para chamar a atenção dos usuários para as partes mais importantes. Além disso, o número de opções e os elementos de navegação devem ser sempre baseados nas preferências do público-alvo.
 
+<img width="720" height="1450" alt="eb51adeb-a4a4-4e48-884e-bab8463c3677" src="https://github.com/user-attachments/assets/f85f6f85-3ff1-4676-abf0-10a7219c9644" />
+
 > Um dos alicerces para a construção de um bom website está em sua navegação. O objetivo principal de qualquer um que visite uma página está em encontrar o mais rápido possível as informações que procura, utilizando o menor número de cliques possíveis. O design de interface de um site deve tornar esse processo mais fácil e ajudar os visitantes a navegar sem que fiquem perdidos em uma imensidão de informações. Quanto mais amigável for o site, maior será a probabilidade de as pessoas se envolverem com o seu conteúdo . Uma boa interface tem sempre como objetivo primário fornecer a melhor experiência para o usuário, o que, em outras palavras, se traduz em mais acessos e em um maior tempo de navegação.
 
 <img width="720" height="447" alt="Screenshot_20211230-083442_Instagram" src="https://github.com/user-attachments/assets/0b9899af-e007-4f28-91f9-fb34fdb92f90" />
 
 Um site sempre deve ser projetado tendo em mente o seu público-alvo e deve garantir uma boa experiência de usuário. A construção da interface de um site é um assunto muito importante e que não deve ser deixado em segundo plano. Um website bem projetado ajuda a formar uma boa impressão sobre seus clientes em potencial, como também é capaz de agregar valor a um produto ali exposto.
+
+<img width="720" height="791" alt="Screenshot_20220104-100958_Instagram" src="https://github.com/user-attachments/assets/6b61a098-0a5f-4896-95e7-e01b91c8cc00" />
+<img width="720" height="802" alt="Screenshot_20220104-100956_Instagram" src="https://github.com/user-attachments/assets/ac96adad-dcad-427d-8f61-da4415327657" />
 
 ## [CGI] UI/UX Design
 <a href=""><img src="https://img.shields.io/badge/Moqups-prototype-4285F4?style=flat&logo=Moqups&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Canva-prototype-4285F4?style=flat&logo=Canva&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Figma-prototype-tomato?style=flat&logo=Figma&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Mural-template-FF4B4B?style=flat&logo=Mural&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/GitHub-boilerplate-gold?style=flat&logo=GitHub&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/ChatGPT-generator-34A853?style=flat&logo=OpenAI&logoColor=white"></a>
