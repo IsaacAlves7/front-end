@@ -2152,19 +2152,18 @@ No próximo exemplo, podemos definir a resolução de vídeo que queremos modifi
 
 `only` Define o tipo de saída do arquivo.
 
-<img width="720" height="808" alt="Screenshot_20230605-085414_Instagram" src="https://github.com/user-attachments/assets/4cca601b-903e-4a82-a743-91500ee84aef" />
-
-<img width="720" height="1070" alt="Screenshot_20240519-151401_Instagram" src="https://github.com/user-attachments/assets/96f89f68-df5f-48f3-8033-64198424974f" />
-
-<img width="720" height="888" alt="Screenshot_20240209-174958_Instagram" src="https://github.com/user-attachments/assets/89fd804b-9370-4e6c-b843-7a85e2bfd94e" />
-
-<img width="720" height="1003" alt="Screenshot_20221116-100121_Instagram" src="https://github.com/user-attachments/assets/e87075d5-a3ea-4ace-b4ba-15bb11af25f6" />
-
-<img width="720" height="893" alt="Screenshot_20221013-135433_Instagram" src="https://github.com/user-attachments/assets/5bbc5d44-52f9-4d4c-aae7-d4f7d128a360" />
-
-<img width="720" height="900" alt="Screenshot_20221013-135444_Instagram" src="https://github.com/user-attachments/assets/b918bae1-8ec9-43a9-81fa-e95386568658" />
-
-<img width="720" height="894" alt="Screenshot_20221013-135448_Instagram" src="https://github.com/user-attachments/assets/f840ab50-583a-4b14-a0a7-80586257cc9d" />
+<table>
+	<tr>
+		<td><img width="720" height="808" alt="Screenshot_20230605-085414_Instagram" src="https://github.com/user-attachments/assets/4cca601b-903e-4a82-a743-91500ee84aef" /></td>
+		<td><img width="720" height="1070" alt="Screenshot_20240519-151401_Instagram" src="https://github.com/user-attachments/assets/96f89f68-df5f-48f3-8033-64198424974f" /></td>
+		<td><img width="720" height="888" alt="Screenshot_20240209-174958_Instagram" src="https://github.com/user-attachments/assets/89fd804b-9370-4e6c-b843-7a85e2bfd94e" /></td>
+		<td><img width="720" height="1003" alt="Screenshot_20221116-100121_Instagram" src="https://github.com/user-attachments/assets/e87075d5-a3ea-4ace-b4ba-15bb11af25f6" /></td>
+		<td><img width="720" height="893" alt="Screenshot_20221013-135433_Instagram" src="https://github.com/user-attachments/assets/5bbc5d44-52f9-4d4c-aae7-d4f7d128a360" /></td>
+		<td><img width="720" height="900" alt="Screenshot_20221013-135444_Instagram" src="https://github.com/user-attachments/assets/b918bae1-8ec9-43a9-81fa-e95386568658" /></td>
+		<td><img width="720" height="894" alt="Screenshot_20221013-135448_Instagram" src="https://github.com/user-attachments/assets/f840ab50-583a-4b14-a0a7-80586257cc9d" /></td>
+		<td><img width="720" height="893" alt="Screenshot_20221111-023239_Instagram" src="https://github.com/user-attachments/assets/d16b866e-6e4f-43cc-b9cd-df19aaecff59" /></td>
+	</tr>
+</table>
 
 ## [Front] Layout multicolunas
 Sua principal vantagem é a flexibilidade, pois independe de dispositivo. Esta especificação permite que o conteúdo da página se adeque de uma coluna para outra e o número de colunas pode variar dependendo do tamanho da janela.
