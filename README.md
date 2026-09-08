@@ -998,6 +998,8 @@ Como regra geral, quanto mais simples o layout de uma página, melhor (layout cl
 
 > Um dos alicerces para a construção de um bom website está em sua navegação. O objetivo principal de qualquer um que visite uma página está em encontrar o mais rápido possível as informações que procura, utilizando o menor número de cliques possíveis. O design de interface de um site deve tornar esse processo mais fácil e ajudar os visitantes a navegar sem que fiquem perdidos em uma imensidão de informações. Quanto mais amigável for o site, maior será a probabilidade de as pessoas se envolverem com o seu conteúdo . Uma boa interface tem sempre como objetivo primário fornecer a melhor experiência para o usuário, o que, em outras palavras, se traduz em mais acessos e em um maior tempo de navegação.
 
+<img width="720" height="447" alt="Screenshot_20211230-083442_Instagram" src="https://github.com/user-attachments/assets/0b9899af-e007-4f28-91f9-fb34fdb92f90" />
+
 Um site sempre deve ser projetado tendo em mente o seu público-alvo e deve garantir uma boa experiência de usuário. A construção da interface de um site é um assunto muito importante e que não deve ser deixado em segundo plano. Um website bem projetado ajuda a formar uma boa impressão sobre seus clientes em potencial, como também é capaz de agregar valor a um produto ali exposto.
 
 ## [CGI] UI/UX Design
