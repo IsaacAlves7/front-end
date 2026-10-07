@@ -2165,6 +2165,13 @@ No próximo exemplo, podemos definir a resolução de vídeo que queremos modifi
 	</tr>
 </table>
 
+<img width="720" height="900" alt="FB_IMG_1637721429745" src="https://github.com/user-attachments/assets/c7859fb1-1f5c-42d6-804f-d1927fd72cbc" />
+
+<img width="720" height="900" alt="FB_IMG_1637721439877" src="https://github.com/user-attachments/assets/195959af-4327-4e38-b178-3a10901aee49" />
+<img width="720" height="900" alt="FB_IMG_1637721437476" src="https://github.com/user-attachments/assets/bc55a50f-79f3-48b3-b582-bf2c68319042" />
+<img width="720" height="900" alt="FB_IMG_1637721435027" src="https://github.com/user-attachments/assets/28d59174-cc2e-4f9c-a3fd-1cb6d1effeb3" />
+<img width="720" height="900" alt="FB_IMG_1637721432515" src="https://github.com/user-attachments/assets/96d18303-3e31-4cdd-aa77-794d159b4b21" />
+
 ## [Front] Layout multicolunas
 Sua principal vantagem é a flexibilidade, pois independe de dispositivo. Esta especificação permite que o conteúdo da página se adeque de uma coluna para outra e o número de colunas pode variar dependendo do tamanho da janela.
 
